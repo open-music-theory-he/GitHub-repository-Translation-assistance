@@ -114,6 +114,12 @@
       "file": "Intervals.md",
       "source_sentence": "minor (m)",
       "translated_sentence": "מינור (m)"
+    },
+    {
+      "id": 20,
+      "file": "Intervals.md",
+      "source_sentence": "diminished (d)",
+      "translated_sentence": "מוקטן (diminished) (d)"
     }
   ]
 }

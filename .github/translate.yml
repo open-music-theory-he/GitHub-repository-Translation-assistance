@@ -1,0 +1,51 @@
+name: "2 - Translate sentences (Gemini)"
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # every 2 hours
+  workflow_dispatch: {} # allow manual runs too, e.g. for testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-sentences
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this (target/translation) repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run translation batch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional overrides - uncomment / edit if you want different defaults:
+          # GEMINI_MODEL: gemini-2.5-flash
+          # TIME_BUDGET_SECONDS: "1800"
+          # SLEEP_BETWEEN_SECONDS: "4"
+          # RETRY_DELAYS_SECONDS: "60,300"
+        run: python scripts/translate_sentences.py
+
+      - name: Commit and push data/translations.json
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/translations.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Translate batch of sentences"
+            git push
+          fi

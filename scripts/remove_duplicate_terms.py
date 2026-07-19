@@ -25,6 +25,22 @@ For every eligible expression, every occurrence EXCEPT THE FIRST one in
 that file is deleted, together with the single space that precedes it (if
 there is one).
 
+Additionally (small extra pass, unrelated to the parenthesis logic above):
+every occurrence of the term "מייג'ור" in translated_sentence is normalized
+to "מז'ור" (handles a few common apostrophe/geresh variants). This is
+logged per file too.
+
+Also: stray English solfège syllables (Do, Re, Mi, Fa, Sol, La, Si, Ti) left
+untranslated inside translated_sentence are converted to their Hebrew
+equivalent (Do -> דו, Sol -> סול, etc.), but ONLY when:
+    - it's the whole word, not part of a longer word (e.g. never touches
+      "Domain"), and
+    - the nearest adjacent word (skipping over spaces/punctuation in either
+      direction) is not already that same Hebrew equivalent - i.e. if the
+      Hebrew translation is already sitting right next to it as a gloss
+      (e.g. "Do (דו)"), it is left alone rather than duplicated.
+This is also logged per file.
+
 Output (this script never modifies the input file or the source repo):
     - data/translations_deduped.json : a full COPY of the input data, with
       the above deletions applied to translated_sentence values.
@@ -43,6 +59,30 @@ HEBREW_RE = re.compile(r"[\u0590-\u05FF]")
 LATIN_LETTER_RE = re.compile(r"[A-Za-z]")
 URL_CONTENT_RE = re.compile(r"^\s*(https?://|www\.)", re.IGNORECASE)
 
+# Matches "מייג'ור" with any of the common apostrophe/geresh characters
+# people (and LLMs) use: straight apostrophe ', Hebrew geresh ׳, curly ’.
+MAJOR_TERM_RE = re.compile(r"מייג['\u05F3\u2019]ור")
+MAJOR_TERM_REPLACEMENT = "מז'ור"
+
+# Solfège syllables: exact capitalization as used in the translation prompt's
+# own examples (Do -> דו, Sol -> סול). Matched as a whole word only (lookarounds
+# reject a preceding/following Latin letter, so "Domain" is never touched).
+SOLFEGE_MAP = {
+    "Do": "דו",
+    "Re": "רה",
+    "Mi": "מי",
+    "Fa": "פה",
+    "Sol": "סול",
+    "So": "סול",
+    "La": "לה",
+    "Si": "סי",
+    "Ti": "סי",
+}
+SOLFEGE_RE = re.compile(
+    r"(?<![A-Za-z])(?:" + "|".join(re.escape(k) for k in SOLFEGE_MAP) + r")(?![A-Za-z])"
+)
+WORD_CHARS_RE = re.compile(r"[A-Za-z\u0590-\u05FF]+")
+
 
 def is_eligible(content: str, full_sentence: str, match_start: int) -> bool:
     """Check conditions (c), (d), (e) for a parenthetical match's content.
@@ -59,6 +99,47 @@ def is_eligible(content: str, full_sentence: str, match_start: int) -> bool:
     if match_start > 0 and full_sentence[match_start - 1] == "]":
         return False
     return True
+
+
+def get_adjacent_word(text: str, pos: int, forward: bool):
+    """Nearest word (Hebrew or Latin letters) before (forward=False) or
+    after (forward=True) position `pos`, skipping over any amount of
+    whitespace/punctuation in between. Returns None if there is none."""
+    if forward:
+        match = WORD_CHARS_RE.search(text, pos)
+        return match.group(0) if match else None
+    else:
+        matches = list(WORD_CHARS_RE.finditer(text, 0, pos))
+        return matches[-1].group(0) if matches else None
+
+
+def convert_solfege_terms(text: str):
+    """Convert whole-word English solfège syllables to Hebrew, unless the
+    Hebrew equivalent is already sitting right next to it (before or after,
+    ignoring punctuation/spaces) as a gloss."""
+    if not text:
+        return text, 0
+
+    result_parts = []
+    last_end = 0
+    count = 0
+    for match in SOLFEGE_RE.finditer(text):
+        key = match.group(0)
+        translation = SOLFEGE_MAP[key]
+        start, end = match.span()
+
+        preceding = get_adjacent_word(text, start, forward=False)
+        following = get_adjacent_word(text, end, forward=True)
+        if preceding == translation or following == translation:
+            continue  # Hebrew gloss already present - leave the English as-is
+
+        result_parts.append(text[last_end:start])
+        result_parts.append(translation)
+        last_end = end
+        count += 1
+
+    result_parts.append(text[last_end:])
+    return "".join(result_parts), count
 
 
 def compute_file_counts(units: list) -> dict:
@@ -124,6 +205,19 @@ def process(data: dict):
     log_lines = []
     for file_path in sorted(by_file.keys()):
         units = sorted(by_file[file_path], key=lambda u: u["id"])
+
+        # Small extra pass: normalize מייג'ור -> מז'ור (independent of the
+        # parenthesis de-duplication below, and safe to run first).
+        major_term_count = 0
+        solfege_count = 0
+        for unit in units:
+            text = unit.get("translated_sentence") or ""
+            text, n = MAJOR_TERM_RE.subn(MAJOR_TERM_REPLACEMENT, text)
+            major_term_count += n
+            text, n = convert_solfege_terms(text)
+            solfege_count += n
+            unit["translated_sentence"] = text
+
         qualifying_exprs = compute_file_counts(units)
 
         seen = set()
@@ -142,6 +236,15 @@ def process(data: dict):
                 log_lines.append(f" Deleted {deletions[expr]} times in this file")
         else:
             log_lines.append("Nothing deleted in this file")
+
+        if major_term_count:
+            log_lines.append(
+                f' Replaced "מייג\'ור" with "מז\'ור" {major_term_count} times in this file'
+            )
+        if solfege_count:
+            log_lines.append(
+                f" Converted {solfege_count} solfège term(s) (Do/Re/Mi/Fa/Sol/So/La/Si/Ti) to Hebrew in this file"
+            )
 
     return data, log_lines
 

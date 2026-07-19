@@ -65,7 +65,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 #   gemini-3.1-flash-lite -> cheapest current-generation option
 #   gemini-3.5-flash      -> default here, good quality/cost balance
 #   gemini-3.1-pro-preview / gemini-3-pro-preview -> highest quality, pricier
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 GEMINI_ENDPOINT = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 )

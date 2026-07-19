@@ -11,12 +11,18 @@
 .github/workflows/
   extract-sentences.yml   # סקריפט 1 - הפעלה חד-פעמית ידנית
   translate.yml           # סקריפט 2 - רץ אוטומטית כל שעתיים
+  dedup-terms.yml         # סקריפט 3 - הפעלה חד-פעמית ידנית
+  push-translations.yml   # סקריפט 4 - הפעלה חד-פעמית ידנית (פותח PR)
 scripts/
   extract_sentences.py
   translate_sentences.py
+  remove_duplicate_terms.py
+  push_translations.py
 data/
-  sentences.json          # פלט של סקריפט 1 (נוצר בהרצה הראשונה)
-  translations.json       # פלט מצטבר של סקריפט 2
+  sentences.json              # פלט של סקריפט 1
+  translations.json           # פלט מצטבר של סקריפט 2
+  translations_deduped.json   # פלט של סקריפט 3
+  dedup_log.txt               # יומן של סקריפט 3
 requirements.txt
 ```
 
@@ -55,6 +61,55 @@ requirements.txt
 כל ההתנהגות ניתנת לכיוונון דרך משתני הסביבה שמוגדרים (בהערה) בתוך
 `translate.yml`: `GEMINI_MODEL`, `TIME_BUDGET_SECONDS`, `SLEEP_BETWEEN_SECONDS`,
 `RETRY_DELAYS_SECONDS`.
+
+## שלב 3: הסרת מונחים כפולים באנגלית
+
+הפעל ידנית את workflow **"3 - Remove duplicate English terms"** אחרי
+שסקריפט 2 סיים (`completed: true`). הוא קורא את `data/translations.json`,
+ולכל קובץ מקור בנפרד מוחק מופעים חוזרים של אותו ביטוי אנגלי בסוגריים
+עגולים (למשל `(Sub-Dominant)`) - ומשאיר רק את המופע הראשון בכל קובץ.
+
+תנאים למחיקה (כולם חייבים להתקיים):
+- סוגריים עגולים בלבד.
+- המופע חוזר לפחות פעמיים באותו קובץ.
+- אין אותיות בעברית בתוך הסוגריים.
+- לפחות 4 אותיות אנגליות בתוך הסוגריים (רווחים/פיסוק לא נספרים).
+- לא קישור (גם אם התוכן עצמו נראה כמו URL, וגם אם זה חלק מקישור Markdown
+  `[טקסט](url)`).
+
+פלט (אף פעם לא דורס את `translations.json` המקורי):
+- `data/translations_deduped.json` - עותק מלא עם התיקונים.
+- `data/dedup_log.txt` - יומן קריא לבני אדם של כל מה שנמחק, לפי קובץ.
+
+
+
+## שלב 4: דחיפת התרגום למאגר המקור (דרך Pull Request)
+
+הפעל ידנית את workflow **"4 - Push translations to source repo (via Pull
+Request)"** אחרי שסקריפט 3 סיים. הוא קורא את `data/translations_deduped.json`,
+ולכל קובץ מקור עובר על יחידות התרגום לפי סדר ה-id: מחפש את `source_sentence`
+בטקסט הקובץ (העותק המקומי שנמשך מהמאגר), ומחליף רק את המופע **הראשון**
+שנמצא ב-`translated_sentence`, וממשיך ליחידה הבאה.
+
+**חשוב: הסקריפט הזה לעולם לא דוחף ישירות ל-branch הראשי של מאגר המקור.**
+בהתאם למה שסיכמנו, ה-workflow פותח **Pull Request** במאגר המקור עם כל
+ההחלפות (על גבי branch בשם `hebrew-translation-import`), כדי שתוכל לעבור על
+השינויים ולאשר אותם לפני שהם נכנסים בפועל. אם משפט מקור לא נמצא בקובץ
+(למשל כי הקובץ השתנה מאז שסקריפט 1 רץ), הוא מדלג עליו עם אזהרה ברורה בלוג -
+שווה לבדוק את זה לפני מיזוג ה-PR.
+
+### הגדרה נוספת הנדרשת לשלב הזה
+
+צריך secret נוסף בשם **`SOURCE_REPO_TOKEN`** (בנוסף ל-`GEMINI_API_KEY`
+הקיים) - Personal Access Token שיש לו הרשאות **כתיבה** למאגר המקור
+`open-music-theory-he/open-music-theory-he.github.io`:
+- אם זה fine-grained PAT: הרשאות `Contents: Read and write` ו-
+  `Pull requests: Read and write` על המאגר הזה בלבד.
+- אם זה classic PAT: scope `repo`.
+
+ה-secret הזה שונה מהטוקן ששלחת בהתחלה (שלא נעשה בו שימוש בכלל בפרויקט
+הזה) - יש ליצור טוקן חדש עם ההרשאות המתאימות ולהוסיף אותו כ-repository
+secret בשם `SOURCE_REPO_TOKEN` במאגר היעד (זה שבו נמצאים ה-workflows).
 
 ## בחירת מודל Gemini
 

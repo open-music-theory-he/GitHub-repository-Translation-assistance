@@ -30,6 +30,7 @@ jobs:
       - name: Run translation batch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONUNBUFFERED: "1"
           # Optional overrides - uncomment / edit if you want different defaults:
           # GEMINI_MODEL: gemini-2.5-flash
           # TIME_BUDGET_SECONDS: "1800"

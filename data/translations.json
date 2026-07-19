@@ -120,6 +120,30 @@
       "file": "Intervals.md",
       "source_sentence": "diminished (d)",
       "translated_sentence": "מוקטן (diminished) (d)"
+    },
+    {
+      "id": 21,
+      "file": "Intervals.md",
+      "source_sentence": "To obtain an interval's quality, find both the generic interval and the chromatic interval. Then consult the following table to find the specific interval.",
+      "translated_sentence": "כדי לקבל את איכות המרווח (interval's quality), מצאו הן את המרווח הגנרי (generic interval) והן את המרווח הכרומטי (chromatic interval). לאחר מכן, עיינו בטבלה הבאה כדי למצוא את המרווח הספציפי (specific interval)."
+    },
+    {
+      "id": 22,
+      "file": "Intervals.md",
+      "source_sentence": "[![Simple diatonic intervals.][intervalChart]][intervalChart]",
+      "translated_sentence": "[![מרווחים דיאטוניים פשוטים.][intervalChart]][intervalChart]"
+    },
+    {
+      "id": 23,
+      "file": "Intervals.md",
+      "source_sentence": "For example, C4–E4 is a generic third, and has a chromatic interval of i4. A third that encompasses four semitones is a *major third* (M3). Note that both generic interval and chromatic interval are necessary to find the specific interval, since there are multiple specific diatonic intervals for each generic interval and for each chromatic interval.",
+      "translated_sentence": "לדוגמה, C4–E4 הוא טרצה גנרית (generic third), ובעל מרווח כרומטי (chromatic interval) של i4. טרצה המקיפה ארבעה חצאי טונים (semitones) היא *טרצה גדולה (major third)* (M3). יש לשים לב שגם מרווח גנרי (generic interval) וגם מרווח כרומטי (chromatic interval) נחוצים כדי למצוא את המרווח הספציפי (specific interval), מכיוון שישנם מספר מרווחים דיאטוניים (diatonic intervals) ספציפיים עבור כל מרווח גנרי ועבור כל מרווח כרומטי."
+    },
+    {
+      "id": 24,
+      "file": "Intervals.md",
+      "source_sentence": "Note that some generic intervals can be augmented, perfect, or diminished, and other intervals can be augmented, major, minor, or diminished. There is no generic interval that can be both major/minor and perfect; if it can be major or minor, it cannot be perfect, and if it can be perfect, it cannot be major or minor. An augmented version of an interval is always one semitone wider than major or perfect; diminished is always one semitone smaller than minor or perfect.",
+      "translated_sentence": "יש לשים לב כי חלק מהמרווחים הגנריים (generic intervals) יכולים להיות מוגדלים (augmented), זכים (perfect) או מוקטנים (diminished), ומרווחים אחרים יכולים להיות מוגדלים, גדולים (major), קטנים (minor) או מוקטנים. אין אף מרווח גנרי שיכול להיות גם גדול/קטן (major/minor) וגם זך; אם הוא יכול להיות גדול או קטן, הוא אינו יכול להיות זך, ואם הוא יכול להיות זך, הוא אינו יכול להיות גדול או קטן. גרסה מוגדלת של מרווח היא תמיד רחבה בחצי טון (semitone) אחד יותר ממרווח גדול או זך; גרסה מוקטנת היא תמיד קטנה בחצי טון אחד ממרווח קטן או זך."
     }
   ]
 }

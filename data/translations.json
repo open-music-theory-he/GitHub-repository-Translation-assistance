@@ -174,6 +174,18 @@
       "file": "Intervals.md",
       "source_sentence": "Interval inversion #",
       "translated_sentence": "היפוך מרווחים (Interval inversion) #"
+    },
+    {
+      "id": 30,
+      "file": "Intervals.md",
+      "source_sentence": "In addition to C4–E4 and C4–E5, E4–C5 also shares a similar sound and musical function. In fact, any dyad that keeps the same two pitch classes but changes register will have a similar sound and function. However, the fact that E4–C5 has E as its lowest pitch instead of C means that it has a different generic interval: E4–C5 is a sixth, not a third. Because of that difference, it will also play a different musical function in some circumstances. However, there is no escaping the relationship.",
+      "translated_sentence": "בנוסף ל-C4–E4 ו-C4–E5, גם E4–C5 חולק צליל ותפקוד מוזיקלי דומים. למעשה, כל דיאדה (dyad) השומרת על אותן שתי מחלקות גובה (pitch classes) אך משנה רגיסטר (register) תהיה בעלת צליל ותפקוד דומים. עם זאת, העובדה של-E4–C5 יש את E כגובה הצליל הנמוך ביותר שלו במקום C פירושה שיש לו מרווח גנרי (generic interval) שונה: E4–C5 הוא סקסטה (sixth), לא טרצה (third). בשל הבדל זה, הוא ימלא גם תפקוד מוזיקלי שונה בנסיבות מסוימות. עם זאת, אין מנוס מהקשר ביניהם."
+    },
+    {
+      "id": 31,
+      "file": "Intervals.md",
+      "source_sentence": "Dyads formed by the same two pitch classes, but with different pitch classes on bottom and on top, are said to be *inversions* of each other, because the pitch classes are *inverted*. Likewise, the intervals marked off by those inverted dyads are said to be *inversions* of each other.",
+      "translated_sentence": "דיאדות (Dyads) הנוצרות על ידי אותן שתי מחלקות גובה (Pitch classes), אך עם מחלקות גובה שונות בתחתית ובראש, נאמר עליהן שהן *היפוכים (Inversions)* זו של זו, מכיוון שמחלקות הגובה הן *הפוכות (Inverted)*. באופן דומה, על המרווחים (Intervals) התחומים על ידי אותן דיאדות הפוכות (Inverted dyads) נאמר שהם *היפוכים (Inversions)* זה של זה."
     }
   ]
 }

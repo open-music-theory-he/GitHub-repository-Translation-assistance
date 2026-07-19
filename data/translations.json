@@ -156,6 +156,24 @@
       "file": "Intervals.md",
       "source_sentence": "Compound intervals #",
       "translated_sentence": "מרווחים מורכבים (Compound intervals) #"
+    },
+    {
+      "id": 27,
+      "file": "Intervals.md",
+      "source_sentence": "The intervals discussed above, from unison to octave, are called *simple intervals*. Any interval larger than an octave is considered a *compound interval*. Take the interval C4 to E5. The generic interval is a tenth. However, it functions the same as C4 to E4 in almost all musical circumstances. Thus, the tenth C4–E5 is also called a *compound third*. A compound interval takes the same quality as the corresponding simple interval. If C4–E4 is a major third, then C4–E5 is a major tenth.",
+      "translated_sentence": "המרווחים שנדונו לעיל, מפרימה (unison) ועד אוקטבה (octave), נקראים *מרווחים פשוטים (simple intervals)*. כל מרווח הגדול מאוקטבה נחשב ל*מרווח מורכב (compound interval)*. קחו למשל את המרווח מ-C4 ל-E5. המרווח הגנרי (generic interval) הוא דצימה (tenth). עם זאת, הוא מתפקד באותו אופן כמו המרווח מ-C4 ל-E4 כמעט בכל הנסיבות המוזיקליות. לכן, הדצימה C4–E5 נקראת גם *טרצה מורכבת (compound third)*. מרווח מורכב (compound interval) מקבל את אותה האיכות (quality) כמו המרווח הפשוט (simple interval) המתאים לו. אם C4–E4 הוא טרצה גדולה (major third), אז C4–E5 הוא דצימה גדולה (major tenth)."
+    },
+    {
+      "id": 28,
+      "file": "Intervals.md",
+      "source_sentence": "![Simple and compound major thirds.][compound]",
+      "translated_sentence": "![טרצות גדולות פשוטות ומורכבות (Simple and compound major thirds).][compound]"
+    },
+    {
+      "id": 29,
+      "file": "Intervals.md",
+      "source_sentence": "Interval inversion #",
+      "translated_sentence": "היפוך מרווחים (Interval inversion) #"
     }
   ]
 }

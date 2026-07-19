@@ -50,14 +50,18 @@ SENTENCES_FILE = Path(os.environ.get("SENTENCES_FILE", "data/sentences.json"))
 TRANSLATIONS_FILE = Path(os.environ.get("TRANSLATIONS_FILE", "data/translations.json"))
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-# gemini-2.5-flash: strong balance of translation quality (handles the
-# terminology/formatting rules below reliably) and cost, and is not on the
-# deprecation list (unlike gemini-2.0-flash, shut down June 2026). Override
-# with GEMINI_MODEL if you want to trade cost for quality:
-#   gemini-2.5-flash-lite -> cheapest, use if budget is the top priority
-#   gemini-2.5-flash      -> default, good quality/cost balance
-#   gemini-3.5-flash      -> highest quality/context, more expensive
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# gemini-3.5-flash: Google's current recommended default for new integrations
+# (GA, fast, cost-effective, multimodal). NOTE: the whole Gemini 2.5 family
+# (gemini-2.5-flash AND gemini-2.5-flash-lite) started hard-failing with a
+# "This model ... is no longer available" 404 for ALL callers starting
+# July 9 2026 - ahead of their officially announced Oct 16 2026 retirement
+# date (see https://discuss.ai.google.dev, multiple reports). Do not switch
+# back to any gemini-2.5-* model as a "fix" for this error. Override with
+# GEMINI_MODEL if you want a different one, e.g.:
+#   gemini-3.1-flash-lite -> cheapest current-generation option
+#   gemini-3.5-flash      -> default here, good quality/cost balance
+#   gemini-3.1-pro-preview / gemini-3-pro-preview -> highest quality, pricier
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 GEMINI_ENDPOINT = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 )
@@ -127,12 +131,14 @@ def call_gemini(sentence: str) -> str:
         hint = ""
         if response.status_code == 404:
             hint = (
-                " Hint: 404 from Gemini almost always means either (a) the model name "
-                f"'{GEMINI_MODEL}' is wrong/unavailable for this API key, or (b) the API key "
+                f" Hint: 404 from Gemini for model '{GEMINI_MODEL}' usually means either "
+                "(a) that specific model was retired/is temporarily unavailable (this hit the "
+                "whole gemini-2.5-flash / gemini-2.5-flash-lite family for all users starting "
+                "July 9 2026, well before their announced Oct 2026 retirement - if you're on a "
+                "gemini-2.5-* model, switch to a gemini-3.x model instead), or (b) the API key "
                 "itself is not a valid Generative Language API key (a real key from "
                 "https://aistudio.google.com/apikey normally starts with 'AIzaSy...'). "
-                "Verify both by running: "
-                "curl -H \"x-goog-api-key: $GEMINI_API_KEY\" "
+                "Verify by running: curl -H \"x-goog-api-key: $GEMINI_API_KEY\" "
                 "https://generativelanguage.googleapis.com/v1beta/models "
                 "and checking the key is listed there and generateContent is supported."
             )

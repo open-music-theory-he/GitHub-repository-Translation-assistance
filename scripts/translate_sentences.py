@@ -16,6 +16,10 @@ Behaviour, per spec:
   in between) in this run, save progress and stop (the next scheduled run,
   2 hours later, will retry the same sentence).
 - Any single successful call resets the error/attempt counter to 0.
+- If the model determines a line is pure code / has no real prose to
+  translate (see rule 9 in the prompt), it returns a sentinel token instead
+  of a translation; this script detects that and stores the ORIGINAL text
+  as the "translation" instead, printing a clear message about it.
 - If TIME_BUDGET_SECONDS (default 1800 = 30 min) elapses, finish the
   sentence currently being processed and then stop, even with no errors.
 - Sets "completed": true once every sentence has a translation, and on
@@ -75,6 +79,13 @@ RETRY_DELAYS_SECONDS = [
 ]
 MAX_ATTEMPTS = len(RETRY_DELAYS_SECONDS) + 1  # e.g. 2 delays -> 3 total attempts
 
+# If the model decides a line is pure code / not natural language at all, it
+# is instructed to return exactly this token instead of attempting a
+# translation. We then keep the original source text unchanged. Chosen to be
+# an unambiguous, all-caps token that would never plausibly appear inside a
+# real Hebrew (or English) translation.
+NO_TRANSLATION_SENTINEL = "NO_TRANSLATION_NEEDED"
+
 TRANSLATION_PROMPT_TEMPLATE = """You are an expert translator specializing in music theory literature and academic documents. Your task is to translate the provided text into Hebrew, strictly adhering to the formatting and terminology rules below.
 CRITICAL RULES:
 1. Translate ONLY the provided text at the end of this message. Do not include any introductory text, explanations, greetings, or conversational filler. Return ONLY the final translated output.
@@ -85,6 +96,7 @@ CRITICAL RULES:
 6. Graphical Accidentals: Keep graphical symbols (such as ♯, ♭, ♮) exactly as they are.
 7. Verbal Accidentals: Translate written accidentals into Hebrew. Example: "Flat" -> "במול", "Sharp" -> "דיאז", "Natural" -> "בקר".
 8. Roman Numerals: Keep Roman numerals for chord analysis (I, iv, V7, etc.) exactly as written in Latin characters. Do not translate or change their case.
+9. Non-Prose Lines: If, and ONLY if, the entire input line contains no human-readable prose whatsoever - for example it is purely code, a template/variable expression (such as Liquid `{{{{ ... }}}}` or `{{% ... %}}`), a raw shell command, a bare URL, or a standalone data value - respond with EXACTLY the single token {sentinel} and nothing else, no punctuation, no quotes. Use this ONLY when there is truly nothing to translate. If the line contains any actual word, phrase, or sentence a human reader would read as text (even a short one, even mixed in with code or a template tag), translate that part normally instead and do NOT return {sentinel}.
 Strictly follow these rules. The text to translate is provided in the next line:
 {text}"""
 
@@ -119,7 +131,7 @@ def call_gemini(sentence: str) -> str:
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY environment variable is not set")
 
-    prompt = TRANSLATION_PROMPT_TEMPLATE.format(text=sentence)
+    prompt = TRANSLATION_PROMPT_TEMPLATE.format(text=sentence, sentinel=NO_TRANSLATION_SENTINEL)
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2},
@@ -160,6 +172,16 @@ def call_gemini(sentence: str) -> str:
     if not text:
         raise RuntimeError(f"Gemini API returned an empty translation: {json.dumps(data)[:500]}")
     return text
+
+
+def is_no_translation_sentinel(text: str) -> bool:
+    """True if the model's response is (essentially) just the sentinel token,
+    signalling 'this line is pure code/non-prose, nothing to translate' -
+    as opposed to a real translation that happens to contain the token
+    somewhere inside a longer sentence (which we do NOT want to treat as
+    a signal, to avoid ever bypassing a real translation)."""
+    stripped = text.strip().strip("`'\"“”׳״.,;: \n\t")
+    return stripped.upper() == NO_TRANSLATION_SENTINEL
 
 
 def main():
@@ -227,6 +249,20 @@ def main():
             # Should not happen (handled above), but guard anyway.
             break
 
+        if is_no_translation_sentinel(translated_text):
+            translated_text = source_sentence
+            print(
+                f"[id={sentence_id}] file={source_file}\n"
+                f"  >>> MODEL FLAGGED THIS AS CODE/NON-PROSE - KEEPING ORIGINAL TEXT AS-IS <<<\n"
+                f"  INPUT/OUTPUT (unchanged): {source_sentence}"
+            )
+        else:
+            print(
+                f"[id={sentence_id}] file={source_file}\n"
+                f"  INPUT : {source_sentence}\n"
+                f"  OUTPUT: {translated_text}"
+            )
+
         translations.append(
             {
                 "id": sentence_id,
@@ -236,11 +272,6 @@ def main():
             }
         )
         state["translations"] = translations
-        print(
-            f"[id={sentence_id}] file={source_file}\n"
-            f"  INPUT : {source_sentence}\n"
-            f"  OUTPUT: {translated_text}"
-        )
 
         # Periodically persist progress so a crash mid-run doesn't lose work.
         save_translations_state(state)

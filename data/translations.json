@@ -144,6 +144,18 @@
       "file": "Intervals.md",
       "source_sentence": "Note that some generic intervals can be augmented, perfect, or diminished, and other intervals can be augmented, major, minor, or diminished. There is no generic interval that can be both major/minor and perfect; if it can be major or minor, it cannot be perfect, and if it can be perfect, it cannot be major or minor. An augmented version of an interval is always one semitone wider than major or perfect; diminished is always one semitone smaller than minor or perfect.",
       "translated_sentence": "יש לשים לב כי חלק מהמרווחים הגנריים (generic intervals) יכולים להיות מוגדלים (augmented), זכים (perfect) או מוקטנים (diminished), ומרווחים אחרים יכולים להיות מוגדלים, גדולים (major), קטנים (minor) או מוקטנים. אין אף מרווח גנרי שיכול להיות גם גדול/קטן (major/minor) וגם זך; אם הוא יכול להיות גדול או קטן, הוא אינו יכול להיות זך, ואם הוא יכול להיות זך, הוא אינו יכול להיות גדול או קטן. גרסה מוגדלת של מרווח היא תמיד רחבה בחצי טון (semitone) אחד יותר ממרווח גדול או זך; גרסה מוקטנת היא תמיד קטנה בחצי טון אחד ממרווח קטן או זך."
+    },
+    {
+      "id": 25,
+      "file": "Intervals.md",
+      "source_sentence": "Solfège can also help to determine the specific interval. Each pair of solfège syllables will have the same interval, no matter what the key, as long as it is clear which syllable is the lower pitch and which is the upper pitch. Memorizing the intervals between solfège pairs can help speed along your analysis of dyads as they appear in music. For example, knowing that *do*–*mi*, *fa*–*la*, and *sol*–*ti* are always major thirds and knowing that *re*–*fa*, *mi*–*sol*, *la*–*do*, and *ti*–*re* are always minor thirds will allow for faster analysis of dyads in major keys.",
+      "translated_sentence": "סולפז' (Solfège) יכול לעזור גם לקבוע את המרווח (Interval) הספציפי. לכל זוג של הברות סולפז' יהיה אותו מרווח, ללא קשר לסולם (Key), כל עוד ברור איזו הברה היא בעלת גובה הצליל הנמוך יותר ואיזו בעלת גובה הצליל הגבוה יותר. שינון המרווחים בין זוגות סולפז' יכול לסייע בהאצת הניתוח של דיאדות (Dyads) כפי שהן מופיעות במוזיקה. לדוגמה, הידיעה ש-*דו*–*מי*, *פה*–*לה*, ו-*סול*–*טי* הם תמיד טרצות גדולות (Major thirds) והידיעה ש-*רה*–*פה*, *מי*–*סול*, *לה*–*דו*, ו-*טי*–*רה* הם תמיד טרצות קטנות (Minor thirds) יאפשרו ניתוח מהיר יותר של דיאדות (Dyads) בסולמות מייג'ור (Major keys)."
+    },
+    {
+      "id": 26,
+      "file": "Intervals.md",
+      "source_sentence": "Compound intervals #",
+      "translated_sentence": "מרווחים מורכבים (Compound intervals) #"
     }
   ]
 }

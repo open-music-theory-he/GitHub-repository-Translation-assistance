@@ -102,6 +102,18 @@
       "file": "Intervals.md",
       "source_sentence": "major (M)",
       "translated_sentence": "מז'ור (M)"
+    },
+    {
+      "id": 18,
+      "file": "Intervals.md",
+      "source_sentence": "perfect (P)",
+      "translated_sentence": "זך (perfect) (P)"
+    },
+    {
+      "id": 19,
+      "file": "Intervals.md",
+      "source_sentence": "minor (m)",
+      "translated_sentence": "מינור (m)"
     }
   ]
 }

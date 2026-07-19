@@ -1,0 +1,107 @@
+{
+  "completed": false,
+  "translations": [
+    {
+      "id": 1,
+      "file": "GDrive.md",
+      "source_sentence": "The following video demonstrates uploading a file to Google Drive and sharing it with another user.",
+      "translated_sentence": "הסרטון הבא מדגים העלאת קובץ ל-Google Drive ושיתופו עם משתמש אחר."
+    },
+    {
+      "id": 2,
+      "file": "GDrive.md",
+      "source_sentence": "<iframe src=\"//player.vimeo.com/video/73001492\" width=\"500\" height=\"375\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"http://vimeo.com/73001492\">Uploading and sharing a file on Google Drive</a> from <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "translated_sentence": "<iframe src=\"//player.vimeo.com/video/73001492\" width=\"500\" height=\"375\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"http://vimeo.com/73001492\">העלאה ושיתוף של קובץ ב-Google Drive</a> מאת <a href=\"http://vimeo.com/user11692346\">כריס שייפר</a> ב-<a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+    },
+    {
+      "id": 3,
+      "file": "Intervals.md",
+      "source_sentence": "An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.",
+      "translated_sentence": "*מרווח* (Interval) הוא המרחק בין שני גבהי צליל (Pitches), הנמדד בדרך כלל כמספר הצעדים בסולם (Scale)."
+    },
+    {
+      "id": 4,
+      "file": "Intervals.md",
+      "source_sentence": "A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.",
+      "translated_sentence": "*דיאדה (Dyad)* היא צמד גבהי צליל המושמעים יחד (במילים אחרות, אקורד של שני צלילים). מאחר שדיאדה מוגדרת על ידי המרווח (Interval) שבין שני גבהי הצליל, דיאדות (Dyads) מכונות לעיתים קרובות פשוט מרווחים (Intervals)."
+    },
+    {
+      "id": 5,
+      "file": "Intervals.md",
+      "source_sentence": "Thus, the term *interval* regularly refers both to the distance between two pitches on a scale and to a dyad whose pitches are separated by that distance.",
+      "translated_sentence": "על כן, המונח *מרווח (interval)* מתייחס באופן קבוע הן למרחק בין שני גבהי צליל (pitches) בסולם והן לדיאדה (dyad) שגבהי הצליל שלה מופרדים על ידי מרחק זה."
+    },
+    {
+      "id": 6,
+      "file": "Intervals.md",
+      "source_sentence": "Chromatic intervals #",
+      "translated_sentence": "מרווחים כרומטיים (Chromatic intervals) #"
+    },
+    {
+      "id": 7,
+      "file": "Intervals.md",
+      "source_sentence": "The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.",
+      "translated_sentence": "הדרך הפשוטה ביותר למדוד מרווחים (intervals), במיוחד במקלדת, היא לספור את מספר חצאי-הטונים (half-steps), או *חצאי-הטונים (semitones)*, בין שני גבהי צליל (pitches). כדי לקבוע את המרווח הכרומטי (chromatic interval) בין C4 ל-E4, למשל, התחילו ב-C4 ועלו בסולם הכרומטי (chromatic scale) ל-E4, תוך ספירת הצעדים לאורך הדרך: C#4, D4, D#4, E4. ‏E4 גבוה בארבעה חצאי-טונים (semitones) מ-C4. מרווחים כרומטיים (chromatic intervals) מיוצגים בכתב באמצעות אות **i** קטנה (lower-case) ולאחריה ספרה ערבית (Arabic numeral) המציינת את מספר חצאי-הטונים (semitones). ‏C4–E4 הוא ארבעה חצאי-טונים (semitones), או **i4**."
+    },
+    {
+      "id": 8,
+      "file": "Intervals.md",
+      "source_sentence": "![Chromatic steps from C4 to E4.][c4e4]",
+      "translated_sentence": "![צעדים כרומטיים (Chromatic steps) מ-C4 ל-E4.][c4e4]"
+    },
+    {
+      "id": 9,
+      "file": "Intervals.md",
+      "source_sentence": "Diatonic intervals #",
+      "translated_sentence": "מרווחים דיאטוניים (Diatonic intervals) #"
+    },
+    {
+      "id": 10,
+      "file": "Intervals.md",
+      "source_sentence": "More commonly for tonal music, we are interested in the number of steps on the diatonic (major or minor) scale. This is a bit tricky—not because it's difficult, but because it's counterintuitive. Unfortunately, the system is too old and well engrained to change it now! But once you get past the initial strangeness, diatonic intervals are easy.",
+      "translated_sentence": "באופן שכיח יותר במוזיקה טונאלית (tonal music), אנו מתעניינים במספר הצעדים בסולם הדיאטוני (diatonic scale) (מז'ור או מינור). זה מעט מתעתע—לא מפני שזה קשה, אלא מפני שזה נוגד את האינטואיציה (counterintuitive). לרוע המזל, המערכת ישנה מדי ומושרשת היטב (well engrained) מכדי לשנות אותה כעת! אך ברגע שעוברים את המוזרות הראשונית, מרווחים דיאטוניים (diatonic intervals) הם קלים."
+    },
+    {
+      "id": 11,
+      "file": "Intervals.md",
+      "source_sentence": "When identifying a diatonic interval, begin with the *letter names only*. That is, treat C, C-sharp, and C-flat all as *C* for the time being. Next, count the number of steps (different letters) between the two pitches in question, *counting both pitches*. This will give you the *generic interval*.",
+      "translated_sentence": "בעת זיהוי מרווח דיאטוני (diatonic interval), התחילו עם *שמות האותיות בלבד*. כלומר, התייחסו ל-C, ל-C-דיאז ול-C-במול כאל *C* לעת עתה. לאחר מכן, ספרו את מספר הצעדים (אותיות שונות) בין שני גבהי הצליל המדוברים, *תוך ספירת שני גבהי הצליל*. כך תקבלו את *המרווח הגנרי (generic interval)*."
+    },
+    {
+      "id": 12,
+      "file": "Intervals.md",
+      "source_sentence": "For example, from C4 to E4, counting both C and E, there are three diatonic steps (three letter names): C, D, E. Thus, the generic interval for C4–E4 is a *third*. The same is true for any C to any E: C#4 to E4, Cb4 to E#4, etc. They are all diatonic thirds.",
+      "translated_sentence": "לדוגמה, מ-C4 עד E4, כאשר סופרים גם את C וגם את E, ישנם שלושה צעדים דיאטוניים (diatonic steps) (שלושה שמות של אותיות): C, D, E. לכן, המרווח הגנרי (generic interval) עבור C4–E4 הוא *טרצה* (third). הדבר נכון לגבי כל C לכל E: מ-C#4 עד E4, מ-Cb4 עד E#4, וכו'. כולם טרצות דיאטוניות (diatonic thirds)."
+    },
+    {
+      "id": 13,
+      "file": "Intervals.md",
+      "source_sentence": "![Three kinds of generic thirds.][thirds]",
+      "translated_sentence": "![שלושה סוגים של טרצות גנריות (generic thirds).][thirds]"
+    },
+    {
+      "id": 14,
+      "file": "Intervals.md",
+      "source_sentence": "Often more specificity is needed than generic intervals can provide. That specificity comes in the form of *interval quality*. And combining quality with a generic interval produces a *specific interval*.",
+      "translated_sentence": "לעיתים קרובות נדרשת ספציפיות רבה יותר ממה שמרווחים גנריים (generic intervals) יכולים לספק. ספציפיות זו מגיעה בצורה של *איכות המרווח (interval quality)*. ושילוב של איכות עם מרווח גנרי (generic interval) מייצר *מרווח ספציפי (specific interval)*."
+    },
+    {
+      "id": 15,
+      "file": "Intervals.md",
+      "source_sentence": "There are five possible interval qualities:",
+      "translated_sentence": "ישנן חמש איכויות מרווחים (interval qualities) אפשריות:"
+    },
+    {
+      "id": 16,
+      "file": "Intervals.md",
+      "source_sentence": "augmented (A)",
+      "translated_sentence": "מוגדל (augmented) (A)"
+    },
+    {
+      "id": 17,
+      "file": "Intervals.md",
+      "source_sentence": "major (M)",
+      "translated_sentence": "מז'ור (M)"
+    }
+  ]
+}

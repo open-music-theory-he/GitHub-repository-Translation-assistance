@@ -186,6 +186,2298 @@
       "file": "Intervals.md",
       "source_sentence": "Dyads formed by the same two pitch classes, but with different pitch classes on bottom and on top, are said to be *inversions* of each other, because the pitch classes are *inverted*. Likewise, the intervals marked off by those inverted dyads are said to be *inversions* of each other.",
       "translated_sentence": "דיאדות (Dyads) הנוצרות על ידי אותן שתי מחלקות גובה (Pitch classes), אך עם מחלקות גובה שונות בתחתית ובראש, נאמר עליהן שהן *היפוכים (Inversions)* זו של זו, מכיוון שמחלקות הגובה הן *הפוכות (Inverted)*. באופן דומה, על המרווחים (Intervals) התחומים על ידי אותן דיאדות הפוכות (Inverted dyads) נאמר שהם *היפוכים (Inversions)* זה של זה."
+    },
+    {
+      "id": 32,
+      "file": "Intervals.md",
+      "source_sentence": "Again, take C4–E4 (major third) and E4–C5 (minor sixth). These two dyads have the same two pitch classes, but one has C on bottom and E on top, while the other has E on bottom and C on top. Thus, they are inversions of each other.",
+      "translated_sentence": "שוב, ניקח את C4–E4 (טרצה גדולה) ואת E4–C5 (סקסטה קטנה). לשתי הדיאדות (dyads) הללו יש את אותן שתי מחלקות גובה צליל (pitch classes), אך באחת C נמצא בתחתית ו-E בראש, בעוד שבשנייה E נמצא בתחתית ו-C בראש. לפיכך, הן היפוכים (inversions) זו של זו."
+    },
+    {
+      "id": 33,
+      "file": "Intervals.md",
+      "source_sentence": "![Inversion relationship: major third and minor sixth.][inversion]",
+      "translated_sentence": "![יחסי היפוך: טרצה גדולה וסקסטה קטנה.][inversion]"
+    },
+    {
+      "id": 34,
+      "file": "Intervals.md",
+      "source_sentence": "Three relationships exhibited by these two dyads hold for all interval inversions.",
+      "translated_sentence": "שלושה יחסים המופגנים על ידי שני דיאדות (dyads) אלו תקפים עבור כל היפוכֵי המרווחים (interval inversions)."
+    },
+    {
+      "id": 35,
+      "file": "Intervals.md",
+      "source_sentence": "First, the chromatic intervals add up to 12. (C4–E4 = i4; E4–C5 = i8; i4–i8 = i12) This is because the two intervals add up to an octave (with an overlap on E4).",
+      "translated_sentence": "ראשית, המרווחים הכרומטיים מסתכמים ב-12. (C4–E4 = i4; E4–C5 = i8; i4–i8 = i12) זאת משום ששני המרווחים מסתכמים לאוקטבה (עם חפיפה ב-E4)."
+    },
+    {
+      "id": 36,
+      "file": "Intervals.md",
+      "source_sentence": "Second, *the two generic interval values add up to nine* (a third plus a sixth, or 3 + 6). This is because the two intervals add up to an octave, and one of the notes is counted twice when you add them together. (Remember the counterintuitive way of counting off diatonic intervals, where the number includes the starting and ending pitches, and when combining inverted intervals, there is always one note that gets counted twice—in this case, E4.)",
+      "translated_sentence": "שנית, *שני ערכי המרווחים הגנריים מסתכמים בתשע* (טרצה ועוד סקסטה, או 3 + 6). זאת משום ששני המרווחים מסתכמים לאוקטבה, ואחד מהצלילים נספר פעמיים כאשר מחברים אותם יחד. (זכרו את הדרך הלא-אינטואיטיבית של ספירת מרווחים דיאטוניים, שבה המספר כולל את צלילי ההתחלה והסיום, וכאשר משלבים מרווחים הפוכים, תמיד יש צליל אחד שנספר פעמיים — במקרה זה, E4.)"
+    },
+    {
+      "id": 37,
+      "file": "Intervals.md",
+      "source_sentence": "Lastly, the major interval inverts into a minor, and vice versa. This always holds for interval inversion. Likewise, an augmented interval's inversion is always diminished, and vice versa. A perfect interval's inversion is always perfect.",
+      "translated_sentence": "לבסוף, מרווח מז'ורי (major interval) מתהפך למרווח מינורי (minor interval), ולהיפך. כלל זה תמיד תקף להיפוך מרווחים. באופן דומה, ההיפוך של מרווח מוגדל (augmented interval) הוא תמיד מרווח מוקטן (diminished interval), ולהיפך. ההיפוך של מרווח זך (perfect interval) הוא תמיד זך."
+    },
+    {
+      "id": 38,
+      "file": "Intervals.md",
+      "source_sentence": "major ↔ minor",
+      "translated_sentence": "מייג'ור ↔ מינור"
+    },
+    {
+      "id": 39,
+      "file": "Intervals.md",
+      "source_sentence": "augmented ↔ diminished",
+      "translated_sentence": "מורחב (augmented) ↔ מוקטן (diminished)"
+    },
+    {
+      "id": 40,
+      "file": "Intervals.md",
+      "source_sentence": "perfect ↔ perfect",
+      "translated_sentence": "מושלם ↔ מושלם"
+    },
+    {
+      "id": 41,
+      "file": "Intervals.md",
+      "source_sentence": "Interval inversion may seem confusing and esoteric now, but it will be an incredibly important concept for the study of voice-leading and the study of harmony.",
+      "translated_sentence": "היפוך מרווחים (Interval inversion) עשוי להיראות מבלבל ואזוטרי כעת, אך הוא יהיה מושג חשוב מאין כמוהו עבור לימודי הולכת קולות (voice-leading) ולימודי הרמוניה."
+    },
+    {
+      "id": 42,
+      "file": "Intervals.md",
+      "source_sentence": "Melodic and harmonic intervals #",
+      "translated_sentence": "מרווחים מלודיים והרמוניים #"
+    },
+    {
+      "id": 43,
+      "file": "Intervals.md",
+      "source_sentence": "The last distinction between interval types to note is *melodic* v. *harmonic* intervals. This distinction is simple. If the two pitches of a dyad sound at the same time (a two-note chord), the interval between them is a *harmonic interval*. If the two pitches in question are sounded back-to-back (as in a melody), the interval between them is a *melodic interval*. This distinction is important in voice-leading, where different intervals are preferred or forbidden in harmonic contexts than in melodic contexts. The difference is also important for listening, as hearing melodic and harmonic intervals of the same quality requires different techniques.",
+      "translated_sentence": "ההבחנה האחרונה בין סוגי מרווחים שיש לציין היא בין מרווחים *מלודיים* (melodic) לבין מרווחים *הרמוניים* (harmonic). הבחנה זו פשוטה. אם שני הצלילים של דיאדה (dyad) נשמעים בו-זמנית (אקורד של שני צלילים), המרווח ביניהם הוא *מרווח הרמוני* (harmonic interval). אם שני הצלילים המדוברים נשמעים זה אחר זה (כמו במלודיה), המרווח ביניהם הוא *מרווח מלודי* (melodic interval). הבחנה זו חשובה בהולכת קולות (voice-leading), שבה מרווחים שונים מועדפים או אסורים בהקשרים הרמוניים מאשר בהקשרים מלודיים. ההבדל חשוב גם להאזנה, שכן שמיעת מרווחים מלודיים והרמוניים בעלי אותה איכות (quality) דורשת טכניקות שונות."
+    },
+    {
+      "id": 44,
+      "file": "Intervals.md",
+      "source_sentence": "Consonance and dissonance #",
+      "translated_sentence": "קונסוננס ודיסוננס (Consonance and dissonance) #"
+    },
+    {
+      "id": 45,
+      "file": "Intervals.md",
+      "source_sentence": "Intervals are categorized as *consonant* or *dissonant* based on their sound (how stable, sweet, or harsh they sound), how easy they are to sing, and how they best function in a passage (beginning, middle, end; between certain other intervals; etc.). Different standards apply to melody and harmony. The following categories will be essential for your work in strict voice-leading, and they will be a helpful guide for free composition and arranging work, as well.",
+      "translated_sentence": "מרווחים מסווגים כ*קונסוננטיים* (consonant) או *דיסוננטיים* (dissonant) על בסיס הצליל שלהם (עד כמה הם נשמעים יציבים, נעימים או צורמים), עד כמה קל לשיר אותם, וכיצד הם מתפקדים בצורה הטובה ביותר בקטע מוזיקלי (התחלה, אמצע, סוף; בין מרווחים מסוימים אחרים; וכו'). סטנדרטים שונים חלים על מלודיה ועל הרמוניה. הקטגוריות הבאות יהיו חיוניות לעבודתכם בהולכת קולות (voice-leading) קפדנית, והן יהוו מדריך מועיל גם עבור הלחנה חופשית ועבודת עיבוד."
+    },
+    {
+      "id": 46,
+      "file": "Intervals.md",
+      "source_sentence": "Melodic consonance and dissonance ##",
+      "translated_sentence": "קונסוננס ודיסוננס מלודיים ##"
+    },
+    {
+      "id": 47,
+      "file": "Intervals.md",
+      "source_sentence": "The following *melodic* intervals are *consonant*, and can be used in strict voice-leading both for successive pitches and as boundaries of stepwise progressions in a single direction:",
+      "translated_sentence": "המרווחים ה*מלודיים* הבאים הם *קונסוננטיים* (consonant), וניתן להשתמש בהם בהולכת קולות קפדנית (strict voice-leading) הן עבור גבהי צליל עוקבים והן כגבולות של מהלכים מדורגים (stepwise progressions) בכיוון אחד:"
+    },
+    {
+      "id": 48,
+      "file": "Intervals.md",
+      "source_sentence": "All perfect intervals (P4, P5, P8)",
+      "translated_sentence": "כל המרווחים המושלמים (P4, P5, P8)"
+    },
+    {
+      "id": 49,
+      "file": "Intervals.md",
+      "source_sentence": "All diatonic steps (M2, m2)",
+      "translated_sentence": "כל הצעדים הדיאטוניים (M2, m2)"
+    },
+    {
+      "id": 50,
+      "file": "Intervals.md",
+      "source_sentence": "Major and minor thirds",
+      "translated_sentence": "טרצות מייג'ור ומינור"
+    },
+    {
+      "id": 51,
+      "file": "Intervals.md",
+      "source_sentence": "Major and minor sixths",
+      "translated_sentence": "סקסטות מז'וריות ומינוריות"
+    },
+    {
+      "id": 52,
+      "file": "Intervals.md",
+      "source_sentence": "All other *melodic* intervals are *dissonant*, and must be avoided for successive pitches and as boundaries of stepwise progressions in a single direction, including:",
+      "translated_sentence": "כל שאר המרווחים ה*מלודיים* הם *דיסוננטיים* (dissonant), ויש להימנע מהם עבור צלילים עוקבים וכגבולות של מהלכים מדורגים בכיוון אחד, כולל:"
+    },
+    {
+      "id": 53,
+      "file": "Intervals.md",
+      "source_sentence": "All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)",
+      "translated_sentence": "כל המרווחים המוגדלים (Augmented) והמוקטנים (Diminished) (כולל אלו שהם שווי-צליל (Enharmonically equivalent) למרווחים קונסוננטיים, כגון A2 ו-A1)"
+    },
+    {
+      "id": 54,
+      "file": "Intervals.md",
+      "source_sentence": "All sevenths",
+      "translated_sentence": "כל הספטאקורדים (All sevenths)"
+    },
+    {
+      "id": 55,
+      "file": "Intervals.md",
+      "source_sentence": "Harmonic consonance and dissonance ##",
+      "translated_sentence": "קונסוננס ודיסוננס הרמוני ##"
+    },
+    {
+      "id": 56,
+      "file": "Intervals.md",
+      "source_sentence": "The following *harmonic* intervals are *imperfect consonances*, and can be used relatively freely in strict voice-leading (except for beginnings and endings):",
+      "translated_sentence": "המרווחים ה*הרמוניים* הבאים הם *קונסוננסים לא מושלמים* (imperfect consonances), וניתן להשתמש בהם בחופשיות יחסית בהולכת קולות קפדנית (למעט בהתחלות ובסיומות):"
+    },
+    {
+      "id": 57,
+      "file": "Intervals.md",
+      "source_sentence": "Major and minor thirds",
+      "translated_sentence": "טרצות מייג'ור ומינור"
+    },
+    {
+      "id": 58,
+      "file": "Intervals.md",
+      "source_sentence": "Major and minor sixths",
+      "translated_sentence": "סקסטות מז'וריות ומינוריות"
+    },
+    {
+      "id": 59,
+      "file": "Intervals.md",
+      "source_sentence": "The following *harmonic* intervals are *perfect consonances*, and must be used with care in limited circumstances in strict voice-leading:",
+      "translated_sentence": "המרווחים ה*הרמוניים* הבאים הם *עיצורים מושלמים* (perfect consonances), ויש להשתמש בהם בזהירות בנסיבות מוגבלות בהולכת קולות (voice-leading) קפדנית:"
+    },
+    {
+      "id": 60,
+      "file": "Intervals.md",
+      "source_sentence": "All perfect intervals *except the perfect fourth* (P1, P5, P8)",
+      "translated_sentence": "כל המרווחים המושלמים (Perfect intervals) *למעט הקוורטה המושלמת (Perfect fourth)* (P1, P5, P8)"
+    },
+    {
+      "id": 61,
+      "file": "Intervals.md",
+      "source_sentence": "All other *harmonic* intervals are *dissonant*, and must be employed in very specific ways in strict voice-leading, including:",
+      "translated_sentence": "כל שאר המרווחים ה*הרמוניים* הם *דיסוננטיים* (dissonant), ויש להשתמש בהם בדרכים ספציפיות מאוד בהולכת קולות (voice-leading) קפדנית, כולל:"
+    },
+    {
+      "id": 62,
+      "file": "Intervals.md",
+      "source_sentence": "All diatonic steps (M2, m2)",
+      "translated_sentence": "כל הצעדים הדיאטוניים (M2, m2)"
+    },
+    {
+      "id": 63,
+      "file": "Intervals.md",
+      "source_sentence": "All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)",
+      "translated_sentence": "כל המרווחים המוגדלים (Augmented) והמוקטנים (Diminished) (כולל אלו שהם שווי-צליל (Enharmonically equivalent) למרווחים קונסוננטיים, כגון A2 ו-A1)"
+    },
+    {
+      "id": 64,
+      "file": "Intervals.md",
+      "source_sentence": "All sevenths",
+      "translated_sentence": "כל הספטאקורדים (All sevenths)"
+    },
+    {
+      "id": 65,
+      "file": "Intervals.md",
+      "source_sentence": "Perfect fourths",
+      "translated_sentence": "קוורטות זכות (Perfect fourths)"
+    },
+    {
+      "id": 66,
+      "file": "Intervals.md",
+      "source_sentence": "[c4e4]: Graphics/intervals/C4E4.png",
+      "translated_sentence": "[c4e4]: Graphics/intervals/C4E4.png"
+    },
+    {
+      "id": 67,
+      "file": "Intervals.md",
+      "source_sentence": "[thirds]: Graphics/intervals/thirds.png",
+      "translated_sentence": "[טרצות (thirds)]: Graphics/intervals/thirds.png"
+    },
+    {
+      "id": 68,
+      "file": "Intervals.md",
+      "source_sentence": "[compound]: Graphics/intervals/compound.png",
+      "translated_sentence": "[מרווח מורכב (compound)]: Graphics/intervals/compound.png"
+    },
+    {
+      "id": 69,
+      "file": "Intervals.md",
+      "source_sentence": "[inversion]: Graphics/intervals/inversion.png",
+      "translated_sentence": "[היפוך (inversion)]: Graphics/intervals/inversion.png"
+    },
+    {
+      "id": 70,
+      "file": "Intervals.md",
+      "source_sentence": "[intervalChart]: Graphics/intervals/intervalTable.png",
+      "translated_sentence": "[intervalChart]: Graphics/intervals/intervalTable.png"
+    },
+    {
+      "id": 71,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Following are a number of *schemata* for keyboard-style voice-leading. Some of these are patterns that are common enough to warrant special attention (and memorization). Others require non-default voice-leading or doublings. In any case, these are worth memorizing to assist both in composition/arranging and in recognition of standard patterns. (Some will also come in handy for chorale-style voice-leading.)",
+      "translated_sentence": "להלן מספר *סכימות* (schemata) להולכת קולות בסגנון מקלדת. חלקן תבניות הנפוצות מספיק כדי להצדיק תשומת לב מיוחדת (ושינון). אחרות דורשות הולכת קולות או כפילויות שאינן ברירת מחדל. בכל מקרה, כדאי לשנן אותן כדי לסייע הן בהלחנה/עיבוד והן בזיהוי תבניות סטנדרטיות. (חלקן יועילו גם להולכת קולות בסגנון כוראל)."
+    },
+    {
+      "id": 72,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Voice exchange ##",
+      "translated_sentence": "חילופי קולות (Voice exchange) ##"
+    },
+    {
+      "id": 73,
+      "file": "KBVLschemata.md",
+      "source_sentence": "A *voice exchange* occurs when the melody and bass lines exchange pitches over the course of a simple contrapuntal prolongation. For example, in the progression **T1 D2 T3**, the bass begins on *do* and ends on *mi*. In a voice exchange, the melody would reverse this, starting on *mi* and ending on *do*. This common pattern can use a **V<sup>6/4</sup>**, **V<sup>4/3</sup>**, or a **VII<sup>6/3</sup>** chord for **D2**:",
+      "translated_sentence": "*חילופי קולות* (voice exchange) מתרחשים כאשר קווי המלודיה והבס מחליפים גבהים במהלך הארכה קונטרפונקטית פשוטה. לדוגמה, במהלך **T1 D2 T3**, הבס מתחיל ב-*דו* ומסתיים ב-*מי*. בחילופי קולות, המלודיה תהפוך זאת, ותתחיל ב-*מי* ותסתיים ב-*דו*. תבנית נפוצה זו יכולה להשתמש באקורד **V<sup>6/4</sup>**, **V<sup>4/3</sup>** או **VII<sup>6/3</sup>** עבור **D2**:"
+    },
+    {
+      "id": 74,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][VE64]",
+      "translated_sentence": "![][VE64]"
+    },
+    {
+      "id": 75,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][VE63]",
+      "translated_sentence": "![][VE63]"
+    },
+    {
+      "id": 76,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Using this voice exchange pattern will ensure smooth voice-leading throughout the prolongation.",
+      "translated_sentence": "שימוש בתבנית חילופי קולות (voice exchange) זו יבטיח הובלת קולות (voice-leading) חלקה לאורך ההארכה (prolongation)."
+    },
+    {
+      "id": 77,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Note that the *fa* in the **D2** passing chord (a functional dissonance) of the second example does *not* resolve down to *mi*. This is permissible because *mi* is required of the bass line but cannot be doubled, and because the smooth outer-voice counterpoint and stepwise inner-voice motion counteract any harshness perceived by the unresolved dissonance.",
+      "translated_sentence": "שימו לב שה-*fa* באקורד המעבר **D2** (דיסוננס פונקציונלי) בדוגמה השנייה אינו נפתר כלפי מטה אל ה-*mi*. הדבר מותר כיוון ש-*mi* נדרש בקו הבס אך לא ניתן להכפילו, וכיוון שהקונטרפונקט החלק של הקולות החיצוניים והתנועה המדורגת של הקולות הפנימיים מנטרלים כל חספוס שעלול להיתפס בשל הדיסוננס הבלתי פתור."
+    },
+    {
+      "id": 78,
+      "file": "KBVLschemata.md",
+      "source_sentence": "The voice exchange can also be used with a **D4** substitution chord. Note that the upper voices will be exactly the same as using a **V<sup>6/4<sup>** for **D2**.",
+      "translated_sentence": "ניתן להשתמש בחילופי קולות (voice exchange) גם עם אקורד החלפה מסוג **D4**. שימו לב שהקולות העליונים יהיו זהים בדיוק לשימוש ב-**V<sup>6/4<sup>** עבור **D2**."
+    },
+    {
+      "id": 79,
+      "file": "KBVLschemata.md",
+      "source_sentence": "These patterns can be used in major or minor, transposed to any key, and the **D2** voice exchanges can be used in reverse, as well—**T3 D2 T1**. They can also be used to prolong S and D: **S4 T5 S6** or **D5 S6 D7**, for example.",
+      "translated_sentence": "ניתן להשתמש בתבניות אלו בסולמות מז'וריים או מינוריים, לבצע להן טרנספוזיציה לכל סולם, וניתן להשתמש בחילופי קולות (voice exchanges) של **D2** גם בסדר הפוך — **T3 D2 T1**. ניתן להשתמש בהן גם כדי להאריך S ו-D: למשל, **S4 T5 S6** או **D5 S6 D7**."
+    },
+    {
+      "id": 80,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Parallel tenths ##",
+      "translated_sentence": "עשיריות מקבילות (Parallel tenths) ##"
+    },
+    {
+      "id": 81,
+      "file": "KBVLschemata.md",
+      "source_sentence": "*Do–re–mi* in the bass is also frequently accompanied by *mi–fa–sol* in the melody, making *parallel tenths*.",
+      "translated_sentence": "*דו–רה–מי* בבס מלווה לעיתים קרובות גם על ידי *מי–פה–סול* במלודיה, מה שיוצר *דצימות מקבילות* (parallel tenths)."
+    },
+    {
+      "id": 82,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][ParallelTenths]",
+      "translated_sentence": "![][ParallelTenths]"
+    },
+    {
+      "id": 83,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Note here that, like the *fa* in the **D2** voice exchange, the *fa* in the melody is an unresolved functional dissonance. In this case, the voice leading once again is so smooth that it overrides the need for the functional dissonance to resolve.",
+      "translated_sentence": "שימו לב כאן שכמו ה-*fa* בחילופי הקולות ב-**D2**, ה-*fa* במלודיה הוא דיסוננס פונקציונלי (functional dissonance) לא פתור. במקרה זה, הולכת הקולות (voice leading) שוב חלקה כל כך שהיא גוברת על הצורך של הדיסוננס הפונקציונלי להיפתר."
+    },
+    {
+      "id": 84,
+      "file": "KBVLschemata.md",
+      "source_sentence": "This pattern can also be used in major or minor, transposed to any key, and in reverse. It almost always uses a **V<sup>4/3</sup>** for **D2**.",
+      "translated_sentence": "ניתן להשתמש בתבנית זו גם במז'ור או במינור, בטרנספוזיציה לכל סולם, ובהיפוך. היא משתמשת כמעט תמיד ב-**V<sup>4/3</sup>** עבור **D2**."
+    },
+    {
+      "id": 85,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Champagne progression ##",
+      "translated_sentence": "מהלך שמפניה (Champagne progression) ##"
+    },
+    {
+      "id": 86,
+      "file": "KBVLschemata.md",
+      "source_sentence": "While **T(1 D2p 3)** is a perfectly acceptable way to accompany *mi–fa–sol* in the melody, a more interesting (and also more involved) way to harmonize that melody is what theorist Gene Biringer called the *champagne progression*: **T1 S6 T3**. (He called it this because it is \"the progression you use when you want to impress a date.\")",
+      "translated_sentence": "בעוד ש-**T(1 D2p 3)** היא דרך מקובלת לחלוטין ללוות את *מי–פה–סול* במלודיה, דרך מעניינת יותר (וגם מורכבת יותר) להרמוניזציה של אותה מלודיה היא מה שהתאורטיקן ג'ין ברינגר (Gene Biringer) כינה *מהלך שמפניה (champagne progression)*: **T1 S6 T3**. (הוא כינה זאת כך מכיוון שזהו \"המהלך שבו משתמשים כשרוצים להרשים דייט\".)"
+    },
+    {
+      "id": 87,
+      "file": "KBVLschemata.md",
+      "source_sentence": "The champagne progression is very nice, but must be treated carefully. *Only* use it with *mi–fa–sol* (or *me–fa–sol*) in the melody, and *always* use the following voice-leading (note the non-standard doubling of the bass—*la*/*le*—in the **S6** chord).",
+      "translated_sentence": "מהלך השמפניה (champagne progression) הוא נחמד מאוד, אך יש להתייחס אליו בזהירות. השתמש בו *רק* עם *מי–פה–סול* (או *מה–פה–סול*) במלודיה, ו*תמיד* השתמש בהולכת הקולות הבאה (שים לב לכפילות הלא-סטנדרטית של הבס—*לה*/*לה במול*—באקורד **S6**)."
+    },
+    {
+      "id": 88,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][Champagne]",
+      "translated_sentence": "![][Champagne]"
+    },
+    {
+      "id": 89,
+      "file": "KBVLschemata.md",
+      "source_sentence": "The standard champagne progression (above) uses a **I<sup>6</sup>** chord for **T3**. Following is a variant using **III** for **T3**, which Biringer dubbed \"pink champagne,\" because it is especially nice. It should also be especially *rare*, or it loses its punch.",
+      "translated_sentence": "מהלך השמפניה הסטנדרטי (לעיל) משתמש באקורד **I<sup>6</sup>** עבור **T3**. להלן וריאציה המשתמשת ב-**III** עבור **T3**, אשר בירינגר (Biringer) כינה \"שמפניה ורודה\", כיוון שהיא נעימה במיוחד. עליה להיות גם *נדירה* במיוחד, אחרת היא מאבדת מהעוקץ שלה."
+    },
+    {
+      "id": 90,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][PinkChampagne]",
+      "translated_sentence": "![][PinkChampagne]"
+    },
+    {
+      "id": 91,
+      "file": "KBVLschemata.md",
+      "source_sentence": "The champagne progression should only be used to prolong tonic function.",
+      "translated_sentence": "יש להשתמש במהלך השמפניה (champagne progression) אך ורק כדי להאריך פונקציית טוניקה (tonic function)."
+    },
+    {
+      "id": 92,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Deceptive resolution ##",
+      "translated_sentence": "רזולוציה מטעה (Deceptive resolution) ##"
+    },
+    {
+      "id": 93,
+      "file": "KBVLschemata.md",
+      "source_sentence": "A *deceptive resolution* occurs When a **D5** (**V** or **V<sup>7</sup>**) chord does not progress, as expected, to **I**  to form an authentic cadence, but instead progresses to **VI**. In the deceptive resolution, it is important for *ti* to resolve to *do*—as it would in an authentic cadence—not *la*/*le*. This fulfills its role as a tendency tone, helps the \"deception\" to work, and avoids the dissonant augmented second *ti*–*le* in minor. This results in a non-standard doubling of VI (*do*, rather than the bass).",
+      "translated_sentence": "*רזולוציה מטעה* (deceptive resolution) מתרחשת כאשר אקורד **D5** (**V** או **V<sup>7</sup>**) אינו מתקדם, כמצופה, אל **I** כדי ליצור קדנצה אותנטית (authentic cadence), אלא מתקדם אל **VI**. ברזולוציה מטעה, חשוב ש-*ti* יפתר אל *do*—כפי שהיה קורה בקדנצה אותנטית—ולא אל *la*/*le*. פעולה זו ממלאת את תפקידו כצליל מוביל (tendency tone), מסייעת ל\"הטעיה\" לעבוד, ומונעת את השנייה המוגדלת הדיסוננטית *ti*–*le* בסולם מינורי. התוצאה היא כפילות לא סטנדרטית של **VI** (*do*, במקום צליל הבס)."
+    },
+    {
+      "id": 94,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][deceptive]",
+      "translated_sentence": "![][deceptive]"
+    },
+    {
+      "id": 95,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][deceptive7]",
+      "translated_sentence": "![][deceptive7]"
+    },
+    {
+      "id": 96,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Leaving out the fifth ##",
+      "translated_sentence": "השמטת הדרגה החמישית (Leaving out the fifth) ##"
+    },
+    {
+      "id": 97,
+      "file": "KBVLschemata.md",
+      "source_sentence": "When *ti*–*do* appears in the melody of an authentic cadence involving **V<sup>7</sup>**, it is impossible to fully voice both chords *and* resolve the functional dissonance.",
+      "translated_sentence": "כאשר *טי*–*דו* מופיע במלודיה של קדנצה אותנטית (authentic cadence) הכוללת **V<sup>7</sup>**, בלתי אפשרי להוביל את הקולות (voice leading) של שני האקורדים במלואם *וגם* לפתור את הדיסוננס הפונקציונלי (functional dissonance)."
+    },
+    {
+      "id": 98,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][D5problem]",
+      "translated_sentence": "![][D5problem]"
+    },
+    {
+      "id": 99,
+      "file": "KBVLschemata.md",
+      "source_sentence": "It is imperative to resolve this functional dissonance, as that resolution is an important contributor to the goal-oriented motion and the releasing of harmonic tension into the cadential arrival. In order to do so, either leave out the fifth of the **I** chord (and triple the bass):",
+      "translated_sentence": "חיוני לפתור את הדיסוננס הפונקציונלי (functional dissonance) הזה, שכן פתרון זה מהווה תורם חשוב לתנועה המכוונת-מטרה (goal-oriented motion) ולשחרור המתח ההרמוני אל עבר ההגעה לקדנצה (cadential arrival). על מנת לעשות זאת, יש להשמיט את הדרגה החמישית של אקורד ה-**I** (ולהכפיל את הבס פי שלושה):"
+    },
+    {
+      "id": 100,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][T1dropFifth]",
+      "translated_sentence": "![][T1dropFifth]"
+    },
+    {
+      "id": 101,
+      "file": "KBVLschemata.md",
+      "source_sentence": "or leave out the fifth of the **V<sup>7</sup>** chord, and double the bass:",
+      "translated_sentence": "או להשמיט את הדרגה החמישית של אקורד ה-**V<sup>7</sup>**, ולהכפיל את הבס:"
+    },
+    {
+      "id": 102,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][D5dropFifth]",
+      "translated_sentence": "![][D5dropFifth]"
+    },
+    {
+      "id": 103,
+      "file": "KBVLschemata.md",
+      "source_sentence": "The incomplete **V<sup>7</sup>** is preferable to the incomplete **I**, but voice-leading into the **V<sup>7</sup>** will usually dictate which option you choose.",
+      "translated_sentence": "ה-**V<sup>7</sup>** החסר עדיף על ה-**I** החסר, אך הולכת קולות (voice-leading) אל תוך ה-**V<sup>7</sup>** תכתיב בדרך כלל באיזו אפשרות תבחר."
+    },
+    {
+      "id": 104,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Leaving out the third ##",
+      "translated_sentence": "השמטת הטרצה (Leaving out the third) ##"
+    },
+    {
+      "id": 105,
+      "file": "KBVLschemata.md",
+      "source_sentence": "When an **S4** progresses into a **D5**, and both are *seventh chords*, it can be impossible to prepare and resolve the functional dissonances of both chords while fully voicing them.",
+      "translated_sentence": "כאשר **S4** מתקדם ל-**D5**, ושניהם *אקורדי שבע (seventh chords)*, ייתכן שיהיה בלתי אפשרי להכין ולפתור את הדיסוננסים הפונקציונליים של שני האקורדים תוך השמעתם במלואם (fully voicing)."
+    },
+    {
+      "id": 106,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][S4problem]",
+      "translated_sentence": "![][S4problem]"
+    },
+    {
+      "id": 107,
+      "file": "KBVLschemata.md",
+      "source_sentence": "Instead, leave *la*/*le* out of the **S4** chord and double the bass. This will retain the trigger and bass note *fa*, as well as the two pitches making the dissonance (*do* and *re* or *mi*/*me* and *fa*), and will allow a second *fa* in an upper voice that can prepare the seventh of the **D5** chord.",
+      "translated_sentence": "במקום זאת, השמט את *לה*/*לה* מהאקורד **S4** והכפל את הבס. פעולה זו תשמר את צליל ה-trigger ואת צליל הבס *פה*, כמו גם את שני הצלילים היוצרים את הדיסוננס (*דו* ו-*רה* או *מי*/*מי* ו-*פה*), ותאפשר הופעת *פה* שני בקול עליון, שיוכל להכין את הספטימה של אקורד ה-**D5**."
+    },
+    {
+      "id": 108,
+      "file": "KBVLschemata.md",
+      "source_sentence": "![][S4dropThird]",
+      "translated_sentence": "![][S4dropThird]"
+    },
+    {
+      "id": 109,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[deceptive]: Graphics/harmony/deceptive.png",
+      "translated_sentence": "[deceptive]: Graphics/harmony/deceptive.png"
+    },
+    {
+      "id": 110,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[deceptive7]: Graphics/harmony/deceptive7.png",
+      "translated_sentence": "[deceptive7]: Graphics/harmony/deceptive7.png"
+    },
+    {
+      "id": 111,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[D4i]: Graphics/harmony/D4i.png",
+      "translated_sentence": "[D4i]: Graphics/harmony/D4i.png"
+    },
+    {
+      "id": 112,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[Champagne]: Graphics/harmony/Champagne.png",
+      "translated_sentence": "[Champagne]: Graphics/harmony/Champagne.png"
+    },
+    {
+      "id": 113,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[D5dropFifth]: Graphics/harmony/D5dropFifth.png",
+      "translated_sentence": "[D5dropFifth]: Graphics/harmony/D5dropFifth.png"
+    },
+    {
+      "id": 114,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[D5problem]: Graphics/harmony/D5problem.png",
+      "translated_sentence": "[D5problem]: Graphics/harmony/D5problem.png"
+    },
+    {
+      "id": 115,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[ParallelTenths]: Graphics/harmony/ParallelTenths.png",
+      "translated_sentence": "[ParallelTenths]: Graphics/harmony/ParallelTenths.png"
+    },
+    {
+      "id": 116,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[PinkChampagne]: Graphics/harmony/PinkChampagne.png",
+      "translated_sentence": "[PinkChampagne]: Graphics/harmony/PinkChampagne.png"
+    },
+    {
+      "id": 117,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[S4dropThird]: Graphics/harmony/S4dropThird.png",
+      "translated_sentence": "[S4dropThird]: Graphics/harmony/S4dropThird.png"
+    },
+    {
+      "id": 118,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[S4problem]: Graphics/harmony/S4problem.png",
+      "translated_sentence": "[S4problem]: Graphics/harmony/S4problem.png"
+    },
+    {
+      "id": 119,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[T1dropFifth]: Graphics/harmony/T1dropFifth.png",
+      "translated_sentence": "[T1dropFifth]: Graphics/harmony/T1dropFifth.png"
+    },
+    {
+      "id": 120,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[VE63]: Graphics/harmony/VE63.png",
+      "translated_sentence": "[VE63]: Graphics/harmony/VE63.png"
+    },
+    {
+      "id": 121,
+      "file": "KBVLschemata.md",
+      "source_sentence": "[VE64]: Graphics/harmony/VE64.png",
+      "translated_sentence": "[VE64]: Graphics/harmony/VE64.png"
+    },
+    {
+      "id": 122,
+      "file": "MinuetForm.md",
+      "source_sentence": "Formal containers in the classical minuet #",
+      "translated_sentence": "מבנים פורמליים במנואט הקלאסי #"
+    },
+    {
+      "id": 123,
+      "file": "MinuetForm.md",
+      "source_sentence": "A classical minuet movement typically contains a *main minuet*, followed by a *trio* that is very similar in structure with a minuet, followed by a *da capo* repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: *minuet–trio–minuet da capo*.",
+      "translated_sentence": "פרק מינואט קלאסי מכיל בדרך כלל *מינואט ראשי* (main minuet), שלאחריו מגיע *טריו* (trio) הדומה מאוד במבנהו למינואט, ולאחריו חזרה *דה קאפו* (da capo) על המינואט הראשי (בדרך כלל מבוצעת ללא ביצוע החזרות). לפיכך, לפרק יש מבנה רחב-היקף של ABA': *מינואט–טריו–מינואט דה קאפו*."
+    },
+    {
+      "id": 124,
+      "file": "MinuetForm.md",
+      "source_sentence": "Both the main minuet and the trio tend to be *small ternary* structures. Like the minuet/trio movement, the small ternary form follows an ABA' structure. However, the small ternary structure found in the typical minuet is of the *rounded binary* type. That is, while there are three distinct parts—A, B, and A'—they are grouped into two larger sections, each of which is repeated.",
+      "translated_sentence": "גם המינואט הראשי וגם הטריו נוטים להיות מבנים של *תלת-חלקי קטן* (small ternary). בדומה לפרק המינואט/טריו, צורת התלת-חלקי הקטן עוקבת אחר מבנה ABA'. עם זאת, מבנה התלת-חלקי הקטן המצוי במינואט הטיפוסי הוא מסוג *בינארי מעוגל* (rounded binary). כלומר, בעוד שקיימים שלושה חלקים נפרדים—A, B ו-A'—הם מקובצים לשני סעיפים גדולים יותר, שכל אחד מהם חוזר על עצמו."
+    },
+    {
+      "id": 125,
+      "file": "MinuetForm.md",
+      "source_sentence": "The first part in the two-part structure is the *first reprise*, and the second part is the *second reprise*, so called because they each repeat. The first reprise contains the A section of the minuet; the second contains the B and the A' sections.",
+      "translated_sentence": "החלק הראשון במבנה הדו-חלקי הוא ה-*first reprise* (חזרה ראשונה), והחלק השני הוא ה-*second reprise* (חזרה שנייה), שנקראים כך מכיוון שכל אחד מהם חוזר על עצמו. ה-*first reprise* מכיל את סעיף A של המינואט; ה-*second reprise* מכיל את סעיפים B ו-A'."
+    },
+    {
+      "id": 126,
+      "file": "MinuetForm.md",
+      "source_sentence": "When listening to the minuet, the three parts of the small ternary structure are heard in the order:",
+      "translated_sentence": "בעת האזנה למנואט (minuet), שלושת החלקים של המבנה הטרינרי הקטן (small ternary structure) נשמעים בסדר הבא:"
+    },
+    {
+      "id": 127,
+      "file": "MinuetForm.md",
+      "source_sentence": "Thus, the minuet form has properties both of ternary or three-part form (three distinct sections: A, B, A') and binary or two-part form (two reprises).",
+      "translated_sentence": "לפיכך, לצורת המינואט (Minuet form) יש מאפיינים של צורה טרנרית או תלת-חלקית (שלושה חלקים מובחנים: A, B, A') וגם של צורה בינארית או דו-חלקית (שתי חזרות)."
+    },
+    {
+      "id": 128,
+      "file": "MinuetForm.md",
+      "source_sentence": "Formal functions in the classical minuet #",
+      "translated_sentence": "פונקציות פורמליות (Formal functions) במינואט הקלאסי #"
+    },
+    {
+      "id": 129,
+      "file": "MinuetForm.md",
+      "source_sentence": "Each container in the minuet's (or the trio's) small ternary form has its own formal function attached to it. The formal function exhibited in the A section is called *exposition* function; the B section *contrasting middle* function; and the A' section *recapitulation* function. As with all formal functions, each of these functions have *internal characteristics* that define and identify it as well as a *position within the larger formal structure* that define it.",
+      "translated_sentence": "לכל תיבה במבנה הטרינרי (small ternary form) הקטן של המינואט (או הטריו) יש פונקציה צורנית (formal function) משלה. הפונקציה הצורנית הבאה לידי ביטוי בחלק A נקראת פונקציית *אקספוזיציה* (exposition); חלק B נקרא פונקציית *אמצע מנוגד* (contrasting middle); וחלק A' נקרא פונקציית *רפריזה* (recapitulation). כפי שקורה בכל הפונקציות הצורניות, לכל אחת מהפונקציות הללו יש *מאפיינים פנימיים* (internal characteristics) המגדירים ומזהים אותה, וכן *מיקום בתוך המבנה הצורני הרחב יותר* (position within the larger formal structure) המגדיר אותה."
+    },
+    {
+      "id": 130,
+      "file": "MinuetForm.md",
+      "source_sentence": "Exposition ##",
+      "translated_sentence": "אקספוזיציה (Exposition) ##"
+    },
+    {
+      "id": 131,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive internal characteristics of *exposition* function are the presence of a *characteristic melodic theme* that will define and identify the minuet, the *establishment of the home key*, and *movement toward a secondary key*. The characteristic melodic theme is typically a *period* or *hybrid 1* (antecedent + continuation), though it may also be a sentence or another hybrid type. In a typical exposition containing a period or hybrid 1, the home key is established by a cadence in the home key—usually a I:HC—at the end of the antecedent phrase. (A sentence would establish the home key through tonic prolongation in the presentation phrase.) Movement toward a secondary key takes place in a continuation or consequent phrase, ending almost always with a V:PAC (when coming from a major home key) or a III:PAC (minor home key). A *modulating Prinner* schema is often used in a continuation phrase modulating to V. Harmonic sequences are also common means of moving to the new key.",
+      "translated_sentence": "המאפיינים הפנימיים המכריעים של פונקציית ה*אקספוזיציה* (exposition) הם נוכחותו של *נושא מלודי אופייני* (characteristic melodic theme) שיגדיר ויזהה את המינואט, *ביסוס הסולם הביתי* (establishment of the home key), ו*תנועה לעבר סולם משני* (movement toward a secondary key). הנושא המלודי האופייני הוא בדרך כלל *תקופה* (period) או *היבריד 1* (hybrid 1) (קודם + המשך), אם כי הוא עשוי להיות גם משפט (sentence) או סוג היברידי אחר. באקספוזיציה טיפוסית המכילה תקופה או היבריד 1, הסולם הביתי מבוסס על ידי קדנצה בסולם הביתי — בדרך כלל I:HC — בסוף משפט הקודם. (משפט יבסס את הסולם הביתי באמצעות הארכת טוניקה בביטוי ההצגה). תנועה לעבר סולם משני מתרחשת בביטוי המשך או עוקב, ומסתיימת כמעט תמיד ב-V:PAC (כאשר מגיעים מסולם ביתי במייג'ור) או ב-III:PAC (סולם ביתי במינור). סכימת *פרינר מודולטורי* (modulating Prinner) משמשת לעיתים קרובות בביטוי המשך המודולטורי ל-V. רצפים הרמוניים הם גם אמצעים נפוצים למעבר לסולם החדש."
+    },
+    {
+      "id": 132,
+      "file": "MinuetForm.md",
+      "source_sentence": "Major-key exposition:",
+      "translated_sentence": "אקספוזיציה בסולם מז'ורי (Major-key exposition):"
+    },
+    {
+      "id": 133,
+      "file": "MinuetForm.md",
+      "source_sentence": "phrase 1: Antecedent → I:HC",
+      "translated_sentence": "ביטוי 1: משפט קודם (Antecedent) → I:HC"
+    },
+    {
+      "id": 134,
+      "file": "MinuetForm.md",
+      "source_sentence": "phrase 2: Consequent/continuation → V:PAC",
+      "translated_sentence": "משפט 2: משפט משלים/המשך (Consequent/continuation) → V:PAC"
+    },
+    {
+      "id": 135,
+      "file": "MinuetForm.md",
+      "source_sentence": "Minor-key exposition:",
+      "translated_sentence": "אקספוזיציה בסולם מינורי:"
+    },
+    {
+      "id": 136,
+      "file": "MinuetForm.md",
+      "source_sentence": "phrase 1: Antecedent → I:HC",
+      "translated_sentence": "משפט 1: Antecedent (קדם) → I:HC"
+    },
+    {
+      "id": 137,
+      "file": "MinuetForm.md",
+      "source_sentence": "phrase 2: Consequent/continuation → III:PAC",
+      "translated_sentence": "משפט 2: משפט משלים/המשך (Consequent/continuation) → III:PAC"
+    },
+    {
+      "id": 138,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive position of exposition function is at the beginning of a small ternary form (A section, beginning of the minuet or beginning of the trio). When a minuet or trio begins, expect the above internal characteristics to be present, and listen for any deviations from those norms.",
+      "translated_sentence": "המיקום המובהק של פונקציית האקספוזיציה (Exposition function) הוא בתחילתה של צורה טרנרית קטנה (חלק A, תחילת המינואט או תחילת הטריו). כאשר מינואט או טריו מתחילים, צפו לכך שהמאפיינים הפנימיים לעיל יהיו נוכחים, והקשיבו לכל סטייה מנורמות אלו."
+    },
+    {
+      "id": 139,
+      "file": "MinuetForm.md",
+      "source_sentence": "When listening to a minuet to identify whether or not a passage exhibits *exhibition* function, first keep in mind simply that minuets rarely begin with a function other than exposition. If you are listening to a passage without knowing where the passage occurs in the movement, listen for a single tight-knit theme that ends with a V:PAC or III:PAC. If you are unsure about the modulation, use the repeat of the A secion to determine whether the A section begins in the same key in which it ends. Classical minuets are highly conventional forms, and there are rarely exposition modulations other than I-to-V in major or I-to-III in minor.",
+      "translated_sentence": "כאשר מאזינים למנואט (minuet) כדי לזהות אם קטע מסוים מפגין פונקציית *תצוגה* (exhibition function), יש לזכור בראש ובראשונה שמנואטים מתחילים לעיתים רחוקות בפונקציה שאינה אקספוזיציה (exposition). אם אתם מאזינים לקטע מבלי לדעת היכן הוא מופיע בפרק, הקשיבו לנושא הדוק (tight-knit theme) שמסתיים ב-V:PAC או ב-III:PAC. אם אינכם בטוחים לגבי המודולציה (modulation), השתמשו בחזרה על חלק A כדי לקבוע אם חלק A מתחיל באותו סולם שבו הוא מסתיים. מנואטים קלאסיים הם צורות קונבנציונליות ביותר, ולעיתים רחוקות קיימות מודולציות של אקספוזיציה שאינן I ל-V בסולם מז'ורי או I ל-III בסולם מינורי."
+    },
+    {
+      "id": 140,
+      "file": "MinuetForm.md",
+      "source_sentence": "Contrasting middle ##",
+      "translated_sentence": "קטע אמצעי מנוגד (Contrasting middle) ##"
+    },
+    {
+      "id": 141,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive internal characteristics of *contrasting middle* function are a *return to the home key* culminating in a I:HC or a *dominant arrival* in the home key, and a likely looser-knit structure than found in exposition or recapitulation functions. The return to the home key is often, though not always, accomplished by a *Fonte*, *Monte*, or *Ponte* schema, or some combination of those schemas, beginning immediately after the end of the A section/first reprise. Tighter-knit B sections are almost always *sentences*, beginning with a two-bar basic idea that is repeated a step higher (*Monte*) or a step lower (*Fonte*).",
+      "translated_sentence": "המאפיינים הפנימיים המובהקים של פונקציית *האמצע המנוגד* (*contrasting middle*) הם *חזרה לסולם הבית* (*return to the home key*) המגיעה לשיאה ב-I:HC או ב*הגעה לדומיננטה* (*dominant arrival*) בסולם הבית, ומבנה שסביר להניח שהוא רופף יותר מזה שנמצא בפונקציות של אקספוזיציה או רפריזה. החזרה לסולם הבית מושגת לעיתים קרובות, אם כי לא תמיד, באמצעות סכימת *פונטה* (*Fonte*), *מונטה* (*Monte*) או *פונטה* (*Ponte*), או שילוב כלשהו של סכימות אלו, המתחיל מיד לאחר סיום חלק A/החזרה הראשונה. חלקי B הדוקים יותר הם כמעט תמיד *משפטים* (*sentences*), המתחילים ברעיון בסיסי בן שתי תיבות שחוזר על עצמו צעד אחד גבוה יותר (*Monte*) או צעד אחד נמוך יותר (*Fonte*)."
+    },
+    {
+      "id": 142,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive position of *contrasting middle* function is immediately following *exposition function* at the beginning of the second reprise (B section in a small ternary). If you lose track of the boundary between the A and B sections, listen for the repeat of the second reprise, which will go back to the beginning of the B section.",
+      "translated_sentence": "המיקום המובהק של פונקציית *האמצע המנוגד* (*contrasting middle*) הוא מיד לאחר *פונקציית התצוגה* (*exposition function*) בתחילתה של החזרה השנייה (חלק B במבנה טרנרי קטן). אם איבדתם את המעקב אחר הגבול שבין חלק A לחלק B, הקשיבו לחזרה של החזרה השנייה, אשר תחזור לתחילתו של חלק B."
+    },
+    {
+      "id": 143,
+      "file": "MinuetForm.md",
+      "source_sentence": "Recapitulation ##",
+      "translated_sentence": "חזרה (Recapitulation) ##"
+    },
+    {
+      "id": 144,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive internal characteristics of *recapitulation* function are the *return of the basic idea* from the A section at the beginning of the recapitulation, the *return of the home key* at the beginning of the recapitulation, and a final cadence in the home key—I:PAC. In a typical small ternary, the antecedent phrases that open A and A' are identical or nearly so. If a *modulating Prinner* was used in the A section's continuation phrase to modulate to V, a non-modulating Prinner will be used in the A' section's continuation phrase to prepare the final I:PAC.",
+      "translated_sentence": "המאפיינים הפנימיים המכריעים של פונקציית ה*רפריזה* (recapitulation) הם *חזרת הרעיון הבסיסי* (return of the basic idea) מפרק A בתחילת הרפריזה, *חזרת סולם הבית* (return of the home key) בתחילת הרפריזה, וקדנצה סופית בסולם הבית—I:PAC. במבנה טרנרי קטן טיפוסי, משפטי ה-antecedent הפותחים את A ואת A' הם זהים או כמעט זהים. אם נעשה שימוש ב-*פרינר מודולטורי* (modulating Prinner) בתוך משפט ההמשך של פרק A כדי לבצע מודולציה ל-V, ייעשה שימוש בפרינר לא-מודולטורי בתוך משפט ההמשך של פרק A' כדי להכין את ה-I:PAC הסופי."
+    },
+    {
+      "id": 145,
+      "file": "MinuetForm.md",
+      "source_sentence": "The definitive position of *recapitulation* function is at the end of the second reprise, immediately following *contrasting middle* function (and preceding the repeat of the *contrasting middle* function when the entire second reprise is repeated).",
+      "translated_sentence": "המיקום המכריע של פונקציית ה*רפריזה* (recapitulation) הוא בסוף הרפריזה השנייה, מיד לאחר פונקציית ה*אמצע המנוגד* (contrasting middle) (ולפני החזרה על פונקציית ה*אמצע המנוגד* כאשר כל הרפריזה השנייה חוזרת על עצמה)."
+    },
+    {
+      "id": 146,
+      "file": "Modulation.md",
+      "source_sentence": "*Tonicization* occurs when a chord or short succession of chords are borrowed from another key in order to emphasize—or *tonicize*—a chord in the home key. (See [analyzing applied chords][Applied].) *Modulation* occurs when a longer succession of chords emphasizes a new tonic, leading to the perception of a new key. The principal difference between tonicization and modulation is the presence or absence of a cadence: tonicization does *not* incorporate a cadence in the tonicized key; modulation *does* incorporate at least one cadence (PAC, IAC, or HC) in a new key.",
+      "translated_sentence": "*טוניקיזציה* (Tonicization) מתרחשת כאשר אקורד או רצף קצר של אקורדים מושאלים מסולם אחר על מנת להדגיש — או *לטוניקז* (tonicize) — אקורד בסולם הבית. (ראו [ניתוח אקורדים מושאלים][Applied]). *מודולציה* (Modulation) מתרחשת כאשר רצף ארוך יותר של אקורדים מדגיש טוניקה חדשה, מה שמוביל לתפיסה של סולם חדש. ההבדל העיקרי בין טוניקיזציה לבין מודולציה הוא הנוכחות או ההיעדרות של קדנציה: טוניקיזציה *אינה* משלבת קדנציה בסולם שעבר טוניקיזציה; מודולציה *כן* משלבת לפחות קדנציה אחת (PAC, IAC, או HC) בסולם חדש."
+    },
+    {
+      "id": 147,
+      "file": "Modulation.md",
+      "source_sentence": "There are several ways in which a composer can effect a modulation. The most common are described below.",
+      "translated_sentence": "ישנן מספר דרכים שבהן מלחין יכול לבצע מודולציה (Modulation). הנפוצות שבהן מתוארות להלן."
+    },
+    {
+      "id": 148,
+      "file": "Modulation.md",
+      "source_sentence": "Direct/phrase modulation",
+      "translated_sentence": "מודולציה ישירה/משפטית (Direct/phrase modulation)"
+    },
+    {
+      "id": 149,
+      "file": "Modulation.md",
+      "source_sentence": "A *direct modulation* occurs when a chord in the previous key is followed directly by a chord in the new key. In other words, there is no smooth transition or overlap between keys, just a direct movement from one key to the next. This often happens at phrase boundaries, with the old-key tonic ending one phrase and the new-key tonic beginning the next. When a direct modulation happens across a phrase boundary, it is also called a *phrase modulation*.",
+      "translated_sentence": "*מודולציה ישירה* (direct modulation) מתרחשת כאשר אקורד בסולם הקודם מופיע מיד לפני אקורד בסולם החדש. במילים אחרות, אין מעבר חלק או חפיפה בין הסולמות, אלא תנועה ישירה מסולם אחד למשנהו. הדבר קורה לעיתים קרובות בגבולות של משפטים מוזיקליים, כאשר הטוניקה של הסולם הישן מסיימת משפט אחד והטוניקה של הסולם החדש מתחילה את המשפט הבא. כאשר מודולציה ישירה מתרחשת על פני גבול של משפט, היא נקראת גם *מודולציית משפט* (phrase modulation)."
+    },
+    {
+      "id": 150,
+      "file": "Modulation.md",
+      "source_sentence": "Examples of phrase modulations abound at the point between the end of the exposition in a minuet or a sonata and the beginning of the repeat of the exposition (if an exposition repeat is present).",
+      "translated_sentence": "דוגמאות למודולציות משפטיות (phrase modulations) מצויות בשפע בנקודה שבין סוף האקספוזיציה במינואט או בסונטה לבין תחילת החזרה על האקספוזיציה (אם קיימת חזרה על אקספוזיציה)."
+    },
+    {
+      "id": 151,
+      "file": "Modulation.md",
+      "source_sentence": "A direct modulation is noted in a harmonic analysis by following the last chord in the old key with the new key, followed by a colon, and then the first chord in the new key.",
+      "translated_sentence": "מודולציה ישירה (Direct modulation) מסומנת בניתוח הרמוני על ידי ציון הסולם החדש לאחר האקורד האחרון בסולם הישן, בצירוף נקודתיים, ולאחריהם האקורד הראשון בסולם החדש."
+    },
+    {
+      "id": 152,
+      "file": "Modulation.md",
+      "source_sentence": "G: I II V I Am: I . . .",
+      "translated_sentence": "G: I II V I Am: I . . ."
+    },
+    {
+      "id": 153,
+      "file": "Modulation.md",
+      "source_sentence": "or",
+      "translated_sentence": "או"
+    },
+    {
+      "id": 154,
+      "file": "Modulation.md",
+      "source_sentence": "G: T1 S4 D5 T1 Am: T1 . . .",
+      "translated_sentence": "G: T1 S4 D5 T1 Am: T1 . . ."
+    },
+    {
+      "id": 155,
+      "file": "Modulation.md",
+      "source_sentence": "Step-up/pump-up modulation",
+      "translated_sentence": "מודולציית עלייה (Step-up/pump-up modulation)"
+    },
+    {
+      "id": 156,
+      "file": "Modulation.md",
+      "source_sentence": "In the pop literature (and in some Christian liturgical contexts), direct modulations by whole- or half-step are common near the end of the song. Direct/phrase modulations by step from old-key tonic to new-key tonic in pop music are also called *step-up* or *pump-up modulations*. A step-up modulation is notated like a direct modulation.",
+      "translated_sentence": "בספרות הפופ (ובחלק מהקשרים ליטורגיים נוצריים), מודולציות ישירות (Direct modulations) בחצי טון או בטון שלם נפוצות לקראת סוף השיר. מודולציות ישירות/משפטיות (Direct/phrase modulations) בדרגה מהטוניקה של הסולם הישן לטוניקה של הסולם החדש במוזיקת פופ מכונות גם *step-up* או *pump-up modulations*. מודולציית *step-up* מסומנת בדומה למודולציה ישירה."
+    },
+    {
+      "id": 157,
+      "file": "Modulation.md",
+      "source_sentence": "\"I Wanna Be Sedated\" by the Ramones includes an obvious *step-up* modulation (1:10).",
+      "translated_sentence": "השיר \"I Wanna Be Sedated\" של להקת הראמונס (Ramones) כולל מודולציית *עלייה בחצי טון* (step-up modulation) ברורה (1:10)."
+    },
+    {
+      "id": 158,
+      "file": "Modulation.md",
+      "source_sentence": "<iframe class=\"spotify\"  src=\"https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF\" frameborder=\"0\" allowtransparency=\"true\"></iframe>",
+      "translated_sentence": "<iframe class=\"spotify\"  src=\"https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
+    },
+    {
+      "id": 159,
+      "file": "Modulation.md",
+      "source_sentence": "Truck-driver modulation",
+      "translated_sentence": "מודולציית נהג משאית (Truck-driver modulation)"
+    },
+    {
+      "id": 160,
+      "file": "Modulation.md",
+      "source_sentence": "A *truck-driver* modulation is a direct modulation that moves from the old key (usually the tonic chord) to the dominant chord of the new key to prepare that tonic arrival, again common in pop music. The idea behind the name (coined by Walter Everett) is that the music loses energy briefly while in \"neutral\" (the new key dominant) before moving to a higher state of energy (the new-key tonic, a step above the old-key tonic). A truck-driver modulation is notated like a direct modulation.",
+      "translated_sentence": "מודולציית *נהג משאית* (truck-driver modulation) היא מודולציה ישירה העוברת מהסולם הישן (בדרך כלל אקורד הטוניקה) אל אקורד הדומיננטה של הסולם החדש כדי להכין את ההגעה לטוניקה החדשה; טכניקה זו נפוצה במוזיקת פופ. הרעיון מאחורי השם (שטבע וולטר אוורט) הוא שהמוזיקה מאבדת אנרגיה לרגע בזמן שהיא נמצאת ב\"ניוטרל\" (הדומיננטה של הסולם החדש) לפני המעבר למצב אנרגטי גבוה יותר (הטוניקה של הסולם החדש, צעד אחד מעל הטוניקה של הסולם הישן). מודולציית נהג משאית מסומנת בדומה למודולציה ישירה."
+    },
+    {
+      "id": 161,
+      "file": "Modulation.md",
+      "source_sentence": "Billy Ocean's \"Get Outta My Dreams\" contains a classic truck-driver modulation (3:55).",
+      "translated_sentence": "השיר \"Get Outta My Dreams\" של בילי אושן מכיל מודולציית נהג משאית (truck-driver modulation) קלאסית (3:55)."
+    },
+    {
+      "id": 162,
+      "file": "Modulation.md",
+      "source_sentence": "<iframe class=\"spotify\" src=\"https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ\"></iframe>",
+      "translated_sentence": "<iframe class=\"spotify\" src=\"https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ\"></iframe>"
+    },
+    {
+      "id": 163,
+      "file": "Modulation.md",
+      "source_sentence": "Pivot-chord modulation",
+      "translated_sentence": "מודולציית אקורד ציר (Pivot-chord modulation)"
+    },
+    {
+      "id": 164,
+      "file": "Modulation.md",
+      "source_sentence": "A *pivot-chord* modulation makes use of at least one chord that is native to both the old key and the new key. It is the most common type of modulation in common-practice tonal music. The smoothest type of pivot-chord modulation uses a pivot-chord that expresses the same function in both keys, preferably subdominant function, but other functional arrangements are possible and commonly used.",
+      "translated_sentence": "מודולציית *אקורד ציר* (pivot-chord modulation) עושה שימוש באקורד אחד לפחות המשותף לסולם הישן ולסולם החדש. זהו סוג המודולציה הנפוץ ביותר במוזיקה טונאלית מתקופת הפרקטיקה המקובלת (common-practice tonal music). הסוג החלק ביותר של מודולציית אקורד ציר משתמש באקורד ציר המבטא את אותה פונקציה בשני הסולמות, רצוי פונקציית סובדומיננטה (subdominant function), אך סידורים פונקציונליים אחרים אפשריים ונמצאים בשימוש נפוץ."
+    },
+    {
+      "id": 165,
+      "file": "Modulation.md",
+      "source_sentence": "When a chord expresses dominant function in the new key and is an applied chord in the old key, it is not a pivot chord. Instead, that chord is effecting a direct or truck-driver modulation. A pivot chord must belong to the diatonic collection of both keys (keeping in mind that in minor, both *la* and *le*, and both *ti* and *te* are \"native\" to the minor key).",
+      "translated_sentence": "כאשר אקורד מבטא פונקציה דומיננטית בסולם החדש ומהווה אקורד מושאל (applied chord) בסולם הישן, הוא אינו אקורד ציר (pivot chord). במקום זאת, אקורד זה מחולל מודולציה ישירה או מודולציית \"נהג משאית\" (truck-driver modulation). אקורד ציר חייב להשתייך למערך הדיאטוני של שני הסולמות (תוך התחשבות בכך שבסולם מינורי, גם *לה* וגם *לה במול*, וגם *טי* וגם *טי במול* הם \"טבעיים\" לסולם המינורי)."
+    },
+    {
+      "id": 166,
+      "file": "Modulation.md",
+      "source_sentence": "A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, the two-layered analysis is fine. When analyzing by hand, use a bracket like the one shown in the following example.",
+      "translated_sentence": "מודולציית אקורד ציר (pivot-chord modulation) מסומנת בדרך מיוחדת. אקורד הציר מקבל את הסימון האנליטי שלו עבור הסולם הישן, כרגיל. מתחת לסימון זה מופיע הסולם החדש, נקודתיים, והסימון האנליטי של אקורד הציר בסולם החדש. בעת שימוש בתוכנת תיווי, ניתוח דו-שכבתי הוא תקין. בעת ניתוח ידני, יש להשתמש בסוגריים מסולסלים כמו זה המוצג בדוגמה הבאה."
+    },
+    {
+      "id": 167,
+      "file": "Modulation.md",
+      "source_sentence": "***new modulation graphic***",
+      "translated_sentence": "גרפיקת מודולציה חדשה"
+    },
+    {
+      "id": 168,
+      "file": "Modulation.md",
+      "source_sentence": "[Applied]: appliedChords.html",
+      "translated_sentence": "[Applied]: appliedChords.html"
+    },
+    {
+      "id": 169,
+      "file": "Modulation.md",
+      "source_sentence": "[mod]: Graphics/harmony/modEx.png",
+      "translated_sentence": "[mod]: Graphics/harmony/modEx.png"
+    },
+    {
+      "id": 170,
+      "file": "README.md",
+      "source_sentence": "musicianship",
+      "translated_sentence": "מוזיקליות (Musicianship)"
+    },
+    {
+      "id": 171,
+      "file": "README.md",
+      "source_sentence": "A growing, online \"textbook\" for music theory and aural skills",
+      "translated_sentence": "\"ספר לימוד\" מקוון ומתפתח לתיאוריה מוזיקלית ומיומנויות שמיעה (Aural Skills)"
+    },
+    {
+      "id": 172,
+      "file": "RNfromFB.md",
+      "source_sentence": "Both bass lines and root progressions are important for the study and mastery of tonal harmony. Most of our work will focus on the bass lines, and what follows will help you analyze the root progressions present in any figured bass line. In other words, this will help you perform a Roman numeral analysis of a figured bass line.",
+      "translated_sentence": "גם קווי בס וגם מהלכי שורש (root progressions) חשובים ללימוד ולשליטה בהרמוניה טונאלית (tonal harmony). רוב עבודתנו תתמקד בקווי הבס, והדברים הבאים יסייעו לך לנתח את מהלכי השורש הקיימים בכל קו בס ממוספר (figured bass). במילים אחרות, זה יעזור לך לבצע ניתוח ספרות רומיות (Roman numeral analysis) של קו בס ממוספר."
+    },
+    {
+      "id": 173,
+      "file": "RNfromFB.md",
+      "source_sentence": "Note that on the charts below, generic capital Roman numerals are provided.",
+      "translated_sentence": "שימו לב שבתרשימים להלן, נעשה שימוש בספרות רומיות כלליות באותיות גדולות."
+    },
+    {
+      "id": 174,
+      "file": "RNfromFB.md",
+      "source_sentence": "Chords of the fifth",
+      "translated_sentence": "אקורדים של קווינטה (Chords of the fifth)"
+    },
+    {
+      "id": 175,
+      "file": "RNfromFB.md",
+      "source_sentence": "In any chord of the fifth (\"root position\": 5/3 or 7/5/3 chord), the bass note and the root of the chord are the same. The Roman numeral to be assigned to any chord of the fifth, then, is the scale degree of its bass note. If *do* is in the bass, the bass is scale-degree 1, and the Roman numeral is **I**. If *re* is in the bass, the Roman numeral is **II**. And so on.",
+      "translated_sentence": "בכל אקורד חמישה (\"מצב יסודי\" [root position]: אקורד 5/3 או 7/5/3), צליל הבס וצליל היסוד של האקורד הם זהים. לפיכך, הספרה הרומית שיש להקצות לכל אקורד חמישה היא דרגת הסולם של צליל הבס שלו. אם *דו* נמצא בבס, הבס הוא דרגת סולם 1, והספרה הרומית היא **I**. אם *רה* נמצא בבס, הספרה הרומית היא **II**. וכן הלאה."
+    },
+    {
+      "id": 176,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][53chords]",
+      "translated_sentence": "![][53chords]"
+    },
+    {
+      "id": 177,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][7chords]",
+      "translated_sentence": "![][7chords]"
+    },
+    {
+      "id": 178,
+      "file": "RNfromFB.md",
+      "source_sentence": "\"First-inversion\" chords of the sixth",
+      "translated_sentence": "אקורדים ב\"היפוך ראשון\" (First-inversion) מסוג אקורד סקסטה (sixth)"
+    },
+    {
+      "id": 179,
+      "file": "RNfromFB.md",
+      "source_sentence": "Chords of the sixth that take the figures 6/3 or 6/5/3 are *first-inversion* chords. They are so named because the third of the chord (the next chord member above the root) is in the lowest voice. However, thinking about inversions while performing an analysis can be cumbersome. It is often simpler to remember that if the figure is 6/3 or 6/5/3 (or an abbreviation such as 6 or 6/5), *the root of the chord is the sixth above the bass*. If *mi* is in the bass, and the figure is \"6\", the root is *do*, and the Roman numeral is **I**. If *fa* is in the bass and the figure is \"6/5\", the root is *re*, and the Roman numeral is **II**. And so on.",
+      "translated_sentence": "אקורדים של סקסטה (Chords of the sixth) המקבלים את הספרות 6/3 או 6/5/3 הם אקורדים ב*היפוך ראשון* (first-inversion). הם נקראים כך מכיוון שהטרצה של האקורד (חבר האקורד הבא מעל צליל הבסיס) נמצאת בקול הנמוך ביותר. עם זאת, חשיבה על היפוכים בזמן ביצוע ניתוח הרמוני עלולה להיות מסורבלת. לעיתים קרובות פשוט יותר לזכור שאם הספרה היא 6/3 או 6/5/3 (או קיצור כגון 6 או 6/5), *צליל הבסיס של האקורד הוא הסקסטה מעל צליל הבס*. אם *מי* נמצא בבס והספרה היא \"6\", צליל הבסיס הוא *דו*, והספרה הרומית היא **I**. אם *פה* נמצא בבס והספרה היא \"6/5\", צליל הבסיס הוא *רה*, והספרה הרומית היא **II**. וכן הלאה."
+    },
+    {
+      "id": 180,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][63chords]",
+      "translated_sentence": "![][63chords]"
+    },
+    {
+      "id": 181,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][65chords]",
+      "translated_sentence": "![][65chords]"
+    },
+    {
+      "id": 182,
+      "file": "RNfromFB.md",
+      "source_sentence": "\"Second-inversion\" chords of the sixth",
+      "translated_sentence": "אקורדים ב\"היפוך שני\" (Second-inversion) של הסקסטה"
+    },
+    {
+      "id": 183,
+      "file": "RNfromFB.md",
+      "source_sentence": "Chords of the sixth that take the figures 6/4 or 6/4/3 (or an abbreviation such as 4/3) are *second-inversion* chords. They are so named because the fifth of the chord (the second member of the chord above the root) is in the lowest voice. Again, it is often simpler to remember that for 6/4, 6/4/3, and 4/3 chords, *the root is the fourth above the bass*. If *re* is in the bass, and the figure is 4/3, the root is *sol*, and the Roman numeral is **V**.",
+      "translated_sentence": "אקורדים של סקסטה (Chords of the sixth) המקבלים את הספרות 6/4 או 6/4/3 (או קיצור כגון 4/3) הם אקורדים ב*היפוך שני* (second-inversion). הם נקראים כך מכיוון שהקווינטה של האקורד (החבר השני של האקורד מעל צליל הבסיס) נמצאת בקול הנמוך ביותר. שוב, לרוב פשוט יותר לזכור שעבור אקורדים של 6/4, 6/4/3 ו-4/3, *צליל הבסיס (root) הוא הקוורטה מעל הבס*. אם *Re* נמצא בבס, והספרה היא 4/3, צליל הבסיס הוא *Sol*, והספרה הרומית היא **V**."
+    },
+    {
+      "id": 184,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][64chords]",
+      "translated_sentence": "![][64chords]"
+    },
+    {
+      "id": 185,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][43chords]",
+      "translated_sentence": "![][43chords]"
+    },
+    {
+      "id": 186,
+      "file": "RNfromFB.md",
+      "source_sentence": "\"Third-inversion\" chords of the sixth",
+      "translated_sentence": "אקורדים ב\"היפוך שלישי\" (Third-inversion) של הסקסטה"
+    },
+    {
+      "id": 187,
+      "file": "RNfromFB.md",
+      "source_sentence": "Chords of the sixth that take the figure 6/4/2 (or its abbreviation 4/2 or simply 2) are *third-inversion* chords. Their root is a second, or a step, above the bass. The most common 4/2 chord has *fa* in the bass, and *sol* is its root, making its Roman numeral **V**.",
+      "translated_sentence": "אקורדי סקסטה המקבלים את הסימון 6/4/2 (או הקיצור 4/2 או פשוט 2) הם אקורדים ב*היפוך שלישי* (third-inversion). צליל הבסיס (root) שלהם נמצא במרחק של שנייה, או צעד, מעל צליל הבס. אקורד ה-4/2 הנפוץ ביותר כולל את *פה* (fa) בבס, ו*סול* (sol) הוא צליל הבסיס שלו, מה שהופך את הספרה הרומית שלו ל-**V**."
+    },
+    {
+      "id": 188,
+      "file": "RNfromFB.md",
+      "source_sentence": "![][42chords]",
+      "translated_sentence": "![][42chords]"
+    },
+    {
+      "id": 189,
+      "file": "RNfromFB.md",
+      "source_sentence": "[53chords]: Graphics/Inversions/5-3chords.png",
+      "translated_sentence": "[53chords]: Graphics/Inversions/5-3chords.png"
+    },
+    {
+      "id": 190,
+      "file": "RNfromFB.md",
+      "source_sentence": "[63chords]: Graphics/Inversions/6-3chords.png",
+      "translated_sentence": "[63chords]: Graphics/Inversions/6-3chords.png"
+    },
+    {
+      "id": 191,
+      "file": "RNfromFB.md",
+      "source_sentence": "[65chords]: Graphics/Inversions/6-5chords.png",
+      "translated_sentence": "[65chords]: Graphics/Inversions/6-5chords.png"
+    },
+    {
+      "id": 192,
+      "file": "RNfromFB.md",
+      "source_sentence": "[7chords]: Graphics/Inversions/7chords.png",
+      "translated_sentence": "[7chords]: Graphics/Inversions/7chords.png"
+    },
+    {
+      "id": 193,
+      "file": "RNfromFB.md",
+      "source_sentence": "[64chords]: Graphics/Inversions/6-4chords.png",
+      "translated_sentence": "[64chords]: Graphics/Inversions/6-4chords.png"
+    },
+    {
+      "id": 194,
+      "file": "RNfromFB.md",
+      "source_sentence": "[43chords]: Graphics/Inversions/4-3chords.png",
+      "translated_sentence": "[43chords]: Graphics/Inversions/4-3chords.png"
+    },
+    {
+      "id": 195,
+      "file": "RNfromFB.md",
+      "source_sentence": "[42chords]: Graphics/Inversions/4-2chords.png",
+      "translated_sentence": "[42chords]: Graphics/Inversions/4-2chords.png"
+    },
+    {
+      "id": 196,
+      "file": "Schemata.md",
+      "source_sentence": "*Schemata* (pl. of *schema*) are \"stock musical phrases employed in conventional sequences\" (Gjerdingen 2007, p. 6). We can apply the term *schema* in three specific ways. First, a schema is a *prototype*—an idealized version of a common pattern. Second, a schema can be an *exemplar*—a single pattern that resembles the prototype. Third, a schema can be a *theory*—an explanation of a commonly occurring musical event. All of these ideas go into how we understand schemata. We understand an individual pattern (exemplar) as a version of an ideal general pattern (prototype), and that relationship helps us understand how that pattern is functioning within a particular passage of music (theory).",
+      "translated_sentence": "*Schemata* (צורת הרבים של *schema*) הם \"ביטויים מוזיקליים שגורים המשמשים ברצפים קונבנציונליים\" (Gjerdingen 2007, עמ' 6). אנו יכולים להחיל את המונח *schema* בשלוש דרכים ספציפיות. ראשית, *schema* הוא *אב-טיפוס* (prototype) — גרסה אידיאלית של תבנית נפוצה. שנית, *schema* יכול להיות *דוגמה* (exemplar) — תבנית בודדת הדומה לאב-הטיפוס. שלישית, *schema* יכול להיות *תיאוריה* (theory) — הסבר לאירוע מוזיקלי המתרחש בשכיחות גבוהה. כל הרעיונות הללו משתלבים באופן שבו אנו מבינים *schemata*. אנו מבינים תבנית בודדת (דוגמה) כגרסה של תבנית כללית אידיאלית (אב-טיפוס), ומערכת יחסים זו מסייעת לנו להבין כיצד אותה תבנית מתפקדת בתוך קטע מוזיקלי מסוים (תיאוריה)."
+    },
+    {
+      "id": 197,
+      "file": "Schemata.md",
+      "source_sentence": "That latter point is significant. Like harmonic functions and formal functions, schemata have both internal defining characteristics *and* normative placements within a series of musical events. Just as identifying and interpreting the function of a particular chord involves taking an inventory of its internal characteristics (the scale degrees present) and its location in the phrase, identifying and interpreting a particular schema will involve noting both its internal characteristics and what comes before and after it. And just like a chord can project a particular harmonic function without containing every scale degree associated with that function, a phrase or sub-phrase can project the identity and function of a particular schema without possessing every defining characteristic of the schema. (In other words, not every exemplar could stand as a prototype.)",
+      "translated_sentence": "הנקודה האחרונה הזו היא משמעותית. בדומה לפונקציות הרמוניות (harmonic functions) ופונקציות צורניות (formal functions), לסכימות (schemata) יש גם מאפיינים מגדירים פנימיים *וגם* מיקומים נורמטיביים בתוך רצף של אירועים מוזיקליים. בדיוק כפי שזיהוי ופרשנות של פונקציה של אקורד מסוים כרוכים בעריכת מלאי של מאפייניו הפנימיים (דרגות הסולם הקיימות בו) ומיקומו בתוך המשפט, זיהוי ופרשנות של סכימה מסוימת יכללו התייחסות הן למאפייניה הפנימיים והן למה שבא לפניה ואחריה. ובדיוק כפי שאקורד יכול להקרין פונקציה הרמונית מסוימת מבלי להכיל כל דרגת סולם המשויכת לאותה פונקציה, משפט או תת-משפט יכולים להקרין את הזהות והפונקציה של סכימה מסוימת מבלי להחזיק בכל מאפיין מגדיר של הסכימה. (במילים אחרות, לא כל דוגמה יכולה לעמוד כאב-טיפוס)."
+    },
+    {
+      "id": 198,
+      "file": "Schemata.md",
+      "source_sentence": "The remainder of this article provides the defining characteristics of a number of schemata common to *galant*, or Classical, music of eighteenth-century European court life, as well as their typical placement in \"conventional sequences.\" The names and descriptions of the schemata follow Gjerdingen's names and descriptions, which were often, in turn, based on the work of theorists like Joseph Riepel. I also frequently connect Gjerdingen's descriptions to formal functions from William Caplin's *Classical Form*. For more detail or examples, please consult those two sources.",
+      "translated_sentence": "המשך מאמר זה מספק את המאפיינים המגדירים של מספר סכימות (schemata) הנפוצות במוזיקה ה*גאלאנטית* (galant), או הקלאסית, של חיי החצר האירופיים במאה השמונה-עשרה, וכן את מיקומן הטיפוסי ב\"רצפים מוסכמים\" (conventional sequences). שמות הסכימות ותיאוריהן עוקבים אחר השמות והתיאורים של ג'רדינגן (Gjerdingen), אשר בתורם התבססו לעיתים קרובות על עבודתם של תיאורטיקנים כמו יוזף ריפל (Joseph Riepel). כמו כן, אני מקשר לעיתים קרובות את תיאוריו של ג'רדינגן לתפקודים צורניים (formal functions) מתוך ספרו של ויליאם קפלין (William Caplin), *צורה קלאסית* (*Classical Form*). לפרטים נוספים או לדוגמאות, אנא עיינו בשני מקורות אלו."
+    },
+    {
+      "id": 199,
+      "file": "Schemata.md",
+      "source_sentence": "Prinner #",
+      "translated_sentence": "פרינר (Prinner) #"
+    },
+    {
+      "id": 200,
+      "file": "Schemata.md",
+      "source_sentence": "The *Prinner* is incredibly common in *galant* music, and it is typically a response to an opening schema. It often occurs in a *sentence* or a *hybrid* theme type as the *continuation* phrase.",
+      "translated_sentence": "ה-*Prinner* נפוץ להפליא במוזיקה *גאלאנטית* (galant), והוא מהווה בדרך כלל מענה לסכימת פתיחה. הוא מופיע לעיתים קרובות בתוך סוג נושא של *משפט* (sentence) או *נושא היברידי* (hybrid) כביטוי ה-*המשך* (continuation)."
+    },
+    {
+      "id": 201,
+      "file": "Schemata.md",
+      "source_sentence": "The Prinner has four parts corresponding to four bass notes: *fa* – *mi/me* – *re* – *do*. The skeleton of the Prinner's melody typically accompanies the bass in parallel tenths: *la/le* – *sol* – *fa* – *mi/me*. Harmonically, the *fa* and *do* bass notes tend to take chords of the fifth, and the two middle bass notes, *mi/me* and *re*, tend to take chords of the sixth. Often the *re*'s chord is embellished by a 7–6 suspension in an inner voice.",
+      "translated_sentence": "ה-Prinner מורכב מארבעה חלקים התואמים לארבעה צלילי בס: *פה* – *מי/מה* – *רה* – *דו*. השלד של מלודית ה-Prinner מלווה בדרך כלל את הבס בטרצות מקבילות (parallel tenths): *לה/לה* – *סול* – *פה* – *מי/מה*. מבחינה הרמונית, צלילי הבס *פה* ו-*דו* נוטים לקבל אקורדים של קווינטה, ושני צלילי הבס האמצעיים, *מי/מה* ו-*רה*, נוטים לקבל אקורדים של סקסטה. לעיתים קרובות, האקורד של ה-*רה* מעוטר על ידי השהיית 7–6 בקול פנימי."
+    },
+    {
+      "id": 202,
+      "file": "Schemata.md",
+      "source_sentence": "Some Prinner exemplars insert a *sol* bass note before the last chord, resulting in an authentic cadence: **D5–T1**. Non-modulating Prinners that operate as continuation phrases often contain this move in order to end the sentence or hybrid theme satisfactorily.",
+      "translated_sentence": "חלק מהדוגמאות ל-Prinner משלבות תו בס במדרגה *סול* (Sol) לפני האקורד האחרון, מה שמוביל לקדנצה אותנטית: **D5–T1**. מבני Prinner ללא מודולציה (Non-modulating) המתפקדים כמשפטי המשך (continuation phrases) מכילים לעיתים קרובות מהלך זה כדי לסיים את המשפט או את הנושא ההיברידי (hybrid theme) בצורה מספקת."
+    },
+    {
+      "id": 203,
+      "file": "Schemata.md",
+      "source_sentence": "Non-modulating Prinners imply *modulating Prinners*. Indeed, the Prinner pattern is often found transposed up a fifth in order to effect a modulation to the dominant of the original key. This modulation is accomplished by a simple transposition. When transposed up a fifth, the first stage of the Prinner (chord of the fifth on *fa*) is the tonic of the home key (chord of the fifth, now on *do*), making a smooth transition. These modulating Prinners are used in sentence or hybrid themes either to modulate to the dominant key or to effect a strong half cadence. They also commonly appear at the beginning of the *Transition (TR)* zone in a sonata movement, effecting the same move to the dominant.",
+      "translated_sentence": "\"פרינרים\" (Prinner) ללא מודולציה מרמזים על *פרינרים מודולטוריים (modulating Prinners)*. אכן, תבנית הפרינר נמצאת לעיתים קרובות בטרנספוזיציה של קווינטה אחת למעלה על מנת להוציא לפועל מודולציה לדומיננטה של הסולם המקורי. מודולציה זו מושגת באמצעות טרנספוזיציה פשוטה. כאשר מתבצעת טרנספוזיציה של קווינטה אחת למעלה, השלב הראשון של הפרינר (אקורד של קווינטה על *פה*) הוא הטוניקה של סולם הבית (אקורד של קווינטה, כעת על *דו*), מה שיוצר מעבר חלק. פרינרים מודולטוריים אלו משמשים בנושאים מסוג משפט (sentence) או נושאים היברידיים, בין אם כדי לבצע מודולציה לסולם הדומיננטה ובין אם כדי להוציא לפועל קדנצה חצויה (half cadence) חזקה. הם מופיעים גם באופן שכיח בתחילת אזור ה-*Transition (TR)* בפרק סונטה, ומבצעים את אותו המהלך אל הדומיננטה."
+    },
+    {
+      "id": 204,
+      "file": "Schemata.md",
+      "source_sentence": "Fonte #",
+      "translated_sentence": "מקור #"
+    },
+    {
+      "id": 205,
+      "file": "Schemata.md",
+      "source_sentence": "A *Fonte* (It. for \"fountain\" or \"well\"—think *going down*) is a common pattern to begin the *contrasting middle* of a small ternary form. In other words, it follows the double-bar in a minuet, minuet trio, or rounded-binary theme. A Fonte is a *model/sequence* schema: a two-bar pattern is immediately repeated one step lower than the original.",
+      "translated_sentence": "ה-*Fonte* (באיטלקית: \"מזרקה\" או \"באר\" — חשבו על *ירידה*) הוא תבנית נפוצה לפתיחת ה-*contrasting middle* (אמצע מנוגד) של צורה טרנארית קטנה (small ternary form). במילים אחרות, הוא מופיע לאחר קו התיבה הכפול (double-bar) במנואט, בטריו של מנואט, או בנושא במבנה בינארי מעוגל (rounded-binary). ה-*Fonte* הוא סכימת *model/sequence* (מודל/רצף): תבנית של שתי תיבות החוזרת מיד בדרגה אחת נמוך יותר מהמקור."
+    },
+    {
+      "id": 206,
+      "file": "Schemata.md",
+      "source_sentence": "Harmonically, the first two-bar unit (the *model*) contains two chords, one per bar: an applied dominant chord, and the tonicized chord to which the applied dominant points. The most common chord pattern for the Fonte's model is **D7/II T1/II** *of the home key*, with the **D7** being a chord of the sixth and the **T1** being a chord of the fifth. (Other \"inversions\" are possible, such as **D4/II T3/II**.) When the model composes out **D7/II II**, the sequence will transpose it down to tonic: **D7 T1** *of the home key*.",
+      "translated_sentence": "מבחינה הרמונית, יחידת שתי התיבות הראשונה (ה*מודל*) מכילה שני אקורדים, אחד לכל תיבה: אקורד דומיננטה מושאלת (applied dominant chord), והאקורד המטוּנֶה (tonicized chord) שאליו מצביעה הדומיננטה המושאלת. תבנית האקורדים הנפוצה ביותר עבור המודל של ה-Fonte היא **D7/II T1/II** *של הסולם הראשי*, כאשר ה-**D7** הוא אקורד סקסטה (chord of the sixth) וה-**T1** הוא אקורד קווינטה (chord of the fifth). (\"היפוכים\" אחרים אפשריים, כגון **D4/II T3/II**.) כאשר המודל מפתח את **D7/II II**, הרצף יבצע לו טרנספוזיציה כלפי מטה אל הטוניקה: **D7 T1** *של הסולם הראשי*."
+    },
+    {
+      "id": 207,
+      "file": "Schemata.md",
+      "source_sentence": "As an example, the functional-bass analysis of a typical Fonte in a small ternary whose home key is G major looks like:",
+      "translated_sentence": "כדוגמה, ניתוח פונקציונלי של הבס (functional-bass analysis) של Fonte טיפוסי במבנה טרנרי קטן (small ternary) שהסולם הביתי שלו הוא G מייג'ור, נראה כך:"
+    },
+    {
+      "id": 208,
+      "file": "Schemata.md",
+      "source_sentence": "![Haydn, Piano Sonata in G Major, Hob.XVI:27, III., mm. 9–12.][Haydn27]",
+      "translated_sentence": "![היידן, סונטה לפסנתר בסול מז'ור, Hob.XVI:27, פרק שלישי, תיבות 9–12.][Haydn27]"
+    },
+    {
+      "id": 209,
+      "file": "Schemata.md",
+      "source_sentence": "Note the non-cadential progressions, **D7–T1**. Normally such progressions would need to be interpreted as prolonging a tonal function (i.e., tonic function), which would be difficult to interpret here. Schemata often contain such progressions. Simply analyze the chords individually and label the schema, rather than trying to interpret these progressions as prolongational. (Indeed, they are not.)",
+      "translated_sentence": "שימו לב למהלכים שאינם קדנציאליים, **D7–T1**. בדרך כלל, מהלכים כאלה היו דורשים פרשנות כהארכה של פונקציה טונאלית (כלומר, פונקציית טוניקה), דבר שיהיה קשה לפרש כאן. סכמות (Schemata) מכילות לעיתים קרובות מהלכים כאלה. פשוט נתחו את האקורדים בנפרד ותייגו את הסכמה, במקום לנסות לפרש את המהלכים הללו כהארכה (Prolongation). (למעשה, הם אינם כאלה.)"
+    },
+    {
+      "id": 210,
+      "file": "Schemata.md",
+      "source_sentence": "A common model for a minuet containing a Fonte is as follows:",
+      "translated_sentence": "מודל נפוץ עבור מינואט (minuet) המכיל פונטה (Fonte) הוא כדלקמן:"
+    },
+    {
+      "id": 211,
+      "file": "Schemata.md",
+      "source_sentence": "||: EXPOSITION ending with V:PAC :||: Fonte - phrase ending with I:HC – RECAPITULATION :||",
+      "translated_sentence": "||: אקספוזיציה (Exposition) המסתיימת ב-V:PAC :||: פונטה (Fonte) - משפט המסתיין ב-I:HC – רפריזה (Recapitulation) :||"
+    },
+    {
+      "id": 212,
+      "file": "Schemata.md",
+      "source_sentence": "The Fonte is a quick and easy way for a composer to transition from the key of the dominant (where a major-key minuet's exposition cadences immediately before the double-bar) to the key of the tonic. It will usually be followed by a phrase that stands on or moves to the dominant of the home key. The half cadence or *dominant arrival* at the end of that phrase will prepare for the return to the opening material in the home key, the *recapitulation* of the minuet or small ternary.",
+      "translated_sentence": "ה-Fonte היא דרך מהירה וקלה עבור מלחין לעבור מסולם הדומיננטה (שבו האקספוזיציה של מינואט בסולם מז'ורי מסתיימת בקדנצה מיד לפני קו התיבה הכפול) לסולם הטוניקה. לרוב יבוא אחריה משפט מוזיקלי שעומד על הדומיננטה של סולם הבית או נע אליה. הקדנצה החצויה (Half cadence) או *ההגעה לדומיננטה* (*dominant arrival*) בסוף אותו משפט יכינו את הקרקע לחזרה לחומר המוזיקלי הפותח בסולם הבית, ה-*רפריזה* (*recapitulation*) של המינואט או של המבנה הטרינרי הקטן."
+    },
+    {
+      "id": 213,
+      "file": "Schemata.md",
+      "source_sentence": "Monte #",
+      "translated_sentence": "מונטה #"
+    },
+    {
+      "id": 214,
+      "file": "Schemata.md",
+      "source_sentence": "A *Monte* (It. for \"mountain\"—think *going up*) functions similarly to a Fonte. It typically occurs as part of the *contrasting middle* section of a minuet or other small ternary, it is a model/sequence schema, and it involves an applied chord resolving to a tonicized chord—typically a **D7 T1** pattern. The difference is that where a Fonte goes *down* (**D7/II T1/II D7 T1**), a Monte goes *up* (**D7/IV T1/IV D7/V T1/V**). And where a Fonte is almost exclusively four bars long (one model followed by one transposed repetition), a Monte sometimes extends to six or more bars (one model followed by one *or more* transposed repetitions).",
+      "translated_sentence": "*Monte* (באיטלקית: \"הר\" — חשבו על *עלייה*) מתפקד בדומה ל-Fonte. הוא מופיע בדרך כלל כחלק מהחלק ה*אמצעי המנוגד* (contrasting middle) של מינואט או מבנה טרנרי (ternary) קטן אחר, הוא מהווה סכימת מודל/רצף (model/sequence schema), והוא כולל אקורד מושאל (applied chord) הנפתר לאקורד מטוּנֶה (tonicized chord) — בדרך כלל תבנית **D7 T1**. ההבדל הוא שבעוד ש-Fonte יורד (**D7/II T1/II D7 T1**), ה-Monte עולה (**D7/IV T1/IV D7/V T1/V**). ובעוד ש-Fonte הוא כמעט תמיד באורך של ארבע תיבות (מודל אחד ואחריו חזרה אחת בטרנספוזיציה), ה-Monte מתארך לעיתים לשישה תיבות או יותר (מודל אחד ואחריו חזרה אחת *או יותר* בטרנספוזיציה)."
+    },
+    {
+      "id": 215,
+      "file": "Schemata.md",
+      "source_sentence": "Ponte #",
+      "translated_sentence": "גשר (Ponte) #"
+    },
+    {
+      "id": 216,
+      "file": "Schemata.md",
+      "source_sentence": "A *Ponte* (It. for \"bridge\") was another common schema for the *contrasting middle* of a minuet. Unlike the Fonte and the Monte, the Ponte need not be a model/sequence schema. It effects *delay* rather than *motion*. A Ponte typically functions like what Caplin calls *standing on the dominant*. The exposition of the major-key minuet will end with a PAC in the dominant of the home key. When a Ponte follows that cadence, it holds onto that **T1/V**, heightens tension melodically, and often adds a seventh to the chord (making it D5 of the home key). A passage built on a Ponte does not have a cadence, since there is no harmonic progression, but instead ends with a punctuated dominant chord in the home key, which Caplin calls a *dominant arrival* rather than a half cadence. This dominant arrival prepares the return of the home key and the opening basic idea that come at the minuet's recapitulation.",
+      "translated_sentence": "*Ponte* (באיטלקית: \"גשר\") היה סכימה נפוצה נוספת עבור ה-*contrasting middle* (אמצע מנוגד) של מינואט. בניגוד ל-Fonte ול-Monte, ה-Ponte אינו חייב להיות סכימה של מודל/רצף (model/sequence). הוא יוצר *עיכוב* (delay) במקום *תנועה* (motion). ה-Ponte מתפקד בדרך כלל בדומה למה שקפלין (Caplin) מכנה *עמידה על הדומיננטה* (standing on the dominant). האקספוזיציה של מינואט בסולם מייג'ור תסתיים ב-PAC בדומיננטה של סולם הבית. כאשר Ponte עוקב אחר קדנצה זו, הוא נאחז ב-**T1/V** הזה, מגביר את המתח המלודי, ולעיתים קרובות מוסיף ספטימה לאקורד (מה שהופך אותו ל-D5 של סולם הבית). מעבר הבנוי על Ponte אינו כולל קדנצה, שכן אין בו מהלך הרמוני, אלא הוא מסתיים באקורד דומיננטי מודגש בסולם הבית, שקפלין מכנה *הגעה לדומיננטה* (dominant arrival) ולא קדנצה חצויה (half cadence). הגעה דומיננטית זו מכינה את החזרה לסולם הבית ואת הרעיון הבסיסי הפותח המופיעים ברפריזה (recapitulation) של המינואט."
+    },
+    {
+      "id": 217,
+      "file": "Schemata.md",
+      "source_sentence": "[lots more schemas coming in time]",
+      "translated_sentence": "[עוד סכימות רבות יגיעו עם הזמן]"
+    },
+    {
+      "id": 218,
+      "file": "Schemata.md",
+      "source_sentence": "References #",
+      "translated_sentence": "מקורות #"
+    },
+    {
+      "id": 219,
+      "file": "Schemata.md",
+      "source_sentence": "Caplin, William. *Classical Form*. Oxford University Press, 2000.",
+      "translated_sentence": "קפלין, ויליאם. *צורה קלאסית (Classical Form)*. הוצאת אוניברסיטת אוקספורד, 2000."
+    },
+    {
+      "id": 220,
+      "file": "Schemata.md",
+      "source_sentence": "Gjerdingen, Robert O. *Music in the Galant Style*. Oxford University Press, 2007.",
+      "translated_sentence": "Gjerdingen, Robert O. *Music in the Galant Style* (מוזיקה בסגנון הגאלאנט). Oxford University Press, 2007."
+    },
+    {
+      "id": 221,
+      "file": "Schemata.md",
+      "source_sentence": "[Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png width=\"75%\"",
+      "translated_sentence": "[Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png width=\"75%\""
+    },
+    {
+      "id": 222,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The exposition module of a sonata movement comes at or near the beginning of a sonata-form movement. Only an *introduction* (technically, a large [*prefix*](externalExpansions.html)) might precede it. It exhibits exposition function, and thus has three jobs: *establish the home key*, *move to and establish a secondary key with a cadence*, and *lay out the thematic cycle* that will serve as the foundation for the development and recapitulation.",
+      "translated_sentence": "מודול האקספוזיציה (exposition) של פרק סונטה מופיע בתחילת פרק בצורת סונטה או בסמוך לה. רק *מבוא* (introduction) (טכנית, [*קידומת*](externalExpansions.html) גדולה) עשוי להקדים אותו. הוא מפגין תפקוד אקספוזיציה, ועל כן יש לו שלושה תפקידים: *ביסוס הסולם הראשי* (home key), *מעבר לסולם משני וביסוסו באמצעות קדנצה* (cadence), ו*פריסת המחזור התמטי* שישמש כבסיס לפיתוח (development) ולרפריזה (recapitulation)."
+    },
+    {
+      "id": 223,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "There are two main types of sonata expositions: the *two-part* exposition and the *continuous* exposition.",
+      "translated_sentence": "קיימים שני סוגים עיקריים של אקספוזיציות סונטה: האקספוזיציה ה*דו-חלקית* (two-part exposition) והאקספוזיציה ה*רציפה* (continuous exposition)."
+    },
+    {
+      "id": 224,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The two-part exposition #",
+      "translated_sentence": "האקספוזיציה הדו-חלקית (two-part exposition) #"
+    },
+    {
+      "id": 225,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The two-part exposition is divided into two parts: the first part ends with the arrival of the *medial caesura* (MC, the major cadence, often accompanied by a musical pause, in the middle of the exposition), and the second part follows the MC and ends with the *essential expositional closure* (EEC, the major PAC in the secondary key) and any postcadential/closing material that follows it.",
+      "translated_sentence": "האקספוזיציה הדו-חלקית מחולקת לשני חלקים: החלק הראשון מסתיים בהגעה אל ה-*medial caesura* (MC, הקדנצה המרכזית, המלווה לעיתים קרובות בהפסקה מוזיקלית, באמצע האקספוזיציה), והחלק השני עוקב אחר ה-MC ומסתיים ב-*essential expositional closure* (EEC, ה-PAC המרכזי בסולם המשני) ובכל חומר פוסט-קדנציאלי/סוגר הבא בעקבותיו."
+    },
+    {
+      "id": 226,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "A two-part exposition typically exhibits the following thematic cycle (in order):",
+      "translated_sentence": "אקספוזיציה דו-חלקית (two-part exposition) מציגה בדרך כלל את המחזור התמטי הבא (לפי הסדר):"
+    },
+    {
+      "id": 227,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Primary theme (P) – home key",
+      "translated_sentence": "נושא ראשי (P) – סולם הבית (home key)"
+    },
+    {
+      "id": 228,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Transition (TR) – ending with the *medial caesura (MC)*",
+      "translated_sentence": "מעבר (Transition - TR) – מסתיים ב*קטיעה אמצעית (Medial Caesura - MC)*"
+    },
+    {
+      "id": 229,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Secondary theme (S) – secondary key (V or III), ending with the *essential expositional closure (EEC)*",
+      "translated_sentence": "נושא משני (S) – סולם משני (V או III), המסתיים ב-*סגירה אקספוזיציונית הכרחית (Essential Expositional Closure - EEC)*"
+    },
+    {
+      "id": 230,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Closing space (C) – secondary key; optional",
+      "translated_sentence": "מרווח סגירה (C) – סולם משני (secondary key); אופציונלי"
+    },
+    {
+      "id": 231,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending",
+      "translated_sentence": "מעבר חוזר (Retransition - RT) – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה (Exposition); אופציונלי, ומופיע רק בסיומת ראשונה (first ending)"
+    },
+    {
+      "id": 232,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "We can abbreviate this cycle:",
+      "translated_sentence": "ניתן לקצר מעגל זה:"
+    },
+    {
+      "id": 233,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "**P TR ' S / C**",
+      "translated_sentence": "**P TR ' S / C**"
+    },
+    {
+      "id": 234,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "(The apostrophe stands for the MC; the slash stands for the EEC.)",
+      "translated_sentence": "(הגרש מייצג את ה-MC; הלוכסן מייצג את ה-EEC.)"
+    },
+    {
+      "id": 235,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Each of these terms is defined below.",
+      "translated_sentence": "כל אחד ממונחים אלו מוגדר להלן."
+    },
+    {
+      "id": 236,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "**A sample two-part exposition: W.A. Mozart, Sonata for piano in B-flat major, K. 333, I.**",
+      "translated_sentence": "**דוגמה לאקספוזיציה דו-קולית: ו. א. מוצרט, סונאטה לפסנתר ב-B♭ מז'ור, K. 333, פרק I.**"
+    },
+    {
+      "id": 237,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "<iframe class=\"aligncenter\" src=\"http://player.vimeo.com/video/53382539?badge=0\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>",
+      "translated_sentence": "<iframe class=\"aligncenter\" src=\"http://player.vimeo.com/video/53382539?badge=0\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+    },
+    {
+      "id": 238,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "<div style=\"text-align: center\"></div><br/>",
+      "translated_sentence": "<div style=\"text-align: center\"></div><br/>"
+    },
+    {
+      "id": 239,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Multiple MCs ###",
+      "translated_sentence": "מספר MCs ###"
+    },
+    {
+      "id": 240,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Sometimes, a composer sets up a two-part exposition, reaches a satisfactory MC, but the S theme that follows degenerates before it can achieve the EEC. In such a case, the degenerated S theme becomes like a new transition and leads into another MC, followed by an S theme that *can* reach a satisfactory EEC. Hepokoski and Darcy call such a situation a *trimodular block (TMB)*. We will just call it an exposition with two MCs.",
+      "translated_sentence": "לעיתים, מלחין בונה אקספוזיציה דו-חלקית, מגיע ל-MC מספק, אך נושא ה-S שבא בעקבותיו מתנוון לפני שהוא מספיק להגיע ל-EEC. במקרה כזה, נושא ה-S המנוון הופך למעין מעבר (transition) חדש ומוביל ל-MC נוסף, שלאחריו מופיע נושא S ש*מסוגל* להגיע ל-EEC מספק. הפוקוסקי ודרסי (Hepokoski and Darcy) מכנים מצב כזה *בלוק תלת-מודולרי (Trimodular block - TMB)*. אנו פשוט נכנה זאת אקספוזיציה עם שני MC."
+    },
+    {
+      "id": 241,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "A two-part exposition with two MCs typically exhibits the following thematic cycle (in order):",
+      "translated_sentence": "אקספוזיציה דו-חלקית עם שני נושאים מוזיקליים (MCs - Medial Caesuras) מציגה בדרך כלל את המחזור התמטי הבא (לפי הסדר):"
+    },
+    {
+      "id": 242,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Primary theme (P) – home key",
+      "translated_sentence": "נושא ראשי (Primary theme - P) – סולם הבית"
+    },
+    {
+      "id": 243,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Transition (TR) – ending with the *medial caesura (MC)*",
+      "translated_sentence": "מעבר (Transition - TR) – מסתיים ב-*קזורה אמצעית (Medial Caesura - MC)*"
+    },
+    {
+      "id": 244,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "\"Failed\" secondary theme (S?) that does not produce an EEC, but instead leads to a second MC",
+      "translated_sentence": "נושא משני \"כושל\" (S?) שאינו מפיק EEC, אלא מוביל במקום זאת ל-MC שני"
+    },
+    {
+      "id": 245,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "\"Real\" secondary theme (S), ending with the *essential expositional closure (EEC)*",
+      "translated_sentence": "נושא משני \"אמיתי\" (S), המסתיים ב*סגירה אקספוזיציונית הכרחית (Essential Expositional Closure - EEC)*"
+    },
+    {
+      "id": 246,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Closing space (C) – secondary key; optional",
+      "translated_sentence": "מרחב סגירה (C) – סולם משני (secondary key); אופציונלי"
+    },
+    {
+      "id": 247,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending",
+      "translated_sentence": "מעבר חוזר (Retransition - RT) – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה (exposition); אופציונלי, ומופיע רק בסיומת ראשונה (first ending)"
+    },
+    {
+      "id": 248,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "We can abbreviate this cycle:",
+      "translated_sentence": "ניתן לקצר מעגל זה:"
+    },
+    {
+      "id": 249,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "**P TR ' S? ' S / C**",
+      "translated_sentence": "**P TR ' S? ' S / C**"
+    },
+    {
+      "id": 250,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The two MCs tend to adhere to one of the following patterns (the first being by far the most common; H/D, p. 171):",
+      "translated_sentence": "שני ה-MCs נוטים להיצמד לאחד מהדפוסים הבאים (הראשון שבהם הוא הנפוץ ביותר בפער ניכר; H/D, עמ' 171):"
+    },
+    {
+      "id": 251,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "I:HC followed by V:HC",
+      "translated_sentence": "I:HC ואחריו V:HC"
+    },
+    {
+      "id": 252,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "I:HC followed by V:PAC",
+      "translated_sentence": "I:HC ואחריו V:PAC"
+    },
+    {
+      "id": 253,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "V:HC followed by V:PAC",
+      "translated_sentence": "V:HC עוקב אחרי V:PAC"
+    },
+    {
+      "id": 254,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "V:HC followed by V:HC",
+      "translated_sentence": "V:HC ואחריו V:HC"
+    },
+    {
+      "id": 255,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The continuous exposition #",
+      "translated_sentence": "האקספוזיציה הרציפה (continuous exposition) #"
+    },
+    {
+      "id": 256,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Unlike a two-part exposition, a continuous exposition has no MC followed by a secondary (S) theme. Instead, the transition (TR) module gives way to a \"spinning out\" of a series of related, fragmented melodic units. This succession of small, \"spinning out\" modules is called *Fortspinnung* (Ger., \"spinning out\"). These fragments are often, but not necessarily, taken from the primary (P) theme. *Fortspinnung* is often associated with TR in general, but in a continuous exposition, the process gets out of control and fails to produce a satisfactory MC. Instead, the motives continue to \"spin out\" and maintain a high level of energy right up to the EEC.",
+      "translated_sentence": "בניגוד לאקספוזיציה דו-חלקית, באקספוזיציה רציפה (continuous exposition) אין MC שאחריו מופיע נושא משני (S). במקום זאת, מודול המעבר (TR) מפנה את מקומו ל\"טוויה\" (spinning out) של סדרה של יחידות מלודיות מקוטעות וקשורות. רצף זה של מודולים קטנים ו\"טווים\" נקרא *Fortspinnung* (גרמנית: \"טוויה\"). פרגמנטים אלו נלקחים לעיתים קרובות, אך לא בהכרח, מהנושא הראשי (P). המונח *Fortspinnung* מזוהה לעיתים קרובות עם TR באופן כללי, אך באקספוזיציה רציפה, התהליך יוצא משליטה ונכשל ביצירת MC מספק. במקום זאת, המוטיבים ממשיכים \"להיטוות\" ולשמור על רמה גבוהה של אנרגיה עד ל-EEC."
+    },
+    {
+      "id": 257,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "The continous exposition follows the thematic cycle:",
+      "translated_sentence": "האקספוזיציה הרציפה (continuous exposition) עוקבת אחר המחזור התמטי:"
+    },
+    {
+      "id": 258,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Primary theme (P) – home key",
+      "translated_sentence": "נושא ראשי (P) – סולם הבית (home key)"
+    },
+    {
+      "id": 259,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Transition–Fortspinnung (TR=>FS), ending with the *essential expositional closure (EEC)*",
+      "translated_sentence": "מעבר–פורטספינונג (Transition–Fortspinnung, TR=>FS), המסתיים ב*סגירה אקספוזיציונית הכרחית (Essential Expositional Closure, EEC)*"
+    },
+    {
+      "id": 260,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Closing space (C) – secondary key; optional",
+      "translated_sentence": "מרחב סגירה (C) – סולם משני (secondary key); אופציונלי"
+    },
+    {
+      "id": 261,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending",
+      "translated_sentence": "מעבר חוזר (Retransition - RT) – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה (Exposition); אופציונלי, ומופיע רק בסיומת ראשונה (first ending)"
+    },
+    {
+      "id": 262,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "We can abbreviate it:",
+      "translated_sentence": "ניתן לקצר זאת:"
+    },
+    {
+      "id": 263,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "**P TR=>FS / C**",
+      "translated_sentence": "**P TR=>FS / C**"
+    },
+    {
+      "id": 264,
+      "file": "SonataTheory-exposition.md",
+      "source_sentence": "A continous exposition may present no cadences that could be \"candidates\" for an MC, it may suggest the possibility of an upcoming MC that is evaded, or it may present an MC that fails to produce a satisfactory S theme (and thus is not really an MC). In each case, an EEC is achieved without first arriving at an MC and an S theme.",
+      "translated_sentence": "אקספוזיציה רציפה (continuous exposition) עשויה שלא להציג קדנצות שיוכלו להוות \"מועמדות\" ל-MC, היא עשויה לרמוז על אפשרות של MC מתקרב שחומק, או שהיא עשויה להציג MC שנכשל ביצירת נושא S מספק (ולפיכך אינו באמת MC). בכל מקרה, EEC מושג מבלי להגיע תחילה ל-MC ולנושא S."
+    },
+    {
+      "id": 265,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "A classical *sonata* is a multi-movement work for solo instrument, chamber ensemble, or orchestra with at least one movement in *sonata form*. Almost always, the first movement of a sonata is in sonata form. The last movement is typically an upbeat *finale*, which can be in a number of different forms. Inner movements (second movement of a three-movement sonata; second and third movements of a four-movement sonata) are typically slow movements and/or dance movements (minuets or scherzos). Any non-dance movement in a sonata can take sonata form, but rarely *all* of them at once. Commonly, only the first movement takes sonata form, or the first and one other movement. The other movements will take other standard forms, such as minuet/trio, theme-and-variations, rondo, or sonata-rondo. In this unit, we will focus on sonata forms, particularly as they are found in first movements of instrumental sonatas.",
+      "translated_sentence": "*סונטה* (sonata) קלאסית היא יצירה רבת-פרקים לכלי סולו, להרכב קאמרי או לתזמורת, הכוללת לפחות פרק אחד ב*צורת סונטה* (sonata form). כמעט תמיד, הפרק הראשון של סונטה הוא בצורת סונטה. הפרק האחרון הוא בדרך כלל *פינאלה* (finale) קצבי, שיכול להופיע במספר צורות שונות. פרקי הביניים (הפרק השני בסונטה בעלת שלושה פרקים; הפרקים השני והשלישי בסונטה בעלת ארבעה פרקים) הם בדרך כלל פרקים איטיים ו/או פרקי מחול (מינואטים או סקרצו). כל פרק שאינו פרק מחול בסונטה יכול לקבל את צורת הסונטה, אך לעיתים רחוקות *כולם* יחד. בדרך כלל, רק הפרק הראשון הוא בצורת סונטה, או הפרק הראשון ופרק נוסף אחד. שאר הפרקים יקבלו צורות סטנדרטיות אחרות, כגון מינואט/טריו, נושא ווריאציות (theme-and-variations), רונדו (rondo), או סונטה-רונדו (sonata-rondo). ביחידה זו, נתמקד בצורות סונטה, במיוחד כפי שהן מופיעות בפרקים ראשונים של סונטות כליות."
+    },
+    {
+      "id": 266,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Sonata form #",
+      "translated_sentence": "צורת סונטה (Sonata form) #"
+    },
+    {
+      "id": 267,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Sonata form shares many structural properties with *small ternary* form (specifically the *rounded binary* variant). That is, the core music of a sonata movement can be understood as exhibiting a large, three-part pattern of ABA'.",
+      "translated_sentence": "צורת הסונטה (Sonata form) חולקת מאפיינים מבניים רבים עם צורת *טרנארית קטנה* (small ternary form) (ובאופן ספציפי עם הווריאציה של *בינארי מעוגל* (rounded binary)). כלומר, ניתן להבין את הליבה המוזיקלית של פרק סונטה ככזו המפגינה תבנית גדולה בת שלושה חלקים של ABA'."
+    },
+    {
+      "id": 268,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "However, like small ternary, a sonata-form movement also has a two-part structure, with the first A section forming the first \"half\" of the movement, and the B and A' sections working together to form the second \"half.\" This is most obviously seen in early sonata movements, which repeat each of those two parts. This is called a *double-reprise* structure, and on this level looks exactly like a rounded-binary theme.",
+      "translated_sentence": "עם זאת, בדומה למבנה טרנארי קטן (small ternary), גם פרק בצורת סונאטה (sonata-form) הוא בעל מבנה דו-חלקי, כאשר חלק A הראשון מהווה את ה\"מחצית\" הראשונה של הפרק, והחלקים B ו-A' פועלים יחד כדי ליצור את ה\"מחצית\" השנייה. הדבר ניכר באופן המובהק ביותר בפרקי סונאטה מוקדמים, אשר חוזרים על כל אחד משני חלקים אלו. מבנה זה נקרא מבנה *double-reprise*, וברמה זו הוא נראה בדיוק כמו נושא במבנה בינארי מעוגל (rounded-binary)."
+    },
+    {
+      "id": 269,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "which sounds like",
+      "translated_sentence": "שנשמע כמו"
+    },
+    {
+      "id": 270,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**AABA'BA'**",
+      "translated_sentence": "**AABA'BA'**"
+    },
+    {
+      "id": 271,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Later sonatas shed the repeat of the second reprise, only repeating the first reprise.",
+      "translated_sentence": "הסונאטות המאוחרות יותר מוותרות על החזרה על ה-reprise השני, וחוזרות רק על ה-reprise הראשון."
+    },
+    {
+      "id": 272,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "which sounds like",
+      "translated_sentence": "שנשמע כמו"
+    },
+    {
+      "id": 273,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**AABA'**",
+      "translated_sentence": "**AABA'**"
+    },
+    {
+      "id": 274,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Still later sonatas often shed both sets of repeats, making the binary aspect of the structure much less obvious (if it even exists) than the ternary aspect of the structure.",
+      "translated_sentence": "בסונאטות מאוחרות עוד יותר, לעיתים קרובות מוותרים על שתי מערכות החזרות, מה שהופך את ההיבט הבינארי (binary) של המבנה לפחות מובן מאליו (אם הוא בכלל קיים) מאשר ההיבט הטרינארי (ternary) של המבנה."
+    },
+    {
+      "id": 275,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "which sounds like",
+      "translated_sentence": "שנשמע כמו"
+    },
+    {
+      "id": 276,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**ABA'**",
+      "translated_sentence": "**ABA'**"
+    },
+    {
+      "id": 277,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "The A section (or *module*) exhibits what we call *exposition* function, and the A' section exhibits *recapitulation* function. (These are the same names as other small ternary forms, like a minuet or the theme of a theme-and-variations movement.) The B section exhibits what we call *development* function. (This differs from the *contrasting middle* of other small ternary forms.) These functions will be briefly defined below and explored in greater detail in other resources.",
+      "translated_sentence": "חלק ה-A (או ה-*מודול*) מציג את מה שאנו מכנים תפקוד *אקספוזיציה* (exposition), וחלק ה-A' מציג תפקוד *רפריזה* (recapitulation). (אלו אותם שמות המשמשים בצורות טרנריות קטנות אחרות, כמו מינואט או הנושא של פרק נושא ווריאציות.) חלק ה-B מציג את מה שאנו מכנים תפקוד *פיתוח* (development). (זה שונה מ-*אמצע מנוגד* (contrasting middle) של צורות טרנריות קטנות אחרות.) תפקודים אלו יוגדרו בקצרה להלן וייחקרו בפירוט רב יותר במקורות אחרים."
+    },
+    {
+      "id": 278,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "As in minuets, it is common and acceptable to refer to the A section as \"the exposition,\" the B section as \"the development,\" and the A' section as \"the recapitulation,\" as long as we retain the conceptual difference between formal modules (the passages of music) and formal functions (what those passages *do* in the context of the larger musical structure).",
+      "translated_sentence": "כמו במנואטים, מקובל ומקובל להתייחס לחלק A כאל \"האקספוזיציה\" (exposition), לחלק B כאל \"הפיתוח\" (development), ולחלק A' כאל \"הרפריזה\" (recapitulation), כל עוד אנו שומרים על ההבדל המושגי בין מודולים צורניים (קטעי המוזיקה) לבין תפקודים צורניים (מה שקטעים אלו *עושים* בהקשר של המבנה המוזיקלי הרחב יותר)."
+    },
+    {
+      "id": 279,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Formal functions in a sonata movement #",
+      "translated_sentence": "פונקציות צורניות (Formal functions) בפרק סונטה #"
+    },
+    {
+      "id": 280,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**Exposition function** involves three important features:",
+      "translated_sentence": "**פונקציית תצוגה (Exposition function)** כוללת שלושה מאפיינים חשובים:"
+    },
+    {
+      "id": 281,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "establish the home-key tonality;",
+      "translated_sentence": "לבסס את הטונאליות של סולם הבית (home-key tonality);"
+    },
+    {
+      "id": 282,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "move to and establish a secondary key by means of a strong cadence (PAC), called the *essential expositional closure* (EEC); and",
+      "translated_sentence": "מעבר לסולם משני וביסוסו באמצעות קדנצה חזקה (PAC), המכונה *סגירה אקספוזיציונית מהותית* (Essential Expositional Closure - EEC); ו-"
+    },
+    {
+      "id": 283,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "lay out the melodic themes and thematic cycle that will form the foundation for the rest of the movement.",
+      "translated_sentence": "התווה את הנושאים המלודיים והמחזור התמטי (thematic cycle) שיהוו את הבסיס לשאר הפרק."
+    },
+    {
+      "id": 284,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "We can think about this as a question, or at least an incomplete statement: all the main melodic material of the movement is presented, but it ends in the \"wrong\" key.",
+      "translated_sentence": "ניתן לחשוב על כך כעל שאלה, או לפחות כעל טענה לא שלמה: כל החומר המלודי העיקרי של הפרק מוצג, אך הוא מסתיים בסולם ה\"לא נכון\"."
+    },
+    {
+      "id": 285,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**Development function** highlights the openness of this question by cycling through the same melodies in the same order, exploring the instability of the secondary key. This exploration can be accomplished by any of the following:",
+      "translated_sentence": "**פונקציית פיתוח (Development function)** מדגישה את הפתיחות של שאלה זו על ידי מחזוריות של אותן מלודיות באותו סדר, תוך חקירת חוסר היציבות של הסולם המשני (secondary key). חקירה זו יכולה להתבצע על ידי כל אחד מהבאים:"
+    },
+    {
+      "id": 286,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "beginning in the secondary key, but modulating to another key before achieving a cadence;",
+      "translated_sentence": "מתחיל בסולם משני (secondary key), אך מבצע מודולציה (modulation) לסולם אחר לפני השגת קדנצה (cadence);"
+    },
+    {
+      "id": 287,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "employing non-functional harmonic progressions, such as harmonic sequences;",
+      "translated_sentence": "שימוש במהלך הרמוני לא-פונקציונלי (non-functional harmonic progression), כגון רצפים הרמוניים (harmonic sequences);"
+    },
+    {
+      "id": 288,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "frequent modulation; or",
+      "translated_sentence": "מודולציה תדירה (frequent modulation); או"
+    },
+    {
+      "id": 289,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "multiple tonal goals other than the home key or secondary key.",
+      "translated_sentence": "יעדים טונאליים מרובים שאינם סולם הבית (home key) או סולם משני (secondary key)."
+    },
+    {
+      "id": 290,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "It then intensifies the need for an \"answer\" by progressing toward an *active dominant* (an HC or a major arrival on V or V<sup>7</sup>) in the home key.",
+      "translated_sentence": "לאחר מכן הוא מעצים את הצורך ב\"תשובה\" על ידי התקדמות לעבר *דומיננטה פעילה* (active dominant) (סיומת חצי-קאדנס (HC) או הגעה למייג'ור על V או V<sup>7</sup>) בסולם הבית."
+    },
+    {
+      "id": 291,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "If exposition function presents a \"question,\" and development function explores and then intensifies this question, **recapitulation function** answers the question. Recapitulation function does this by progressing one last time through the thematic cycle, but this time bringing it to a satisfactory completion: a PAC in the home key, called the *essential sonata closure* (ESC).",
+      "translated_sentence": "אם פונקציית האקספוזיציה (exposition function) מציגה \"שאלה\", ופונקציית הפיתוח (development function) חוקרת ולאחר מכן מעצימה שאלה זו, **פונקציית הרקפיטולציה (recapitulation function)** עונה על השאלה. פונקציית הרקפיטולציה עושה זאת על ידי התקדמות פעם אחרונה דרך המחזור התמטי, אך הפעם מביאה אותו לסיום מספק: קדנצה אותנטית מושלמת (PAC) בסולם הבית, המכונה *סיום סונטה מהותי* (essential sonata closure - ESC)."
+    },
+    {
+      "id": 292,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Cadential goals #",
+      "translated_sentence": "יעדי קדנצה (Cadential goals) #"
+    },
+    {
+      "id": 293,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "As hinted at above, sonata form is anchored around several important cadences. They serve as signposts for the formal structure, as well as goals of the music leading into them. We will note these cadences using a Roman numeral for the key (relative to the home key) followed by a colon and the type of cadence.",
+      "translated_sentence": "כפי שצוין לעיל, צורת הסונטה (Sonata form) מעוגנת סביב מספר קדנצות (Cadences) חשובות. הן משמשות כציוני דרך למבנה הצורני, וכן כיעדים של המוזיקה המובילה אליהן. אנו נציין קדנצות אלו באמצעות ספרה רומית עבור הסולם (ביחס לסולם הטוניקה), ולאחריה נקודתיים וסוג הקדנצה."
+    },
+    {
+      "id": 294,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "As in small ternary form, the exposition tends to end with a PAC in a *secondary key* (V:PAC in a major-key movement, III:PAC or v:PAC in a minor-key movement). Rather than being simply a norm, though, this cadence is *essential* to the form. This PAC is called the *essential expositional closure*, or EEC.",
+      "translated_sentence": "כמו בצורה טרנארית קטנה (small ternary form), האקספוזיציה נוטה להסתיים ב-PAC ב*סולם משני* (V:PAC בתנועה בסולם מז'ורי, III:PAC או v:PAC בתנועה בסולם מינורי). עם זאת, במקום להיות פשוט נורמה, הקדנצה הזו היא *מהותית* לצורה. ה-PAC הזה נקרא *סגירה אקספוזיציונית מהותית* (essential expositional closure), או בקיצור EEC."
+    },
+    {
+      "id": 295,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "The recapitulation has a corresponding cadence, also familiar from small ternary form: a PAC in the home key, which tends to correspond thematically with the EEC. This I:PAC is called the *essential sonata closure*, or ESC.",
+      "translated_sentence": "בפרק הרפריזה (Recapitulation) מופיעה קדנצה מקבילה, המוכרת גם מתוך צורת ה-Ternary הקטנה: קדנצה מושלמת אותנטית (PAC - Perfect Authentic Cadence) בסולם הבית, אשר נוטה להתכתב תמטית עם ה-EEC. קדנצה זו, I:PAC, מכונה *סגירת סונטה מהותית* (Essential Sonata Closure), או בקיצור ESC."
+    },
+    {
+      "id": 296,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "The development section, like the contrasting middle in small ternary form, typically ends with a HC in the home key (I:HC) or a *dominant arrival* in the home key, which prepares the arrival of the recapitulation.",
+      "translated_sentence": "חלק הפיתוח (development section), בדומה לאמצע המנוגד (contrasting middle) בצורה טרנארית קטנה (small ternary form), מסתיים בדרך כלל בקדנצה חצי (HC) בסולם הבית (I:HC) או ב*הגעה לדומיננטה* (dominant arrival) בסולם הבית, אשר מכינה את בוא הרפריזה (recapitulation)."
+    },
+    {
+      "id": 297,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**",
+      "translated_sentence": "**||: אקספוזיציה (exposition) **V:PAC** :||: פיתוח (development) **I:HC** רפריזה (recapitulation) **I:PAC** :||**"
+    },
+    {
+      "id": 298,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "or",
+      "translated_sentence": "או"
+    },
+    {
+      "id": 299,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "**||: exposition **III:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**",
+      "translated_sentence": "**||: אקספוזיציה (exposition) **III:PAC** :||: פיתוח (development) **I:HC** רפריזה (recapitulation) **I:PAC** :||**"
+    },
+    {
+      "id": 300,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Commonly, the exposition and recapitulation each have an additional cadential goal that is not shared with other small-ternary-like forms. These goals each occur between the beginning of the module and the cadential goal (EEC or ESC), and they often—though not always—involve a pause or stoppage of melodic or harmonic motion. Thus, each of these halfway cadences is called a *medial caesura* (MC). Both PACs and HCs, in the home key or in a secondary key, can function as medial caesurae.",
+      "translated_sentence": "בדרך כלל, לכל אחת מהאקספוזיציה (exposition) ומהרפריזה (recapitulation) יש יעד קדנציאלי נוסף שאינו משותף לצורות אחרות דמויות-טרנאריות קטנות (small-ternary-like forms). יעדים אלו מתרחשים כל אחד בין תחילת המודול לבין היעד הקדנציאלי (EEC או ESC), ולעתים קרובות — אם כי לא תמיד — הם כוללים השהיה או עצירה של התנועה המלודית או ההרמונית. לפיכך, כל אחת מקדנציות אמצע אלו מכונה *מדיאל צזורה* (medial caesura - MC). הן קדנציות מושלמות אותנטיות (PAC) והן קדנציות חצויות (HC), בסולם הבית או בסולם משני, יכולות לשמש כמדיאל צזורה."
+    },
+    {
+      "id": 301,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Defaults and deformations #",
+      "translated_sentence": "ברירות מחדל ועיוותים (Defaults and deformations) #"
+    },
+    {
+      "id": 302,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Sonata form is not a single recipe for structuring a movement. It is a set of norms that are almost always violated, or at least altered, in some way in a composition. Thus, we can talk about individual pieces being \"in dialog with\" sonata norms. That is, they incorporate enough of the definitive elements to be considered \"in sonata form,\" but they carry enough unique elements to cause some tension with the norms. Over time, some of the unique elements used by classical composers were adopted by others and became norms for a later generation. Thus, even the \"typical\" sonata movement is different at different times and places in history.",
+      "translated_sentence": "צורת הסונטה (Sonata form) אינה מתכון יחיד למבנה של פרק. היא מהווה מערכת של נורמות שכמעט תמיד מופרות, או לכל הפחות משתנות, בדרך כלשהי ביצירה. לפיכך, אנו יכולים לדבר על יצירות בודדות ככאלו שנמצאות \"בדיאלוג עם\" נורמות הסונטה. כלומר, הן משלבות מספיק מהאלמנטים המגדירים כדי להיחשב כ\"בצורת סונטה\", אך הן נושאות מספיק אלמנטים ייחודיים כדי ליצור מתח מסוים עם הנורמות. עם הזמן, חלק מהאלמנטים הייחודיים ששימשו מלחינים קלאסיים אומצו על ידי אחרים והפכו לנורמות עבור דור מאוחר יותר. לפיכך, אפילו פרק הסונטה ה\"טיפוסי\" שונה בזמנים ובמקומות שונים בהיסטוריה."
+    },
+    {
+      "id": 303,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "In general, though, for each element of sonata form, we can identify default properties of that element. Sometimes there are multiple possibilities that can be considered normative. For example, the most common cadence used for the MC of a classical sonata movement is V:HC. This is called the *first-level default*. The second most common MC cadence is a I:HC—the *second-level default*. Where multiple possibilities are normative, but one is more common or preferred over another, we use this language.",
+      "translated_sentence": "באופן כללי, עם זאת, עבור כל מרכיב של צורת הסונטה (sonata form), אנו יכולים לזהות מאפייני ברירת מחדל של אותו מרכיב. לעיתים קיימות אפשרויות מרובות שניתן להחשיבן כנורמטיביות. לדוגמה, הקדנצה הנפוצה ביותר המשמשת עבור ה-MC של פרק סונטה קלאסי היא V:HC. זה נקרא *ברירת מחדל ברמה ראשונה* (first-level default). הקדנצה השנייה בשכיחותה עבור ה-MC היא I:HC – *ברירת המחדל ברמה השנייה* (second-level default). במקומות שבהם אפשרויות מרובות הן נורמטיביות, אך אחת מהן נפוצה יותר או מועדפת על פני האחרת, אנו משתמשים במינוח זה."
+    },
+    {
+      "id": 304,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Non-default properties of a particular sonata movement are called *deformations*. For example, a II:IAC MC is not at all typical of classical sonatas. Thus, we would consider it a deformation. It does not mean that a II:IAC cannot function as an MC (though I can't think of an example). However, it means that a II:IAC is a purposeful move by the composer to contradict the norm. As such, any analysis should address this deformation and attempt to explain its musical and historical significance.",
+      "translated_sentence": "תכונות לא-סטנדרטיות של פרק סונטה מסוים מכונות *דפורמציות* (deformations). לדוגמה, II:IAC MC אינו טיפוסי כלל לסונטות קלאסיות. לפיכך, נתייחס אליו כאל דפורמציה. אין זה אומר ש-II:IAC אינו יכול לתפקד כ-MC (אם כי איני מצליח לחשוב על דוגמה לכך). עם זאת, זה אומר ש-II:IAC הוא מהלך מכוון מצד המלחין שנועד לסתור את הנורמה. ככזה, כל ניתוח צריך להתייחס לדפורמציה זו ולנסות להסביר את משמעותה המוזיקלית וההיסטורית."
+    },
+    {
+      "id": 305,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Auxiliary modules #",
+      "translated_sentence": "מודולים עזר (Auxiliary modules) #"
+    },
+    {
+      "id": 306,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Often the exposition–development–recapitulation structure is framed by an *introduction* and/or a *coda*. Though important musical activity can take place in these modules, they are outside the sonata proper. The essential sonata elements, as well as the ones that are similar enough from piece to piece that we can generalize about them well, take place in the exposition, development, and recapitulation. Though we will address introduction and coda materials during in-class analyses, and you should address them in your own analyses, the properties of those modules are not covered by these online resources.",
+      "translated_sentence": "לעתים קרובות, מבנה ה-exposition–development–recapitulation (אקספוזיציה-פיתוח-רפריזה) ממוסגר על ידי *מבוא* (introduction) ו/או *קודה* (coda). על אף שפעילות מוזיקלית חשובה יכולה להתרחש במודולים אלו, הם נמצאים מחוץ לצורת הסונטה כשלעצמה. מרכיבי הסונטה המהותיים, כמו גם אלו הדומים מספיק מיצירה ליצירה עד כדי כך שניתן להכליל לגביהם, מתרחשים באקספוזיציה, בפיתוח וברפריזה. אף שנתייחס לחומרים של המבוא והקודה במהלך הניתוחים בכיתה, ועליכם להתייחס אליהם בניתוחים שלכם, המאפיינים של מודולים אלו אינם מכוסים במשאבים מקוונים אלו."
+    },
+    {
+      "id": 307,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "Further details #",
+      "translated_sentence": "פרטים נוספים #"
+    },
+    {
+      "id": 308,
+      "file": "SonataTheory-intro.md",
+      "source_sentence": "The remaining sonata resources on this website are largely in reference format. Rather than walk through the details in the manner of a typical textbook, they will provide you with the defining features of the elements described in as concise a manner possible. This consision will serve you well when referencing these resources quickly during analytical activities. However, it will also force you to wrestle with them in the context of real pieces in order to understand them fully. If you simply read these resources, you will not understand sonata form. You must make use of them while listening to and analyzing music in order to assimilate the information and develop the skills necessary to apply them musically.",
+      "translated_sentence": "שאר משאבי הסונטה באתר זה הם ברובם במתכונת של עיון. במקום לעבור על הפרטים בדרך של ספר לימוד טיפוסי, הם יספקו לכם את המאפיינים המגדירים של האלמנטים המתוארים בצורה תמציתית ככל האפשר. תמציתיות זו תשרת אתכם היטב בעת עיון מהיר במשאבים אלו במהלך פעילויות אנליטיות. עם זאת, היא גם תאלץ אתכם להתמודד איתם בהקשר של יצירות אמיתיות כדי להבין אותם במלואם. אם רק תקראו את המשאבים הללו, לא תבינו את צורת הסונטה (Sonata form). עליכם לעשות בהם שימוש תוך כדי האזנה וניתוח של מוזיקה כדי להטמיע את המידע ולפתח את הכישורים הדרושים ליישומם באופן מוזיקלי."
+    },
+    {
+      "id": 309,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Following are definitions for important modules and cadences found in sonata-form expositions.",
+      "translated_sentence": "להלן הגדרות למודולים ולקדנצות (Cadences) חשובים המופיעים באקספוזיציות של צורת הסונטה (Sonata-form)."
+    },
+    {
+      "id": 310,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Cadences #",
+      "translated_sentence": "קדנצות #"
+    },
+    {
+      "id": 311,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Medial caesura (MC) ##",
+      "translated_sentence": "מדיאל צזורה (Medial caesura - MC) ##"
+    },
+    {
+      "id": 312,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Hepokoski and Darcy (whose theory forms the basis of these reference materials) recommend that when analyzing a sonata exposition, \"the first task be to locate and identify the treatment of the MC\" (p. 24). It is an important event harmonically, in that it marks the point when the secondary key will take over definitively. It is also an important event thematically, because it marks the end of the first part of the exposition and signals the imminent arrival of the secondary theme. It is also an important event rhetorically, because it is typically a high-energy event that has been prepared by significant *energy gain* in the music that precedes it. Lastly, it is important because the type of cadence used as the MC, and how soon after the opening of the movement the MC occurs, are strong indicators of what kind of music will follow in the rest of the sonata movement.",
+      "translated_sentence": "הפוקוסקי ודרסי (שהתיאוריה שלהם מהווה את הבסיס לחומרי עזר אלו) ממליצים כי בעת ניתוח אקספוזיציה של סונטה, \"המשימה הראשונה תהיה לאתר ולזהות את הטיפול ב-MC\" (עמ' 24). זהו אירוע חשוב מבחינה הרמונית, בכך שהוא מסמן את הנקודה שבה הסולם המשני ישתלט באופן סופי. זהו גם אירוע חשוב מבחינה תמטית, כיוון שהוא מסמן את סוף החלק הראשון של האקספוזיציה ומאותת על הגעתו הקרובה של הנושא המשני. זהו גם אירוע חשוב מבחינה רטורית, כיוון שהוא בדרך כלל אירוע בעל אנרגיה גבוהה שהוכן על ידי *צבירת אנרגיה* (energy gain) משמעותית במוזיקה שקדמה לו. לבסוף, הוא חשוב מכיוון שסוג הקדנצה המשמש כ-MC, והזמן שחולף מפתיחת הפרק ועד להתרחשות ה-MC, הם אינדיקטורים חזקים לסוג המוזיקה שיבוא בהמשך פרק הסונטה."
+    },
+    {
+      "id": 313,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The most common cadence for an MC is a half cadence, either in the home key (I:HC MC) or the secondary key (V:HC MC or III:HC MC). In the classical era (late eighteenth century), a I:HC MC will usually indicate a shorter, lighter sonata movement. A V:HC MC or III:HC MC will usually indicate a movement of medium length or longer. More formal complexity is likely to come with a V:HC MC or III:HC MC than a I:HC MC.",
+      "translated_sentence": "הקדנציה הנפוצה ביותר עבור MC היא קדנציה חצויה (Half Cadence), בין אם בסולם הבית (I:HC MC) או בסולם המשני (V:HC MC או III:HC MC). בתקופה הקלאסית (סוף המאה השמונה-עשרה), I:HC MC תצביע בדרך כלל על פרק סונטה קצר וקליל יותר. V:HC MC או III:HC MC יצביעו בדרך כלל על פרק באורך בינוני או ארוך יותר. מורכבות צורנית רבה יותר צפויה להופיע עם V:HC MC או III:HC MC מאשר עם I:HC MC."
+    },
+    {
+      "id": 314,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "For a medium–length sonata movement, a V:HC MC or III:HC MC is the *first-level default* MC type, according to Hepokoski & Darcy. The I:HC MC is a *second-level default*. For shorter movements, the I:HC MC is the first-level default MC type.",
+      "translated_sentence": "עבור פרק סונטה באורך בינוני, V:HC MC או III:HC MC הם סוגי ה-MC (Medial Caesura) המהווים את *ברירת המחדל מדרגה ראשונה* (first-level default), על פי הֶפּוקוסקי ודארסי (Hepokoski & Darcy). ה-I:HC MC הוא *ברירת מחדל מדרגה שנייה* (second-level default). עבור פרקים קצרים יותר, ה-I:HC MC הוא סוג ה-MC המהווה את ברירת המחדל מדרגה ראשונה."
+    },
+    {
+      "id": 315,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "A third-level default would be V:PAC MC or III:PAC MC. A fourth-level default would be a I:PAC MC. These are both considerably rarer than the first and second defaults, and they create a stronger halt in the musical progression.",
+      "translated_sentence": "ברירת מחדל מדרגה שלישית תהיה V:PAC MC או III:PAC MC. ברירת מחדל מדרגה רביעית תהיה I:PAC MC. שתיהן נדירות במידה ניכרת בהשוואה לברירות המחדל הראשונה והשנייה, והן יוצרות עצירה חזקה יותר במהלך המוזיקלי."
+    },
+    {
+      "id": 316,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The musical characteristics that typically surround an MC are:",
+      "translated_sentence": "המאפיינים המוזיקליים המקיפים בדרך כלל MC הם:"
+    },
+    {
+      "id": 317,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*energy gain* leading into the cadence (this happens in the TR module, which the MC ends);",
+      "translated_sentence": "*עלייה באנרגיה* (energy gain) המובילה לקדנצה (זה קורה במודול ה-TR, שה-MC מסיים אותו);"
+    },
+    {
+      "id": 318,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "prominent arrival of a structural dominant;",
+      "translated_sentence": "הגעה בולטת של דומיננטה מבנית (structural dominant);"
+    },
+    {
+      "id": 319,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "a pause or break in the musical texture (sometimes filled by a single voice or other greatly reduced texture—what H/D call \"caesura fill\"); and",
+      "translated_sentence": "הפסקה או שבירה במרקם המוזיקלי (שלעיתים מתמלאת על ידי קול בודד או מרקם מצומצם מאוד אחר—מה ש-H/D מכנים \"מילוי צזורה\" (caesura fill)); ו-"
+    },
+    {
+      "id": 320,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "a continuous maintaining of energy between the harmonic cadence and the textural break.",
+      "translated_sentence": "שימור רציף של אנרגיה בין הקדנצה ההרמונית (harmonic cadence) לבין השבירה הטקסטורלית (textural break)."
+    },
+    {
+      "id": 321,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Other common, but by no means required, features are:",
+      "translated_sentence": "מאפיינים נפוצים אחרים, אך בשום אופן לא הכרחיים, הם:"
+    },
+    {
+      "id": 322,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*fa*–*fi*–*sol* in the bass, leading into the cadence;",
+      "translated_sentence": "*פה*–*פי*–*סול* בבס, המוביל אל הקדנצה (cadence);"
+    },
+    {
+      "id": 323,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "prolongation or extension of the dominant arrival (what H/D call a \"dominant lock\"); and/or",
+      "translated_sentence": "הארכה (prolongation) או הרחבה של הגעת הדומיננטה (מה ש-H/D מכנים \"נעילת דומיננטה\" (\"dominant lock\")); ו/או"
+    },
+    {
+      "id": 324,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "a thrice-repeated chord of arrival immediately preceding the break (what H/D call \"hammer blows\").",
+      "translated_sentence": "אקורד הגעה שחוזר על עצמו שלוש פעמים מיד לפני ההפסקה (מה ש-H/D מכנים \"מכות פטיש\" (\"hammer blows\"))."
+    },
+    {
+      "id": 325,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*For an MC to be a real MC, it must be followed by a satisfactory S theme* (see below). A cadence that otherwise could function as an MC, but is not followed by a satisfactory S theme, is considered a case of \"medial caesura declined.\" Any two-part exposition that declines a medial caesura must contain a \"real\" MC later. If it does not, it is a continuous, rather than a two-part, exposition.",
+      "translated_sentence": "*כדי ש-MC יהיה MC אמיתי, חייב לבוא אחריו נושא S מספק* (ראו להלן). קדנציה שאלמלא כן הייתה יכולה לתפקד כ-MC, אך לא בא אחריה נושא S מספק, נחשבת למקרה של \"צזורה אמצעית שנדחתה\" (medial caesura declined). כל אקספוזיציה דו-חלקית (two-part exposition) שדוחה צזורה אמצעית חייבת להכיל MC \"אמיתי\" בהמשך. אם אין בה כזה, מדובר באקספוזיציה רציפה (continuous exposition) ולא דו-חלקית."
+    },
+    {
+      "id": 326,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Essential expositional closure (EEC) ##",
+      "translated_sentence": "סגירה תמטית חיונית (Essential expositional closure - EEC) ##"
+    },
+    {
+      "id": 327,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "In the exposition of a sonata movement, the EEC is \"the first satisfactory PAC within the secondary key that goes on to differening material\" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is *always* in the secondary key. The Closing module (C) immediately follows the EEC.",
+      "translated_sentence": "באקספוזיציה של פרק סונטה, ה-EEC הוא \"ה-PAC המספק הראשון בתוך הסולם המשני שממשיך לחומר מוזיקלי שונה\" (Hepokoski/Darcy, עמ' 18). הוא *אינו* אופציונלי, והוא *תמיד* בסולם המשני. מודול הסיום (Closing module - C) מופיע מיד לאחר ה-EEC."
+    },
+    {
+      "id": 328,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "It is important to note both that it is the *first* satisfactory PAC, and that it goes on to *differing* material. Often the strongest PAC in the dominant is not the EEC. The EEC is a harmonic goal. Once it has been achieved, the process is complete. That harmonic goal may not coincide with the textural climax.",
+      "translated_sentence": "חשוב לציין הן שמדובר ב-PAC המספק ה*ראשון*, והן שהוא ממשיך לחומר *שונה*. לעיתים קרובות ה-PAC החזק ביותר בדומיננטה אינו ה-EEC. ה-EEC הוא יעד הרמוני. ברגע שהושג, התהליך הושלם. ייתכן שיעד הרמוני זה לא יחפוף לשיא הטקסטורלי."
+    },
+    {
+      "id": 329,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Also, the EEC comes at the *end* of a theme. Thus, if an S theme reaches a PAC but then repeats itself, the EEC comes at the end of the repeat.",
+      "translated_sentence": "כמו כן, ה-EEC מופיע ב*סוף* התמה. לפיכך, אם תמת S מגיעה ל-PAC אך לאחר מכן חוזרת על עצמה, ה-EEC מופיע בסוף החזרה."
+    },
+    {
+      "id": 330,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Once the PAC has been achieved, any new material is *closing material (C)*, not new S themes.",
+      "translated_sentence": "ברגע שהושג ה-PAC, כל חומר חדש הוא *חומר סיום (closing material - C)*, ולא נושאים חדשים של S."
+    },
+    {
+      "id": 331,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Essential sonata closure (ESC) ##",
+      "translated_sentence": "סגירת סונטה חיונית (Essential sonata closure - ESC) ##"
+    },
+    {
+      "id": 332,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The ESC is the cadence in the recapitulation that corresponds to the EEC in the exposition. It is *not* optional, and it is *always* in the home key—a I:PAC.",
+      "translated_sentence": "ה-ESC הוא הקדנצה (cadence) ברפריזה (recapitulation) התואמת ל-EEC באקספוזיציה (exposition). הוא *אינו* אופציונלי, והוא *תמיד* בסולם הטוניקה (home key) — כלומר, I:PAC."
+    },
+    {
+      "id": 333,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Like the EEC, it is the \"first satisfactory PAC [within S] that goes on to differing material.\" Also, like the EEC, the ESC is a harmonic goal. Once it has been achieved, the process is complete. That harmonic goal may not coincide with the textural climax.",
+      "translated_sentence": "כמו ה-EEC, זוהי ה-\"PAC המספקת הראשונה [בתוך S] שממשיכה לחומר שונה.\" כמו כן, בדומה ל-EEC, ה-ESC היא יעד הרמוני. ברגע שהושגה, התהליך הושלם. ייתכן שיעד הרמוני זה לא יחפוף לשיא המרקמי (textural climax)."
+    },
+    {
+      "id": 334,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Modules #",
+      "translated_sentence": "מודולים #"
+    },
+    {
+      "id": 335,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Primary theme (P) ##",
+      "translated_sentence": "נושא ראשי (Primary theme - P) ##"
+    },
+    {
+      "id": 336,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The P theme has several functions: establish the home key (with or without a cadence), present the main melodic material that begins the thematic cycle, and begin the motion toward the MC and the EEC.",
+      "translated_sentence": "לנושא ה-P יש מספר תפקידים: ביסוס סולם הבית (עם או בלי קדנצה), הצגת החומר המלודי המרכזי שמתחיל את המחזור התמטי, והתחלת התנועה לעבר ה-MC וה-EEC."
+    },
+    {
+      "id": 337,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "A P theme may exhibit any [standard theme forms](classicalThemes.html) (sentence, period, hybrid, compound, or small ternary). Sometimes, it can even be a single phrase (antecedent or presentation).",
+      "translated_sentence": "נושא P עשוי להציג כל [צורת נושא סטנדרטית](classicalThemes.html) (משפט, תקופה, היברידי, מורכב, או טרנארי קטן). לעיתים, הוא יכול אפילו להיות משפט בודד (antecedent או presentation)."
+    },
+    {
+      "id": 338,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "A P theme may be harmonically closed (ending *on-tonic*) or open (ending *off-tonic*). A fully closed P theme will end with an authentic cadence, preferably a PAC. However, sometimes a P theme will simply dissolve into the transition (TR). In that case, P may simply consist of a presentation phrase or compound basic idea, with no closing cadence. The final cadence of a P module may be elided by the beginning of TR.",
+      "translated_sentence": "נושא P יכול להיות סגור הרמונית (מסתיים ב-*on-tonic*) או פתוח (מסתיים ב-*off-tonic*). נושא P סגור לחלוטין יסתיים בקדנצה אותנטית (authentic cadence), רצוי PAC. עם זאת, לעיתים נושא P פשוט יתמוסס לתוך המעבר (TR). במקרה כזה, P עשוי להורכב פשוט מביטוי הצגה (presentation phrase) או רעיון בסיסי מורכב (compound basic idea), ללא קדנצה מסיימת. הקדנצה הסופית של יחידת P עשויה לעבור אליזיה (elided) על ידי תחילתו של ה-TR."
+    },
+    {
+      "id": 339,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Transition (TR) ##",
+      "translated_sentence": "מעבר (Transition - TR) ##"
+    },
+    {
+      "id": 340,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The TR module's principal functional role is to drive toward the MC. This is both a harmonic motion (often involving modulation, if the MC is in the secondary key) and a rhetorical motion, characterized by *energy gain*. An analysis of a TR module should center around the MC and how the composer approaches the MC.",
+      "translated_sentence": "התפקיד הפונקציונלי העיקרי של מודול ה-TR הוא להוביל אל ה-MC. זוהי תנועה הרמונית (הכוללת לעיתים קרובות מודולציה, אם ה-MC נמצא בסולם משני) ותנועה רטורית כאחד, המאופיינת ב*צבירת אנרגיה* (*energy gain*). ניתוח של מודול TR צריך להתמקד ב-MC ובאופן שבו המלחין ניגש אל ה-MC."
+    },
+    {
+      "id": 341,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Following are common techniques associated with TR function.",
+      "translated_sentence": "להלן טכניקות נפוצות הקשורות לפונקציית TR (TR function)."
+    },
+    {
+      "id": 342,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "TR modules often begin with what Hepokoski & Darcy call a \"tutti affirmation,\" particularly in orchestral works. This is a noticeably louder restatement of at least the basic idea of P, before progressing to the MC. They also often exhibit motivic *Fortspinnung*—a repeated \"spinning out\" of fragments of a melodic motive, typically taken from the P theme. TR often features melodic or harmonic sequences. Anything else that can be associated with [*continuation* function](themeFunctions.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.",
+      "translated_sentence": "מודולי TR מתחילים לעיתים קרובות במה שהפוקוסקי ודרסי (Hepokoski & Darcy) מכנים \"אישור טוטי\" (tutti affirmation), במיוחד ביצירות תזמורתיות. זוהי חזרה רועשת באופן מובהק על לפחות הרעיון הבסיסי של P, לפני ההתקדמות אל ה-MC. הם מפגינים לעיתים קרובות גם *Fortspinnung* מוטיבי — \"טוויה\" חוזרת של שברים מתוך מוטיב מלודי, שנלקח בדרך כלל מנושא ה-P. ה-TR מאופיין לעיתים קרובות ברצפים מלודיים או הרמוניים. כל דבר אחר שניתן לשייך ל[פונקציית *המשכיות* (continuation function)](themeFunctions.html) מתאים גם לפונקציית המעבר: פרגמנטציה (fragmentation), ליקווידציה (liquidation), האצה של הקצב המלודי או ההרמוני, וכן הלאה."
+    },
+    {
+      "id": 343,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "We will follow Hepokoski & Darcy's practice of identifying the beginning of TR at the beginning of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR.",
+      "translated_sentence": "אנו נפעל לפי הנוהג של Hepokoski & Darcy לזיהוי תחילתו של ה-TR בתחילתו של משפט מוזיקלי (phrase). באופן כללי, ברגע ששומעים תפקוד TR מוקרן בבירור, יש לחזור אחורה לתחילת אותו משפט מוזיקלי ולסמן אותו כתחילתו של ה-TR."
+    },
+    {
+      "id": 344,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Following Hepokoski and Darcy, we can classify transitions as *independent*, *developmental*, and *dissolving*. An independent transition begins with, and is based on, new melodic material. A developmental transition is based on melodic material from the P theme. A dissolving transition begins with material from P and dissolves, degenerates, or liquidates that material as the music gains energy and moves towards the MC.",
+      "translated_sentence": "בעקבות הופוקוסקי ודארסי (Hepokoski and Darcy), ניתן לסווג מעברים (transitions) כ*עצמאיים* (independent), *התפתחותיים* (developmental), ו*מתמוססים* (dissolving). מעבר עצמאי מתחיל בחומר מלודי חדש ומבוסס עליו. מעבר התפתחותי מבוסס על חומר מלודי מנושא ה-P. מעבר מתמוסס מתחיל בחומר מנושא ה-P ומתמוסס, מתנוון או מפרק (liquidates) את החומר הזה ככל שהמוזיקה צוברת אנרגיה ומתקדמת לעבר ה-MC."
+    },
+    {
+      "id": 345,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Secondary theme (S) ##",
+      "translated_sentence": "נושא משני (Secondary theme) (S) ##"
+    },
+    {
+      "id": 346,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The chief function of an S module is to bring about a PAC in the secondary key—the *essential expositional closure (EEC)*. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that \"what happens in S makes a sonata a sonata\" (p. 117). How S achieves the EEC, how the recapitulation's S module achieves the ESC, and the relationship between the two are among the most defining features of a sonata movement. They are a major focus of a composer's attention, and they should be a major focus of our attention.",
+      "translated_sentence": "התפקיד העיקרי של מודול S הוא להוביל ל-PAC בסולם המשני — ה-*סגירה האקספוזיציונית המהותית (Essential Expositional Closure - EEC)*. בשל תפקידו ביחס לאירוע הרמוני מרכזי זה (והקדנצה המקבילה לו ברפריזה, ה-ESC), מודול S הוא בעל חשיבות ועניין עצומים בתנועה במבנה סונטה. הפוקוסקי ודרסי מרחיקים לכת עד כדי אמירה ש\"מה שקורה ב-S הופך סונטה לסונטה\" (עמ' 117). האופן שבו S משיג את ה-EEC, האופן שבו מודול ה-S של הרפריזה משיג את ה-ESC, והקשר בין השניים הם בין המאפיינים המגדירים ביותר של תנועת סונטה. הם מהווים מוקד מרכזי לתשומת לבו של המלחין, ועליהם להוות מוקד מרכזי לתשומת לבנו."
+    },
+    {
+      "id": 347,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The melody of an S module is often straightforward, and typically less memorable than the P theme. This does not take away from its structural importance, however.",
+      "translated_sentence": "המלודיה של מודול S היא לרוב ישירה, ובדרך כלל פחות זכירה מנושא ה-P. עם זאת, אין בכך כדי לגרוע מחשיבותו המבנית."
+    },
+    {
+      "id": 348,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The S module in a major-mode sonata movement is typically in the key of the dominant (V). Later works by Beethoven, Schubert, and others play with this exposition, but it is always the first-level default. Early in sonata history it is the only option.",
+      "translated_sentence": "בפרק סונאטה במודוס מז'ורי, מודול ה-S נמצא בדרך כלל בסולם הדומיננטה (V). יצירות מאוחרות יותר של בטהובן, שוברט ואחרים משחקות עם האקספוזיציה (Exposition) הזו, אך היא תמיד מהווה את ברירת המחדל ברמה הראשונה. בראשית ההיסטוריה של הסונאטה, זוהי האפשרות היחידה."
+    },
+    {
+      "id": 349,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The S module in a minor-mode movement is typically in the mediant (III) or the *minor* dominant (V, or v if you want to emphasize the minor mode of the secondary key).",
+      "translated_sentence": "המודול S בפרק הכתוב בסולם מינורי נמצא בדרך כלל בדרגת המדיאנטה (III) או בדומיננטה ה*מינורית* (V, או v אם ברצונכם להדגיש את המודוס המינורי של הסולם המשני)."
+    },
+    {
+      "id": 350,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Following are several common types of secondary themes:",
+      "translated_sentence": "להלן מספר סוגים נפוצים של נושאים משניים (secondary themes):"
+    },
+    {
+      "id": 351,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*subito piano* S – sudden drop to low volume and/or sparse orchestration immediately after the MC; contrasts P",
+      "translated_sentence": "*subito piano* S – ירידה פתאומית לעוצמת קול נמוכה ו/או תזמור דליל מיד לאחר ה-MC; עומד בניגוד ל-P"
+    },
+    {
+      "id": 352,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "the *galant* S – light, jaunty, energetic, galloping; contrasts P",
+      "translated_sentence": "ה-*galant* S – קליל, עליז, אנרגטי, דוהרת; מנוגד ל-P"
+    },
+    {
+      "id": 353,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "the *cantabile* S – lyrical, singing; contrasts P",
+      "translated_sentence": "ה-*cantabile* S – לירי, שירתי; מנוגד ל-P"
+    },
+    {
+      "id": 354,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "P-based S – begins with material from the P theme (Haydn's first-level default)",
+      "translated_sentence": "P-based S – מתחיל עם חומר מהנושא P (ברירת המחדל של הרמה הראשונה אצל היידן)"
+    },
+    {
+      "id": 355,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "\"Contrasting derivation\" – derived from P, but contrasting in quality",
+      "translated_sentence": "\"גזירה מנוגדת\" (Contrasting derivation) – נגזר מ-P, אך מנוגד באיכותו"
+    },
+    {
+      "id": 356,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*forte* S – often follow weak MCs, continue the energy increased during TR",
+      "translated_sentence": "*forte* S – לרוב מופיעים לאחר MCs חלשים, וממשיכים את האנרגיה שגברה במהלך ה-TR"
+    },
+    {
+      "id": 357,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "*learned* S – rare S type that uses fugal, canonic, or imitative textures; reminiscent of pre-*galant* musical styles",
+      "translated_sentence": "*learned* S – סוג נדיר של S המשתמש במרקמים פוגליים (fugal), קנוניים (canonic) או חיקוייים (imitative); מזכיר סגנונות מוזיקליים שלפני ה-*galant*"
+    },
+    {
+      "id": 358,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Closing zone (C) ##",
+      "translated_sentence": "אזור סיום (Closing zone) (C) ##"
+    },
+    {
+      "id": 359,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The definitive characteristics of C are that it follows the EEC, and that it is not S. C modules can present wholly new thematic material, or they can borrow from P or TR. They cannot, by definition, be S-based, since that would be a continuation of S. (Keep in mind that the EEC must go on to new material, otherwise the S module continues and the EEC has not been reached yet.)",
+      "translated_sentence": "המאפיינים המכריעים של C הם שהוא עוקב אחר ה-EEC, ושהוא אינו S. מודולים מסוג C יכולים להציג חומר תמטי חדש לחלוטין, או שהם יכולים לשאול מ-P או מ-TR. הם אינם יכולים, מעצם הגדרתם, להיות מבוססי S, כיוון שזה יהווה המשך של S. (זכרו שה-EEC חייב להמשיך לחומר חדש, אחרת מודול ה-S נמשך וה-EEC טרם הושג.)"
+    },
+    {
+      "id": 360,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The C module will always be in the secondary key. It is post-cadential, and the harmonic goal of the exposition has already been reached. If C goes somewhere else, it is not C.",
+      "translated_sentence": "המודול C תמיד יהיה בסולם המשני (secondary key). הוא פוסט-קדנציאלי (post-cadential), והיעד ההרמוני של האקספוזיציה (exposition) כבר הושג. אם C עובר למקום אחר, הוא אינו C."
+    },
+    {
+      "id": 361,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "The C module's melodic material can be P-based, TR-based, wholly new, or a string of *codettas* (short phrase-length units containing flourishes and other stock gestures that each end with a repeat of the PAC in the secondary key).",
+      "translated_sentence": "החומר המלודי של מודול ה-C יכול להיות מבוסס על P, מבוסס על TR, חדש לחלוטין, או רצף של *קודטות* (codettas) (יחידות קצרות באורך משפט המכילות קישוטים ומחוות מוזיקליות שגרתיות אחרות, שכל אחת מהן מסתיימת בחזרה על ה-PAC בסולם המשני)."
+    },
+    {
+      "id": 362,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "Retransition (RT) ##",
+      "translated_sentence": "מעבר חוזר (Retransition - RT) ##"
+    },
+    {
+      "id": 363,
+      "file": "SonataTheory-modules.md",
+      "source_sentence": "A retransition is like a *turnaround* in pop/rock or blues music. It is a dominant chord or arrival in the home key that prepares the return to the home key at the beginning of the repeat of the exposition. The difference between an RT and a turnaround is that an RT follows a modulation. When the RT follows a secondary key of V, it turns I in the key of V into V into the key of I by repetition, melodic figuration, or the adding of a chordal seventh.",
+      "translated_sentence": "מעבר חוזר (Retransition) הוא כמו *סיומת מעבר* (turnaround) במוזיקת פופ/רוק או בלוז. זהו אקורד דומיננטי או הגעה לסולם הבית, המכינים את החזרה לסולם הבית בתחילת החזרה על האקספוזיציה. ההבדל בין RT לבין סיומת מעבר הוא ש-RT מגיע לאחר מודולציה. כאשר ה-RT מגיע לאחר סולם משני של V, הוא הופך את I בסולם של V ל-V בסולם של I באמצעות חזרה, פיגורציה מלודית, או הוספת ספטימה אקורדית."
+    },
+    {
+      "id": 364,
+      "file": "TBDemo.md",
+      "source_sentence": "The following video demonstrates the realization of a figured bass line in strict *basso continuo* style.",
+      "translated_sentence": "הסרטון הבא מדגים מימוש של קו בס ממוספר (figured bass) בסגנון *באסו קונטינואו* (basso continuo) קפדני."
+    },
+    {
+      "id": 365,
+      "file": "TBDemo.md",
+      "source_sentence": "<iframe src=\"http://player.vimeo.com/video/60340315\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/60340315\">Realizing a thoroughbass in strict basso continuo style</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "translated_sentence": "<iframe src=\"http://player.vimeo.com/video/60340315\" width=\"500\" height=\"281\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/60340315\">מימוש בס ממוספר (Thoroughbass) בסגנון באסו קונטינואו (Basso continuo) קפדני</a> ב-<a href=\"http://vimeo.com\">Vimeo</a>.</p>"
+    },
+    {
+      "id": 366,
+      "file": "VAT.md",
+      "source_sentence": "The following video explains the basics of using [Variations Audio Timeliner][VAT] for annotating musical form on a recording. (I made this video before I got the hang of Vimeo. Both the embedded and the full-screen versions are hard to read. I recommend following the link below and watching—or downloading—from the main Vimeo page.)",
+      "translated_sentence": "הסרטון הבא מסביר את יסודות השימוש ב-[Variations Audio Timeliner][VAT] לצורך סימון מבנה מוזיקלי על גבי הקלטה. (יצרתי את הסרטון הזה לפני שהשתפשפתי בשימוש ב-Vimeo. גם הגרסה המוטמעת וגם גרסת מסך מלא קשות לקריאה. אני ממליץ לעקוב אחר הקישור להלן ולצפות בו — או להוריד אותו — מעמוד ה-Vimeo הראשי.)"
+    },
+    {
+      "id": 367,
+      "file": "VAT.md",
+      "source_sentence": "<iframe src=\"http://player.vimeo.com/video/42041355\" width=\"500\" height=\"197\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/42041355\">Introduction to Variations Audio Timeliner</a> from <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "translated_sentence": "<iframe src=\"http://player.vimeo.com/video/42041355\" width=\"500\" height=\"197\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/42041355\">מבוא ל-Variations Audio Timeliner</a> מאת <a href=\"http://vimeo.com/user11692346\">קריס שאפר (Kris Shaffer)</a> ב-<a href=\"http://vimeo.com\">Vimeo</a>.</p>"
+    },
+    {
+      "id": 368,
+      "file": "VAT.md",
+      "source_sentence": "[VAT]: http://variations.sourceforge.net/vat/",
+      "translated_sentence": "[VAT]: http://variations.sourceforge.net/vat/"
+    },
+    {
+      "id": 369,
+      "file": "about.md",
+      "source_sentence": "Inverted (or flipped) music theory",
+      "translated_sentence": "תאוריית מוזיקה הפוכה (Inverted music theory)"
+    },
+    {
+      "id": 370,
+      "file": "about.md",
+      "source_sentence": "This textbook is meant to support *active student engagement with music* in the theory classroom. That means that this text is meant to take a back seat to student music making (and breaking). It is not the center of the course.",
+      "translated_sentence": "ספר לימוד זה נועד לתמוך ב*מעורבות פעילה של סטודנטים במוזיקה* בכיתת התאוריה. המשמעות היא שטקסט זה נועד לתפוס מושב אחורי לעומת עשייה (ופירוק) מוזיקלית של הסטודנטים. הוא אינו המרכז של הקורס."
+    },
+    {
+      "id": 371,
+      "file": "about.md",
+      "source_sentence": "The three original authors use this textbook in the context of  \"inverted\" or \"flipped\" courses, often following an [inquiry-based model](http://www.flipcamp.org/engagingstudents/shafferpt3.html).",
+      "translated_sentence": "שלושת המחברים המקוריים משתמשים בספר לימוד זה בהקשר של קורסים \"הפוכים\" (inverted) או \"משולבים\" (flipped), שלעיתים קרובות עוקבים אחר [מודל מבוסס חקירה](http://www.flipcamp.org/engagingstudents/shafferpt3.html) (inquiry-based model)."
+    },
+    {
+      "id": 372,
+      "file": "about.md",
+      "source_sentence": "As a result, most of the pages in this textbook do not read like a typical twentieth-century textbook. They are somewhere in between prosy lecture notes and reference material, with minimal graphical or audio examples. Also, unlike many resources for \"flipped\" classes, there are few resources in this textbook where the core information is presented in video. We made these decisions consciously, so that this would not simply be a multimedia, web-based version of an industrial-era textbook. Rather, we wanted to create a textbook that could serve as a quick reference in the context of active musical engagement.",
+      "translated_sentence": "כתוצאה מכך, רוב העמודים בספר לימוד זה אינם נקראים כספר לימוד טיפוסי של המאה העשרים. הם נמצאים איפשהו בין סיכומי הרצאות פרוזאיים לבין חומר עזר, עם מינימום דוגמאות גרפיות או קוליות. כמו כן, בניגוד למשאבים רבים עבור כיתות \"הפוכות\" (flipped classes), ישנם מעט משאבים בספר לימוד זה שבהם המידע המרכזי מוצג בווידאו. קיבלנו החלטות אלו במודע, כדי שזה לא יהיה סתם גרסה מולטימדיה מבוססת אינטרנט של ספר לימוד מעידן התעשייה. במקום זאת, רצינו ליצור ספר לימוד שיכול לשמש כעזר מהיר בהקשר של עיסוק מוזיקלי פעיל."
+    },
+    {
+      "id": 373,
+      "file": "about.md",
+      "source_sentence": "In our classes, student activity takes pride of place, and it often *precedes* engagement with the textbook. The information contained in this text is secondary to that activity, and thus this text is meant to play only a supporting role in our classes.",
+      "translated_sentence": "בשיעורים שלנו, לפעילות הסטודנטים יש חשיבות עליונה, ולעיתים קרובות היא *קודמת* לעיסוק בספר הלימוד. המידע הכלול בטקסט זה הוא משני לפעילות האמורה, ולפיכך טקסט זה נועד למלא תפקיד תומך בלבד בשיעורים שלנו."
+    },
+    {
+      "id": 374,
+      "file": "about.md",
+      "source_sentence": "For more information about the inverted music class, see *Engaging Students: Essays in Music Pedagogy*, [Volume 1 (2013)](http://www.flipcamp.org/engagingstudents/index.html) and [Volume 2 (2014)](http://www.flipcamp.org/engagingstudents2/index.html).",
+      "translated_sentence": "למידע נוסף על הכיתה ההפוכה (inverted music class) במוזיקה, ראו *Engaging Students: Essays in Music Pedagogy*, [כרך 1 (2013)](http://www.flipcamp.org/engagingstudents/index.html) ו-[כרך 2 (2014)](http://www.flipcamp.org/engagingstudents2/index.html)."
+    },
+    {
+      "id": 375,
+      "file": "about.md",
+      "source_sentence": "Open source",
+      "translated_sentence": "קוד פתוח (Open source)"
+    },
+    {
+      "id": 376,
+      "file": "about.md",
+      "source_sentence": "This \"textbook\" is an *open-source* textbook. That means that you are free to use, modify, distribute, even sell its contents provided that you 1) attribute the original to us, and 2) pass on the same rights to others (which includes us!) by licensing your derivative work the same way we license this one. (See the Creative Commons license deed linked on each page of this textbook.) In fact, we highly encourage others to \"hack\" this book: supplement it, reword it, add examples, drop chapters, mash it up with another one. Not only will that mean a greater diversity of material available, but if you improve your version of this work with your hacks, we can use those improvements to make this resource better, too.",
+      "translated_sentence": "\"ספר לימוד\" זה הוא ספר לימוד *בקוד פתוח* (open-source). המשמעות היא שאתם חופשיים להשתמש בתכניו, לשנות אותם, להפיץ אותם ואף למכור אותם, בתנאי ש: 1) תתנו קרדיט למקור, ו-2) תעבירו את אותן הזכויות לאחרים (מה שכולל גם אותנו!) על ידי מתן רישיון ליצירה הנגזרת שלכם באותו אופן שבו אנו מעניקים רישיון ליצירה זו. (ראו את שטר הרישיון של Creative Commons המקושר בכל עמוד בספר לימוד זה). למעשה, אנו מעודדים אחרים \"לפרוץ\" (hack) את הספר הזה: להוסיף לו, לנסח אותו מחדש, להוסיף דוגמאות, להשמיט פרקים, או לשלב אותו עם ספר אחר. לא רק שמשמעות הדבר תהיה מגוון רחב יותר של חומרים זמינים, אלא שאם תשפרו את הגרסה שלכם ליצירה זו באמצעות ה\"פריצות\" שלכם, נוכל להשתמש בשיפורים אלו כדי להפוך גם את המשאב הזה לטוב יותר."
+    },
+    {
+      "id": 377,
+      "file": "about.md",
+      "source_sentence": "If you want to \"fork\" this textbook, either to deploy it for your own course or to use it as the basis for your own derived work, please visit the [GitHub project page](https://github.com/hybrid-pedagogy/openmusictheory), log in (or sign up), and click \"fork.\" From there, you can edit, add, or remove the text, graphics, and videos (all text is in the very user-friendly Markdown format), or the theme (HTML and CSS). You can also send us a \"pull request,\" if you've made a change you think would be beneficial to add to this textbook. You can even download an individual file to convert into a handout to distribute in class. For more details on the open-source ideology behind this textbook or the process of using it for your own purposes, please read Kris Shaffer's articles in *Hybrid Pedagogy*: \"[Open-Source Scholarship](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html)\" and \"[Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/Journal/files/GitHub_for_Academics.html).\"",
+      "translated_sentence": "אם ברצונכם לבצע \"fork\" לספר לימוד זה, בין אם כדי להטמיע אותו בקורס שלכם או כדי להשתמש בו כבסיס לעבודה נגזרת משלכם, אנא בקרו ב[דף פרויקט ה-GitHub](https://github.com/hybrid-pedagogy/openmusictheory), התחברו (או הירשמו), ולחצו על \"fork\". משם, תוכלו לערוך, להוסיף או להסיר טקסט, גרפיקה וסרטונים (כל הטקסט כתוב בפורמט Markdown ידידותי מאוד למשתמש), או את העיצוב (HTML ו-CSS). תוכלו גם לשלוח לנו \"pull request\", אם ביצעתם שינוי שלדעתכם יהיה מועיל להוסיף לספר לימוד זה. אתם יכולים אפילו להוריד קובץ בודד כדי להמיר אותו לדף עזר (handout) להפצה בכיתה. לפרטים נוספים על האידיאולוגיה של קוד פתוח (open-source) העומדת מאחורי ספר לימוד זה או על התהליך של שימוש בו למטרותיכם האישיות, אנא קראו את מאמריו של כריס שאפר (Kris Shaffer) ב-*Hybrid Pedagogy*: \"[Open-Source Scholarship](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html)\" ו-\"[Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/Journal/files/GitHub_for_Academics.html).\""
+    },
+    {
+      "id": 378,
+      "file": "about.md",
+      "source_sentence": "A critical textbook",
+      "translated_sentence": "ספר לימוד ביקורתי"
+    },
+    {
+      "id": 379,
+      "file": "about.md",
+      "source_sentence": "Rather than create \"a fixed tome of knowledge, shared across institutional boundaries, with the authority to dictate pedagogical decisions and arbitrate student success,\" OMT strives to be a [critical textbook](http://www.hybridpedagogy.com/journal/critical-textbook/): \"multi-authored, physically hackable, and legally alterable.\" We hope this textbook can \"facilitate student access to existing knowledge, and empower them to critique it, dismantle it, and create new knowledge.\"",
+      "translated_sentence": "במקום ליצור \"כרך ידע קבוע, המשותף מעבר לגבולות מוסדיים, בעל סמכות להכתיב החלטות פדגוגיות ולשמש בורר להצלחת סטודנטים\", OMT שואף להיות [ספר לימוד ביקורתי](http://www.hybridpedagogy.com/journal/critical-textbook/): \"בעל מחברים מרובים, ניתן לפירוק פיזי, וניתן לשינוי מבחינה חוקית\". אנו מקווים שספר לימוד זה יוכל \"להקל על גישת הסטודנטים לידע קיים, ולהעצים אותם לבקר אותו, לפרק אותו, וליצור ידע חדש\"."
+    },
+    {
+      "id": 380,
+      "file": "about.md",
+      "source_sentence": "This means that at times (and increasingly as more contribute to the text), multiple perspectives will be provided on a single issue. Also, the license (and to the greatest extent possible, the technology) permits an instructor—and even a student—to tweak and rewrite the text. And rather than arbitrate standards across institutional boundaries, we hope that the online nature of the text, and the accompanying hashtag [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), will help build *community* across institutional boundaries, rather than uniformity.",
+      "translated_sentence": "משמעות הדבר היא שלעיתים (ובאופן גובר ככל שיותר אנשים תורמים לטקסט), יוצגו נקודות מבט מרובות על סוגיה אחת. כמו כן, הרישיון (ובמידה הרבה ביותר האפשרית, הטכנולוגיה) מאפשר למדריך — ואפילו לסטודנט — לשנות ולכתוב מחדש את הטקסט. ובמקום לבורר סטנדרטים מעבר לגבולות מוסדיים, אנו מקווים שהאופי המקוון של הטקסט, וההאשטאג הנלווה [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), יסייעו בבניית *קהילה* מעבר לגבולות מוסדיים, במקום אחידות."
+    },
+    {
+      "id": 381,
+      "file": "about.md",
+      "source_sentence": "While there are three authors and an editor listed on this text as of first \"publication,\" we hope that the technology and the license encourage otherss to contribute new material to this volume. Though Kris, Bryn, Brian, and Robin are the original authors and editors, we have chosen a license and platform that essentially give the community of music scholars and students ownership over the textbook.",
+      "translated_sentence": "בעוד ששלושה מחברים ועורך רשומים על טקסט זה נכון ל\"פרסום\" הראשון, אנו מקווים שהטכנולוגיה והרישיון יעודדו אחרים לתרום חומר חדש לכרך זה. אף על פי שקריס, ברין, בריאן ורובין הם המחברים והעורכים המקוריים, בחרנו ברישיון ובפלטפורמה שמעניקים למעשה לקהילת חוקרי המוזיקה והסטודנטים בעלות על ספר הלימוד."
+    },
+    {
+      "id": 382,
+      "file": "about.md",
+      "source_sentence": "Hybrid Pedagogy Publishing",
+      "translated_sentence": "הוצאת פדגוגיה היברידית (Hybrid Pedagogy Publishing)"
+    },
+    {
+      "id": 383,
+      "file": "about.md",
+      "source_sentence": "This textbook is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing), under editors [Robin Wharton](http://www.robinwharton.com) and [Kris Shaffer](http://kris.shaffermusic.com).",
+      "translated_sentence": "ספר לימוד זה פורסם על ידי [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing), בעריכתם של [Robin Wharton](http://www.robinwharton.com) ו-[Kris Shaffer](http://kris.shaffermusic.com)."
+    },
+    {
+      "id": 384,
+      "file": "about.md",
+      "source_sentence": "HPP seeks to do more than simply reproduce print publishing in digital form. Rather, we ask, *what can a digital \"book\" do that a print book cannot?* As we state on our website,",
+      "translated_sentence": "HPP שואף לעשות יותר מאשר פשוט לשכפל הוצאה לאור מודפסת בצורה דיגיטלית. במקום זאת, אנו שואלים, *מה יכול \"ספר\" דיגיטלי לעשות שספר מודפס אינו יכול?* כפי שאנו מציינים באתר האינטרנט שלנו,"
+    },
+    {
+      "id": 385,
+      "file": "about.md",
+      "source_sentence": "Writing and reading are social acts. Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.",
+      "translated_sentence": "כתיבה וקריאה הן פעולות חברתיות. הוצאת Hybrid Pedagogy מבקשת לעודד שיח ציבורי פעיל על ידי פרסום יצירות שנולדו מתוך קהילה או מאפשרות (אינטראקציה) קהילתית — יצירות המבוססות על חוכמת המונים או שנכתבו בשיתוף פעולה, נגישות באופן חופשי, מעודדות רמיקס ופרסום מחדש, ו/או מטשטשות את הגבולות בין כותב לקורא."
+    },
+    {
+      "id": 386,
+      "file": "about.md",
+      "source_sentence": "Textbooks are nearly unparalleled in the degree to which they are attached to a community. And so we hope that this textbook and the communities that use it will be a vibrant starting point for us as we re-examine what it means to read, write, and engage texts critically in a digitally connected age.",
+      "translated_sentence": "ספרי לימוד הם כמעט חסרי תקדים במידת הקשר שלהם לקהילה. ועל כן, אנו מקווים שספר לימוד זה והקהילות המשתמשות בו יהוו נקודת מוצא תוססת עבורנו בעודנו בוחנים מחדש מה המשמעות של קריאה, כתיבה ועיסוק בטקסטים באופן ביקורתי בעידן המקושר דיגיטלית."
+    },
+    {
+      "id": 387,
+      "file": "about.md",
+      "source_sentence": "For more information about HPP, [follow @HybridPub on Twitter](http://twitter.com/HybridPub).",
+      "translated_sentence": "למידע נוסף על HPP, [עקבו אחר @HybridPub בטוויטר](http://twitter.com/HybridPub)."
+    },
+    {
+      "id": 388,
+      "file": "about.md",
+      "source_sentence": "Supporters",
+      "translated_sentence": "תומכים"
+    },
+    {
+      "id": 389,
+      "file": "about.md",
+      "source_sentence": "As this book grew out of a crowdfunding effort, we are proud to acknowledge those who contributed financially to the writing, editing, and designing of this book. We are extremely grateful for their support.",
+      "translated_sentence": "מאחר שספר זה צמח מתוך מאמץ של מימון המונים (crowdfunding), אנו גאים להכיר תודה לאלו שתרמו כספית לכתיבה, לעריכה ולעיצוב של ספר זה. אנו אסירי תודה על תמיכתם."
+    },
+    {
+      "id": 390,
+      "file": "about.md",
+      "source_sentence": "We are also beyond grateful to have the financial and technological support from the team at [Trinket](http://www.trinket.io), who provided a matching donation in the amount of $2500, and who built the technology behind the interactive musical notation modules that appear in this text.",
+      "translated_sentence": "אנו אסירי תודה מעבר למילים על התמיכה הכספית והטכנולוגית מצוות [Trinket](http://www.trinket.io), אשר סיפקו תרומה תואמת בסך 2500$, ואשר בנו את הטכנולוגיה שמאחורי מודולי התיווי המוזיקלי האינטראקטיביים המופיעים בטקסט זה."
+    },
+    {
+      "id": 391,
+      "file": "about.md",
+      "source_sentence": "**Financial supporters of the open, interactive music theory textbook (non-anonymous donors of $15 or more):**",
+      "translated_sentence": "**תומכים כספיים של ספר הלימוד הפתוח והאינטראקטיבי לתאוריה של המוזיקה (תורמים שאינם אנונימיים של 15$ ומעלה):**"
+    },
+    {
+      "id": 392,
+      "file": "about.md",
+      "source_sentence": "Adam Heidebrink, Andrew Charlton, Alex Dunn, Andre Mount, Ben Lloyd Pearson, Benjamin Zwickl, Brian Bennett, Brian Moseley, Chris Ogden, Christopher Edwards, Daniel Shanahan, Daniel Stevens, Dave Easley, David Huron, David Kulma, David MacDonald, The Marca Development Team, Jesse Stommel, Jill T. Brasky, John Moore, Jon Scott Smith, Joseph Casamento, Julia Silge, Kyle Gullings, Lindsey Sudbury, Maeve Sterbenz, Marianne Kielian-Gilbert, Mark Easley, Sr., Mark McGuire, martinlugton (screen name), Max August, Moeruze.Burning (screen name), Molly Sweet, Pandel Collaros, Paul Bond, Paul David Johnson, Peter Kaminsky, Peter Newbury, Philip Duker, pkay3 (screen name), Robert Kelley, Robert Talbert, Rolin Moe, Trevor Pittman, Trevor Rowe, University of Delaware Dept. of Academic Technology Services, University of Delaware Dept. of Music, University of Colorado Dept. of Music Theory, Wanda Terral, William O’Hara, and several anonymous donors.",
+      "translated_sentence": "אדם היידברינק, אנדרו צ'רלטון, אלכס דאן, אנדרה מאונט, בן לויד פירסון, בנג'מין זוויקל, בריאן בנט, בריאן מוזלי, כריס אוגדן, כריסטופר אדוארדס, דניאל שנהאן, דניאל סטיבנס, דייב איסלי, דייוויד יורון, דייוויד קולמה, דייוויד מקדונלד, צוות הפיתוח של Marca, ג'סי סטומל, ג'יל ט. ברסקי, ג'ון מור, ג'ון סקוט סמית', ג'וזף קזמנטו, ג'וליה סילג', קייל גאלינגס, לינדזי סדברי, מייב סטרבנץ, מריאן קיליאן-גילברט, מארק איסלי האב, מארק מקגווייר, martinlugton (שם משתמש), מקס אוגוסט, Moeruze.Burning (שם משתמש), מולי סוויט, פנדל קולארוס, פול בונד, פול דייוויד ג'ונסון, פיטר קמינסקי, פיטר ניוברי, פיליפ דוקר, pkay3 (שם משתמש), רוברט קלי, רוברט טלברט, רולין מו, טרבור פיטמן, טרבור רו, המחלקה לשירותי טכנולוגיה אקדמית באוניברסיטת דלאוור, המחלקה למוזיקה באוניברסיטת דלאוור, המחלקה לתורת המוזיקה באוניברסיטת קולורדו, וונדה טרל, ויליאם או'הרה, ומספר תורמים אנונימיים."
+    },
+    {
+      "id": 393,
+      "file": "addCC.md",
+      "source_sentence": "<iframe src=\"http://player.vimeo.com/video/50575367\" width=\"500\" height=\"375\" class=\"aligncenter\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>",
+      "translated_sentence": "<iframe src=\"http://player.vimeo.com/video/50575367\" width=\"500\" height=\"375\" class=\"aligncenter\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+    },
+    {
+      "id": 394,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*.",
+      "translated_sentence": "אקורדי הסובדומיננטה (subdominant) בעלי השינוי הכרומטי הנפוצים ביותר (מלבד הדומיננטה המופעלת של V) הם *אקורד נאפוליטני* (Neapolitan chord) וסוגים שונים של *אקורדי סקסטה מוגדלת* (augmented-sixth chords)."
+    },
+    {
+      "id": 395,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "![][altSub]",
+      "translated_sentence": "![][altSub]"
+    },
+    {
+      "id": 396,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Neapolitan chord",
+      "translated_sentence": "אקורד נאפוליטני (Neapolitan chord)"
+    },
+    {
+      "id": 397,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The Neapolitan chord contains lowered scale-degree 2, along with scale-degree 4, and lowered scale-degree 6: *ra*, *fa*, and *le*. It is a major triad, and it usually appears with *fa* in the bass (first-inversion), which is also doubled in a four-voice texture.",
+      "translated_sentence": "האקורד הנאפוליטני (Neapolitan chord) מכיל את דרגת הסולם השנייה מונמכת, יחד עם דרגת הסולם הרביעית, ודרגת הסולם השישית מונמכת: *ra*, *fa*, ו-*le*. זהו אקורד משולש מז'ורי (major triad), והוא מופיע בדרך כלל כאשר *fa* בבס (היפוך ראשון), אשר גם מוכפל במרקם של ארבעה קולות."
+    },
+    {
+      "id": 398,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subominant function (**S**).",
+      "translated_sentence": "בניתוח ספרות רומיות (Roman numeral analysis), הסימון **N.** (או **N.<sup>6</sup>**) מחליף ספרה רומית (כלומר, במוזיקה קלאסית הוא אינו מסומן כאקורד flat-II). כאקורד סובדומיננטה שעבר שינוי כרומטי (chromatically altered subdominant chord), הוא תמיד מבטא פונקציית סובדומיננטה (**S**)."
+    },
+    {
+      "id": 399,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.",
+      "translated_sentence": "בניתוח בס פונקציונלי (functional bass analysis), הסימון **N.** ממוקם מתחת לציון הפונקציונלי של **[S4]**."
+    },
+    {
+      "id": 400,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Augmented-sixth chords",
+      "translated_sentence": "אקורדים של סקסטה מוגדלת (Augmented-sixth chords)"
+    },
+    {
+      "id": 401,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Augmented-sixth chords are so named because of the augmented sixth that occurs between *le* and *fi*, two scale-degrees that are present in every augmented-sixth chord. The other pitch(es) in the chord determine which kind of augmented-sixth chord is present.",
+      "translated_sentence": "אקורדים של סקסטה מוגדלת (Augmented-sixth chords) נקראים כך בשל הסקסטה המוגדלת המופיעה בין *לה* (le) ל-*פי* (fi), שתי דרגות סולם הנוכחות בכל אקורד של סקסטה מוגדלת. הצליל/ים האחר/ים באקורד קובעים באיזה סוג של אקורד סקסטה מוגדלת מדובר."
+    },
+    {
+      "id": 402,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Italian augmented-sixth chord",
+      "translated_sentence": "אקורד סקסטה מוגדלת איטלקי (Italian augmented-sixth chord)"
+    },
+    {
+      "id": 403,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The *Italian augmented-sixth chord* is the simplest augmented-sixth chord, with only three members: *le*, *do*, and *fi*. *Le* is typically the bass note, and in a four-voice texture, *do* is typically the pitch that is doubled. (Keep in mind that you do not double the bass in a chord of the sixth, nor a chromatically altered tone such as *fi*. Thus, *do* remains as the only tone that can be doubled in strict style, and this doubling typically carries into freer styles, as well.)",
+      "translated_sentence": "*אקורד סקסטה מוגדלת איטלקי (Italian augmented-sixth chord)* הוא אקורד הסקסטה המוגדלת הפשוט ביותר, המורכב משלושה צלילים בלבד: *לה (le)*, *דו (do)*, ו-*פי (fi)*. *לה (le)* הוא בדרך כלל צליל הבס, ובמרקם של ארבעה קולות, *דו (do)* הוא בדרך כלל הצליל המוכפל. (זכרו כי אין להכפיל את הבס באקורד סקסטה, וגם לא צליל שעבר שינוי כרומטי כמו *פי (fi)*. לפיכך, *דו (do)* נותר הצליל היחיד שניתן להכפיל בסגנון מחמיר, והכפלה זו נשמרת בדרך כלל גם בסגנונות חופשיים יותר)."
+    },
+    {
+      "id": 404,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a Roman numeral analysis, **It.** replaces a Roman numeral. The figured bass is a simple slashed \"6.\" It expresses subdominant function **S**).",
+      "translated_sentence": "בניתוח ספרות רומיות (Roman numeral analysis), הסימון **It.** מחליף ספרה רומית. הבאס הממוספר (figured bass) הוא \"6\" פשוט עם קו נטוי. הוא מבטא פונקציה סובדומיננטית (**S**)."
+    },
+    {
+      "id": 405,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**",
+      "translated_sentence": "כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**It.**"
+    },
+    {
+      "id": 406,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "French augmented-sixth chord",
+      "translated_sentence": "אקורד סקסטה מוגדלת צרפתי (French augmented-sixth chord)"
+    },
+    {
+      "id": 407,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The *French augmented-sixth chord* has four members: *le*, *do*, *re*, and *fi*. As in the Italian sixth, *le* is typically the bass note.",
+      "translated_sentence": "אקורד *השישית המוגדלת הצרפתית (French augmented-sixth chord)* מורכב מארבעה צלילים: *לה (le)*, *דו (do)*, *רה (re)*, ו-*פי (fi)*. בדומה לאקורד השישית האיטלקית, *לה (le)* הוא בדרך כלל צליל הבס."
+    },
+    {
+      "id": 408,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a Roman numeral analysis, **Fr.** replaces a Roman numeral. The figured bass is a slashed \"6\" with a \"4\" and a \"3.\" It expresses subdominant function **S**).",
+      "translated_sentence": "בניתוח ספרות רומיות, **Fr.** מחליף ספרה רומית. הבאס הממוספר (figured bass) הוא \"6\" עם קו נטוי, יחד עם \"4\" ו-\"3\". הוא מבטא פונקציה סובדומיננטית (**S**)."
+    },
+    {
+      "id": 409,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**",
+      "translated_sentence": "כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**It.**"
+    },
+    {
+      "id": 410,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "German augmented-sixth chord",
+      "translated_sentence": "אקורד סקסטה מוגדלת גרמני (German augmented-sixth chord)"
+    },
+    {
+      "id": 411,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The *German augmented-sixth chord* has four members: *le*, *do*, *me*, and *fi*. As in the other augmented sixth chords, *le* is typically the bass note.",
+      "translated_sentence": "*אקורד סקסטה מוגדלת גרמני (German augmented-sixth chord)* כולל ארבעה צלילים: *le* (לה במול), *do* (דו), *me* (מי במול) ו-*fi* (פה דיאז). כפי שקורה באקורדי סקסטה מוגדלת אחרים, *le* הוא בדרך כלל צליל הבס."
+    },
+    {
+      "id": 412,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a Roman numeral analysis, **Ger.** replaces a Roman numeral. The figured bass is a slashed \"6\" with a \"5.\" It expresses subdominant function **S**).",
+      "translated_sentence": "בניתוח ספרות רומיות (Roman numeral analysis), ה-**Ger.** מחליף ספרה רומית. הבאס הממוספר (figured bass) הוא \"6\" עם קו נטוי ו-\"5\". הוא מבטא פונקציה סובדומיננטית (**S**)."
+    },
+    {
+      "id": 413,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Ger.**",
+      "translated_sentence": "כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**Ger.**"
     }
   ]
 }

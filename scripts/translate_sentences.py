@@ -27,6 +27,7 @@ Behaviour, per spec:
   by the calling GitHub Actions workflow, not by this script.
 """
 
+import functools
 import json
 import os
 import sys
@@ -34,6 +35,13 @@ import time
 from pathlib import Path
 
 import requests
+
+# Force every print() to flush immediately. Without this, stdout is
+# block-buffered when it isn't a real terminal (which is the case inside
+# GitHub Actions), so log lines can sit invisible in the buffer for a long
+# time (or until the process exits) even though the script IS making
+# progress. This is what looks like "the script is stuck" in the Actions UI.
+print = functools.partial(print, flush=True)  # noqa: A001
 
 # ---------------------------------------------------------------------------
 # Configuration (overridable via environment variables set in the workflow)
@@ -116,7 +124,25 @@ def call_gemini(sentence: str) -> str:
 
     response = requests.post(GEMINI_ENDPOINT, headers=headers, json=body, timeout=60)
     if response.status_code != 200:
-        raise RuntimeError(f"Gemini API returned {response.status_code}: {response.text[:500]}")
+        hint = ""
+        if response.status_code == 404:
+            hint = (
+                " Hint: 404 from Gemini almost always means either (a) the model name "
+                f"'{GEMINI_MODEL}' is wrong/unavailable for this API key, or (b) the API key "
+                "itself is not a valid Generative Language API key (a real key from "
+                "https://aistudio.google.com/apikey normally starts with 'AIzaSy...'). "
+                "Verify both by running: "
+                "curl -H \"x-goog-api-key: $GEMINI_API_KEY\" "
+                "https://generativelanguage.googleapis.com/v1beta/models "
+                "and checking the key is listed there and generateContent is supported."
+            )
+        elif response.status_code in (401, 403):
+            hint = " Hint: this usually means the API key is missing, invalid, or restricted."
+        elif response.status_code == 429:
+            hint = " Hint: rate limit exceeded - the retry back-off should handle this."
+        raise RuntimeError(
+            f"Gemini API returned {response.status_code}: {response.text[:500]}{hint}"
+        )
 
     data = response.json()
     candidates = data.get("candidates") or []
@@ -143,7 +169,10 @@ def main():
     done_ids = {t["id"] for t in translations}
 
     pending = [s for s in sentences if s["id"] not in done_ids]
-    print(f"{len(done_ids)} sentences already translated, {len(pending)} remaining.")
+    print(
+        f"Starting run: {len(pending)} sentences remaining "
+        f"({len(done_ids)} already translated out of {len(sentences)} total)."
+    )
 
     if not pending:
         state["completed"] = True

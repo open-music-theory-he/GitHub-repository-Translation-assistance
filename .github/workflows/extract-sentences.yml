@@ -2,7 +2,12 @@ name: "1 - Extract sentences from source repo"
 
 # Manual, one-time trigger (run it once from the Actions tab -> "Run workflow").
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      include_no_word_lines:
+        description: "Include lines with no translatable words (pure separators, template tags, etc.)? Leave unchecked to filter them out (recommended)."
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -33,7 +38,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run extraction
-        run: python scripts/extract_sentences.py --source ./source-repo --output data/sentences.json
+        run: |
+          python scripts/extract_sentences.py --source ./source-repo --output data/sentences.json \
+            ${{ inputs.include_no_word_lines && '--include-no-word-lines' || '' }}
 
       - name: Commit and push data/sentences.json
         run: |

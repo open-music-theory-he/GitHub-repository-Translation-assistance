@@ -2490,6 +2490,18 @@
       "file": "alteredSubdominants.md",
       "source_sentence": "Swiss augmented-sixth chord",
       "translated_sentence": "אקורד סקסטה מוגדלת שוויצרי (Swiss augmented-sixth chord)"
+    },
+    {
+      "id": 416,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The *Swiss augmented-sixth chord* has four members: *le*, *do*, *ri*, and *fi*. This chord is named \"Swiss\" because it sounds German but is spelled like the French. (*ri* in place of *me*) (Switzerland has a mixture of German-, French-, Italian-, and Romansch-based languages, with German and French being the largest.) *Le* is typically the bass note.",
+      "translated_sentence": "*אקורד הסקסטה המוגדלת השווייצרי (Swiss augmented-sixth chord)* כולל ארבעה צלילים: *לה*, *דו*, *רי* ו-*פי*. אקורד זה נקרא \"שווייצרי\" מכיוון שהוא נשמע כמו הגרמני אך מאוית כמו הצרפתי. (*רי* במקום *מה*) (בשווייץ ישנו עירוב של שפות המבוססות על גרמנית, צרפתית, איטלקית ורומאנש, כאשר גרמנית וצרפתית הן הנפוצות ביותר.) *לה* הוא בדרך כלל צליל הבס."
+    },
+    {
+      "id": 417,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "In a Roman numeral analysis, **Sw.** replaces a Roman numeral. The figured bass is a slashed \"6\" with a slashed \"4\" and a \"3.\" It expresses subdominant function **S**).",
+      "translated_sentence": "בניתוח ספרות רומיות (Roman numeral analysis), **Sw.** מחליף ספרה רומית. הבס הממוספר (figured bass) הוא \"6\" עם קו נטוי עם \"4\" עם קו נטוי ו-\"3\". הוא מבטא פונקציה סובדומיננטית (subdominant function) **S**)."
     }
   ]
 }

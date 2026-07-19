@@ -2478,6 +2478,18 @@
       "file": "alteredSubdominants.md",
       "source_sentence": "When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Ger.**",
       "translated_sentence": "כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**Ger.**"
+    },
+    {
+      "id": 414,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "The German sixth is almost always used in minor and followed by a cadential 6/4 chord, with *me* and *do* carrying over into the cadential 6/4.",
+      "translated_sentence": "הסקסטה הגרמנית (German sixth) נמצאת כמעט תמיד בשימוש במינור, ואחריה מופיע אקורד 6/4 קדנציאלי (cadential 6/4 chord), כאשר *מי* ו-*דו* נשארים אל תוך ה-6/4 הקדנציאלי."
+    },
+    {
+      "id": 415,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Swiss augmented-sixth chord",
+      "translated_sentence": "אקורד סקסטה מוגדלת שוויצרי (Swiss augmented-sixth chord)"
     }
   ]
 }

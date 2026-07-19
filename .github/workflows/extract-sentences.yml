@@ -1,0 +1,48 @@
+name: "1 - Extract sentences from source repo"
+
+# Manual, one-time trigger (run it once from the Actions tab -> "Run workflow").
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this (target/translation) repo
+        uses: actions/checkout@v4
+
+      - name: Checkout source repo (read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: open-music-theory-he/open-music-theory-he.github.io
+          path: source-repo
+          # This repo is public, so no token is required to read it.
+          # If it were ever made private, uncomment the two lines below
+          # and add a SOURCE_REPO_TOKEN secret with read access to it:
+          # token: ${{ secrets.SOURCE_REPO_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run extraction
+        run: python scripts/extract_sentences.py --source ./source-repo --output data/sentences.json
+
+      - name: Commit and push data/sentences.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sentences.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Extract sentences from source repo"
+            git push
+          fi

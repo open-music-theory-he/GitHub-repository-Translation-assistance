@@ -2,7 +2,7 @@ name: "2 - Translate sentences (Gemini)"
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # every 2 hours
+    - cron: "0 * * * *" # every hour
   workflow_dispatch: {} # allow manual runs too, e.g. for testing
 
 permissions:

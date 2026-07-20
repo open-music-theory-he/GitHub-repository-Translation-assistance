@@ -2532,6 +2532,24 @@
       "file": "analyzingPoetry.md",
       "source_sentence": "*This resource created by Jonathan Sircy, Department of English, Charleston Southern University.*",
       "translated_sentence": "*משאב זה נוצר על ידי ג'ונתן סירסי (Jonathan Sircy), המחלקה לאנגלית, אוניברסיטת צ'רלסטון סאות'רן (Charleston Southern University).*"
+    },
+    {
+      "id": 423,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "What is poetry?",
+      "translated_sentence": "מהי שירה?"
+    },
+    {
+      "id": 424,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "We can distinguish *poetry* from *prose* by its",
+      "translated_sentence": "אנו יכולים להבחין בין *שירה* לבין *פרוזה* על פי ה-"
+    },
+    {
+      "id": 425,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "preference for formal organization,",
+      "translated_sentence": "העדפה לארגון צורני (formal organization),"
     }
   ]
 }

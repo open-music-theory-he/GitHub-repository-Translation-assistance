@@ -2502,6 +2502,36 @@
       "file": "alteredSubdominants.md",
       "source_sentence": "In a Roman numeral analysis, **Sw.** replaces a Roman numeral. The figured bass is a slashed \"6\" with a slashed \"4\" and a \"3.\" It expresses subdominant function **S**).",
       "translated_sentence": "בניתוח ספרות רומיות (Roman numeral analysis), **Sw.** מחליף ספרה רומית. הבס הממוספר (figured bass) הוא \"6\" עם קו נטוי עם \"4\" עם קו נטוי ו-\"3\". הוא מבטא פונקציה סובדומיננטית (subdominant function) **S**)."
+    },
+    {
+      "id": 418,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Sw.**",
+      "translated_sentence": "כאשר *לֶה* מופיע בבס, סימון הבס הפונקציונלי (functional-bass designation) הוא **[S6]**. מתחת לסמל הבס הפונקציונלי הזה (functional bass symbol), אנו מסמנים גם את האקורד כ-**Sw.**"
+    },
+    {
+      "id": 419,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "Like the German sixth, the Swiss augmented-sixth is almost always followed by a cadential 6/4 chord. However, the Swiss chord tends to appear in major keys, with *ri* proceeding to *mi* and *do* carrying over into the cadential 6/4.",
+      "translated_sentence": "בדומה לסקסטה הגרמנית (German sixth), אחרי הסקסטה המוגדלת השווייצרית (Swiss augmented-sixth) מופיע כמעט תמיד אקורד קדנציאלי 6/4 (cadential 6/4 chord). עם זאת, האקורד השווייצרי נוטה להופיע בסולמות מז'וריים, כאשר *רי* מתקדם אל *מי* ו-*דו* נמשך אל תוך האקורד הקדנציאלי 6/4."
+    },
+    {
+      "id": 420,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "***add Trinket exercises, voice-leading***",
+      "translated_sentence": "***הוסף תרגילי Trinket, הולכת קולות (voice-leading)***"
+    },
+    {
+      "id": 421,
+      "file": "alteredSubdominants.md",
+      "source_sentence": "[altSub]: Graphics/N-AugSixths.png",
+      "translated_sentence": "[altSub]: Graphics/N-AugSixths.png"
+    },
+    {
+      "id": 422,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "*This resource created by Jonathan Sircy, Department of English, Charleston Southern University.*",
+      "translated_sentence": "*משאב זה נוצר על ידי ג'ונתן סירסי (Jonathan Sircy), המחלקה לאנגלית, אוניברסיטת צ'רלסטון סאות'רן (Charleston Southern University).*"
     }
   ]
 }

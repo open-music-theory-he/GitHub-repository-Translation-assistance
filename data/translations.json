@@ -2688,6 +2688,12 @@
       "file": "appliedChords.md",
       "source_sentence": "*Tonicization* is the process of momentarily emphasizing a non-tonic chord by using chords borrowed from the key in which that chord is tonic. Unlike *modulation*, there is no cadence in a new key, only a short progression of chords borrowed from another key.",
       "translated_sentence": "*טוניקיזציה (Tonicization)* היא התהליך של הדגשה רגעית של אקורד שאינו טוניקה (non-tonic chord) באמצעות שימוש באקורדים מושאלים מהסולם שבו אקורד זה הוא הטוניקה. בניגוד ל*מודולציה (Modulation)*, אין קדנצה (cadence) בסולם חדש, אלא רק מהלך אקורדים (chord progression) קצר המושאל מסולם אחר."
+    },
+    {
+      "id": 449,
+      "file": "appliedChords.md",
+      "source_sentence": "The chord that is tonicized is typically a chord that belongs to the present key. The chords that emphasize it are usually the chords borrowed from another key. And these chords are usually chromatic alterations of chords native to the present key.",
+      "translated_sentence": "האקורד שזוכה לטוניקיזציה (tonicized) הוא בדרך כלל אקורד השייך לסולם הנוכחי. האקורדים שמדגישים אותו הם בדרך כלל האקורדים המושאלים (borrowed) מסולם אחר. ואקורדים אלה הם בדרך כלל אלטרציות כרומטיות (chromatic alterations) של אקורדים הטבעיים לסולם הנוכחי."
     }
   ]
 }

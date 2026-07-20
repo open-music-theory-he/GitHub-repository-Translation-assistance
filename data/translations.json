@@ -2694,6 +2694,12 @@
       "file": "appliedChords.md",
       "source_sentence": "The chord that is tonicized is typically a chord that belongs to the present key. The chords that emphasize it are usually the chords borrowed from another key. And these chords are usually chromatic alterations of chords native to the present key.",
       "translated_sentence": "האקורד שזוכה לטוניקיזציה (tonicized) הוא בדרך כלל אקורד השייך לסולם הנוכחי. האקורדים שמדגישים אותו הם בדרך כלל האקורדים המושאלים (borrowed) מסולם אחר. ואקורדים אלה הם בדרך כלל אלטרציות כרומטיות (chromatic alterations) של אקורדים הטבעיים לסולם הנוכחי."
+    },
+    {
+      "id": 450,
+      "file": "appliedChords.md",
+      "source_sentence": "The most straightforward example is when a subdominant chord is chromatically altered by changing *fa* to *fi*, and then progresses, like usual, to the dominant chord. This alteration of *fa* to *fi* turns a regular subdominant chord into a chord that has a dominant function in the \"key of the dominant.\"",
+      "translated_sentence": "הדוגמה הפשוטה ביותר היא כאשר אקורד סובדומיננטי (subdominant chord) עובר שינוי כרומטי (chromatically altered) על ידי שינוי של *פה* ל-*פי*, ואז מתקדם (progresses), כרגיל, אל אקורד דומיננטי (dominant chord). אלטרציה (alteration) זו של *פה* ל-*פי* הופכת אקורד סובדומיננטי (subdominant chord) רגיל לאקורד בעל פונקציה דומיננטית (dominant function) ב\"סולם הדומיננטה (key of the dominant)\"."
     }
   ]
 }

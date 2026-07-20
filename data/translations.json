@@ -2550,6 +2550,138 @@
       "file": "analyzingPoetry.md",
       "source_sentence": "preference for formal organization,",
       "translated_sentence": "העדפה לארגון צורני (formal organization),"
+    },
+    {
+      "id": 426,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "intensely conveyed emotions and images,",
+      "translated_sentence": "רגשות ודימויים שהועברו בעוצמה,"
+    },
+    {
+      "id": 427,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "and concentrated use of language.",
+      "translated_sentence": "ושימוש מרוכז בשפה."
+    },
+    {
+      "id": 428,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "Poetry favors the concrete and particular over the vague and abstract. Poetic language isn’t disconnected from normal communication. Rather, it conveys ideas and emotions with greater precision than everyday language.",
+      "translated_sentence": "שירה מעדיפה את המוחשי והפרטני על פני המעורפל והמופשט. השפה השירית אינה מנותקת מהתקשורת הרגילה. להפך, היא מעבירה רעיונות ורגשות בדיוק רב יותר מאשר השפה היומיומית."
+    },
+    {
+      "id": 429,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "How can we analyze poetry?",
+      "translated_sentence": "כיצד אנו יכולים לנתח שירה?"
+    },
+    {
+      "id": 430,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "There are several ways to skin the poetic cat. What follows are four large categories with accompanying questions that can help us systematically interpret a poem. Not only are these categories not mutually exclusive, they are often complementary.",
+      "translated_sentence": "ישנן דרכים רבות לפשוט את עורו של החתול הפואטי. להלן ארבע קטגוריות רחבות המלוות בשאלות שיכולות לסייע לנו לפרש שיר באופן שיטתי. לא זו בלבד שקטגוריות אלו אינן מוציאות זו את זו (mutually exclusive), אלא שהן לעיתים קרובות משלימות זו את זו."
+    },
+    {
+      "id": 431,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "STRUCTURE",
+      "translated_sentence": "מבנה"
+    },
+    {
+      "id": 432,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "If we pay attention to a particular poem’s meter, tone, imagery, and figurative language, we are able to talk about a poem’s *unity*. This attention to structure starts from the premise that each of the poem’s parts work together organically (rather than, say, mechanically) to achieve a unified goal. If we were to put that goal into a single sentence, we would have the poem’s *theme*, a succinct statement of the poem’s central idea and emotions.",
+      "translated_sentence": "אם נשים לב למשקל (meter), לטון (tone), לדימויים (imagery) ולשפה הפיגורטיבית (figurative language) של שיר מסוים, אנו יכולים לדבר על ה*אחדות (unity)* של השיר. תשומת לב זו למבנה מתחילה מתוך נקודת ההנחה שכל אחד מחלקי השיר פועל יחד באופן אורגני (ולא, למשל, באופן מכני) כדי להשיג מטרה מאוחדת. אילו היינו מנסחים את המטרה הזו במשפט בודד, היינו מקבלים את ה*תמה (theme)* של השיר, היגד תמציתי של הרעיון המרכזי והרגשות של השיר."
+    },
+    {
+      "id": 433,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "**Chief question: What idea or emotion UNIFIES the poem’s different parts?**",
+      "translated_sentence": "**השאלה המרכזית: איזה רעיון או רגש מאחד את חלקיו השונים של השיר?**"
+    },
+    {
+      "id": 434,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "**Key terms: meter, tone, imagery, figurative language**",
+      "translated_sentence": "**מונחי מפתח: משקל (meter), טון (tone), ציוריות (imagery), שפה פיגורטיבית (figurative language)**"
+    },
+    {
+      "id": 435,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "*Meter*: the pattern of accented and unaccented syllables in a given poetic line",
+      "translated_sentence": "*משקל (Meter)*: תבנית ההברות המוטעמות והבלתי-מוטעמות בשורת שירה נתונה"
+    },
+    {
+      "id": 436,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "*Tone*: the speaker’s attitude toward his subject, audience, or himself",
+      "translated_sentence": "*נימה (Tone)*: יחסו של הדובר כלפי נושאו, קהלו או עצמו"
+    },
+    {
+      "id": 437,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "*Imagery*: the poetic representation of any sense experience",
+      "translated_sentence": "*דימוי (Imagery)*: הייצוג הפואטי של כל חוויה חושית"
+    },
+    {
+      "id": 438,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "*Figurative language*: the non-literal use of language to achieve an effect",
+      "translated_sentence": "*שפה פיגורטיבית (Figurative language)*: שימוש לא-מילולי בשפה כדי להשיג אפקט"
+    },
+    {
+      "id": 439,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "HISTORICAL CONTEXT",
+      "translated_sentence": "הקשר היסטורי"
+    },
+    {
+      "id": 440,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "When we pay attention to a poem’s structure, we pretend that it is an artifact that can be separated from the outside world. But every literary work had an author and an audience, and both are deeply influenced by a particular place and time. This not only affects the way we read poetic allusions but the way we interpret particular words.",
+      "translated_sentence": "כאשר אנו מקדישים תשומת לב למבנה של שיר, אנו מעמידים פנים שהוא ארטיפקט (artifact) שניתן להפרידו מהעולם החיצון. אך לכל יצירה ספרותית היו מחבר וקהל, ושניהם מושפעים עמוקות ממקום ומזמן מסוימים. הדבר משפיע לא רק על האופן שבו אנו קוראים ארמזים שיריים (poetic allusions), אלא גם על האופן שבו אנו מפרשים מילים מסוימות."
+    },
+    {
+      "id": 441,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "**Chief Question: How do the poem’s words reflect the cultural context of the author and/or poet?**",
+      "translated_sentence": "**השאלה הראשית: כיצד מילות השיר משקפות את ההקשר התרבותי של המחבר ו/או המשורר?**"
+    },
+    {
+      "id": 442,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "INTERTEXTUALITY",
+      "translated_sentence": "אינטרטקסטואליות (Intertextuality)"
+    },
+    {
+      "id": 443,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "Poems aren’t just in conversation with history. They’re in conversation with other poems. This means that a literary work—in its form and/or content—resembles other literary works. When we focus on formal similarities, we’re concerned with genres, the different types or subcategories a poet has chosen (e.g. epic, lyric, satire). When we focus on similar content, we are either discussing *allusions*—intended references to another literary image—or *archetypes*, images or characters that appear so frequently they are less the domain of one author than part of a common literary heritage.",
+      "translated_sentence": "שירים אינם נמצאים רק בשיח עם ההיסטוריה. הם נמצאים בשיח עם שירים אחרים. המשמעות היא שיצירה ספרותית — בצורתה ו/או בתוכנה — דומה ליצירות ספרותיות אחרות. כאשר אנו מתמקדים בדמיון צורני, אנו עוסקים בסוגות (genres), הסוגים השונים או תתי-הקטגוריות שמשורר בחר (למשל: אפי (epic), לירי (lyric), סאטירה (satire)). כאשר אנו מתמקדים בתוכן דומה, אנו דנים ב*ארמזים* (*allusions*) — התייחסויות מכוונות לדימוי ספרותי אחר — או ב*ארכיטיפים* (*archetypes*), דימויים או דמויות המופיעים בתדירות כה גבוהה, עד שהם פחות נחלתו של מחבר יחיד ויותר חלק ממורשת ספרותית משותפת."
+    },
+    {
+      "id": 444,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "**Chief question: How is this literary work like/unlike other literary works?**",
+      "translated_sentence": "**שאלה ראשית: כיצד יצירה ספרותית זו דומה/שונה מיצירות ספרותיות אחרות?**"
+    },
+    {
+      "id": 445,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "ETHICS",
+      "translated_sentence": "אתיקה"
+    },
+    {
+      "id": 446,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "Every poem interprets life and thus, explicitly or implicitly, provides us with a view of the world. Defenders of poetry have long maintained that poetry is uniquely able to delight AND instruct; in fact, it often instructs BY delighting. That means every literary work presents actions/beliefs for us to applaud or denounce. This is often the most difficult thing to interpret about a particular work of art, and we must keep in mind that a work may present objectionable actions or beliefs in order to criticize them.",
+      "translated_sentence": "כל שיר מפרש את החיים ובכך, במפורש או במרומז, מעניק לנו השקפת עולם. מגיני השירה טוענים מזה זמן רב כי השירה מסוגלת באופן ייחודי לענג וגם לחנך; למעשה, היא לעיתים קרובות מחנכת באמצעות עינוג. משמעות הדבר היא שכל יצירה ספרותית מציגה מעשים/אמונות כדי שנריע להם או נגנה אותם. זהו לרוב הדבר הקשה ביותר לפירוש ביצירת אמנות מסוימת, ועלינו לזכור כי יצירה עשויה להציג מעשים או אמונות מעוררי התנגדות כדי לבקר אותם."
+    },
+    {
+      "id": 447,
+      "file": "analyzingPoetry.md",
+      "source_sentence": "**Chief question: What actions or beliefs does the poem support?**",
+      "translated_sentence": "**השאלה הראשית: באילו פעולות או אמונות תומך השיר?**"
     }
   ]
 }

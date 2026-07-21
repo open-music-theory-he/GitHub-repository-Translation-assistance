@@ -2712,6 +2712,18 @@
       "file": "appliedChords.md",
       "source_sentence": "Note, however, that though we \"borrowed\" or \"applied\" a dominant chord from G major, that chord is acting in the context of C major. Its scale degrees are *fi*, *la*, and *do*: an alteration of scale degrees that clearly express subdominant function. Thus, in C major, the progression **F\\#dim–G–C** still expresses the functional progression **S–D–T**. (In functional bass—see below—this progression would be analyzed as **[S+4] D5 T1**.)",
       "translated_sentence": "עם זאת, יש לשים לב כי למרות ש\"שאלנו\" (borrowed) או \"החלנו\" (applied) אקורד דומיננטה (dominant chord) מ-G מייג'ור, האקורד הזה פועל בהקשר של C מייג'ור. דרגות הסולם (scale degrees) שלו הן *פי*, *לה*, ו-*דו*: אלטרציה (alteration) של דרגות סולם המבטאת בבירור פונקציה סובדומיננטית (subdominant function). לכן, ב-C מייג'ור, המהלך (progression) **F\\#dim–G–C** עדיין מבטא את המהלך הפונקציונלי (functional progression) **S–D–T**. (בבס פונקציונלי (functional bass) — ראו להלן — מהלך זה ינותח כ-**[S+4] D5 T1**.)"
+    },
+    {
+      "id": 453,
+      "file": "appliedChords.md",
+      "source_sentence": "***insert Trinket where students chromatically alter an S D T progression and label the chords accordingly***",
+      "translated_sentence": "***הכניסו את Trinket שבו סטודנטים משנים כרומטית (chromatically alter) מהלך S D T‏ (S D T progression) ומסמנים את האקורדים בהתאם***"
+    },
+    {
+      "id": 454,
+      "file": "appliedChords.md",
+      "source_sentence": "Such borrowing of chords can happen for *any major or minor triad in the home key*. Any diatonic triad can take an applied chord—a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of **F\\#dim–G** can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor.",
+      "translated_sentence": "שאילת אקורדים (borrowing of chords) כזו יכולה להתרחש עבור *כל משולש (triad) מייג'ור או מינור בסולם הבית (home key)*. כל משולש דיאטוני (diatonic triad) יכול לקבל אקורד מיוחס (applied chord)—אקורד שעבר אלטרציה כרומטית (chromatically altered chord) המתפקד גם כאקורד דומיננטי (dominant chord) שבו האקורד הבא הוא הטוניקה (tonic). לכן, מהלך האקורדים (progression) לדוגמה של **F\\#dim–G** יכול להתרחש בכל סולם שאליו משתייך המשולש G מייג'ור (G-major triad): G מייג'ור, C מייג'ור, D מייג'ור, B מינור, A מינור, או E מינור."
     }
   ]
 }

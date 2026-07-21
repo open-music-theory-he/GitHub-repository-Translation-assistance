@@ -2724,6 +2724,120 @@
       "file": "appliedChords.md",
       "source_sentence": "Such borrowing of chords can happen for *any major or minor triad in the home key*. Any diatonic triad can take an applied chord—a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of **F\\#dim–G** can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor.",
       "translated_sentence": "שאילת אקורדים (borrowing of chords) כזו יכולה להתרחש עבור *כל משולש (triad) מייג'ור או מינור בסולם הבית (home key)*. כל משולש דיאטוני (diatonic triad) יכול לקבל אקורד מיוחס (applied chord)—אקורד שעבר אלטרציה כרומטית (chromatically altered chord) המתפקד גם כאקורד דומיננטי (dominant chord) שבו האקורד הבא הוא הטוניקה (tonic). לכן, מהלך האקורדים (progression) לדוגמה של **F\\#dim–G** יכול להתרחש בכל סולם שאליו משתייך המשולש G מייג'ור (G-major triad): G מייג'ור, C מייג'ור, D מייג'ור, B מינור, A מינור, או E מינור."
+    },
+    {
+      "id": 455,
+      "file": "appliedChords.md",
+      "source_sentence": "Two things will always be true of the applied chord:",
+      "translated_sentence": "שני דברים יהיו תמיד נכונים לגבי האקורד המיושם (applied chord):"
+    },
+    {
+      "id": 456,
+      "file": "appliedChords.md",
+      "source_sentence": "The chromatically altered chord will function as a dominant chord in the key of the chord that follows it (**V** or **VII**).",
+      "translated_sentence": "האקורד שעבר שינוי כרומטי (chromatically altered chord) יתפקד כאקורד דומיננטי (dominant chord) בסולם של האקורד שבא אחריו (**V** או **VII**)."
+    },
+    {
+      "id": 457,
+      "file": "appliedChords.md",
+      "source_sentence": "The chromatically altered chord will be an alteration of the function that logically precedes the function of the chord that follows it.",
+      "translated_sentence": "האקורד שעבר שינוי כרומטי (chromatically altered chord) יהיה אלטרציה (alteration) של הפונקציה הקודמת באופן לוגי לפונקציה של האקורד שבא אחריו."
+    },
+    {
+      "id": 458,
+      "file": "appliedChords.md",
+      "source_sentence": "On the latter point, if the tonicized chord has tonic function in the current key (such as *mi–sol–ti* or *la–do–mi*), the applied chord will be an altered dominant of the current key. If the tonicized chord has dominant function in the current key, the applied chord will be an altered subdominant of the current key. If the tonicized chord has subdominant function in the current key, the applied chord will be an altered tonic of the current key.",
+      "translated_sentence": "בנוגע לנקודה האחרונה, אם לאקורד שעבר טוניקיזציה (tonicized chord) יש פונקציה טוניקאית (tonic function) בסולם הנוכחי (current key) (כמו *מי–סול–טי* או *לה–דו–מי*), האקורד המיושם (applied chord) יהיה דומיננטה שעברה אלטרציה (altered dominant) של הסולם הנוכחי. אם לאקורד שעבר הטוניקיזציה יש פונקציה דומיננטית (dominant function) בסולם הנוכחי, האקורד המיושם יהיה סובדומיננטה שעברה אלטרציה (altered subdominant) של הסולם הנוכחי. אם לאקורד שעבר הטוניקיזציה יש פונקציה סובדומיננטית (subdominant function) בסולם הנוכחי, האקורד המיושם יהיה טוניקה שעברה אלטרציה (altered tonic) של הסולם הנוכחי."
+    },
+    {
+      "id": 459,
+      "file": "appliedChords.md",
+      "source_sentence": "| applied chord |   | tonicized chord |",
+      "translated_sentence": "| אקורד מיושם (applied chord) |   | אקורד שעבר טוניקיזציה (tonicized chord) |"
+    },
+    {
+      "id": 460,
+      "file": "appliedChords.md",
+      "source_sentence": "|     altered T    | → | S",
+      "translated_sentence": "|     T אלטרד (altered T)    | → | S"
+    },
+    {
+      "id": 461,
+      "file": "appliedChords.md",
+      "source_sentence": "|     altered S    | → | D",
+      "translated_sentence": "|     S אלטרד (altered S)    | → | D"
+    },
+    {
+      "id": 462,
+      "file": "appliedChords.md",
+      "source_sentence": "|     altered D    | → | T",
+      "translated_sentence": "|     D אלטרד (altered)    | → | T"
+    },
+    {
+      "id": 463,
+      "file": "appliedChords.md",
+      "source_sentence": "Analytical notation",
+      "translated_sentence": "תיווי אנליטי (Analytical notation)"
+    },
+    {
+      "id": 464,
+      "file": "appliedChords.md",
+      "source_sentence": "Applied dominant chords will always make use of *slash notation*. Rather than #IV, #V, etc., in the Roman numerals, convention is to express its identity in the key that it is borrowed from. If in the key of E-flat, an F-dominant-seventh chord is used to tonicize a B-flat triad, we label the **F7** chord as **V<sup>7</sup>/V**, rather than **II<sup>7</sup>**. This goes on the same line as the Roman numerals for diatonic chords.",
+      "translated_sentence": "אקורדים דומיננטיים שניוניים (Applied dominant chords) ישתמשו תמיד ב*רישום באמצעות סלאש (slash notation)*. במקום #IV, #V וכו' בספרות הרומיות, המוסכמה היא לבטא את זהותו בסולם שממנו הוא מושאל. אם בסולם E במול, אקורד F דומיננט שבע (F-dominant-seventh) משמש ליצירת טוניקיזציה (tonicize) של אקורד משולש B במול, נסמן את אקורד ה-**F7** כ-**V<sup>7</sup>/V**, במקום כ-**II<sup>7</sup>**. זה נכתב באותה שורה כמו הספרות הרומיות עבור אקורדים דיאטוניים (diatonic chords)."
+    },
+    {
+      "id": 465,
+      "file": "appliedChords.md",
+      "source_sentence": "Underneath the slash notation, we label its harmonic function (**T**, **S**, or **D**). Here we show the way the chord is functioning in the *home* key, not the key from which it is borrowed. So while **F7** may be **V/V** in E-flat, it is a chromatically altered **S**, and so belongs in the **S** harmonic zone.",
+      "translated_sentence": "מתחת לסימון הסלאש (slash notation), אנו מסמנים את הפונקציה ההרמונית (harmonic function) שלו (**T**, **S**, או **D**). כאן אנו מציגים את האופן שבו האקורד מתפקד בסולם ה*בית* (*home* key), ולא בסולם שממנו הוא שאול. כך שבעוד ש-**F7** עשוי להיות **V/V** ב-E במול, הוא **S** שעבר שינוי כרומטי (chromatically altered), ולכן הוא שייך לאזור ההרמוני (harmonic zone) של **S**."
+    },
+    {
+      "id": 466,
+      "file": "appliedChords.md",
+      "source_sentence": "This distinction is important. Applied chords are employed within the context of a tonal phrase, and without a cadence in a new key (a modulation), these borrowed chords still play a role within the original key. So while we reflect their borrowedness via slash notation in the Roman numerals, it is also important to reflect their role in the broader harmonic context of the phrase by means of *non*-modulating functional labels.",
+      "translated_sentence": "הבחנה זו חשובה. אקורדים שניוניים (Applied chords) מיושמים בתוך ההקשר של משפט טונאלי (tonal phrase), וללא קדנצה (cadence) בסולם חדש (מודולציה (modulation)), אקורדים מושאלים (borrowed chords) אלה עדיין ממלאים תפקיד בתוך הסולם המקורי. לכן, בעוד אנו משקפים את היותם מושאלים באמצעות סימון לוכסן (slash notation) בספרות רומיות (Roman numerals), חשוב גם לשקף את תפקידם בהקשר ההרמוני (harmonic context) הרחב יותר של המשפט באמצעות תוויות תפקודיות *לא*-מודולטיביות (*non*-modulating functional labels)."
+    },
+    {
+      "id": 467,
+      "file": "appliedChords.md",
+      "source_sentence": "Notes on functional-bass notation",
+      "translated_sentence": "הערות על תיווי בס פונקציונלי (functional-bass notation)"
+    },
+    {
+      "id": 468,
+      "file": "appliedChords.md",
+      "source_sentence": "Like [chromatically altered subdominant chords][alteredSubdominants], every applied chord will have two elements to its functional bass symbol. First, on the normal line of functional bass analysis will be a symbol showing its function in the current key and the scale degree of the bass note (with \"+\" or \"–\" for altered bass pitches), surrounded by square brackets to signify that the chord is chromatically altered. (The square brackets are necessary no matter in which voice the chromatic alteration occurs.) Second, below the normal line of functional bass analysis will be a symbol denoting the key from which it is borrowed and the functional bass symbol the chord would have in that key.",
+      "translated_sentence": "כמו [אקורדים סובדומיננטיים שעברו שינוי כרומטי (chromatically altered subdominant chords)][alteredSubdominants], לכל אקורד מיושם (applied chord) יהיו שני אלמנטים בסמל הבס הפונקציונלי (functional bass symbol) שלו. ראשית, בשורה הרגילה של ניתוח הבס הפונקציונלי (functional bass analysis) יופיע סמל המציג את תפקודו בסולם הנוכחי ואת דרגת הסולם (scale degree) של צליל הבס (bass note) (עם \"+\" או \"–\" עבור גבהי בס שעברו שינוי (altered bass pitches)), מוקף בסוגריים מרובעים כדי לציין שהאקורד עבר שינוי כרומטי (chromatically altered). (הסוגריים המרובעים נחוצים ללא קשר לקול (voice) שבו מתרחש השינוי הכרומטי (chromatic alteration).) שנית, מתחת לשורה הרגילה של ניתוח הבס הפונקציונלי (functional bass analysis) יופיע סמל המציין את הסולם שממנו הוא מושאל ואת סמל הבס הפונקציונלי (functional bass symbol) שהיה לאקורד באותו סולם."
+    },
+    {
+      "id": 469,
+      "file": "appliedChords.md",
+      "source_sentence": "In our above example of **F\\#dim–G–C** in the key of C, the regular functional bass line would read **[S+4] D5 T1**, and below the **[S+4]** would be the symbol **D7/V**. The latter symbol uses a slash to denote \"in the key of\" and a Roman numeral to denote the tonic of that key *relative to the current key*. We will use Roman numerals similarly when studying modulation to denote tonics of key areas to which the music modulates. Roman numerals, however, are *never* used to denote chordal roots in the context of a functional bass analysis.",
+      "translated_sentence": "בדוגמה שלעיל שלנו של **F\\#dim–G–C** בסולם C, קו הבס הפונקציונלי (functional bass) הרגיל ייקרא **[S+4] D5 T1**, ומתחת ל-**[S+4]** יופיע הסימן **D7/V**. הסימן האחרון משתמש בלוכסן כדי לציין \"בסולם של\" ובספרה רומית כדי לציין את הטוניקה (tonic) של אותו סולם *ביחס לסולם הנוכחי*. אנו נשתמש בספרות רומיות באופן דומה כאשר נלמד מודולציה (modulation) כדי לציין טוניקות (tonics) של אזורי סולם שאליהם המוזיקה עוברת מודולציה. עם זאת, ספרות רומיות אינן משמשות *לעולם* כדי לציין שורשי אקורדים (chordal roots) בהקשר של ניתוח בס פונקציונלי (functional bass analysis)."
+    },
+    {
+      "id": 470,
+      "file": "appliedChords.md",
+      "source_sentence": "***trinket exercise labeling applied chords***",
+      "translated_sentence": "***תרגיל Trinket לסימון אקורדים יישומיים (applied chords)***"
+    },
+    {
+      "id": 471,
+      "file": "appliedChords.md",
+      "source_sentence": "Scale degrees in applied chords",
+      "translated_sentence": "דרגות סולם באקורדים יישומיים (applied chords)"
+    },
+    {
+      "id": 472,
+      "file": "appliedChords.md",
+      "source_sentence": "Just as the various dominant functioning chords in a key will contain some combination of the dominant-functioning scale degrees—*sol*, *ti*/*te*, *re*, *fa*, and/or *la*/*le* (usually *le*)—each category of applied dominant chords will have their own set of usual scale degrees. They are as follows.",
+      "translated_sentence": "כשם שהאקורדים השונים בעלי התפקוד הדומיננטי (dominant functioning chords) בסולם יכילו שילוב כלשהו של דרגות הסולם בעלות התפקוד הדומיננטי (dominant-functioning scale degrees) — *סול*, *טי*/*טה*, *רה*, *פה*, ו/או *לה*/*לֶה* (בדרך כלל *לֶה*) — כך לכל קטגוריה של אקורדים דומיננטיים שניוניים (applied dominant chords) יהיה סט משלה של דרגות סולם (scale degrees) נפוצות. הן כדלקמן."
+    },
+    {
+      "id": 473,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/II** — *di*, *mi*, *sol*, *la*, and *te*.",
+      "translated_sentence": "**D/II** — *די*, *מי*, *סול*, *לה* ו-*טה*."
     }
   ]
 }

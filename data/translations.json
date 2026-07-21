@@ -2856,6 +2856,18 @@
       "file": "appliedChords.md",
       "source_sentence": "**D/IV** — *mi*, *sol*, *te*, *do*, and *ra*.",
       "translated_sentence": "**D/IV** — *מי*, *סול*, *טה*, *דו* ו-*רא*."
+    },
+    {
+      "id": 477,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/V** — *fi*, *la*, *do*, *re*, and *me*.",
+      "translated_sentence": "**D/V** — *פי*, *לה*, *דו*, *רה*, ו-*מֶה*."
+    },
+    {
+      "id": 478,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/lowered-VI (minor)** — *sol*, *te*, *ra*, and *me*.",
+      "translated_sentence": "**D/VI מונמך (lowered-VI) (מינור)** — *סול*, *טה*, *רא* ו-*מה*."
     }
   ]
 }

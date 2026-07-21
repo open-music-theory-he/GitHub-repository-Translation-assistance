@@ -2700,6 +2700,18 @@
       "file": "appliedChords.md",
       "source_sentence": "The most straightforward example is when a subdominant chord is chromatically altered by changing *fa* to *fi*, and then progresses, like usual, to the dominant chord. This alteration of *fa* to *fi* turns a regular subdominant chord into a chord that has a dominant function in the \"key of the dominant.\"",
       "translated_sentence": "הדוגמה הפשוטה ביותר היא כאשר אקורד סובדומיננטי (subdominant chord) עובר שינוי כרומטי (chromatically altered) על ידי שינוי של *פה* ל-*פי*, ואז מתקדם (progresses), כרגיל, אל אקורד דומיננטי (dominant chord). אלטרציה (alteration) זו של *פה* ל-*פי* הופכת אקורד סובדומיננטי (subdominant chord) רגיל לאקורד בעל פונקציה דומיננטית (dominant function) ב\"סולם הדומיננטה (key of the dominant)\"."
+    },
+    {
+      "id": 451,
+      "file": "appliedChords.md",
+      "source_sentence": "For example, take the chord progression **F–G–C** in C major. We would label this progression as **IV–V–I** with Roman numerals. If we change *fa* (F) to *fi* (F\\#) in the F chord, we get **F\\#dim–G–C**. In the key of C, we might analyze this progression as **\\#ivº V I**, noting the change in root and quality. However, we can also note that F\\#-dim is native to G major; it is a dominant-functioning chord (**viiº**) in the key of G—the key in which the following chord is tonic. In other words, we are borrowing the dominant chord from the key of G and *applying* it to the G-major triad. Thus, we can re-interpret the F\\#dim as an *applied dominant* of the G chord, which we label **viiº/V**—read \"seven of five.\" Thus this progression is labeled **viiº/V V I**.",
+      "translated_sentence": "למשל, ניקח את מהלך האקורדים (chord progression) **F–G–C** ב-C מייג'ור. נסמן את המהלך הזה כ-**IV–V–I** באמצעות ספרות רומיות (Roman numerals). אם נשנה את *פה* (F) ל-*פי* (F\\#) באקורד F, נקבל את **F\\#dim–G–C**. בסולם (key) C, אנו עשויים לנתח את המהלך הזה כ-**\\#ivº V I**, תוך ציון השינוי בצליל השורש (root) ובאיכות (quality). עם זאת, אנו יכולים גם להבחין ש-F\\#-dim שייך באופן טבעי ל-G מייג'ור; הוא אקורד בעל תפקוד דומיננטי (dominant-functioning chord) (**viiº**) בסולם (key) G—הסולם שבו האקורד הבא הוא הטוניקה (tonic). במילים אחרות, אנו שואלים את האקורד הדומיננטי (dominant chord) מסולם (key) G ו*מחילים* (applying) אותו על המשולש (triad) G-מייג'ור. לכן, אנו יכולים לפרש מחדש את ה-F\\#dim כ*דומיננטה מיושמת* (applied dominant) של אקורד G, אותו נסמן כ-**viiº/V**—הנקרא \"שבע של חמש\" (\"seven of five\"). לכן מהלך זה מסומן כ-**viiº/V V I**."
+    },
+    {
+      "id": 452,
+      "file": "appliedChords.md",
+      "source_sentence": "Note, however, that though we \"borrowed\" or \"applied\" a dominant chord from G major, that chord is acting in the context of C major. Its scale degrees are *fi*, *la*, and *do*: an alteration of scale degrees that clearly express subdominant function. Thus, in C major, the progression **F\\#dim–G–C** still expresses the functional progression **S–D–T**. (In functional bass—see below—this progression would be analyzed as **[S+4] D5 T1**.)",
+      "translated_sentence": "עם זאת, יש לשים לב כי למרות ש\"שאלנו\" (borrowed) או \"החלנו\" (applied) אקורד דומיננטה (dominant chord) מ-G מייג'ור, האקורד הזה פועל בהקשר של C מייג'ור. דרגות הסולם (scale degrees) שלו הן *פי*, *לה*, ו-*דו*: אלטרציה (alteration) של דרגות סולם המבטאת בבירור פונקציה סובדומיננטית (subdominant function). לכן, ב-C מייג'ור, המהלך (progression) **F\\#dim–G–C** עדיין מבטא את המהלך הפונקציונלי (functional progression) **S–D–T**. (בבס פונקציונלי (functional bass) — ראו להלן — מהלך זה ינותח כ-**[S+4] D5 T1**.)"
     }
   ]
 }

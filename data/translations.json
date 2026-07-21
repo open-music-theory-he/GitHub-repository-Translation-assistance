@@ -2838,6 +2838,24 @@
       "file": "appliedChords.md",
       "source_sentence": "**D/II** — *di*, *mi*, *sol*, *la*, and *te*.",
       "translated_sentence": "**D/II** — *די*, *מי*, *סול*, *לה* ו-*טה*."
+    },
+    {
+      "id": 474,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/lowered-III (minor)** — *re*, *fa*, *le*, and *te*.",
+      "translated_sentence": "**D/III מונמך (lowered-III) (מינור)** — *רה*, *פה*, *לה*, ו-*טה*."
+    },
+    {
+      "id": 475,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/III (major)** — *ri*, *fi*, *la*, *ti*, and *do*.",
+      "translated_sentence": "**D/III (מייג'ור (major))** — *רי*, *פי*, *לה*, *טי* ו-*דו*."
+    },
+    {
+      "id": 476,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/IV** — *mi*, *sol*, *te*, *do*, and *ra*.",
+      "translated_sentence": "**D/IV** — *מי*, *סול*, *טה*, *דו* ו-*רא*."
     }
   ]
 }

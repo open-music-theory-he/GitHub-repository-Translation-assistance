@@ -6210,6 +6210,30 @@
       "file": "contents.md",
       "source_sentence": "Handouts and charts",
       "translated_sentence": "דפי עזר ותרשימים (Handouts and charts)"
+    },
+    {
+      "id": 1036,
+      "file": "contents.md",
+      "source_sentence": "[Lead-sheet and figured-bass symbols.][LSandFBsymbols]",
+      "translated_sentence": "[סימני דף הובלה ובס ממוספר (Lead-sheet and figured-bass symbols).][LSandFBsymbols]"
+    },
+    {
+      "id": 1037,
+      "file": "contents.md",
+      "source_sentence": "[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)",
+      "translated_sentence": "[הרטמוניות (ספרות רומיות ובס פונקציונלי) לפי דרגת בסולם (Harmonies (Roman numerals and functional bass) by bass scale degree).](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)"
+    },
+    {
+      "id": 1038,
+      "file": "contents.md",
+      "source_sentence": "Form ##",
+      "translated_sentence": "# צורה (Form)"
+    },
+    {
+      "id": 1039,
+      "file": "contents.md",
+      "source_sentence": "**Thematic Structure in the Classical Style**",
+      "translated_sentence": "**מבנה תემაيתי בסגנון הקלאסי (Thematic Structure in the Classical Style)**"
     }
   ]
 }

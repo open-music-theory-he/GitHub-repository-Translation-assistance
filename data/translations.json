@@ -2880,6 +2880,18 @@
       "file": "appliedChords.md",
       "source_sentence": "**D/lowered-VII (minor)** — *la*, *do*, *me*, and *fa*.",
       "translated_sentence": "**D/VII מונמך (lowered-VII) (מינור)** — *לה*, *דו*, *מה*, ו-*פה*."
+    },
+    {
+      "id": 481,
+      "file": "appliedChords.md",
+      "source_sentence": "Functional dissonances in applied chords",
+      "translated_sentence": "דיסוננסים פונקציונליים (functional dissonances) באקורדים יישומיים (applied chords)"
+    },
+    {
+      "id": 482,
+      "file": "appliedChords.md",
+      "source_sentence": "Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degress from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances, as well as tendency tones like *ti*, relative to the key borrowed from, not the home key.",
+      "translated_sentence": "מאחר שטוניקיזציה (tonicization) שואלת באופן זמני אקורד מסולם אחר, ומאחר שאקורד זה מורכב מדרגות סולם (scale degrees) של אותו סולם אחר, אקורד יישומי (applied chord) כרוך ב*שאילת נטיית דרגות הסולם (scale-degree tendency) מאותו סולם אחר*. במילים אחרות, באקורד יישומי (applied chord), יש לשפוט קונסוננסים פונקציונליים (functional consonances) (טריגרים ושותפים (triggers and associates)) ודיסוננסים, כמו גם צלילי נטייה (tendency tones) כמו *טי*, ביחס לסולם שממנו הושאל האקורד, ולא ביחס לסולם הבית (home key)."
     }
   ]
 }

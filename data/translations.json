@@ -6150,6 +6150,30 @@
       "file": "contents.md",
       "source_sentence": "Harmony ##",
       "translated_sentence": "הרמוניה (Harmony) ##"
+    },
+    {
+      "id": 1026,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to musical functions.][functions]",
+      "translated_sentence": "[מבוא לפונקציות מוזיקליות (Musical Functions).][functions]"
+    },
+    {
+      "id": 1027,
+      "file": "contents.md",
+      "source_sentence": "[Harmonic functions.][harmFunc]",
+      "translated_sentence": "[פונקציות הרמוניות (Harmonic functions).][harmFunc]"
+    },
+    {
+      "id": 1028,
+      "file": "contents.md",
+      "source_sentence": "[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)",
+      "translated_sentence": "[תחביר הרמוני - המשפט האידיאלי (Harmonic syntax - the idealized phrase).](harmonicSyntax1.html)"
+    },
+    {
+      "id": 1029,
+      "file": "contents.md",
+      "source_sentence": "[Harmonic syntax - prolongation.](harmonicSyntax2.html)",
+      "translated_sentence": "[תחביק הרמוני - הארכה (prolongation).](harmonicSyntax2.html)"
     }
   ]
 }

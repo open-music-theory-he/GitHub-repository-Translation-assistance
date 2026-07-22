@@ -187,6 +187,12 @@ def is_no_translation_sentinel(text: str) -> bool:
 def main():
     start_time = time.time()
 
+    if not GEMINI_API_KEY:
+        # This is a real configuration problem (not a transient API issue),
+        # so it's fine - and useful - for this to fail the job loudly.
+        print("ERROR: GEMINI_API_KEY environment variable is not set.", file=sys.stderr)
+        sys.exit(1)
+
     state = load_translations_state()
     if state.get("completed"):
         print("translations.json is already marked completed=true. Nothing to do.")
@@ -209,6 +215,7 @@ def main():
         return
 
     consecutive_errors = 0
+    gave_up = False
 
     for item in pending:
         elapsed = time.time() - start_time
@@ -236,14 +243,20 @@ def main():
                 )
                 if attempt >= MAX_ATTEMPTS:
                     print(
-                        f"Giving up after {MAX_ATTEMPTS} consecutive failed attempts. "
-                        "Saving progress and stopping this run."
+                        f"Giving up on this sentence after {MAX_ATTEMPTS} consecutive failed "
+                        "attempts. This is normal (e.g. transient API issues or rate limits) - "
+                        "saving progress and stopping this run cleanly. The next scheduled run "
+                        "will retry."
                     )
-                    save_translations_state(state)
-                    sys.exit(1)
+                    gave_up = True
+                    break
                 delay = RETRY_DELAYS_SECONDS[attempt - 1]
                 print(f"Waiting {delay}s before retrying the same sentence...")
                 time.sleep(delay)
+
+        if gave_up:
+            save_translations_state(state)
+            break
 
         if translated_text is None:
             # Should not happen (handled above), but guard anyway.

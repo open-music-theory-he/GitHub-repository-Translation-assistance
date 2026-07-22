@@ -31,11 +31,14 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONUNBUFFERED: "1"
-          # Optional overrides - uncomment / edit if you want different defaults:
-          # GEMINI_MODEL: gemini-2.5-flash
-          # TIME_BUDGET_SECONDS: "1800"
-          # SLEEP_BETWEEN_SECONDS: "4"
-          # RETRY_DELAYS_SECONDS: "60,300"
+          # Easiest way to change these: Settings -> Secrets and variables ->
+          # Actions -> Variables tab -> add a repository variable with one of
+          # these exact names. No code or workflow edit needed. If a variable
+          # isn't set, the default after "||" is used.
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash' }}
+          SLEEP_BETWEEN_SECONDS: ${{ vars.SLEEP_BETWEEN_SECONDS || '4' }}
+          TIME_BUDGET_SECONDS: ${{ vars.TIME_BUDGET_SECONDS || '1800' }}
+          RETRY_DELAYS_SECONDS: ${{ vars.RETRY_DELAYS_SECONDS || '60,300' }}
         run: python scripts/translate_sentences.py
 
       - name: Commit and push data/translations.json

@@ -6258,6 +6258,24 @@
       "file": "contents.md",
       "source_sentence": "[Hybrid themes.](hybridThemes.html)",
       "translated_sentence": "[נושאים היברידיים (Hybrid themes).](hybridThemes.html)"
+    },
+    {
+      "id": 1044,
+      "file": "contents.md",
+      "source_sentence": "[Compound themes.](compoundThemes.html)",
+      "translated_sentence": "[נושאים מורכבים (Compound themes).](compoundThemes.html)"
+    },
+    {
+      "id": 1045,
+      "file": "contents.md",
+      "source_sentence": "[External Expansions.](externalExpansions.html)",
+      "translated_sentence": "[הרחבות חיצוניות (External Expansions).](externalExpansions.html)"
+    },
+    {
+      "id": 1046,
+      "file": "contents.md",
+      "source_sentence": "[Internal Expansions.](internalExpansions.html)",
+      "translated_sentence": "[הרחבות פנימיות (Internal Expansions).](internalExpansions.html)"
     }
   ]
 }

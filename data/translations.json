@@ -6198,6 +6198,18 @@
       "file": "contents.md",
       "source_sentence": "[Modal mixture.][mixture]",
       "translated_sentence": "[תערובת מודלית (Modal mixture).][mixture]"
+    },
+    {
+      "id": 1034,
+      "file": "contents.md",
+      "source_sentence": "[Modulation.][Modulation]",
+      "translated_sentence": "[מודולציה (Modulation).][מודולציה (Modulation)]"
+    },
+    {
+      "id": 1035,
+      "file": "contents.md",
+      "source_sentence": "Handouts and charts",
+      "translated_sentence": "דפי עזר ותרשימים (Handouts and charts)"
     }
   ]
 }

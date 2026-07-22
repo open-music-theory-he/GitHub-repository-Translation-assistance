@@ -4704,6 +4704,816 @@
       "file": "classicalThemes.md",
       "source_sentence": "[hybrid2]: Graphics/ClassicalThemes/hybrid2.png",
       "translated_sentence": "[hybrid2]: Graphics/ClassicalThemes/hybrid2.png"
+    },
+    {
+      "id": 785,
+      "file": "classicalThemes.md",
+      "source_sentence": "[hybrid3]: Graphics/ClassicalThemes/hybrid3.png",
+      "translated_sentence": "[hybrid3]: Graphics/ClassicalThemes/hybrid3.png"
+    },
+    {
+      "id": 786,
+      "file": "classicalThemes.md",
+      "source_sentence": "[hybrid4]: Graphics/ClassicalThemes/hybrid4.png",
+      "translated_sentence": "[hybrid4]: Graphics/ClassicalThemes/hybrid4.png"
+    },
+    {
+      "id": 787,
+      "file": "classicalThemes.md",
+      "source_sentence": "[16period-sent]: Graphics/ClassicalThemes/16period-sent.png",
+      "translated_sentence": "[16period-sent]: Graphics/ClassicalThemes/16period-sent.png"
+    },
+    {
+      "id": 788,
+      "file": "classicalThemes.md",
+      "source_sentence": "[16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png",
+      "translated_sentence": "[16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png"
+    },
+    {
+      "id": 789,
+      "file": "classicalThemes.md",
+      "source_sentence": "[16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png",
+      "translated_sentence": "[16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png"
+    },
+    {
+      "id": 790,
+      "file": "classicalThemes.md",
+      "source_sentence": "[16sent]: Graphics/ClassicalThemes/16sentence.png",
+      "translated_sentence": "[16sent]: Graphics/ClassicalThemes/16sentence.png"
+    },
+    {
+      "id": 791,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "We've already seen that the set class list can tell us some very interesting and important things about the intervallic properties of a set class and its complement.",
+      "translated_sentence": "כבר ראינו שרשימת מחלקות הקבוצות (set class list) יכולה ללמד אותنا דברים מעניינים וחשובים מאוד על התכונות האינטרווליות של מחלקת קבוצה (set class) ושל המשלים (complement) שלה."
+    },
+    {
+      "id": 792,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "It can also tell us how many common tones are retained when a set is transposed.  Here's how it works:",
+      "translated_sentence": "הוא יכול גם לומר לנו כמה צלילים משותפים (common tones) נשמרים כאשר קבוצה (set) מועברת טרנספוזיציה. כך זה עובד:"
+    },
+    {
+      "id": 793,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "Each placeholder in the interval vector tells us how many of a particular interval class are in a given set class. For example, in the (027) set class shown below, all members of that class will have two interval class 5s and one interval class 2.",
+      "translated_sentence": "כל מקום פנוי (placeholder) בווקטור המרווחים (interval vector) אומר לנו כמה ממחלקת מרווחים (interval class) מסוימת יש במחלקת קבוצה (set class) נתונה. לדוגמה, במחלקת הקבוצה (027) המוצגת להלן, לכל האיברים במחלקה זו יהיו שני מרווחים ממחלקת מרווחים 5 (interval class 5) ומרווח אחד ממחלקת מרווחים 2 (interval class 2)."
+    },
+    {
+      "id": 794,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "*Those numbers also tell us how many common tones are retained when those sets are transposed by a member of that interval class*. That is, because there is a *1* in the second column, a pitch class set belonging to (027) will retain *1* common tone when transposed by either *T2* or *T10*. Because there is a *2* in the fifth column, it will retain *2* common tones when transposed by either *T5* or *T7*.",
+      "translated_sentence": "*מספרים אלו אומרים לנו גם כמה צלילים משותפים (common tones) נשמרים כאשר קבוצות אלו עוברות טרנספוזיציה (transposition) על ידי איבר מאותה מחלקת מרווחים (interval class)*. כלומר, מכיוון שישנו *1* בעמודה השנייה, קבוצת מחלקות גובה צליל (pitch class set) השייכת ל-(027) תישמר עם *1* צלילים משותפים (common tones) כאשר תעבור טרנספוזיציה (transposition) על ידי *T2* או *T10*. מכיוון שישנו *2* בעמודה החמישית, היא תישמר עם *2* צלילים משותפים (common tones) כאשר תעבור טרנספוזיציה (transposition) על ידי *T5* או *T7*."
+    },
+    {
+      "id": 795,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "[![](Graphics/postTonal/commonTonesUnderTransposition.png)](Graphics/postTonal/commonTonesUnderTransposition.png)",
+      "translated_sentence": "[![](Graphics/postTonal/commonTonesUnderTransposition.png)](Graphics/postTonal/commonTonesUnderTransposition.png)"
+    },
+    {
+      "id": 796,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "You can see this explicitly below. I've taken four arbitrary members of (027)—show on the left—and transposed them in various ways. As indicated above, only *T2*, *T10*, *T5*, or *T7* will keep common tones. Any other transposition will have zero common tones.",
+      "translated_sentence": "אתה יכול לראות זאת במפורש להלן. לקחתי ארבעה חברים שרירותיים של (027) — המוצגים משמאל — ותמללתי (transposed) אותם בדרכים שונות. כפי שצוין לעיל, רק *T2*, *T10*, *T5* או *T7* ישמרו על צלילים משותפים (common tones). לכל טרנספוזיציה (transposition) אחרת יהיו אפס צלילים משותפים."
+    },
+    {
+      "id": 797,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "[![](Graphics/postTonal/commonTonesUnderTransposition2.png)](Graphics/postTonal/commonTonesUnderTransposition2.png)",
+      "translated_sentence": "[![](Graphics/postTonal/commonTonesUnderTransposition2.png)](Graphics/postTonal/commonTonesUnderTransposition2.png)"
+    },
+    {
+      "id": 798,
+      "file": "commonTonesUnderTransposition.md",
+      "source_sentence": "If an interval class vector has a tritone, it will retain twice as many common tones under tritone transposition than is indicated in the vector. For example, the trichord (016) has an interval vector of <100011>. When transposed by *T6*, it will have 2—not 1—common tones.",
+      "translated_sentence": "אם לווקטור מחלקות מרווחים (interval class vector) יש טריטון (tritone), הוא ישמר פי שניים יותר צלילים משותפים תחת טרנספוזיציית טריטון (tritone transposition) ממה שמצוין בווקטור. לדוגמה, הטריקורד (016) בעל ווקטור מרווחים של <100011>. כאשר הוא ממוძّل (transposed) ב-*T6*, יהיו לו 2 — ולא 1 — צלילים משותפים."
+    },
+    {
+      "id": 799,
+      "file": "complements.md",
+      "source_sentence": "The *literal complement* of a pitch-class set is every pitch not included in that set. For example, the complement of the seven-note C major scale is the five-note pentatonic scale: F-sharp, G-sharp, A-sharp, C-sharp, and D-sharp.",
+      "translated_sentence": "ה*משלים המילולי* (literal complement) של קבוצת צלילים (pitch-class set) הוא כל צליל שאינו כלול באותה קבוצה. לדוגמה, המשלימים של סולם C מייג'ור בן שבעת התווים הם סולם הפנטטוני בן חמשת התווים: F♯, G♯, A♯, C♯, ו-D♯."
+    },
+    {
+      "id": 800,
+      "file": "complements.md",
+      "source_sentence": "The complement of any *n-chord* is always a *12-n*  chord. Thus, a trichord's compliment will be a nonachord, a tetrachords an octachord, and so on.",
+      "translated_sentence": "המשלים (complement) של כל אקורד-*n* (n-chord) הוא תמיד אקורד *12-n*. לפיכך, המשלים של טריקורד (trichord) יהיה נונאקורד (nonachord), של טטראקורד (tetrachord) אוקטקורד (octachord), וכן הלאה."
+    },
+    {
+      "id": 801,
+      "file": "complements.md",
+      "source_sentence": "Below you'll see the trichord [0,1,2]. Its *literal complement* is all of the notes not a part of it: [3,4,5,6,7,8,9,T,E]. When we put both of those pitch-class sets in prime form, the two are said to be *abstract complement*:",
+      "translated_sentence": "להלן תראו את הטריכורד [0,1,2]. ה*משלים המילולי* (literal complement) שלו הוא כל התווים שאינם חלק ממנו: [3,4,5,6,7,8,9,T,E]. כאשר אנו שמים את שתי קבוצות צוברי הגובה (pitch-class sets) הללו בצורה ראשונית (prime form), השתיים נחשבות כ*משלים מופשט* (abstract complement):"
+    },
+    {
+      "id": 802,
+      "file": "complements.md",
+      "source_sentence": "[![](Graphics/postTonal/complements.png)](Graphics/postTonal/complements.png)",
+      "translated_sentence": "[![](Graphics/postTonal/complements.png)](Graphics/postTonal/complements.png)"
+    },
+    {
+      "id": 803,
+      "file": "complements.md",
+      "source_sentence": "On the set-class list, _abstract complements _are listed next to one another, and they have a very interesting intervallic relationship, as you can see by comparing their IC vectors. Complementary set classes have a similar \"distribution\" of intervals. Below, you'll see that the set (012345678) has exactly 6 more of each type of interval class than does its complement (012). That is, except for the tritone. It has only 3 more.",
+      "translated_sentence": "ברשימת מחלקות האוספים (set-class list), _המשלמים המופשטים_ (_abstract complements_) רשומים זה לצד זה, ויש ביניהם יחס אינטרוואלי מעניין מאוד, כפי שניתן לראות על ידי השוואת וקטורי מרווחי האוסף (IC vectors) שלהם. מחלקות אוספים משלימות (Complementary set classes) חולקות \"התפלגות\" דומה של מרווחים. להלן, תראו שהאוסף (012345678) מכיל בדיוק 6 יחידות נוספות מכל סוג של מחלקת מרווח (interval class) בהשוואה למשלים שלו (012). כלומר, למעט הטריטון (tritone). יש לו רק 3 יחידות נוספות."
+    },
+    {
+      "id": 804,
+      "file": "complements.md",
+      "source_sentence": "[![](Graphics/postTonal/complementAndItsVector.png)](Graphics/postTonal/complementAndItsVector.png)",
+      "translated_sentence": "[![](Graphics/postTonal/complementAndItsVector.png)](Graphics/postTonal/complementAndItsVector.png)"
+    },
+    {
+      "id": 805,
+      "file": "compoundThemes.md",
+      "source_sentence": "Compound period ##",
+      "translated_sentence": "תקופה מורכבת (Compound period) ##"
+    },
+    {
+      "id": 806,
+      "file": "compoundThemes.md",
+      "source_sentence": "The compound period (also called the *16-bar period* because its typical form is 16 bars long), is made of two themes instead of two phrases. Just as in a regular [period](period.html), the first theme ends in a weak cadence (most often HC) and the second theme ends in a strong(er) cadence (most often PAC). Also like in a regular period, the two themes begin with the same basic idea (BI), possibly with some variation between the two.",
+      "translated_sentence": "התקופה המורכבת (compound period) (הנקראת גם *תקופת 16 תיבות* (*16-bar period*) משום שצורתה הטיפוסית אורך של 16 תיבות), מורכבת משני נושאים במקום משתי תיבות (phrases). בדיוק כמו ב[תקופה](period.html) רגילה, הנושא הראשון מסתיים בקדֶנְצָה חלשה (לרוב קדֶנְצָה חצי-סופית (HC)) והנושא השני מסתיים בקדֶנְצָה חזקה (יותר) (לרוב קדֶנְצָה אותנטית מושלמת (PAC)). כמו כן, בדומה לתקופה רגילה, שני הנושאים מתחילים באותו רעיון בסיסי (basic idea (BI)), ייתכן עם שינוי כלשהו בין השניים."
+    },
+    {
+      "id": 807,
+      "file": "compoundThemes.md",
+      "source_sentence": "The themes that are used to make the compound period have the same characteristics as they normally do, with the exception that the need for a weak cadence at the end of the first theme and a strong cadence at the end of the second theme may override the typical cadence patterns of those themes when they occur in isolation.",
+      "translated_sentence": "הנושאים (themes) המשמשים לבניית התקופה המורכבת (compound period) בעלי את אותם מאפיינים כמו בדרך כלל, למעט העובדה שהצורך בקדנציה חלשה (weak cadence) בסוף הנושא הראשון ובקדנציה חזקה (strong cadence) בסוף הנושא השני עשוי לגבור על דפוסי הקדנציות הטיפוסיים של נושאים אלו כאשר הם מופיעים בנפרד."
+    },
+    {
+      "id": 808,
+      "file": "compoundThemes.md",
+      "source_sentence": "The first type of compound period is comprised of two sentences: the first ends with an HC or (less frequently) an IAC, and the second ends with a PAC.",
+      "translated_sentence": "הסוג הראשון של תקופה מורכבת (compound period) מורכב משני משפטים (sentences): הראשון מסתיים ב-HC או (לעיתים רחוקות יותר) ב-IAC, והשני מסתיים ב-PAC."
+    },
+    {
+      "id": 809,
+      "file": "compoundThemes.md",
+      "source_sentence": "[![][16period-sent]][16period-sent]",
+      "translated_sentence": "[![][16period-sent]][16period-sent]"
+    },
+    {
+      "id": 810,
+      "file": "compoundThemes.md",
+      "source_sentence": "A prototypical example of a compound period composed of two sentences is Mozart's Piano Sonata in F major, K. 332, II., mm. 1–8.",
+      "translated_sentence": "דוגמה טיפוסית לתקופת מורכבת (compound period) המורכבת משני משפטים (sentences) היא הסונאטה לפסנתר ב-F מייג'ור מאת מוצארט, K. 332, פרק II, תיבות 1–8."
+    },
+    {
+      "id": 811,
+      "file": "compoundThemes.md",
+      "source_sentence": "[![](Graphics/form/k332-ii.png)](Graphics/form/k332-ii.png)",
+      "translated_sentence": "[![](Graphics/form/k332-ii.png)](Graphics/form/k332-ii.png)"
+    },
+    {
+      "id": 812,
+      "file": "compoundThemes.md",
+      "source_sentence": "Note that because of the slow tempo, this \"16-bar\" period is notated as only eight bars. Also, note that though the theme modulates, the second cadence, a PAC in the key of the dominant, is stronger than the first cadence, a HC in the home key. For the purposes of antecedent-consequent relationships, a PAC is always stronger than a HC or IAC, even if it is in another key.",
+      "translated_sentence": "שימו לב בשל הטמפו האיטי, תקופת \"16 התיבות\" (16-bar period) הזו רשומה כשמונה תיבות בלבד. כמו כן, שימו לב שלמרות שהנושא מודולציה (modulates), הקדנס (cadence) השני, קדנס אותנטי מושלם PAC (PAC) בסולם הדומיננטי (dominant), חזק יותר מהקדנס הראשון, קדנס חצי HC (HC) בסולם הביתי (home key). לצורך יחסי פוהד-עוקב (antecedent-consequent relationships), קדנס אותנטי מושלם PAC (PAC) חזק תמיד מקדנס חצי HC (HC) או קדנס אותנטי לא מושלם IAC (IAC), אפילו אם הוא בסולם אחר."
+    },
+    {
+      "id": 813,
+      "file": "compoundThemes.md",
+      "source_sentence": "Similarly, a compound period can be comprised of two Hybrid 1 themes (antecedent–continuation)",
+      "translated_sentence": "באופן דומה, תקופה מורכבת (compound period) יכולה להיות מורכבת משתי תמות היברידית 1 (Hybrid 1) (בנוי-המשך [antecedent–continuation])"
+    },
+    {
+      "id": 814,
+      "file": "compoundThemes.md",
+      "source_sentence": "[![][16period-hybrid1]][16period-hybrid1]",
+      "translated_sentence": "[![][16period-hybrid1]][16period-hybrid1]"
+    },
+    {
+      "id": 815,
+      "file": "compoundThemes.md",
+      "source_sentence": "or two Hybrid 3 themes (CBI–continuation).",
+      "translated_sentence": "או שני נושאי הייבריד 3 (Hybrid 3) (CBI–המשך (continuation))."
+    },
+    {
+      "id": 816,
+      "file": "compoundThemes.md",
+      "source_sentence": "[![][16period-hybrid3]][16period-hybrid3]",
+      "translated_sentence": "[![][16period-hybrid3]][16period-hybrid3]"
+    },
+    {
+      "id": 817,
+      "file": "compoundThemes.md",
+      "source_sentence": "Compound sentence ##",
+      "translated_sentence": "משפט מורכב (Compound sentence) ##"
+    },
+    {
+      "id": 818,
+      "file": "compoundThemes.md",
+      "source_sentence": "The compound (or 16-bar) sentence expands both the presentation and continuation phrases of a regular [sentence](sentence.html) to a typical length of eight bars each.",
+      "translated_sentence": "משפט מורכב (או משפט בן 16 תיבות) מרחיב הן את ביטוי ההצגה (presentation phrase) והן את ביטוי ההמשך (continuation phrase) של [משפט](sentence.html) רגיל לאורך טיפוסי של שמונה תיבות כל אחד."
+    },
+    {
+      "id": 819,
+      "file": "compoundThemes.md",
+      "source_sentence": "Each (2-bar) basic idea (BI) of the presentation phrase is replaced by a (4-bar) compound basic idea (CBI) in the expanded presentation. The resulting (typically 8-bar) presentation still has no cadence, but simply prolongs tonic.",
+      "translated_sentence": "כל רעיון בסיסי (BI) בן (שתי תיבות) של משפחת ההצגה (presentation phrase) מוחלף ברעיון בסיסי מורכב (CBI) בן (ארבע תיבות) בהצגה המורחבת (expanded presentation). ההצגה (המונה טיפוסית שמונה תיבות) שנוצרת עדיין חסרת קדנציה (cadence), אלא פשוט משהה את הטוניקה (tonic)."
+    },
+    {
+      "id": 820,
+      "file": "compoundThemes.md",
+      "source_sentence": "The expanded continuation phrase is somewhat looser in proportion and in length. A \"typical\" continuation in this theme would have approximately four bars of continuation function followed by four bars of cadential function (an expanded cadential progression).",
+      "translated_sentence": "ביטוי ההמשך המורחב (expanded continuation phrase) הוא משוחרר למדי מבחינת פרופורציה ואורך. המשחِך ה\"טיפוסי\" בנושא זה יכלול בדרך כלל כארבע תיבות של פונקציית המשך (continuation function) ולאחריהן ארבע תיבות של פונקציה קדנציאלית (cadential function) (מהלך קדנציאלי מורחב (expanded cadential progression))."
+    },
+    {
+      "id": 821,
+      "file": "compoundThemes.md",
+      "source_sentence": "[![][16sent]][16sent]",
+      "translated_sentence": "[![][16sent]][16sent]"
+    },
+    {
+      "id": 822,
+      "file": "compoundThemes.md",
+      "source_sentence": "A prototypical example of a compound sentence is Mozart's [Trio for Piano, Clarinet, and Viola, K. 498](http://erato.uvt.nl/files/imglnks/usimg/3/32/IMSLP65681-PMLP133432-Mozart_Werke_Breitkopf_Serie_17_KV498_Piano.pdf), I., mm. 1–16.",
+      "translated_sentence": "דוגמה טיפוסית למשפט מורכב (compound sentence) היא [Trio for Piano, Clarinet, and Viola, K. 498](http://erato.uvt.nl/files/imglnks/usimg/3/32/IMSLP65681-PMLP133432-Mozart_Werke_Breitkopf_Serie_17_KV498_Piano.pdf) מאת מוצרט, פרק I, תיבות 1–16."
+    },
+    {
+      "id": 823,
+      "file": "compoundThemes.md",
+      "source_sentence": "Note that *bar length is not the important issue* when deciding whether a theme is a regular sentence or a compound sentence. Sometimes a regular sentence is written down in a fast duple meter, and it takes up 16 bars. At other times, a compound theme is set to such a slow tempo that it takes only 8 bars (like the compound period in Mozart's K. 332, above). The key difference between the regular sentence and the compound sentence is that the regular sentence begins with two basic ideas and the compound sentence begins with two *compound basic ideas*. Even that distinction will, at times, seem like splitting hairs, though at other times it will be quite obvious. Use your best judgment based on the musical features that you find to be the most salient.",
+      "translated_sentence": "שימו לב כי *אורך התיבה אינו הנושא החשוב* בעת ההחלטה האם תמה (theme) היא משפט רגיל (regular sentence) או משפט מורכב (compound sentence). לעיתים קרובות, משפט רגיל נכתב במשקל זוגי מהיר (fast duple meter), והוא מתפרשת על פני 16 תיבות. בפעמים אחרות, תמה מורכבת (compound theme) מותאמת לטמפו כה איטי כך שהיא תופסת 8 תיבות בלבד (כמו התקופה המורכבת (compound period) ביצירתו של מוצרט K. 332, לעיל). ההבדל המרכזי בין המשפט הרגיל למשפט המורכב הוא שהמשפט הרגיל מתחיל בשתי מחשבות בסיסיות (basic ideas) והמשפט המורכב מתחיל בשתי *מחשבות בסיסיות מורכבות (compound basic ideas)*. אפילו הבחנה זו תיראה לעיתים כפלפול מיותר, אם כי בפעמים אחרות היא תהיה ברורה לחלוטין. הפעילו שיקול דעת מיטבי המבוסס על מאפיינים מוזיקליים שאתם מוצאים כבולטים ביותר."
+    },
+    {
+      "id": 824,
+      "file": "compoundThemes.md",
+      "source_sentence": "[16period-sent]: Graphics/ClassicalThemes/16period-sent.png",
+      "translated_sentence": "[16period-sent]: Graphics/ClassicalThemes/16period-sent.png"
+    },
+    {
+      "id": 825,
+      "file": "compoundThemes.md",
+      "source_sentence": "[16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png",
+      "translated_sentence": "[16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png"
+    },
+    {
+      "id": 826,
+      "file": "compoundThemes.md",
+      "source_sentence": "[16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png",
+      "translated_sentence": "[16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png"
+    },
+    {
+      "id": 827,
+      "file": "compoundThemes.md",
+      "source_sentence": "[16sent]: Graphics/ClassicalThemes/16sentence.png",
+      "translated_sentence": "[16sent]: Graphics/ClassicalThemes/16sentence.png"
+    },
+    {
+      "id": 828,
+      "file": "contents-hidden.md",
+      "source_sentence": "Introduction ##",
+      "translated_sentence": "# מבוא"
+    },
+    {
+      "id": 829,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to this \"textbook\" (for instructors & scholars).][introSite]",
+      "translated_sentence": "[מבוא ל\"ספר לימוד\" זה (עבור מורים וחוקרים).][introSite]"
+    },
+    {
+      "id": 830,
+      "file": "contents-hidden.md",
+      "source_sentence": "Fundamentals ##",
+      "translated_sentence": "## יסודות (Fundamentals)"
+    },
+    {
+      "id": 831,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Protonotation.](protonotation.html)",
+      "translated_sentence": "[פרוטונציה (Protonotation)](protonotation.html)"
+    },
+    {
+      "id": 832,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Meter and time signatures.][meter]",
+      "translated_sentence": "[מטר ומשקלות (Meter and time signatures).][meter]"
+    },
+    {
+      "id": 833,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Pitches and octave designations.][pitches]",
+      "translated_sentence": "[גובהי צליל וציון אוקטבות (Pitches and octave designations).][pitches]"
+    },
+    {
+      "id": 834,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Intervals and dyads.][intervals]",
+      "translated_sentence": "[מרווחים ודיאדות (Dyads).][intervals]"
+    },
+    {
+      "id": 835,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Triads and seventh chords.][triads]",
+      "translated_sentence": "[שלשות ואקורדים שביעית (Triads and seventh chords).][triads]"
+    },
+    {
+      "id": 836,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Types of contrapuntal motion.][motionTypes]",
+      "translated_sentence": "[סוגי תנועה קונטרפונקטית (contrapuntal motion).][motionTypes]"
+    },
+    {
+      "id": 837,
+      "file": "contents-hidden.md",
+      "source_sentence": "Voice-leading and model composition ##",
+      "translated_sentence": "הובלת קולות וקומפוזיציה מודלית (Voice-leading and model composition) ##"
+    },
+    {
+      "id": 838,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to strict voice-leading.][speciesIntro]",
+      "translated_sentence": "[מבוא להובלת קול קפדנית (strict voice-leading).][speciesIntro]"
+    },
+    {
+      "id": 839,
+      "file": "contents-hidden.md",
+      "source_sentence": "Strict two-voice composition (species counterpoint)",
+      "translated_sentence": "הלחנה קפדנית לשני קולות (קונטרפונקט לפי מינים (species counterpoint))"
+    },
+    {
+      "id": 840,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing a cantus firmus.][CF]",
+      "translated_sentence": "[הלחנת קנטוס פירמוס (Composing a cantus firmus).][CF]"
+    },
+    {
+      "id": 841,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing a first-species counterpoint.][firstSpecies]",
+      "translated_sentence": "[הלחנת קונטרפונקט ממין ראשון (first-species counterpoint).][firstSpecies]"
+    },
+    {
+      "id": 842,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing a second-species counterpoint.][secondSpecies]",
+      "translated_sentence": "[הלחנת קונטרפונקט ממין שני (second-species counterpoint).][secondSpecies]"
+    },
+    {
+      "id": 843,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing a third-species counterpoint.][thirdSpecies]",
+      "translated_sentence": "[כתיבת קונטרפונקט ממין שלישי (third-species counterpoint).][thirdSpecies]"
+    },
+    {
+      "id": 844,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing a fourth-species counterpoint.][fourthSpecies]",
+      "translated_sentence": "[כתיבת קונטרפונקט ממין רביעי (fourth-species counterpoint).][fourthSpecies]"
+    },
+    {
+      "id": 845,
+      "file": "contents-hidden.md",
+      "source_sentence": "Strict four-voice composition",
+      "translated_sentence": "כתיבה קולית ארבע-קולית (Strict four-voice composition)"
+    },
+    {
+      "id": 846,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to thoroughbass.][thoroughbass]",
+      "translated_sentence": "[מבוא לבאס ממוספר (Introduction to thoroughbass).][thoroughbass]"
+    },
+    {
+      "id": 847,
+      "file": "contents-hidden.md",
+      "source_sentence": "[A brief history of *basso continuo*.](bassoContinuo-history.html)",
+      "translated_sentence": "[היסטוריה קצרה של *באסו קונטינואו* (basso continuo).](bassoContinuo-history.html)"
+    },
+    {
+      "id": 848,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Composing in *basso-continuo* style.](bassoContinuo.html)",
+      "translated_sentence": "[הלחנה בסגנון באס-קונטינואו (*basso-continuo*).](bassoContinuo.html)"
+    },
+    {
+      "id": 849,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Style and tendency.](tendency.html)",
+      "translated_sentence": "[סגנון ונטייה.](tendency.html)"
+    },
+    {
+      "id": 850,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)",
+      "translated_sentence": "[צלילים נוטים (tendency tones) ודיסוננסים הרמוני פונקציונליים (functional harmonic dissonances).](tendencyTonesFunctionalDissonances.html)"
+    },
+    {
+      "id": 851,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)",
+      "translated_sentence": "[מימוש באס ממוספר בסגנון באסו קונטינואו (basso continuo) קפדני (וידאו).](TBDemo.html)"
+    },
+    {
+      "id": 852,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)",
+      "translated_sentence": "[הובלת קול בסגנון מקלדת מלודי (Melodic keyboard style voice-leading).](melodicKeyboardStyle.html)"
+    },
+    {
+      "id": 853,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)",
+      "translated_sentence": "[סכמות הולכת קול בסגנון מקלדת מלודית (Melodic keyboard-style voice-leading schemata).](KBVLschemata.html)"
+    },
+    {
+      "id": 854,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)",
+      "translated_sentence": "[מימוש קו בס ממוספר בסגנון מקלדת מלודי (סרטון).](melodicKB.html)"
+    },
+    {
+      "id": 855,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Realizing an unfigured bass line (video).][unfiguredBass]",
+      "translated_sentence": "[מימוש קו בס לא-ממוספר (סרטון).][unfiguredBass]"
+    },
+    {
+      "id": 856,
+      "file": "contents-hidden.md",
+      "source_sentence": "Harmony ##",
+      "translated_sentence": "הרטמוניה (Harmony) ##"
+    },
+    {
+      "id": 857,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Embellishing tones.][embellishingTones]",
+      "translated_sentence": "[צלילים מקשטים (Embellishing tones).][embellishingTones]"
+    },
+    {
+      "id": 858,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to musical functions.][functions]",
+      "translated_sentence": "[מבוא לפונקציות מוזיקליות (musical functions).][functions]"
+    },
+    {
+      "id": 859,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmonic functions.][harmFunc]",
+      "translated_sentence": "[פונקציות הרמוניות (Harmonic functions).][harmFunc]"
+    },
+    {
+      "id": 860,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)",
+      "translated_sentence": "[תחביר הרמוני - המשפט האידיאלי (Harmonic syntax - the idealized phrase).](harmonicSyntax1.html)"
+    },
+    {
+      "id": 861,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmonic syntax - prolongation.](harmonicSyntax2.html)",
+      "translated_sentence": "[תחביר הרמוני - הארכה (prolongation).](harmonicSyntax2.html)"
+    },
+    {
+      "id": 862,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Classical cadence types.][cadenceTypes]",
+      "translated_sentence": "[סוגי קדנצות קלאסיות (Classical cadence types).][cadenceTypes]"
+    },
+    {
+      "id": 863,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Generating Roman numerals from a figured bass line.][RNfromFB]",
+      "translated_sentence": "[יצירת ספרות רומאיות מקו باس ממוספר (figured bass line).][RNfromFB]"
+    },
+    {
+      "id": 864,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Chromatically altered subdominant chords.][altSub]",
+      "translated_sentence": "[אקורדים סובדומיננטיים מותאמים כרומטית (Chromatically altered subdominant chords).][altSub]"
+    },
+    {
+      "id": 865,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Applied chords.][applied]",
+      "translated_sentence": "אקורדים מותנים (Applied chords).[applied]"
+    },
+    {
+      "id": 866,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Modal mixture.][mixture]",
+      "translated_sentence": "[תערובת מודלית (Modal mixture).][mixture]"
+    },
+    {
+      "id": 867,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Modulation.][Modulation]",
+      "translated_sentence": "[מודולציה (Modulation).][מודולציה (Modulation)]"
+    },
+    {
+      "id": 868,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmony in pop/rock music.][popRockHarmony]",
+      "translated_sentence": "[הרומוניה במוזיקת פופ/רוק (Harmony in pop/rock music).][popRockHarmony]"
+    },
+    {
+      "id": 869,
+      "file": "contents-hidden.md",
+      "source_sentence": "Handouts and charts ######",
+      "translated_sentence": "דפי עזר ותרשימים ######"
+    },
+    {
+      "id": 870,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Lead-sheet and figured-bass symbols.][LSandFBsymbols]",
+      "translated_sentence": "[סימני דף הובלה ובס ממוספר (Lead-sheet and figured-bass symbols).][LSandFBsymbols]"
+    },
+    {
+      "id": 871,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)",
+      "translated_sentence": "[הרטמוניות (ספרות רומניות ובס פונקציונלי) לפי דרגת בס בסולם (Harmonies by bass scale degree).](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)"
+    },
+    {
+      "id": 872,
+      "file": "contents-hidden.md",
+      "source_sentence": "Form ##",
+      "translated_sentence": "# צורה (Form)"
+    },
+    {
+      "id": 873,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Thematic Structure in the Classical Style**",
+      "translated_sentence": "**מבנה תემაטי בסגנון הקלאסי (Thematic Structure in the Classical Style)**"
+    },
+    {
+      "id": 874,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)",
+      "translated_sentence": "[מבוא למבנה תמטי בסגנון הקלאסי (Introduction to Thematic Structure in the Classical Style).](thematicStructureInTheClassicalStyle.html)"
+    },
+    {
+      "id": 875,
+      "file": "contents-hidden.md",
+      "source_sentence": "[The sentence.](sentence.html)",
+      "translated_sentence": "[המשפט.](sentence.html)"
+    },
+    {
+      "id": 876,
+      "file": "contents-hidden.md",
+      "source_sentence": "[The period.](period.html)",
+      "translated_sentence": "[התקופה (The period).](period.html)"
+    },
+    {
+      "id": 877,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Hybrid themes.](hybridThemes.html)",
+      "translated_sentence": "[נושאים היברידיים (Hybrid themes).](hybridThemes.html)"
+    },
+    {
+      "id": 878,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Compound themes.](compoundThemes.html)",
+      "translated_sentence": "[נושאים מורכבים (Compound themes).](compoundThemes.html)"
+    },
+    {
+      "id": 879,
+      "file": "contents-hidden.md",
+      "source_sentence": "[External Expansions.](externalExpansions.html)",
+      "translated_sentence": "[הרחבות חיצוניות (External Expansions).](externalExpansions.html)"
+    },
+    {
+      "id": 880,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Internal Expansions.](internalExpansions.html)",
+      "translated_sentence": "[הרחבות פנימיות (Internal Expansions).](internalExpansions.html)"
+    },
+    {
+      "id": 881,
+      "file": "contents-hidden.md",
+      "source_sentence": "[**Minuet form**.](minuet.html)",
+      "translated_sentence": "[**צורת מינוエット**.](minuet.html)"
+    },
+    {
+      "id": 882,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Sonata Form**",
+      "translated_sentence": "**צורת סונָטה (Sonata Form)**"
+    },
+    {
+      "id": 883,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to Sonata Theory.][SonataIntro]",
+      "translated_sentence": "[מבוא לתאוריית סונָטה (Sonata Theory).][SonataIntro]"
+    },
+    {
+      "id": 884,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sonata form: exposition types.][SonataExpo]",
+      "translated_sentence": "[צורת סונָטה: סוגי אקספוזיציה (Sonata form: exposition types).][SonataExpo]"
+    },
+    {
+      "id": 885,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)",
+      "translated_sentence": "[נקודות הגעה מבניות (Structural Points of Arrival).](sonataStructuralPointsOfArrival.html)"
+    },
+    {
+      "id": 886,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Thematic Modules.](sonataThematicModules.html)",
+      "translated_sentence": "[מოდולים תემაטיים (Thematic Modules).](sonataThematicModules.html)"
+    },
+    {
+      "id": 887,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sonata form: the recapitulation.][SonataRecap]",
+      "translated_sentence": "[צורת סונָטה: הרקפריטולציה (Sonata form: the recapitulation).][SonataRecap]"
+    },
+    {
+      "id": 888,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sonata form: the development.](sonataDevelopment.html)",
+      "translated_sentence": "[צורת סונָטה: הפיתוח (Sonata form: the development).](sonataDevelopment.html)"
+    },
+    {
+      "id": 889,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Rondo Form**",
+      "translated_sentence": "**צורת רונדو (Rondo Form)**"
+    },
+    {
+      "id": 890,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to Rondo form.](rondo.html)",
+      "translated_sentence": "[מבוא לצורת רונדו (Rondo form).](rondo.html)"
+    },
+    {
+      "id": 891,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Thematic Function in Rondo Form.](thematicFunctionInRondo.html)",
+      "translated_sentence": "[תפקוד תמטי בצורת רונדו (Thematic Function in Rondo Form).](thematicFunctionInRondo.html)"
+    },
+    {
+      "id": 892,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Five-Part Rondo.](fivePartRondo.html)",
+      "translated_sentence": "[רונדו חמישה חלקים (Five-Part Rondo).](fivePartRondo.html)"
+    },
+    {
+      "id": 893,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sonata Rondo.](sonataRondo.html)",
+      "translated_sentence": "[סונאטה רונדו (Sonata Rondo).](sonataRondo.html)"
+    },
+    {
+      "id": 894,
+      "file": "contents-hidden.md",
+      "source_sentence": "[**Form in pop/rock music.**][popRockForm]",
+      "translated_sentence": "[**בצורה במוזיקת פופ/רוק (Form in pop/rock music).**][popRockForm]"
+    },
+    {
+      "id": 895,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Classical theme types.][classicalThemes]",
+      "translated_sentence": "[סוגי תמה קלאסית (Classical theme types).][classicalThemes]"
+    },
+    {
+      "id": 896,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Introduction to musical functions.](functions.html)",
+      "translated_sentence": "[מבוא לפונקציות מוזיקליות (musical functions).](functions.html)"
+    },
+    {
+      "id": 897,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Galant schemata.][Schemata]",
+      "translated_sentence": "[סכמטות גלאנט (Galant schemata).][סכמטות (Schemata)]"
+    },
+    {
+      "id": 898,
+      "file": "contents-hidden.md",
+      "source_sentence": "Post-tonal music ##",
+      "translated_sentence": "מוזיקה פוסט-טונאלית (Post-tonal music) ##"
+    },
+    {
+      "id": 899,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Basics**",
+      "translated_sentence": "**יסודות (Basics)**"
+    },
+    {
+      "id": 900,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Pitch (class).](pitch(Class).html)",
+      "translated_sentence": "[גובה שניל (Pitch class).](pitch(Class).html)"
+    },
+    {
+      "id": 901,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Interval (class).](interval(Class).html)",
+      "translated_sentence": "[מרוצע (Interval class).](interval(Class).html)"
+    },
+    {
+      "id": 902,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Modular 12 arithmetic.](mod12.html)",
+      "translated_sentence": "[אריתמטיקה מודולרית 12 (Modular 12 arithmetic).](mod12.html)"
+    },
+    {
+      "id": 903,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Organizing Forces**",
+      "translated_sentence": "**כוחות מארגנים (Organizing Forces)**"
+    },
+    {
+      "id": 904,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Collections and Scales.](scales.html)",
+      "translated_sentence": "[אוספים וסולמות (Collections and Scales).](scales.html)"
+    },
+    {
+      "id": 905,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Symmetry and Centricity.](symmetryAndCentricity.html)",
+      "translated_sentence": "[סימטריה ומרכזיות (Symmetry and Centricity).](symmetryAndCentricity.html)"
+    },
+    {
+      "id": 906,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Set Theory**",
+      "translated_sentence": "**תורת הקבוצות (Set Theory)**"
+    },
+    {
+      "id": 907,
+      "file": "contents-hidden.md",
+      "source_sentence": "Pitch-Class Sets.",
+      "translated_sentence": "קבוצות צבאי גובה (Pitch-Class Sets)."
+    },
+    {
+      "id": 908,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Normal Order.](normalOrder.html)",
+      "translated_sentence": "[סדר רגיל (Normal Order).](normalOrder.html)"
+    },
+    {
+      "id": 909,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Tranposition.](transposition.html)",
+      "translated_sentence": "[טרנספוזיציה (Transposition).](transposition.html)"
+    },
+    {
+      "id": 910,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Inversion.](inversion.html)",
+      "translated_sentence": "[היפוך (Inversion).](inversion.html)"
+    },
+    {
+      "id": 911,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Set Class and Prime Form (1).](setClassAndPrimeForm1.html)",
+      "translated_sentence": "[מחלקת קבוצה וצורה ראשונית (Set Class and Prime Form) (1).](setClassAndPrimeForm1.html)"
+    },
+    {
+      "id": 912,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Set Class and Prime Form (2).](setClassAndPrimeForm2.html)",
+      "translated_sentence": "[מחלקת קבוצה וצורה ראשונית (Set Class and Prime Form) (2).](setClassAndPrimeForm2.html)"
+    },
+    {
+      "id": 913,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Complements.](complements.html)",
+      "translated_sentence": "[השלמות (Complements).](complements.html)"
+    },
+    {
+      "id": 914,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Common Tones under Transposition.](commonTonesUnderTransposition.html)",
+      "translated_sentence": "[צלילים משותפים תחת טרנספוזיציה (Common Tones under Transposition).](commonTonesUnderTransposition.html)"
+    },
+    {
+      "id": 915,
+      "file": "contents-hidden.md",
+      "source_sentence": "Common Tones under Inversion.",
+      "translated_sentence": "צלילים משותפים תחת היפוך (Common Tones under Inversion)."
+    },
+    {
+      "id": 916,
+      "file": "contents-hidden.md",
+      "source_sentence": "Tranpositional Symmetry.",
+      "translated_sentence": "סימטריה טרנספוזיציונית (Transpositional Symmetry)."
+    },
+    {
+      "id": 917,
+      "file": "contents-hidden.md",
+      "source_sentence": "**Twelve-Tone Theory**",
+      "translated_sentence": "**תיאוריית שנים-עשר הטונים (Twelve-Tone Theory)**"
+    },
+    {
+      "id": 918,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Basics.](twelveToneBasics.html)",
+      "translated_sentence": "[יסודות (Basics).](twelveToneBasics.html)"
+    },
+    {
+      "id": 919,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Operations.](twelveToneOperations.html)",
+      "translated_sentence": "[פעולות (Operations).](twelveToneOperations.html)"
     }
   ]
 }

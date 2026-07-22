@@ -6186,6 +6186,18 @@
       "file": "contents.md",
       "source_sentence": "[Chromatically altered subdominant chords.][altSub]",
       "translated_sentence": "[אקורדים סובדומיננטיים מנוגנים בכרומטיקה (Chromatically altered subdominant chords).][altSub]"
+    },
+    {
+      "id": 1032,
+      "file": "contents.md",
+      "source_sentence": "[Applied chords.][applied]",
+      "translated_sentence": "[אקורדים מושאלים (Applied chords).][applied]"
+    },
+    {
+      "id": 1033,
+      "file": "contents.md",
+      "source_sentence": "[Modal mixture.][mixture]",
+      "translated_sentence": "[תערובת מודלית (Modal mixture).][mixture]"
     }
   ]
 }

@@ -6174,6 +6174,18 @@
       "file": "contents.md",
       "source_sentence": "[Harmonic syntax - prolongation.](harmonicSyntax2.html)",
       "translated_sentence": "[תחביק הרמוני - הארכה (prolongation).](harmonicSyntax2.html)"
+    },
+    {
+      "id": 1030,
+      "file": "contents.md",
+      "source_sentence": "[Classical cadence types.][cadenceTypes]",
+      "translated_sentence": "[סוגי קדנצות קלאסיות (Classical cadence types).][cadenceTypes]"
+    },
+    {
+      "id": 1031,
+      "file": "contents.md",
+      "source_sentence": "[Chromatically altered subdominant chords.][altSub]",
+      "translated_sentence": "[אקורדים סובדומיננטיים מנוגנים בכרומטיקה (Chromatically altered subdominant chords).][altSub]"
     }
   ]
 }

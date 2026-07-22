@@ -2868,6 +2868,18 @@
       "file": "appliedChords.md",
       "source_sentence": "**D/lowered-VI (minor)** — *sol*, *te*, *ra*, and *me*.",
       "translated_sentence": "**D/VI מונמך (lowered-VI) (מינור)** — *סול*, *טה*, *רא* ו-*מה*."
+    },
+    {
+      "id": 479,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/VI (major)** — *si*, *ti*, *re*, *mi*, and *fa*.",
+      "translated_sentence": "**D/VI (מז'ור (major))** — *סי*, *טי*, *רה*, *מי*, ו-*פה*."
+    },
+    {
+      "id": 480,
+      "file": "appliedChords.md",
+      "source_sentence": "**D/lowered-VII (minor)** — *la*, *do*, *me*, and *fa*.",
+      "translated_sentence": "**D/VII מונמך (lowered-VII) (מינור)** — *לה*, *דו*, *מה*, ו-*פה*."
     }
   ]
 }

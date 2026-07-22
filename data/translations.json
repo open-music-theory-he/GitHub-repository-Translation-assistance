@@ -3006,6 +3006,126 @@
       "file": "atonal.md",
       "source_sentence": "![][minor]",
       "translated_sentence": "![][minor]"
+    },
+    {
+      "id": 502,
+      "file": "atonal.md",
+      "source_sentence": "**Pentatonic** – The black key collection and all of its transpositions, prime form: (02479).",
+      "translated_sentence": "**פנטטוני (Pentatonic)** – אוסף הקלידים השחורים (black key collection) וכל הטרנספוזיציות שלו (transpositions), צורת יסוד (prime form): (02479)."
+    },
+    {
+      "id": 503,
+      "file": "atonal.md",
+      "source_sentence": "![][pentatonicBlack]",
+      "translated_sentence": "![][pentatonicBlack]"
+    },
+    {
+      "id": 504,
+      "file": "atonal.md",
+      "source_sentence": "![][pentatonicWhite]",
+      "translated_sentence": "![][pentatonicWhite]"
+    },
+    {
+      "id": 505,
+      "file": "atonal.md",
+      "source_sentence": "**Octatonic** – An eight-pitch-class scale that alternates i1 and i2 (semitones and whole-tones).",
+      "translated_sentence": "**אוקטטוני (Octatonic)** – סולם בן שמונה מחלקות גובה (pitch classes) המחליף לסירוגין בין i1 ל-i2 (חצאי טונים וטונים שלמים)."
+    },
+    {
+      "id": 506,
+      "file": "atonal.md",
+      "source_sentence": "![][octatonic]",
+      "translated_sentence": "![][octatonic]"
+    },
+    {
+      "id": 507,
+      "file": "atonal.md",
+      "source_sentence": "**Hexatonic** – A six-pitch-class scale that alternates i1 and i3 (semitones and minor thirds/augmented seconds).",
+      "translated_sentence": "**הקסטוני (Hexatonic)** – סולם בן שש מחלקות גובה (pitch classes) המחליף לסירוגין בין i1 ל-i3 (חצאי טונים וטרצות קטנות/שניות מוגדלות)."
+    },
+    {
+      "id": 508,
+      "file": "atonal.md",
+      "source_sentence": "![][hexatonic]",
+      "translated_sentence": "![][hexatonic]"
+    },
+    {
+      "id": 509,
+      "file": "atonal.md",
+      "source_sentence": "**X-cell** – The chromatic tetrachord, or a four-pitch-class chromatic cluster, prime form: (0123).",
+      "translated_sentence": "**תא X (X-cell)** – הטטרקורד הכרומטי (chromatic tetrachord), או אשכול כרומטי בן ארבע מחלקות גובה (four-pitch-class chromatic cluster), צורה יסודית (prime form): (0123)."
+    },
+    {
+      "id": 510,
+      "file": "atonal.md",
+      "source_sentence": "![][xCell]",
+      "translated_sentence": "![][xCell]"
+    },
+    {
+      "id": 511,
+      "file": "atonal.md",
+      "source_sentence": "**Y-cell** – The whole-tone tetrachord, or a four-pitch-class whole-tone cluster, prime form: (0246). It is a subset of the whole-tone scale.",
+      "translated_sentence": "**תא-Y (Y-cell)** – הטטרקורד של הטון השלם (whole-tone tetrachord), או קלסטר טון שלם בן ארבע מחלקות גובה (four-pitch-class whole-tone cluster), צורה יסודית (prime form): (0246). הוא תת-קבוצה (subset) של סולם הטונים השלמים (whole-tone scale)."
+    },
+    {
+      "id": 512,
+      "file": "atonal.md",
+      "source_sentence": "![][yCell]",
+      "translated_sentence": "![][yCell]"
+    },
+    {
+      "id": 513,
+      "file": "atonal.md",
+      "source_sentence": "**Z-cell** – A four-pitch-class collection that alternates i1 and i5 (semitones and perfect fourths), prime form: (0167). Two Z-cells a minor third apart form an octatonic scale.",
+      "translated_sentence": "**תא Z (Z-cell)** – קבוצה של ארבע מחלקות גובה (four-pitch-class collection) המשלבת לסירוגין i1 ו-i5 (חצאי טונים (semitones) וקוורטות זכות (perfect fourths)), צורת יסוד (prime form): (0167). שני תאי Z במרחק טרציה קטנה (minor third) זה מזה יוצרים סולם אוקטטוני (octatonic scale)."
+    },
+    {
+      "id": 514,
+      "file": "atonal.md",
+      "source_sentence": "![][zCell]",
+      "translated_sentence": "![][zCell]"
+    },
+    {
+      "id": 515,
+      "file": "atonal.md",
+      "source_sentence": "**French-sixth** – The usual french-augmented-sixth-chord collection, but stripped of its tonal function, prime form: (0268). It is a subset of the whole-tone collection and octatonic collections. Like the Z-cell, two French-sixth chords a minor third apart form an octatonic scale.",
+      "translated_sentence": "**שישית צרפתית (French-sixth)** – אוסף אקורד השישית המוגדלת הצרפתית (french-augmented-sixth-chord collection) הרגיל, אך כזה שמופשט מהפונקציה הטונאלית (tonal function) שלו, בצורת יסוד (prime form): (0268). הוא מהווה תת-קבוצה (subset) של אוסף הטונים השלמים (whole-tone collection) ושל אוספים אוקטטוניים (octatonic collections). כמו תא ה-Z‏ (Z-cell), שני אקורדים של שישית צרפתית במרחק טרצה מינורית (minor third) זה מזה יוצרים סולם אוקטטוני (octatonic scale)."
+    },
+    {
+      "id": 516,
+      "file": "atonal.md",
+      "source_sentence": "![][frenchSixth]",
+      "translated_sentence": "![][frenchSixth]"
+    },
+    {
+      "id": 517,
+      "file": "atonal.md",
+      "source_sentence": "**Whole-tone scale** – A six-pitch-class scale made up of successive whole tones, prime form: (02468T).",
+      "translated_sentence": "**סולם טונים שלמים (Whole-tone scale)** – סולם בן שש מחלקות גובה (pitch classes) המורכב מטונים שלמים עוקבים, צורה ראשונית (prime form): (02468T)."
+    },
+    {
+      "id": 518,
+      "file": "atonal.md",
+      "source_sentence": "![][wholeTone]",
+      "translated_sentence": "![][wholeTone]"
+    },
+    {
+      "id": 519,
+      "file": "atonal.md",
+      "source_sentence": "**Acoustic scale** – A seven-pitch-class scale that resembles the major scale, but with *fa* raised to *fi* and *ti* lowered to *te*, in order to match the seventh and eleventh partials of the natural harmonic series.",
+      "translated_sentence": "**סולם אקוסטי (Acoustic Scale)** – סולם בן שבע מחלקות גובה (Pitch Classes) המזכיר את הסולם המז'ורי, אך עם *פה* מוגבה ל*פי* ו*טי* מונמך ל*טה*, כדי להתאים לצלילים החלקיים (Partials) השביעי והאחד-עשר של הסדרה ההרמונית הטבעית (Natural Harmonic Series)."
+    },
+    {
+      "id": 520,
+      "file": "atonal.md",
+      "source_sentence": "![][acoustic]",
+      "translated_sentence": "![][acoustic]"
+    },
+    {
+      "id": 521,
+      "file": "atonal.md",
+      "source_sentence": "**Dual-diatonic** – An eight-pitch-class scale formed by the union of two diatonic collections separated by fifth—for example C major and G major: C – D – E – F – F# – G – A – B. It contains two diatonic scales, two Z-cells, and two Y-cells. It was used primarily by Bartók.",
+      "translated_sentence": "**דו-דיאטוני (Dual-diatonic)** – סולם בן שמונה מחלקות גובה (Eight-pitch-class scale) הנוצר מאיחוד של שני אוספים דיאטוניים (Diatonic collections) המופרדים בקווינטה (Fifth)—לדוגמה C מייג'ור ו-G מייג'ור: C – D – E – F – F# – G – A – B. הוא מכיל שני סולמות דיאטוניים, שני תאי Z‏ (Z-cells), ושני תאי Y‏ (Y-cells). נעשה בו שימוש בעיקר על ידי בארטוק."
     }
   ]
 }

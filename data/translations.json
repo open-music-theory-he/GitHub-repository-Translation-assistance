@@ -5514,6 +5514,642 @@
       "file": "contents-hidden.md",
       "source_sentence": "[Operations.](twelveToneOperations.html)",
       "translated_sentence": "[פעולות (Operations).](twelveToneOperations.html)"
+    },
+    {
+      "id": 920,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Intervallic Structure.](twelveToneIntervallicStructure.html)",
+      "translated_sentence": "[מבנה מרווחי (Intervallic Structure).](twelveToneIntervallicStructure.html)"
+    },
+    {
+      "id": 921,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Derivation.](twelveToneMusicDerivation.html)",
+      "translated_sentence": "[גזירה (Derivation).](twelveToneMusicDerivation.html)"
+    },
+    {
+      "id": 922,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Invariance.](twelveToneMusicInvariance.html)",
+      "translated_sentence": "[אינווריאנס (Invariance).](twelveToneMusicInvariance.html)"
+    },
+    {
+      "id": 923,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Analyzing atonal music.][atonal]",
+      "translated_sentence": "[ניתוח מוזיקה אטונalית (Analyzing atonal music).][atonal]"
+    },
+    {
+      "id": 924,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Analyzing 12-tone music.][twelveTone]",
+      "translated_sentence": "[ניתוח מוזיקה בתבנית שנים-עשר טונים (12-tone music).][twelveTone]"
+    },
+    {
+      "id": 925,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Glossary of atonal musical terms.][atonalGloss]",
+      "translated_sentence": "[מילון מונחים מוזיקליים אטונליים (Glossary of atonal musical terms).][atonalGloss]"
+    },
+    {
+      "id": 926,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sheet of blank chromatic-scale clock faces.][clocks]",
+      "translated_sentence": "[דף של לוחות שעון ריקים של סולם כרומטי.][clocks]"
+    },
+    {
+      "id": 927,
+      "file": "contents-hidden.md",
+      "source_sentence": "Technology ##",
+      "translated_sentence": "טכנולוגיה ##"
+    },
+    {
+      "id": 928,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Uploading and sharing a file via Google Drive.](GDrive.html)",
+      "translated_sentence": "[העלאה ושיתוף קובץ באמצעות Google Drive.](GDrive.html)"
+    },
+    {
+      "id": 929,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]",
+      "translated_sentence": "[כתיב תוים של תרגיל הולכת קול בסגנון מקלדת (Typesetting a keyboard-style voice-leading exercise).][kbTypesetting]"
+    },
+    {
+      "id": 930,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Using Variations Audio Timeliner.][VAT]",
+      "translated_sentence": "[Using Variations Audio Timeliner.][VAT]"
+    },
+    {
+      "id": 931,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Adding a creative commons license to a blog post.][addCC]",
+      "translated_sentence": "[הוספת רישיון קריאייטיב קומנס (Creative Commons) לפוסט בבלוג.][addCC]"
+    },
+    {
+      "id": 932,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Posting a blog link to Twitter.][linkToTwitter]",
+      "translated_sentence": "[פירסום קישור לבלוג ב-Twitter.][linkToTwitter]"
+    },
+    {
+      "id": 933,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Creating a musical graphic and importing it into a text document.][createGraphic]",
+      "translated_sentence": "[יצירת גרפית מוזיקלית וייבואה למסמך טקסט.][createGraphic]"
+    },
+    {
+      "id": 934,
+      "file": "contents-hidden.md",
+      "source_sentence": "Performance ##",
+      "translated_sentence": "ביצוע ##"
+    },
+    {
+      "id": 935,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Melodic sequentials.](melodicSequentials.html)",
+      "translated_sentence": "[רצפים מלודיים (Melodic sequentials).](melodicSequentials.html)"
+    },
+    {
+      "id": 936,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Harmonic sequentials.](Graphics/harmonicSequential.pdf)",
+      "translated_sentence": "[רצפים הרמוניים (Harmonic sequentials).](Graphics/harmonicSequential.pdf)"
+    },
+    {
+      "id": 937,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Chromatic solfège syllables and sequentials.](chromaticSolfege.html)",
+      "translated_sentence": "[הברות סולפֶּג' כרומטיות ורצפים (Chromatic solfège syllables and sequentials).](chromaticSolfege.html)"
+    },
+    {
+      "id": 938,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Sight-singing tips.][sightSinging]",
+      "translated_sentence": "[טיפים לפיתוח שמיעה פנימית (Sight-singing tips).][sightSinging]"
+    },
+    {
+      "id": 939,
+      "file": "contents-hidden.md",
+      "source_sentence": "Listening ##",
+      "translated_sentence": "Listening ##"
+    },
+    {
+      "id": 940,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Transcribing syncopation in pop/rock music.][syncopation]",
+      "translated_sentence": "[תמלול סינקופה (syncopation) במוזיקת פופ/רוק.][סינקופה (syncopation)]"
+    },
+    {
+      "id": 941,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Melodic dictation demo.][melDict]",
+      "translated_sentence": "[הדגמת הכתבה מלודית (Melodic dictation)][melDict]"
+    },
+    {
+      "id": 942,
+      "file": "contents-hidden.md",
+      "source_sentence": "Text and music ##",
+      "translated_sentence": "טקסט ומוזיקה ##"
+    },
+    {
+      "id": 943,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Analyzing poetry.][poetry]",
+      "translated_sentence": "[ניתוח שירה (Analyzing poetry).][poetry]"
+    },
+    {
+      "id": 944,
+      "file": "contents-hidden.md",
+      "source_sentence": "[introSite]: about.html",
+      "translated_sentence": "[introSite]: about.html"
+    },
+    {
+      "id": 945,
+      "file": "contents-hidden.md",
+      "source_sentence": "[meter]: meter.html",
+      "translated_sentence": "[meter]: meter.html"
+    },
+    {
+      "id": 946,
+      "file": "contents-hidden.md",
+      "source_sentence": "[pitches]: pitches.html",
+      "translated_sentence": "[pitches]: pitches.html"
+    },
+    {
+      "id": 947,
+      "file": "contents-hidden.md",
+      "source_sentence": "[intervals]: Intervals.html",
+      "translated_sentence": "[intervals]: Intervals.html"
+    },
+    {
+      "id": 948,
+      "file": "contents-hidden.md",
+      "source_sentence": "[triads]: triads.html",
+      "translated_sentence": "[triads]: triads.html"
+    },
+    {
+      "id": 949,
+      "file": "contents-hidden.md",
+      "source_sentence": "[motionTypes]: motionTypes.html",
+      "translated_sentence": "[motionTypes]: motionTypes.html"
+    },
+    {
+      "id": 950,
+      "file": "contents-hidden.md",
+      "source_sentence": "[speciesIntro]: speciesIntro.html",
+      "translated_sentence": "[speciesIntro]: speciesIntro.html"
+    },
+    {
+      "id": 951,
+      "file": "contents-hidden.md",
+      "source_sentence": "[CF]: cantusFirmus.html",
+      "translated_sentence": "[CF]: cantusFirmus.html"
+    },
+    {
+      "id": 952,
+      "file": "contents-hidden.md",
+      "source_sentence": "[secondSpecies]: secondSpecies.html",
+      "translated_sentence": "[secondSpecies]: secondSpecies.html"
+    },
+    {
+      "id": 953,
+      "file": "contents-hidden.md",
+      "source_sentence": "[firstSpecies]: firstSpecies.html",
+      "translated_sentence": "[firstSpecies]: firstSpecies.html"
+    },
+    {
+      "id": 954,
+      "file": "contents-hidden.md",
+      "source_sentence": "[thirdSpecies]: thirdSpecies.html",
+      "translated_sentence": "[thirdSpecies]: thirdSpecies.html"
+    },
+    {
+      "id": 955,
+      "file": "contents-hidden.md",
+      "source_sentence": "[fourthSpecies]: fourthSpecies.html",
+      "translated_sentence": "[fourthSpecies]: fourthSpecies.html"
+    },
+    {
+      "id": 956,
+      "file": "contents-hidden.md",
+      "source_sentence": "[strictKeyboardStyle]: strictKeyboardStyle.html",
+      "translated_sentence": "[strictKeyboardStyle]: strictKeyboardStyle.html"
+    },
+    {
+      "id": 957,
+      "file": "contents-hidden.md",
+      "source_sentence": "[KBVLschemata]: KBVLschemata.html",
+      "translated_sentence": "[KBVLschemata]: KBVLschemata.html"
+    },
+    {
+      "id": 958,
+      "file": "contents-hidden.md",
+      "source_sentence": "[melKB]: melodicKB.html",
+      "translated_sentence": "[melKB]: melodicKB.html"
+    },
+    {
+      "id": 959,
+      "file": "contents-hidden.md",
+      "source_sentence": "[popRockVL]: popRockVL.html",
+      "translated_sentence": "[popRockVL]: popRockVL.html"
+    },
+    {
+      "id": 960,
+      "file": "contents-hidden.md",
+      "source_sentence": "[thoroughbass]: thoroughbassFigures.html",
+      "translated_sentence": "[thoroughbass]: thoroughbassFigures.html"
+    },
+    {
+      "id": 961,
+      "file": "contents-hidden.md",
+      "source_sentence": "[functions]: functions.html",
+      "translated_sentence": "[functions]: functions.html"
+    },
+    {
+      "id": 962,
+      "file": "contents-hidden.md",
+      "source_sentence": "[harmFunc]: harmonicFunctions.html",
+      "translated_sentence": "[harmFunc]: harmonicFunctions.html"
+    },
+    {
+      "id": 963,
+      "file": "contents-hidden.md",
+      "source_sentence": "[harmSyntax]: harmonicSyntax.html",
+      "translated_sentence": "[harmSyntax]: harmonicSyntax.html"
+    },
+    {
+      "id": 964,
+      "file": "contents-hidden.md",
+      "source_sentence": "[popRockHarmony]: popRockHarmony.html",
+      "translated_sentence": "[popRockHarmony]: popRockHarmony.html"
+    },
+    {
+      "id": 965,
+      "file": "contents-hidden.md",
+      "source_sentence": "[unfiguredBass]: unfiguredBass.html",
+      "translated_sentence": "[unfiguredBass]: unfiguredBass.html"
+    },
+    {
+      "id": 966,
+      "file": "contents-hidden.md",
+      "source_sentence": "[RNfromFB]: RNfromFB.html",
+      "translated_sentence": "[RNfromFB]: RNfromFB.html"
+    },
+    {
+      "id": 967,
+      "file": "contents-hidden.md",
+      "source_sentence": "[altSub]: alteredSubdominants.html",
+      "translated_sentence": "[altSub]: alteredSubdominants.html"
+    },
+    {
+      "id": 968,
+      "file": "contents-hidden.md",
+      "source_sentence": "[applied]: appliedChords.html",
+      "translated_sentence": "[applied]: appliedChords.html"
+    },
+    {
+      "id": 969,
+      "file": "contents-hidden.md",
+      "source_sentence": "[embellishingTones]: embellishingTones.html",
+      "translated_sentence": "[embellishingTones]: embellishingTones.html"
+    },
+    {
+      "id": 970,
+      "file": "contents-hidden.md",
+      "source_sentence": "[cadenceTypes]: cadenceTypes.html",
+      "translated_sentence": "[cadenceTypes]: cadenceTypes.html"
+    },
+    {
+      "id": 971,
+      "file": "contents-hidden.md",
+      "source_sentence": "[LSandFBsymbols]: Graphics/Handouts/LSandFBsymbols.pdf",
+      "translated_sentence": "[LSandFBsymbols]: Graphics/Handouts/LSandFBsymbols.pdf"
+    },
+    {
+      "id": 972,
+      "file": "contents-hidden.md",
+      "source_sentence": "[funcBassChart]: Graphics/Handouts/funcBassChart.pdf",
+      "translated_sentence": "[funcBassChart]: Graphics/Handouts/funcBassChart.pdf"
+    },
+    {
+      "id": 973,
+      "file": "contents-hidden.md",
+      "source_sentence": "[classicalThemes]: classicalThemes.html",
+      "translated_sentence": "[classicalThemes]: classicalThemes.html"
+    },
+    {
+      "id": 974,
+      "file": "contents-hidden.md",
+      "source_sentence": "[MinuetForm]: MinuetForm.html",
+      "translated_sentence": "[MinuetForm]: MinuetForm.html"
+    },
+    {
+      "id": 975,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Modulation]: Modulation.html",
+      "translated_sentence": "[מודולציה (Modulation)]: Modulation.html"
+    },
+    {
+      "id": 976,
+      "file": "contents-hidden.md",
+      "source_sentence": "[mixture]: modalMixture.html",
+      "translated_sentence": "[mixture]: modalMixture.html"
+    },
+    {
+      "id": 977,
+      "file": "contents-hidden.md",
+      "source_sentence": "[Schemata]: Schemata.html",
+      "translated_sentence": "[Schemata]: Schemata.html"
+    },
+    {
+      "id": 978,
+      "file": "contents-hidden.md",
+      "source_sentence": "[SonataIntro]: SonataTheory-intro.html",
+      "translated_sentence": "[SonataIntro]: SonataTheory-intro.html"
+    },
+    {
+      "id": 979,
+      "file": "contents-hidden.md",
+      "source_sentence": "[SonataExpo]: SonataTheory-exposition.html",
+      "translated_sentence": "[SonataExpo]: SonataTheory-exposition.html"
+    },
+    {
+      "id": 980,
+      "file": "contents-hidden.md",
+      "source_sentence": "[SonataRecap]: sonataRecap.html",
+      "translated_sentence": "[SonataRecap]: sonataRecap.html"
+    },
+    {
+      "id": 981,
+      "file": "contents-hidden.md",
+      "source_sentence": "[popRockForm]: popRockForm.html",
+      "translated_sentence": "[popRockForm]: popRockForm.html"
+    },
+    {
+      "id": 982,
+      "file": "contents-hidden.md",
+      "source_sentence": "[syncopation]: syncopation.html",
+      "translated_sentence": "[סינקופה (syncopation)]: syncopation.html"
+    },
+    {
+      "id": 983,
+      "file": "contents-hidden.md",
+      "source_sentence": "[sightSinging]: sightSinging.html",
+      "translated_sentence": "[sightSinging]: sightSinging.html"
+    },
+    {
+      "id": 984,
+      "file": "contents-hidden.md",
+      "source_sentence": "[addCC]: addCC.html",
+      "translated_sentence": "[addCC]: addCC.html"
+    },
+    {
+      "id": 985,
+      "file": "contents-hidden.md",
+      "source_sentence": "[linkToTwitter]: linkToTwitter.html",
+      "translated_sentence": "[linkToTwitter]: linkToTwitter.html"
+    },
+    {
+      "id": 986,
+      "file": "contents-hidden.md",
+      "source_sentence": "[poetry]: analyzingPoetry.html",
+      "translated_sentence": "[poetry]: analyzingPoetry.html"
+    },
+    {
+      "id": 987,
+      "file": "contents-hidden.md",
+      "source_sentence": "[kbTypesetting]: typesettingKBStyle.html",
+      "translated_sentence": "[kbTypesetting]: typesettingKBStyle.html"
+    },
+    {
+      "id": 988,
+      "file": "contents-hidden.md",
+      "source_sentence": "[melDict]: melodicDictationDemo.html",
+      "translated_sentence": "[melDict]: melodicDictationDemo.html"
+    },
+    {
+      "id": 989,
+      "file": "contents-hidden.md",
+      "source_sentence": "[VAT]: VAT.html",
+      "translated_sentence": "[VAT]: VAT.html"
+    },
+    {
+      "id": 990,
+      "file": "contents-hidden.md",
+      "source_sentence": "[createGraphic]: createGraphic.html",
+      "translated_sentence": "[createGraphic]: createGraphic.html"
+    },
+    {
+      "id": 991,
+      "file": "contents-hidden.md",
+      "source_sentence": "[atonal]: atonal.html",
+      "translated_sentence": "[atonal]: atonal.html"
+    },
+    {
+      "id": 992,
+      "file": "contents-hidden.md",
+      "source_sentence": "[twelveTone]: twelveTone.html",
+      "translated_sentence": "[twelveTone]: twelveTone.html"
+    },
+    {
+      "id": 993,
+      "file": "contents-hidden.md",
+      "source_sentence": "[atonalGloss]: atonalGlossary.html",
+      "translated_sentence": "[atonalGloss]: atonalGlossary.html"
+    },
+    {
+      "id": 994,
+      "file": "contents-hidden.md",
+      "source_sentence": "[clocks]: Graphics/blankClockFaces.pdf",
+      "translated_sentence": "[clocks]: Graphics/blankClockFaces.pdf"
+    },
+    {
+      "id": 995,
+      "file": "contents.md",
+      "source_sentence": "Introduction ##",
+      "translated_sentence": "## מבוא"
+    },
+    {
+      "id": 996,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to this \"textbook\" (for instructors & scholars).][introSite]",
+      "translated_sentence": "[מבוא ל\"ספר לימוד\" זה (עבור מורים וחוקרים).][introSite]"
+    },
+    {
+      "id": 997,
+      "file": "contents.md",
+      "source_sentence": "Fundamentals ##",
+      "translated_sentence": "Fundamentals ##"
+    },
+    {
+      "id": 998,
+      "file": "contents.md",
+      "source_sentence": "[Basic notation.][basicNotation]",
+      "translated_sentence": "[סיפוּן בסיסי.][basicNotation]"
+    },
+    {
+      "id": 999,
+      "file": "contents.md",
+      "source_sentence": "[Meter.][meter]",
+      "translated_sentence": "[משקל (Meter).][meter]"
+    },
+    {
+      "id": 1000,
+      "file": "contents.md",
+      "source_sentence": "[Rhythmic values.][rhythmicValues]",
+      "translated_sentence": "[ערכים קצביים (Rhythmic values).][rhythmicValues]"
+    },
+    {
+      "id": 1001,
+      "file": "contents.md",
+      "source_sentence": "[Beams and borrowed divisions.][beams]",
+      "translated_sentence": "[מקפים וחטיקות שאולות (borrowed divisions).][beams]"
+    },
+    {
+      "id": 1002,
+      "file": "contents.md",
+      "source_sentence": "[Pitches.][pitches]",
+      "translated_sentence": "[Pitches.][pitches]"
+    },
+    {
+      "id": 1003,
+      "file": "contents.md",
+      "source_sentence": "[Scales.][scales]",
+      "translated_sentence": "[סולמות.][scales]"
+    },
+    {
+      "id": 1004,
+      "file": "contents.md",
+      "source_sentence": "Voice-leading and model composition ##",
+      "translated_sentence": "הובלת קולות וכתיבת מודלים (Voice-leading and model composition) ##"
+    },
+    {
+      "id": 1005,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to strict voice-leading.][speciesIntro]",
+      "translated_sentence": "[מבוא להובלת קול קפדנית (strict voice-leading).][speciesIntro]"
+    },
+    {
+      "id": 1006,
+      "file": "contents.md",
+      "source_sentence": "Strict two-voice composition (species counterpoint)",
+      "translated_sentence": "הלחנה דו-קולית קפדנית (קונטרפונקט לפי מינים (species counterpoint))"
+    },
+    {
+      "id": 1007,
+      "file": "contents.md",
+      "source_sentence": "[Composing a cantus firmus.][CF]",
+      "translated_sentence": "[הלחנת קנטוס פירמוס (cantus firmus).][CF]"
+    },
+    {
+      "id": 1008,
+      "file": "contents.md",
+      "source_sentence": "[Composing a first-species counterpoint.][firstSpecies]",
+      "translated_sentence": "[הלחנת קונטרפונקט ממין ראשון (first-species counterpoint).][firstSpecies]"
+    },
+    {
+      "id": 1009,
+      "file": "contents.md",
+      "source_sentence": "[Composing a second-species counterpoint.][secondSpecies]",
+      "translated_sentence": "[הלחנת קונטרפונקט ממין שני (second-species counterpoint).][secondSpecies]"
+    },
+    {
+      "id": 1010,
+      "file": "contents.md",
+      "source_sentence": "[Composing a third-species counterpoint.][thirdSpecies]",
+      "translated_sentence": "[הלחנת קונטרפונקט ממין שלישי (third-species counterpoint).][thirdSpecies]"
+    },
+    {
+      "id": 1011,
+      "file": "contents.md",
+      "source_sentence": "[Composing a fourth-species counterpoint.][fourthSpecies]",
+      "translated_sentence": "[כתיבת קונטרפונקט מין רביעי (fourth-species counterpoint).][fourthSpecies]"
+    },
+    {
+      "id": 1012,
+      "file": "contents.md",
+      "source_sentence": "Strict four-voice composition",
+      "translated_sentence": "כתיבה פוליפונית ארבע-קולית (Strict four-voice composition)"
+    },
+    {
+      "id": 1013,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to thoroughbass.][thoroughbass]",
+      "translated_sentence": "[מבוא לבס ממוספר (thoroughbass).][thoroughbass]"
+    },
+    {
+      "id": 1014,
+      "file": "contents.md",
+      "source_sentence": "[A brief history of *basso continuo*.](bassoContinuo-history.html)",
+      "translated_sentence": "[היסטוריה קצרה של *באסו קונטינואו* (*basso continuo*).](bassoContinuo-history.html)"
+    },
+    {
+      "id": 1015,
+      "file": "contents.md",
+      "source_sentence": "[Generating Roman numerals from a figured bass line.][RNfromFB]",
+      "translated_sentence": "[יצירת ספרות רומאיות מקו باس ממוספר (Generating Roman numerals from a figured bass line).][RNfromFB]"
+    },
+    {
+      "id": 1016,
+      "file": "contents.md",
+      "source_sentence": "[Composing in *basso-continuo* style.](bassoContinuo.html)",
+      "translated_sentence": "[הלחנה בסגנון באס-קונטינואו (*basso-continuo*).](bassoContinuo.html)"
+    },
+    {
+      "id": 1017,
+      "file": "contents.md",
+      "source_sentence": "[Style and tendency.](tendency.html)",
+      "translated_sentence": "[סגנון ונטייה.](tendency.html)"
+    },
+    {
+      "id": 1018,
+      "file": "contents.md",
+      "source_sentence": "[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)",
+      "translated_sentence": "[צלילים נוטים (Tendency tones) ודיסוננסים הרמוניים פונקציונליים (functional harmonic dissonances).](tendencyTonesFunctionalDissonances.html)"
+    },
+    {
+      "id": 1019,
+      "file": "contents.md",
+      "source_sentence": "[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)",
+      "translated_sentence": "[מימוש בסאס קอนטינואו (basso continuo) בסגנון קפדני (וידאו).](TBDemo.html)"
+    },
+    {
+      "id": 1020,
+      "file": "contents.md",
+      "source_sentence": "[Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)",
+      "translated_sentence": "[הובלת קול בסגנון מקלדת מלודי (Melodic keyboard style voice-leading).](melodicKeyboardStyle.html)"
+    },
+    {
+      "id": 1021,
+      "file": "contents.md",
+      "source_sentence": "[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)",
+      "translated_sentence": "[סכמות הולכת קול בסגנון מקלדת מלודיות (Melodic keyboard-style voice-leading schemata).](KBVLschemata.html)"
+    },
+    {
+      "id": 1022,
+      "file": "contents.md",
+      "source_sentence": "[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)",
+      "translated_sentence": "[מימוש קו בס ממוספר בסגנון מקלדת מלודי (סרטון).](melodicKB.html)"
+    },
+    {
+      "id": 1023,
+      "file": "contents.md",
+      "source_sentence": "[Realizing an unfigured bass line (video).][unfiguredBass]",
+      "translated_sentence": "[מימוש קו בס לא-ממוספר (סרטון).][unfiguredBass]"
+    },
+    {
+      "id": 1024,
+      "file": "contents.md",
+      "source_sentence": "[Embellishing tones.][embellishingTones]",
+      "translated_sentence": "[צלילים מקשטים (Embellishing tones).][embellishingTones]"
+    },
+    {
+      "id": 1025,
+      "file": "contents.md",
+      "source_sentence": "Harmony ##",
+      "translated_sentence": "הרמוניה (Harmony) ##"
     }
   ]
 }

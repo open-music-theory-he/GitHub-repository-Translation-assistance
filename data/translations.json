@@ -6234,6 +6234,30 @@
       "file": "contents.md",
       "source_sentence": "**Thematic Structure in the Classical Style**",
       "translated_sentence": "**מבנה תემაيתי בסגנון הקלאסי (Thematic Structure in the Classical Style)**"
+    },
+    {
+      "id": 1040,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)",
+      "translated_sentence": "[מבוא למבנה תמטי בסגנון הקלאסי (Introduction to Thematic Structure in the Classical Style).](thematicStructureInTheClassicalStyle.html)"
+    },
+    {
+      "id": 1041,
+      "file": "contents.md",
+      "source_sentence": "[The sentence.](sentence.html)",
+      "translated_sentence": "[המשפט.](sentence.html)"
+    },
+    {
+      "id": 1042,
+      "file": "contents.md",
+      "source_sentence": "[The period.](period.html)",
+      "translated_sentence": "[התקופה.](period.html)"
+    },
+    {
+      "id": 1043,
+      "file": "contents.md",
+      "source_sentence": "[Hybrid themes.](hybridThemes.html)",
+      "translated_sentence": "[נושאים היברידיים (Hybrid themes).](hybridThemes.html)"
     }
   ]
 }

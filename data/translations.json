@@ -2892,6 +2892,120 @@
       "file": "appliedChords.md",
       "source_sentence": "Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degress from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances, as well as tendency tones like *ti*, relative to the key borrowed from, not the home key.",
       "translated_sentence": "מאחר שטוניקיזציה (tonicization) שואלת באופן זמני אקורד מסולם אחר, ומאחר שאקורד זה מורכב מדרגות סולם (scale degrees) של אותו סולם אחר, אקורד יישומי (applied chord) כרוך ב*שאילת נטיית דרגות הסולם (scale-degree tendency) מאותו סולם אחר*. במילים אחרות, באקורד יישומי (applied chord), יש לשפוט קונסוננסים פונקציונליים (functional consonances) (טריגרים ושותפים (triggers and associates)) ודיסוננסים, כמו גם צלילי נטייה (tendency tones) כמו *טי*, ביחס לסולם שממנו הושאל האקורד, ולא ביחס לסולם הבית (home key)."
+    },
+    {
+      "id": 483,
+      "file": "appliedChords.md",
+      "source_sentence": "As a shortcut, that usually means the seventh of a seventh chord or the fifth of a diminished chord are functional dissonances. (In a half- or fully-diminished-seventh chord, both the fifth and seventh tend to be functional dissonances.) Also as a shortcut, the chromatically raised tone tends to be the leading-tone of the tonicized key.",
+      "translated_sentence": "כקיצור דרך, משמעות הדבר בדרך כלל היא שהספטימה של אקורד ספטימה (seventh chord) או הקווינטה של אקורד מוקטן (diminished chord) הם דיסוננסים פונקציונליים (functional dissonances). (באקורד חצי-מוקטן או מוקטן מלא (half- or fully-diminished-seventh chord), הן הקווינטה והן הספטימה נוטות להיות דיסוננסים פונקציונליים (functional dissonances).) כמו כן, כקיצור דרך, הצליל המוגבה כרומטית (chromatically raised tone) נוטה להיות הטון המוביל (leading-tone) של הסולם שעבר טוניקיזציה (tonicized key)."
+    },
+    {
+      "id": 484,
+      "file": "appliedChords.md",
+      "source_sentence": "In functional bass, use the functional label before the slash and the Roman numeral after the slash to determine functional dissonances more reliably. Consider a **D5/V** (altered **S2**) chord in G major. In the home key, the chord contains *re* (A), *fi* (C-sharp), *la* (E), and *do* (G). But those pitches are *sol*, *ti*, *re*, and *fa* in the key of V (D major). Thus, the C-sharp should be treated like a leading-tone, and the G (*fa* in D) like a functional dissonance of dominant function.",
+      "translated_sentence": "בבס פונקציונלי (functional bass), השתמשו בתווית הפונקציונלית שלפני הלוכסן ובספרה הרומית שלאחר הלוכסן כדי לקבוע דיסוננסים פונקציונליים (functional dissonances) באופן אמין יותר. נתבונן באקורד **D5/V** (שעבר אלטרציה (altered) **S2**) ב-G מייג'ור. בסולם הבית (home key), האקורד מכיל את *רה* (A), *פי* (C-דיאז), *לה* (E), ו*דו* (G). אך צלילים אלו הם *סול*, *טי*, *רה*, ו*פה* בסולם של V (D מייג'ור). לכן, יש להתייחס אל ה-C-דיאז כאל טון מוביל (leading-tone), ואל ה-G (*פה* ב-D) כאל דיסוננס פונקציונלי (functional dissonance) של פונקציית דומיננטה (dominant function)."
+    },
+    {
+      "id": 485,
+      "file": "appliedChords.md",
+      "source_sentence": "***trinket example, resolving functional dissonances in applied chords***",
+      "translated_sentence": "***דוגמת Trinket, פתרון דיסוננסים פונקציונליים (functional dissonances) באקורדים שניוניים (applied chords)***"
+    },
+    {
+      "id": 486,
+      "file": "appliedChords.md",
+      "source_sentence": "[D7ofV]: Graphics/D7ofV.png",
+      "translated_sentence": "[D7ofV]: Graphics/D7ofV.png"
+    },
+    {
+      "id": 487,
+      "file": "appliedChords.md",
+      "source_sentence": "[alteredSubdominants]: alteredSubdominants.html",
+      "translated_sentence": "[alteredSubdominants]: alteredSubdominants.html"
+    },
+    {
+      "id": 488,
+      "file": "appliedChords.md",
+      "source_sentence": "[appliedBassLine]: Graphics/appliedChordBassLine.png",
+      "translated_sentence": "[appliedBassLine]: Graphics/appliedChordBassLine.png"
+    },
+    {
+      "id": 489,
+      "file": "atonal.md",
+      "source_sentence": "Following are a few tips, terms, and common structures that will be helpful for analyzing early twentieth-century atonal music, such as that composed by members of the Second Viennese School (Schönberg, Berg, Webern).",
+      "translated_sentence": "להלן מספר טיפים, מונחים ומבנים נפוצים אשר יסייעו בניתוח מוזיקה אטונאלית (atonal music) של ראשית המאה העשרים, כדוגמת זו שהולחנה על ידי חברי האסכולה הווינאית השנייה (Second Viennese School) (שנברג, ברג, וברן)."
+    },
+    {
+      "id": 490,
+      "file": "atonal.md",
+      "source_sentence": "Intervals #",
+      "translated_sentence": "מרווחים (Intervals) #"
+    },
+    {
+      "id": 491,
+      "file": "atonal.md",
+      "source_sentence": "Always use *chromatic intervals* rather than diatonic intervals when analyzing and comparing pitch materials. (See [Intervals and dyads][intervals] resource.)",
+      "translated_sentence": "יש להשתמש תמיד ב*מרווחים כרומטיים (chromatic intervals)* ולא במרווחים דיאטוניים (diatonic intervals) בעת ניתוח והשוואה של חומרי גובה (pitch materials). (ראו מקור [מרווחים ודו-צלילים (Intervals and dyads)][intervals].)"
+    },
+    {
+      "id": 492,
+      "file": "atonal.md",
+      "source_sentence": "The 12-pitch-class cycle — clock face #",
+      "translated_sentence": "מחזור 12 מחלקות גובה הצליל (12-pitch-class cycle) — לוח השעון (clock face) #"
+    },
+    {
+      "id": 493,
+      "file": "atonal.md",
+      "source_sentence": "Atonal composers often begin with highly organized set of pitch classes, and then deploy the pitch classes in a wide variety of registers. Thus, it is helpful to eliminate register as a factor in order to find which motives, chords, and fragments belong in the same category. To do so, take a clock face with the twelve pitch-classes (spelling does not matter)",
+      "translated_sentence": "מלחינים אטונאליים (atonal) מתחילים לעיתים קרובות עם קבוצה מאורגנת ביותר של מחלקות גובה צליל (pitch classes), ואז פורסים את מחלקות גובה הצליל (pitch classes) במגוון רחב של רגיסטרים (registers). לכן, מועיל לנטרל את הרגיסטר (register) כגורם כדי למצוא אילו מוטיבים (motives), אקורדים (chords) ופרגמנטים (fragments) שייכים לאותה קטגוריה. כדי לעשות זאת, קחו לוח שעון (clock face) עם שתים-עשרה מחלקות גובה הצליל (pitch classes) (הכתיב אינו משנה)"
+    },
+    {
+      "id": 494,
+      "file": "atonal.md",
+      "source_sentence": "![][clock]",
+      "translated_sentence": "![][clock]"
+    },
+    {
+      "id": 495,
+      "file": "atonal.md",
+      "source_sentence": "and mark all the pitch classes involved in the fragment. For example, here is a C-major scale:",
+      "translated_sentence": "וסמנו את כל מחלקות גובה הצליל (pitch classes) המעורבות בקטע. לדוגמה, להלן סולם C מייג'ור:"
+    },
+    {
+      "id": 496,
+      "file": "atonal.md",
+      "source_sentence": "![][Cmajor]",
+      "translated_sentence": "![][Cmajor]"
+    },
+    {
+      "id": 497,
+      "file": "atonal.md",
+      "source_sentence": "This will make it easy to find the interval patterns in a set of pitch classes, no matter how they are distributed in the various registers and instruments on the score.",
+      "translated_sentence": "הדבר יקל על מציאת תבניות המרווחים (interval patterns) בקבוצה של מחלקות גובה (pitch classes), ללא קשר לאופן שבו הן מפוזרות ברגיסטרים (registers) ובכלי הנגינה השונים בפרטיטורה (score)."
+    },
+    {
+      "id": 498,
+      "file": "atonal.md",
+      "source_sentence": "Common pitch-class collections #",
+      "translated_sentence": "אוספי מחלקות גבהים נפוצים (Common pitch-class collections) #"
+    },
+    {
+      "id": 499,
+      "file": "atonal.md",
+      "source_sentence": "**Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).",
+      "translated_sentence": "**דיאטוני (Diatonic)** – האוספים הרגילים של מז'ור ומינור *טבעי* (*natural*-minor) (אוסף הקלידים הלבנים וכל הטרנספוזיציות (transpositions) שלו)."
+    },
+    {
+      "id": 500,
+      "file": "atonal.md",
+      "source_sentence": "![][major]",
+      "translated_sentence": "![][major]"
+    },
+    {
+      "id": 501,
+      "file": "atonal.md",
+      "source_sentence": "![][minor]",
+      "translated_sentence": "![][minor]"
     }
   ]
 }

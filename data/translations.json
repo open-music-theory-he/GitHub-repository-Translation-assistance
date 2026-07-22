@@ -3126,6 +3126,756 @@
       "file": "atonal.md",
       "source_sentence": "**Dual-diatonic** – An eight-pitch-class scale formed by the union of two diatonic collections separated by fifth—for example C major and G major: C – D – E – F – F# – G – A – B. It contains two diatonic scales, two Z-cells, and two Y-cells. It was used primarily by Bartók.",
       "translated_sentence": "**דו-דיאטוני (Dual-diatonic)** – סולם בן שמונה מחלקות גובה (Eight-pitch-class scale) הנוצר מאיחוד של שני אוספים דיאטוניים (Diatonic collections) המופרדים בקווינטה (Fifth)—לדוגמה C מייג'ור ו-G מייג'ור: C – D – E – F – F# – G – A – B. הוא מכיל שני סולמות דיאטוניים, שני תאי Z‏ (Z-cells), ושני תאי Y‏ (Y-cells). נעשה בו שימוש בעיקר על ידי בארטוק."
+    },
+    {
+      "id": 522,
+      "file": "atonal.md",
+      "source_sentence": "![][dualDiatonicFaFi]",
+      "translated_sentence": "![][dualDiatonicFaFi]"
+    },
+    {
+      "id": 523,
+      "file": "atonal.md",
+      "source_sentence": "![][dualDiatonicTeTi]",
+      "translated_sentence": "![][dualDiatonicTeTi]"
+    },
+    {
+      "id": 524,
+      "file": "atonal.md",
+      "source_sentence": "Common *operations* #",
+      "translated_sentence": "*פעולות* נפוצות (Common *operations*) #"
+    },
+    {
+      "id": 525,
+      "file": "atonal.md",
+      "source_sentence": "Transposition ###",
+      "translated_sentence": "טרנספוזיציה (Transposition)"
+    },
+    {
+      "id": 526,
+      "file": "atonal.md",
+      "source_sentence": "Pitch transposition involves moving every pitch in a collection up or down by a specified interval.",
+      "translated_sentence": "טרנספוזיציית גבהים (Pitch transposition) כרוכה בהעלאה או בהורדה של כל גובה צליל (pitch) באוסף כלשהו לפי מרווח (interval) מוגדר."
+    },
+    {
+      "id": 527,
+      "file": "atonal.md",
+      "source_sentence": "Pitch-class transposition does the same thing. However, because of the cyclical nature of pitch classes, PC-transposition also corresponds to *rotation* of a collection of pitch classes around a clock face.",
+      "translated_sentence": "טרנספוזיציית מחלקות צלילים (Pitch-class transposition) עושה את אותו הדבר. אולם, בשל האופי המחزורי של מחלקות צלילים (pitch classes), טרנספוזיציית מחלקות צלילים (PC-transposition) מתאימה גם ל*סיבוב* (rotation) של אוסף מחלקות צלילים סביב פני שעון."
+    },
+    {
+      "id": 528,
+      "file": "atonal.md",
+      "source_sentence": "Transposition operations can be denoted by a capital \"T\" followed by a subscript indicating the number of semitones of the transposition. For pitch-class transpositions, use ordered pitch-class intervals (numbers 0–11). Transposing a collection or fragment up a whole step is labeled **T<sub>2</sub>**; up a tritone is **T<sub>6</sub>**, down a semitone is **T<sub>11</sub>** (mod12(–1) = 11).",
+      "translated_sentence": "פעולות טרנספוזיציה (Transposition operations) ניתנות לסימון על ידי האות הגדולה \"T\" שאחריה כתב תחתית (subscript) המציין את מספר חצי הטון של הטרנספוזיציה. עבור טרנספוזיציות של מחלקות גובה צליל (pitch-class transpositions), יש להשתמש במרווחי מחלקות גובה צליל סדורים (ordered pitch-class intervals) (מספרים 0–11). טרנספוזיציה של אוסף או מקטע כלפי מעלה בטון שלם מסומנת **T<sub>2</sub>**; כלפי מעלה בטריטון (tritone) מסומנת **T<sub>6</sub>**, וכלפי מטה בחצי טון מסומנת **T<sub>11</sub>** (mod12(–1) = 11)."
+    },
+    {
+      "id": 529,
+      "file": "atonal.md",
+      "source_sentence": "Inversion ###",
+      "translated_sentence": "היפוך (Inversion) ###"
+    },
+    {
+      "id": 530,
+      "file": "atonal.md",
+      "source_sentence": "*Melodic inversion* occurs when all ascending melodic intervals in a melody are replaced with descending intervals of the same size, and all descending replaced with ascending of the same size. The following melodies are inversion of each other.",
+      "translated_sentence": "*היפוך מלודי (Melodic inversion)* מתרחש כאשר כל המרווחים המלודיים העולים במלודופיה מוחלפים במרווחים יורדים באותו הגודל, וכל היורדים מוחלפים בעולים באותו הגודל. המלודיות הבאות הן היפוך זו של זו."
+    },
+    {
+      "id": 531,
+      "file": "atonal.md",
+      "source_sentence": "![][melodyUp]",
+      "translated_sentence": "![][melodyUp]"
+    },
+    {
+      "id": 532,
+      "file": "atonal.md",
+      "source_sentence": "![][melodyDown]",
+      "translated_sentence": "![][melodyDown]"
+    },
+    {
+      "id": 533,
+      "file": "atonal.md",
+      "source_sentence": "*Pitch inversion* occurs when all pitches are inverted, or flipped, around an axis of symmetry in pitch space (in other words, the axis of symmetry is a pitch). In the above melodic example, the axis is G4. Since the first pitch is G4, it remains unchanged. The next pitch (A4) is two semitones above G4; it is replaced with F4, two semitones below G4. B4 (i4 above G4) is replaced by E-flat4 (i4 below G4). And so on.",
+      "translated_sentence": "*היפוך גובה הצליל (Pitch inversion)* מתרחש כאשר כל גובהי הצלילים נהפכים, או מתהפכים, סביב ציר סימטריה במרחב גובה הצליל (במילים אחרות, ציר הסימטריה הוא גובה צליל). בדוגמה המלודית לעיל, הציר הוא G4. מכיוון שגובה הצליל הראשון הוא G4, הוא נותר ללא שינוי. גובה הצליל הבא (A4) נמצא שני חצאי טונים מעל G4; הוא מוחלף ב-F4, שני חצאי טונים מתחת ל-G4. הצליל B4 (טרצה קטנה מעל G4) מוחלף ב-E-flat4 (טרצה קטנה מתחת ל-G4). וכן הלאה."
+    },
+    {
+      "id": 534,
+      "file": "atonal.md",
+      "source_sentence": "Pitch inversion can apply to a melody, but also to a simultaneity, or to a collection that a passage is based on.",
+      "translated_sentence": "היפוך גובה הצליל (Pitch inversion) יכול חול על מלודיה, אך גם על בו-זמניות (simultaneity), או על אוסף (collection) שקטע מבוסס עליו."
+    },
+    {
+      "id": 535,
+      "file": "atonal.md",
+      "source_sentence": "In general, when two melodies, simultaneities, or collections can be related by pitch inversion, they are considered to be equivalent in some sense (but, obviously, not identical).",
+      "translated_sentence": "באופן כללי, כאשר שתי מנגינות, הרכבים בו-זמניים (simultaneities) או אוספים יכולים להיות קשורים באמצעות היפוך גבהים (pitch inversion), הם נחשבים לשקולים במובן מסוים (אך, כמובן, אינם זהים)."
+    },
+    {
+      "id": 536,
+      "file": "atonal.md",
+      "source_sentence": "*Pitch-class inversion* occurs when all pitch classes of a collection are inverted, or flipped, around an axis of symmetry in pitch-class space (in other words, the axis of symmetry is a pitch class). Since pitch-class space is cyclical (once you go up 12 semitones, you are back where you started), the axis of symmetry is comprised of *two* pitch classes a tritone apart. This is most clearly seen on a clock face.",
+      "translated_sentence": "היפוך מחלקות גובה (Pitch-class inversion) מתרחש כאשר כל מחלקות הגובה של אוסף מנוגדות, או נהפכות, סביב ציר סימטריה במרחב מחלקות הגובה (במילים אחרות, ציר הסימטריה הוא מחלקת גובה). מכיוון שמרחב מחלקות הגובה הוא מחزרי (ברגע שאתה עולה 12 חצאי טונים, אתה חוזר למקום שממנו התחלת), ציר הסימטריה מורכב משתי מחלקות גובה המרוחקות טריטון זו מזו. הדבר ניכר בצורה הברורה ביותר על גבי לוח שעון."
+    },
+    {
+      "id": 537,
+      "file": "atonal.md",
+      "source_sentence": "![][tetra]",
+      "translated_sentence": "![][tetra]"
+    },
+    {
+      "id": 538,
+      "file": "atonal.md",
+      "source_sentence": "When the above set is inverted around the axis C/F-sharp, it becomes the following set:",
+      "translated_sentence": "כאשר קבוצה זו הופכת סביב הציר C/F♯, היא הופכת לקבוצה הבאה:"
+    },
+    {
+      "id": 539,
+      "file": "atonal.md",
+      "source_sentence": "![][tetraInverted]",
+      "translated_sentence": "![][tetraInverted]"
+    },
+    {
+      "id": 540,
+      "file": "atonal.md",
+      "source_sentence": "When pitch classes are labeled by number (C = 0, C-sharp = 1, . . . B = 11), pitch class inversion can be calculated by determining a *sum* and finding the difference between that sum and each pitch class in the original collection. The difference is the pitch class for the new collection.",
+      "translated_sentence": "כאשר מחלקות גובה המնה (pitch classes) מסומנות במספרים (C = 0, C-דיאז = 1, . . . B = 11), ניתן לחשב היפוך מחלקת גובה המנה (pitch class inversion) על ידי קביעת *סכום* ומציאת ההפרש בין אותו סכום לבין כל מחלקת גובה המנה באוסף המקורי. ההפרש הוא מחלקת גובה המנה (pitch class) של האוסף החדש."
+    },
+    {
+      "id": 541,
+      "file": "atonal.md",
+      "source_sentence": "In the above example, the set {C, D, E, F} is {0, 2, 4, 5}. Its inversion {G, G-sharp, B-flat, C} is {7, 8, 10, 0}. When inverting the original around the C/F-sharp axis, C becomes C (0 becomes 0), D–B-flat (2–10), E–G-sharp (4–8), and F–G (5–7). All of these pitch-class pairs add to 0 or 12, which are equivalent modulo12. Thus the inversion sum is 0, and the inversion is labeled **I<sub>0</sub>**.",
+      "translated_sentence": "ב דוגמה לעיל, קבוצת הצלילים {C, D, E, F} היא {0, 2, 4, 5}. ההיפוך (inversion) שלה {G, G-sharp, B-flat, C} הוא {7, 8, 10, 0}. בעת היפוך המקור סביב ציר ה-C/F-sharp, ה-C הופך ל-C (ה-0 הופך ל-0), ה-D ל-B-flat (2–10), ה-E ל-G-sharp (4–8), וה-F ל-G (5–7). כל זוגות מחלקות הגובה (pitch-class pairs) הללו מסתכמים ב-0 או ב-12, המקבילים זה לזה מודולו 12. לכן סכום ההיפוך (inversion sum) הוא 0, וההיפוך מסומן כ-**I<sub>0</sub>**."
+    },
+    {
+      "id": 542,
+      "file": "atonal.md",
+      "source_sentence": "Inverting about the C-sharp/G axis is **I<sub>2</sub>**. Inverting about the D/G-sharp axis is **I<sub>4</sub>**. Inverting about the E-flat/A axis is **I<sub>6</sub>**. Inverting about the E/B-flat axis is **I<sub>8</sub>**. Inverting about the F/B axis is **I<sub>10</sub>**. Odd number sums will place the axis between pitch classes (**I<sub>1</sub>** between C/C-sharp and F-sharp/G, fox example).",
+      "translated_sentence": "היפוך סביב ציר ה-C-דיאז/G הוא **I<sub>2</sub>**. היפוך סביב ציר ה-D/G-דיאז הוא **I<sub>4</sub>**. היפוך סביב ציר ה-E-במול/A הוא **I<sub>6</sub>**. היפוך סביב ציר ה-E/B-במול הוא **I<sub>8</sub>**. היפוך סביב ציר ה-F/B הוא **I<sub>10</sub>**. סכומים מספר אי-זוגي ימקמו את הציר בין מחלקות גובה צליל (pitch classes) (לדוגמה, **I<sub>1</sub>** בין C/C-דיאז ל-F-דיאז/G)."
+    },
+    {
+      "id": 543,
+      "file": "atonal.md",
+      "source_sentence": "Some atonal composers like to make use of sets that invert and/or transpose onto themselves. Sets that can be inverted around an axis of symmetry without changing any pitch classes are called *inversionally symmetrical*. Sets that can be transposed a certain interval without changing any of its pitch classes are called *transpositionally symmetrical* or *rotationally symmetrical*. The Z-cell and French-Sixth collections are sets that are both rotationally and inversionally symmetrical.",
+      "translated_sentence": "חלק מהמלחינים האתונליים אובים להשתמש בקבוצות (sets) שעוברות היפוך ו/או טרנספוזיציה אל עצמן. קבוצות הניתנות להפוך סביב ציר סימטריה מבלי לשנות אף מחלקת גובה (pitch class) נקראות *סימטריות בהיפוך* (inversionally symmetrical). קבוצות הניתנות לטרנספוזיציה במרווח מסוים מבלי לשנות אף אחת ממחלקות הגובה שלהן נקראות *סימטריות בטרנספוזיציה* (transpositionally symmetrical) או *סימטריות בסיבוב* (rotationally symmetrical). תאי Z (Z-cell) ואוספי השישי הצרפתי (French-Sixth collections) הם קבוצות שהן סימטריות הן בסיבוב והן בהיפוך."
+    },
+    {
+      "id": 544,
+      "file": "atonal.md",
+      "source_sentence": "[intervals]: Intervals.html",
+      "translated_sentence": "[intervals]: Intervals.html"
+    },
+    {
+      "id": 545,
+      "file": "atonal.md",
+      "source_sentence": "[clock]: Graphics/postTonal/clockFace.png",
+      "translated_sentence": "[clock]: Graphics/postTonal/clockFace.png"
+    },
+    {
+      "id": 546,
+      "file": "atonal.md",
+      "source_sentence": "[Cmajor]: Graphics/postTonal/clockFace-diatonic.png",
+      "translated_sentence": "[Cmajor]: Graphics/postTonal/clockFace-diatonic.png"
+    },
+    {
+      "id": 547,
+      "file": "atonal.md",
+      "source_sentence": "[acoustic]: Graphics/postTonal/acoustic.png",
+      "translated_sentence": "[acoustic]: Graphics/postTonal/acoustic.png"
+    },
+    {
+      "id": 548,
+      "file": "atonal.md",
+      "source_sentence": "[dualDiatonicFaFi]: Graphics/postTonal/dualDiatonicFaFi.png",
+      "translated_sentence": "[dualDiatonicFaFi]: Graphics/postTonal/dualDiatonicFaFi.png"
+    },
+    {
+      "id": 549,
+      "file": "atonal.md",
+      "source_sentence": "[dualDiatonicTeTi]: Graphics/postTonal/dualDiatonicTeTi.png",
+      "translated_sentence": "[dualDiatonicTeTi]: Graphics/postTonal/dualDiatonicTeTi.png"
+    },
+    {
+      "id": 550,
+      "file": "atonal.md",
+      "source_sentence": "[frenchSixth]: Graphics/postTonal/frenchSixth.png",
+      "translated_sentence": "[frenchSixth]: Graphics/postTonal/frenchSixth.png"
+    },
+    {
+      "id": 551,
+      "file": "atonal.md",
+      "source_sentence": "[hexatonic]: Graphics/postTonal/hexatonic.png",
+      "translated_sentence": "[hexatonic]: Graphics/postTonal/hexatonic.png"
+    },
+    {
+      "id": 552,
+      "file": "atonal.md",
+      "source_sentence": "[major]: Graphics/postTonal/major.png",
+      "translated_sentence": "[major]: Graphics/postTonal/major.png"
+    },
+    {
+      "id": 553,
+      "file": "atonal.md",
+      "source_sentence": "[minor]: Graphics/postTonal/minor.png",
+      "translated_sentence": "[minor]: Graphics/postTonal/minor.png"
+    },
+    {
+      "id": 554,
+      "file": "atonal.md",
+      "source_sentence": "[octatonic]: Graphics/postTonal/octatonic.png",
+      "translated_sentence": "[octatonic]: Graphics/postTonal/octatonic.png"
+    },
+    {
+      "id": 555,
+      "file": "atonal.md",
+      "source_sentence": "[pentatonicBlack]: Graphics/postTonal/pentatonicBlack.png",
+      "translated_sentence": "[pentatonicBlack]: Graphics/postTonal/pentatonicBlack.png"
+    },
+    {
+      "id": 556,
+      "file": "atonal.md",
+      "source_sentence": "[pentatonicWhite]: Graphics/postTonal/pentatonicWhite.png",
+      "translated_sentence": "[pentatonicWhite]: Graphics/postTonal/pentatonicWhite.png"
+    },
+    {
+      "id": 557,
+      "file": "atonal.md",
+      "source_sentence": "[wholeTone]: Graphics/postTonal/wholeTone.png",
+      "translated_sentence": "[wholeTone]: Graphics/postTonal/wholeTone.png"
+    },
+    {
+      "id": 558,
+      "file": "atonal.md",
+      "source_sentence": "[xCell]: Graphics/postTonal/xCell.png",
+      "translated_sentence": "[xCell]: Graphics/postTonal/xCell.png"
+    },
+    {
+      "id": 559,
+      "file": "atonal.md",
+      "source_sentence": "[yCell]: Graphics/postTonal/yCell.png",
+      "translated_sentence": "[yCell]: Graphics/postTonal/yCell.png"
+    },
+    {
+      "id": 560,
+      "file": "atonal.md",
+      "source_sentence": "[zCell]: Graphics/postTonal/zCell.png",
+      "translated_sentence": "[zCell]: Graphics/postTonal/zCell.png"
+    },
+    {
+      "id": 561,
+      "file": "atonal.md",
+      "source_sentence": "[melodyUp]: Graphics/postTonal/melodyUp.png",
+      "translated_sentence": "[melodyUp]: Graphics/postTonal/melodyUp.png"
+    },
+    {
+      "id": 562,
+      "file": "atonal.md",
+      "source_sentence": "[melodyDown]: Graphics/postTonal/melodyDown.png",
+      "translated_sentence": "[melodyDown]: Graphics/postTonal/melodyDown.png"
+    },
+    {
+      "id": 563,
+      "file": "atonal.md",
+      "source_sentence": "[tetra]: Graphics/postTonal/clockFace-tetraChord.png",
+      "translated_sentence": "[tetra]: Graphics/postTonal/clockFace-tetraChord.png"
+    },
+    {
+      "id": 564,
+      "file": "atonal.md",
+      "source_sentence": "[tetraInverted]: Graphics/postTonal/clockFace-tetraChordInverted.png",
+      "translated_sentence": "[tetraInverted]: Graphics/postTonal/clockFace-tetraChordInverted.png"
+    },
+    {
+      "id": 565,
+      "file": "atonalGlossary.md",
+      "source_sentence": "*this glossary is far from complete, in the very early stages of being built*",
+      "translated_sentence": "*מילון מונחים זה רוקם עור וגידים ורחוק מלהיות שלם*"
+    },
+    {
+      "id": 566,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**collection** – The general term for treating multiple pitch classes as a single entity. Sets, set classes, scales, simultaneities, chords, and intervals are all specific kinds of collections.",
+      "translated_sentence": "**קולקציה (collection)** – המונח הכללי להתייחסות אל מספר מחלקות גובה צליל (pitch classes) כאל ישות אחת. קבוצות (sets), מחלקות קבוצות (set classes), סולמות, סימולטניות (simultaneities), אקורדים ומרווחים הם כולם סוגים ספציפיים של קולקציות."
+    },
+    {
+      "id": 567,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**interval class** – The number of semitones between two *pitch classes*, counted as the shortest distance between them on a clock face. For instance, C and E make an interval class of 4. This is always the case, no matter which *pitch* is higher or lower, because interval class is concerned only with *pitch classes*. Interval classes are labeled **ic1**, **ic2**, . . . **ic6**. (There are none smaller than **ic1** or larger than **ic6**.)",
+      "translated_sentence": "**מחלקת מרווח (interval class)** – מספר חצאי הטונים בין שתי *מחלקות גובה צליל (pitch classes)*, המחושב כמרחק הקצר ביותר ביניהן על גבי לוח שעון. לדוגמה, C ו-E יוצרות מחלקת מרווח של 4. זהו המצב תמיד, ללא קשר לאיזה *גובה צליל (pitch)* גבוה או נמוך יותר, משום שמחלקת מרווח עוסקת אך ורק ב*מחלקות גובה צליל (pitch classes)*. מחלקות מרווח מסומנות כ-**ic1**, **ic2**, . . . **ic6**. (אין מחלקות קטנות מ-**ic1** או גדולות מ-**ic6**.)"
+    },
+    {
+      "id": 568,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**interval vector** – The interval vector of a set class describes all of the interval classes present in a set class. There are six interval classes (1–6). The interval vector gives the number of each of those intervals in order from 1 to 6, within angle brackets. An interval vector of **<101102>** means that the set has one ic1 (semitone/major seventh), no ic2s, one ic3 (minor third/major sixth), one ic4 (major third/minor sixth), no ic5s (perfect fourths), and two ic6s (tritones).",
+      "translated_sentence": "**וקטור מרווחים (interval vector)** – וקטור המרווחים (interval vector) של מחלקת קבוצה (set class) מתאר את כל מחלקות המרווחים (interval classes) הקיימות במחלקת הקבוצה. ישנן שש מחלקות מרווחים (1–6). וקטור המרווחים (interval vector) מציג את מספר המופעים של כל אחד מן המרווחים הללו בסדר מ-1 עד 6, בתוך סוגרי זווית. וקטור מרווחים (interval vector) של **<101102>** פירושו שלקבוצה יש ic1 אחד (חצי טון / ספֶּונֶה מייג'ור), אין ic2,‏ ic3 אחד (טרצה קטנה / סקסטה מייג'ור), ic4 אחד (טרצה גדולה / סקסטה קטנה), אין ic5 (קוורטות זכות), ושני ic6 (טריטונים)."
+    },
+    {
+      "id": 569,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**ordered pitch interval** – The number of semitones from one pitch (not pitch class) to the next. Ascending intervals are denoted by positive numbers, descending intervals by negative numbers. Examples: B4–G5 would have an ordered pitch interval of 8 (eight ascending semitones). B3–G5 would be 20. B4–G4 would be –4.",
+      "translated_sentence": "**מרווח גובה צליל מנוסخ** (ordered pitch interval) – מספר חצאי הטון מצליל אחד (שאינו מחלקת גובה צליל) אל הצליל הבא. מרווחים עולים מסומנים במספרים חיוביים, ומרווחים יורדים מסומנים במספרים שליליים. דוגמאות: ל־B4–G5 יהיה מרווח גובה צליל מנוסخ (ordered pitch interval) של 8 (שמונה חצאי טון כלפי מעלה). ל־B3–G5 יהיה 20. ל־B4–G4 יהיה 4–."
+    },
+    {
+      "id": 570,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**ordered pitch-class interval** – The number of *ascending* semitones from one pitch-class to another. G–B is four semitones, for an ordered PC interval of **4**. B–G is eight ascending semitones, for an ordered PC interval of **8**.",
+      "translated_sentence": "**מרווח מחלקת צבה מסודר (ordered pitch-class interval)** – מספר חצאי הטון ה*עולים* ממחלקת צבה (pitch-class) אחת לאחרת. G–B הם ארבעה חצאי טון, עבור מרווח מחלקת צבה מסודר (ordered pitch-class interval) שערכו **4**. B–G הם שמונה חצאי טון עולים, עבור מרווח מחלקת צבה מסודר (ordered pitch-class interval) שערכו **8**."
+    },
+    {
+      "id": 571,
+      "file": "atonalGlossary.md",
+      "source_sentence": "The ordered pitch-class interval is also the modulo12 version of the ordered pitch interval. For example, B4–G4 is –4 semitones (4 semitones down). mod12(–4) = 8. C3–D4 is 14 semitones. mod12(14) = 2.",
+      "translated_sentence": "מרווח מחלקת הגבהים המכוון (ordered pitch-class interval) הוא גם גרסת המודולו-12 של מרווח הגבהים המכוון (ordered pitch interval). לדוגמה, B4–G4 הוא –4 חצאי טונים (4 חצאי טונים כלפי מטה). (–4)mod12 = 8. C3–D4 הוא 14 חצאי טונים. (14)mod12 = 2."
+    },
+    {
+      "id": 572,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**pitch** – A pitch class in a specific register, such as C4 (middle C).",
+      "translated_sentence": "**גובה אמצעי (pitch)** – מחלקת גובה צליל (pitch class) באוקטבה מסוימת, כגון C4 (דו אמצעי)."
+    },
+    {
+      "id": 573,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**pitch class** – One of the twelve steps on the chromatic scale, summarized by a note name (C, D-sharp, B-flat, etc.) or a number 0–11 (C = 0, C-sharp = 1, . . . B = 11). In atonal music, spelling rarely matters except to make performance easier, so enharmonically equivalent pitch classes are considered identical (C = B-sharp = D-double-flat = 0).",
+      "translated_sentence": "**מחלקת גובה צליל (pitch class)** – אחד משנים עשר השלבים בסולם הכרומטי, המסוכם על ידי שם תו (C, D-דיאז, B-במול וכו') או מספר 0–11 (C = 0, C-דיאז = 1, . . . B = 11). במוזיקה אטונלית, לכתיב התווים (spelling) יש לעיתים רחוקות חשיבות מלבד להקל על הביצוע, ולכן מחלקות גובה צליל שהן שקולות אנהרמונית נחשבות לזהות (C = B-דיאז = D-דאבל-במול = 0)."
+    },
+    {
+      "id": 574,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**pitch-class set** – An *unordered* collection of pitch classes, usually grouped into curly brackets: {C, E, G}, {D, E-flat, G}, or {4, 5, 9}.",
+      "translated_sentence": "**קבוצת גובה-צליל (pitch-class set)** – אוסף *בלתי ממושטר* (unordered) של גובה-צלילים (pitch classes), המרוכז בדרך כלל בסוגריים מסולסלים: {C, E, G}, {D, E-flat, G}, או {4, 5, 9}."
+    },
+    {
+      "id": 575,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**pitch-class set class** or simply **set class** – A category of pitch-class sets that are all related by transposition or inversion. For example, the 12 major triads are all related by transposition. While each major triad is a different pitch-class set, they all belong to the same set class (the same category of sets). Note that minor triads are upside-down major triads (minor third–major third, instead of major third–minor third). Thus since major and minor triads can be related by inversion, they belong to the same set class. Set classes are typically named according to their *prime form* (see *prime form* in this glossary).",
+      "translated_sentence": "**מחלקת קבוצות צלילים** (**pitch-class set class**) או פשוט **מחלקת קבוצה** (**set class**) – קטגוריה של קבוצות צלילים (pitch-class sets) הקשורות כולן זו לזו על ידי טרנספוזיציה או היפוך. לדוגמה, 12 הטריאדות המייג'ור קשורות כולן על ידי טרנספוזיציה. בעוד שכל טριάדת מייג'ור היא קבוצת צלילים שונה, כולן שייכות לאותה מחלקת קבוצות (אותה קטגוריה של קבוצות). שימו לב כי טριάדות מינור הן טριάדות מייג'ור הפוכות (טרצה קטנה–טרצה גדולה, במקום טרצה גדולה–טרצה קטנה). לפיכך, מאחר שטריאדות מייג'ור ומינור יכולות להיות קשורות זו לזו על ידי היפוך, הן שייכות לאותה מחלקת קבוצות. מחלקות קבוצות נקראות בדרך כלל על פי *צורתן הראשונית* (ראו *צורה ראשונית* [prime form] במילון מונחים זה)."
+    },
+    {
+      "id": 576,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**prime form** – Since set classes come in as many as 24 different forms (12 transpositions times 2 inversions), one of those forms is chosen as its name or referential form, for ease of categorization. That form is the prime form. The prime form is, in a nutshell, the inversion and rotation of the set class that keeps the pitch classes most tightly packed on and above C (0).",
+      "translated_sentence": "**צורת יסוד (prime form)** – מאחר שמחלקות קבוצות (set classes) מופיעות בעד 24 צורות שונות (12 טרנספוזיציות כפול 2 היפוכים), אחת מצורות אלו נבחרת כשמה או כצורת הייחוס שלה, לשם נוחות הკטגוריזציה. צורה זו היא צורת היסוד (prime form). צורת היסוד (prime form) היא, על רגל אחת, ההיפוך והרוטציה של מחלקת הקבוצה (set class) השומרים על מחלקות הגובה (pitch classes) צפופות ככל האפשר על ומעל C (0)."
+    },
+    {
+      "id": 577,
+      "file": "atonalGlossary.md",
+      "source_sentence": "For help finding the prime form of a set, Jay Tomlin's [set theory calculator][calc] can be helpful. The following video demonstrates how to use it.",
+      "translated_sentence": "לקבלת עזרה במציאת הצורה הראשונית (prime form) של קבוצה, מחשבון תורת הקבוצות (set theory calculator) של ג'יי טומלין [set theory calculator][calc] עשוי להיות שימושי. הסרטון הבא מדגים כיצד להשתמש בו."
+    },
+    {
+      "id": 578,
+      "file": "atonalGlossary.md",
+      "source_sentence": "<iframe src=\"http://player.vimeo.com/video/63210462\" width=\"500\" height=\"375\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/63210462\">SetTheoryCalculator</a> from <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "translated_sentence": "<iframe src=\"http://player.vimeo.com/video/63210462\" width=\"500\" height=\"375\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/63210462\">SetTheoryCalculator</a> מאת <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> ב-<a href=\"http://vimeo.com\">Vimeo</a>.</p>"
+    },
+    {
+      "id": 579,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**simultaneity** – Any collection of more than one pitch (class) that sound at the same time. This includes dyads/intervals, chords, clusters, and \"salami slices\" of contrapuntal textures.",
+      "translated_sentence": "**סימולטניזם (simultaneity)** – כל אוסף של יותר מגובה צליל (או מחלקת גובה צליל) אחת המושמעים בו-זמנית. זה כולל דיאדות/מרווחים, אקורדים, צבירים (clusters), ו\"פרוסות סלמי\" של מרקמים קונטרפונקטיים."
+    },
+    {
+      "id": 580,
+      "file": "atonalGlossary.md",
+      "source_sentence": "**unordered pitch-class interval** – A regular *simple* chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case **i**: **i4** is a major third, for example.",
+      "translated_sentence": "**מרווח מחלקת גובה-צליל לא ממוין (unordered pitch-class interval)** – מרווח כרומטי *פשוט* רגיל: מספר חצאי הטונים בין שני גובהי-צליל. מרווחים מורכבים (הגדולים מאוקטבה) מצומצמים בדרך כלל למרווח הפשוט המתאים שלהם. הם מסומנים באות קטנה **i**: לדוגמה, **i4** הוא טרציה גדולה (major third)."
+    },
+    {
+      "id": 581,
+      "file": "atonalGlossary.md",
+      "source_sentence": "[calc]: http://www.jaytomlin.com/music/settheory/",
+      "translated_sentence": "[calc]: http://www.jaytomlin.com/music/settheory/"
+    },
+    {
+      "id": 582,
+      "file": "atonalGlossary.md",
+      "source_sentence": "[clock]: Graphics/postTonal/clockFace.png",
+      "translated_sentence": "[clock]: Graphics/postTonal/clockFace.png"
+    },
+    {
+      "id": 583,
+      "file": "atonalGlossary.md",
+      "source_sentence": "[Cmajor]: GRaphics/postTonal/clockFace-diatonic.png",
+      "translated_sentence": "[Cmajor]: GRaphics/postTonal/clockFace-diatonic.png"
+    },
+    {
+      "id": 584,
+      "file": "basicNotation.md",
+      "source_sentence": "Notes",
+      "translated_sentence": "תווים"
+    },
+    {
+      "id": 585,
+      "file": "basicNotation.md",
+      "source_sentence": "When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*.",
+      "translated_sentence": "כאשר הוא נכתב על חמשה, תו מציין גובה צליל (pitch) וערך קצבי (rhythmic value). הרישום מורכב מ*ראש תו* (notehead) (ריק או מלא), ויכול לכלול כאופציה *קנה* (stem), *קו חיבור* (beam), *נקודה* (dot) או *דגל* (flag)."
+    },
+    {
+      "id": 586,
+      "file": "basicNotation.md",
+      "source_sentence": "Staff",
+      "translated_sentence": "חמשה (Staff)"
+    },
+    {
+      "id": 587,
+      "file": "basicNotation.md",
+      "source_sentence": "Notes are can't convey their pitch information without being placed on a staff. A staff consists of five horizontal lines, evenly spaced. The plural of staff is *staves*.",
+      "translated_sentence": "תווים (Notes) אינם יכולים להעביר את מידע הגובה (pitch information) שלהם מבלי להיות ממוקמים על חמשה (staff). חמשה (staff) מורכבת מחמישה קווים אופקיים, המרווחים באופן שווה. צורת הרבים של חמשה היא חמשות (*staves*)."
+    },
+    {
+      "id": 588,
+      "file": "basicNotation.md",
+      "source_sentence": "Clefs",
+      "translated_sentence": "מפתחות (Clefs)"
+    },
+    {
+      "id": 589,
+      "file": "basicNotation.md",
+      "source_sentence": "Notes *still* can't convey their pitch information if the staff doesn't include a clef. A clef indicates which pitches are assigned to the lines and spaces on a staff. The two most commonly used clefs are the *treble* and *bass* clef; others that you'll see relatively frequently are *alto* and *tenor* clef.",
+      "translated_sentence": "תווים עדיין אינם יכולים להעביר את מידע הגובה (pitch) שלהם אם החמשה (staff) איنا כוללת מפתח (clef). מפתח מציין אילו גבהים מוקצים לשורות ולרווחים בחמשה. שני המפתחות הנפוצים ביותר הם מפתח סול (*treble*) ומפתח פה (*bass*); מפתחות נוספים שתראו בתדירות יחסית גבוהה הם מפתח אלט (*alto*) ומפתח טנור (*tenor*)."
+    },
+    {
+      "id": 590,
+      "file": "basicNotation.md",
+      "source_sentence": "Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.",
+      "translated_sentence": "הנה הצליל C4 הממוקם במפת סופרן (treble), בס (bass), אלט (alto) וטנור (tenor)."
+    },
+    {
+      "id": 591,
+      "file": "basicNotation.md",
+      "source_sentence": "Grand staff",
+      "translated_sentence": "חמשה כפולה (Grand staff)"
+    },
+    {
+      "id": 592,
+      "file": "basicNotation.md",
+      "source_sentence": "The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. The staves are connected by a curly brace. Grand staves are used frequently for notating piano music and other polyphonic instruments.",
+      "translated_sentence": "החמשה הגדולה (grand staff) מורכבת משתי חמשות, אחת העושה שימוש במפתח סול (treble clef), ואחת העושה שימוש במפתח פה (bass clef). החמשות מחוברות על ידי סוגריים מסולסלים (curly brace). חמשות גדולות (grand staves) משמשות לעיתים קרובות לרישום תווים לפסנתר ולכלי נגינה פוליפוניים אחרים."
+    },
+    {
+      "id": 593,
+      "file": "basicNotation.md",
+      "source_sentence": "Ledger lines",
+      "translated_sentence": "קווי עזר (Ledger lines)"
+    },
+    {
+      "id": 594,
+      "file": "basicNotation.md",
+      "source_sentence": "When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.* In the example below, From Haydn's Piano Sonata in G (Hob. XVI: 39), Ab5 occurs just above the treble staff in the right hand, and G3 and B3 occur just below the treble staff in the left hand.",
+      "translated_sentence": "כאשר המנעד (range) של המוזיקה חורג ממה שניתן לכתוב על החמשה (staff), מורות שורות נוספות כדי שנוכל לקרוא בבירור את הגובה הצלילי (pitch). שורות נוספות אלו נקראות *שורות עזר (ledger lines).* בדוגמה שלהלן, מתוך סונאטת הפסאנו ב-G של היידן (Hob. XVI: 39), הצליל A♭5 מופיע בדיוק מעל חמשת הטרבל (treble staff) ביד ימין, והצלילים G3 ו-B3 מופיעים בדיוק מתחת לחמשת הטרבל (treble staff) ביד שמאל."
+    },
+    {
+      "id": 595,
+      "file": "basicNotation.md",
+      "source_sentence": "Accidentals",
+      "translated_sentence": "סימני הסתברות (Accidentals)"
+    },
+    {
+      "id": 596,
+      "file": "basicNotation.md",
+      "source_sentence": "Accidentals are used to indicate when a pitch has been raised or lowered. They are written to the *left* of the pitch.",
+      "translated_sentence": "סימני היתק (Accidentals) משמשים לציון מתי גובה נגינה (pitch) הוגבה או הונמך. הם נכתבים משמאל (*left*) לגובה הנגינה."
+    },
+    {
+      "id": 597,
+      "file": "basicNotation.md",
+      "source_sentence": "When you lower one of the white notes of the piano by a semitone, you add a flat.",
+      "translated_sentence": "כאשר אתם מנמיכים את אחד מהקווים הלבנים של הפסנתר בחצי טון (semitone), אתם מוסיפים במול (flat)."
+    },
+    {
+      "id": 598,
+      "file": "basicNotation.md",
+      "source_sentence": "When you raise one the white notes of the piano by a semitone, you add a sharp.",
+      "translated_sentence": "כאשר מעלים את אחד מהקווים הלבנים של הפסנתר בחצי טון (semitone), מוסיפים דיאז (sharp)."
+    },
+    {
+      "id": 599,
+      "file": "basicNotation.md",
+      "source_sentence": "When you raise a note that is already flat by a semitone, you add a natural.",
+      "translated_sentence": "כאשר מעלים תו שכבר יש לו במול (Flat) בחצי טון (semitone), מוסיפים בקר (natural)."
+    },
+    {
+      "id": 600,
+      "file": "basicNotation.md",
+      "source_sentence": "When you lower a note that is already flat by a semitone, you add a double flat.",
+      "translated_sentence": "כאשר מנמיכים תו שהוא כבר במול בחצי טון (semitone), מוסיפים במול כפול (double flat)."
+    },
+    {
+      "id": 601,
+      "file": "basicNotation.md",
+      "source_sentence": "When you raise a note that is already sharp by a semitone, you add a double sharp.",
+      "translated_sentence": "כאשר אתה מעלה תו שכבר יש לו דיאז (sharp) בחצי טון, אתה מוסיף דיאז כפול (double sharp)."
+    },
+    {
+      "id": 602,
+      "file": "basicNotation.md",
+      "source_sentence": "The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.",
+      "translated_sentence": "הדוגמה שלהלן מציגה את הסימנים עבור במול (flat), בקר (natural), דיאז (sharp), דיאז כפול (double sharp) ו-במול כפול (double flat), בהתאמה."
+    },
+    {
+      "id": 603,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "*Basso continuo* emerged in the seventeenth century as a shorthand notation for keyboardists (typically church organists) who were accompanying a soloist or small ensemble performing a work originally composed for a larger group. For example, if two or three singers were tasked with performing an eight-voice choral work, they could select the most prominent parts to sing, while an organist could cover the rest. Performing five or six lines of contrapuntal choral music could be a significant challenge, so organists needed a way to condense the texture while still preserving the core musical structure to support the vocalists.",
+      "translated_sentence": "*באסו קונטינואו (Basso continuo)* הופיע במאה ה-17 כשיטת סימון מקוצר עבור נגני מקלדת (בדרך כלל נגני עוגב כנסייתי) אשר לוו סולist (סוליסט) או הרכב קטן שביצעו יצירה שנכתבה במקור עבור הרכב גדול. לדוגמה, אם שניים או שלושה זמרים נדרשו לבצע יצירה מקהלתית בת שמונה קולות, הם יכלו לבחור את הקולות הבולטים ביותר לשירה, בעוד שנגן העוגב יכול היה לכסות את השאר. ביצוע של חמישה או שישה קווים של מוזיקה מקהלתית קונטרפונקטית (contrapuntal) היווה אתגר משמעותי, ולכן נגני העוגב נזקקו לדרך לדחוס את המרקם (texture) תוך שמירה על מבנה הליבה המוזיקלי כדי לתמוך בסולנים."
+    },
+    {
+      "id": 604,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "The *thorough bass* emerged as that shortcut. The \"thorough\" or \"continuous\" bass is a musical line that includes the lowest note at any given time. Usually, works would not include a single part that could function as this line, so the organist would alternate between voices, as they exchanged registers or took rests. The resulting line, unline the regular \"bass\" part, was \"continuous\" (or \"thorough\")—hence the name *thoroughbass* or *basso continuo*.",
+      "translated_sentence": "*הבס הממופה* (thorough bass) הופיע כקיצור דרך זה. הבס ה\"יסודי\" (thorough) או ה\"רציף\" (continuous) הוא קו מוזיקלי הכולל את הצליל הנמוך ביותר בכל רגע נתון. בדרך כלל, יצירות לא כללו תפקיד בודד שיכול לתפקד כקו זה, ולכן הנגן בעוגב היה מחליף בין קולות, כאשר הם החליפו משרעות (registers) או נחו. הקו שנוצר, בניגוד לתפקיד ה\"בס\" הרגיל, היה \"רציף\" (continuous) או \"יסודי\" (thorough) — ומכאן השם *בס ממופה* (thoroughbass) או *בס רציף* (basso continuo)."
+    },
+    {
+      "id": 605,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "A good musician could perform this bass line, and with an eye (or ear) on the vocal parts and with knowledge of how to improvise good voice-leading, that musician could *accompany* the thoroughbass line with chords that made musical sense. (This is the original meaning of the term accompany—to accompany a bass line with chords. The fact that keyboardists did this in the context of supporting a soloist or small ensemble led to that term later being applied to any situation where a keyboardist *accompanied* spotlight performers.)",
+      "translated_sentence": "מוזיקאי טוב יכול היה לבצע קו בס זה, ובעין (או באוזן) על תפקידי השירה ועם ידיעה כיצד לאלתר הובלת קולות (voice-leading) טובה, אותו מוזיקאי יכול היה *ללוות* (*accompany*) את קו הבס הספרתי (thoroughbass) באקורדים בעלי משמעות מוזיקלית. (זוהי המשמעות המקורית של המונח ללוות — ללוות קו בס באקורדים. העובדה שנגני מקלדת עשו זאת בהקשר של תמיכה בסוליסט או בהרכב קטן הביאה לכך שמונח זה הוחל לאחר מכן על כל סיטואציה שבה נגן מקלדת *ליווה* [accompanied] אמנים מרכזיים)."
+    },
+    {
+      "id": 606,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "As this technique grew, publishers began publishing thoroughbass reductions of large-ensemble pieces to support smaller groups of musicians. In these publications, *figures* (numbers above or below the bass line) were included—sometimes only for difficult or non-standard chords, and eventually for most chords, enabling more amateur musicians, as well as students, to make use of the technique. These bass lines with figures became known as \"figured bass\" lines.",
+      "translated_sentence": "ככל שטכניקה זו התפתחה, מו\"לים החלו לפרסם מזעורים של בס ממוספר (thoroughbass reductions) של יצירות להקה גדולות כדי לתמוך בקבוצות מוזיקאים קטנות יותר. בפרסומים אלו נכללו *סימונים* (figures) (מספרים מעל או מתחת לקו הבס) — לעיתים רק עבור אקורדים קשים או שאינם סטנדרטיים, ובסופו של דבר עבור רוב האקורדים, מה שאפשר למוזיקאים חובבים רבים יותר, כמו גם לסטודנטים, לעשות שימוש בטכניקה. קווי בס אלו עם סימונים הפכו ידועים כקווי \"בس ממוספר\" (figured bass)."
+    },
+    {
+      "id": 607,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "***graphic example (facsimile?)***",
+      "translated_sentence": "*דוגמה גרפית (פקסימיליה?)*"
+    },
+    {
+      "id": 608,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "To this day, harpsichordists performing in Baroque ensembles will often put their left hand to the same \"bass\" line that the cellos play, and will improvise right-hand chords (with contrapuntally sound embellishment) according to the figures provided with the bass line.",
+      "translated_sentence": "עד היום, נגני צ'מבלו המופיעים בהרכבים בארוקיים מניחים לעיתים קרובות את יד שמאל על אותו קו \"בס\" (bass) שמנגנים הצ'لומנים (cellos), ומאלתרים אקורדים ביד ימין (עם עיטור תקני מבחינה קונטרפונקטלית) בהתאם למספרים המצורפים לקו הבס."
+    },
+    {
+      "id": 609,
+      "file": "bassoContinuo-history.md",
+      "source_sentence": "Though most music students are not Baroque keyboard specialists in training, thoroughbass, or *basso continuo*, can be a valuable tool in the study of harmony and voice-leading. In the study of harmony, a thoroughbass line can play a valuable role as a harmonic *reduction* of a complex texture, in order to example and understand better the harmonic skeleton underlying a passage. In aural dictation, transcription, and analysis, the bass line and the melody are often the most prominent (and most important) lines in a passage, and knowing how the inner voices tend to relate to the bass line and melody can aid in a number of listening and aural-analysis tasks. In voice-leading, the *basso continuo* texture affords a straightforward environment in which to make a gradual, staged progression through the intricacies of writing musical lines in a harmonic texture—and to do so without paying significant attention to harmony.",
+      "translated_sentence": "למרות שרוב סטודנטים למוזיקה אינם מומחים בהכשרה לקדנס בארוק, בס ממוספר (thoroughbass), או בס רציף (*basso continuo*), יכול כלי זה להיות בעל ערך רב בלימודי הרמוניה והולכת קולות (voice-leading). בלימודי הרמוניה, קו בס ממוספר יכול למלא תפקיד חשוב כ*רדוקציה* (reduction) הרמונית של מרקם מורכב, על מנת לבחון ולהבין טוב יותר את השלד ההרמוני העומד בבסיס קטע מוזיקלי. בהכתבה שמיעה (aural dictation), תמלול וניתוח, קו הבס והמלודיות הם לרוב הקווים הבולטים ביותר (והחשובים ביותר) בקטע, והבנת האופן שבו הקולות הפנימיים נוטים להתייחס לקו הבס ולמלודיה יכולה לסייע במספר משימות הקשורות להאזנה ולניתוח שמיעתי. בהולכת קולות (voice-leading), מרקם ה־*basso continuo* מספק סביבה פשוטה וברורה לשם התקדמות הדרגתית ומדורגת דרך המורכבויות של כתיבת קווים מוזיקליים במרקם הרמוני — וזאת מבלי להقדיש תשומת לב משמעותית להרמוניה."
+    },
+    {
+      "id": 610,
+      "file": "bassoContinuo.md",
+      "source_sentence": "*Basso continuo* (It. for \"continuous bass\" or \"thoroughbass\") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the \"fundamental musical problems\" that arise when more than two lines are combined.",
+      "translated_sentence": "*Basso continuo* (באיטלקית: \"בס רציף\" או \"בס ממוספר\") הוא מהות би גרסה אקורדית של קונטרפונקט ממין ראשון (first-species counterpoint). עם זאת, במקום לחבר קו יחיד מעל קאנטוס פירמוס (*cantus firmus*), מחברים רצף של אקורדים (המנוגנים ביד ימין) מעל קו בס (המנוגן ביד שמאל). כתיבת *Basso continuo*, המכונה לעיתים קרובות *מימוש בס ממוספר* (*realizing a figured bass*), אינה מעניקה תשומת לב כלשהי למלודיה, אלא רק לשימוש באקורדים נאותים ובהולכת קולות (voice-leading) חלקה ככל האפשר. לפיכך, בסגנון *Basso continuo* מהווה נקודת מוצא פשוטה להתמודדות עם \"הבעיות המוזיקליות הבסיסיות\" העולות כאשר משלבים יותר משני קווים."
+    },
+    {
+      "id": 611,
+      "file": "bassoContinuo.md",
+      "source_sentence": "Chord voicing",
+      "translated_sentence": "היפוך אקורד (Chord voicing)"
+    },
+    {
+      "id": 612,
+      "file": "bassoContinuo.md",
+      "source_sentence": "In strict keyboard-style writing, there are four voices: the bass line (which is usually a given in *basso continuo* style), and three *upper voices*: the *melody* or *soprano*, the *alto*, and the *tenor* (from highest to lowest). Since all three upper voices must be played by a single hand, they should never span more than an octave.",
+      "translated_sentence": "בכתיבה בסגנון מקלדת קפדני (strict keyboard-style writing), ישנם ארבעה קולות: קו הבס (bass line) (שהוא לרוב נתון בסגנון *באסו קונטינואו* (*basso continuo*)), ושלושה *קולות עליונים* (*upper voices*): ה*מלודיה* (*melody*) או ה*סופרן* (*soprano*), ה*אלט* (*alto*), וה*טנור* (*tenor*) (מהגבוה לנמוך). מאחר שכל שלושת הקולות העליונים חייבים להיות מנוגנים ביד אחת, עליהם לעולם לא להשתרע על פני טווח הגדול מאוקטבה."
+    },
+    {
+      "id": 613,
+      "file": "bassoContinuo.md",
+      "source_sentence": "The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. If melody and alto share a note, that notehead is double-stemmed.",
+      "translated_sentence": "המנגינה תמיד מקבלת משך (stem) כלפי מעלה. אלט וטנור חולקים משך כלפי מטה. אם האלט והטנור חולקים תו, תו זה מקבל משך יחיד כלפי מטה. אם המנגינה והאלט חולקים תו, ראש התו הזה מקבל שני משכים (double-stemmed)."
+    },
+    {
+      "id": 614,
+      "file": "bassoContinuo.md",
+      "source_sentence": "***insert graphic example***",
+      "translated_sentence": "***הכנס דוגמה גרפית***"
+    },
+    {
+      "id": 615,
+      "file": "bassoContinuo.md",
+      "source_sentence": "When choosing the notes to place in the upper voices above a figured bass, use the bass and figures to determine the pitch classes present in the chord. (When realizing an *unfigured bass*, you must determine appropriate figures before realizing.) If the chord is a four-note chord, use each chord member once, including the bass (exceptions will be noted later). If a chord has three pitch-classes (a triad, for instance), use each pitch-class once, and \"double\" one of them according to the following principles:",
+      "translated_sentence": "בעת בחירת הצווים (notes) להצבה בקולות העליונים מעל בס ממוספר (figured bass), יש להשתמש בבס ובספרות כדי לקבוע את מחלקות הגובה (pitch classes) הנוכחות באקורד. (בעת מימוש *בס לא ממוספר* (*unfigured bass*), עליכם לקבוע את הספרות המתאימות לפני המימוש.) אם האקורד הוא אקורד בן ארבעה צווים (four-note chord), יש להשתמש בכל חבר אקורד פעם אחת, כולל הבס (חריגות יצוינו בהמשך). אם לאקורד יש שלוש מחלקות גובה (למשל, טריאדה (triad)), יש להשתמש בכל מחלקת גובה פעם אחת, ו\"להכפיל\" (\"double\") אחת מהן על פי העקרונות הבאים:"
+    },
+    {
+      "id": 616,
+      "file": "bassoContinuo.md",
+      "source_sentence": "If the figure is 6/4, 5/3, or other chord of the fifth, double the bass pitch class.",
+      "translated_sentence": "אם הספרה היא 6/4, 5/3, או אקורד אחר של הקווינטה (chord of the fifth), יש להכפיל את מחלקת גובה הצליל (pitch class) של הבס."
+    },
+    {
+      "id": 617,
+      "file": "bassoContinuo.md",
+      "source_sentence": "If the figure is 6/3 and the bass is a *fixed scale degree* (*do*, *re*, *fa*, or *sol*), double the bass pitch class.",
+      "translated_sentence": "אם הסימון הוא 6/3 והבס הוא *דרגת סולם קבועה* (*דו*, *רֶה*, *פה*, או *סול*), הכפילו את מחלקת הגובה (pitch class) של הבס."
+    },
+    {
+      "id": 618,
+      "file": "bassoContinuo.md",
+      "source_sentence": "If the figure is 6/3 and the bass is a *variable scale degree* (*mi*/*me*, *la*/*le*, or *ti*/*te*) or a chromatically altered pitch, double one of the upper voices at the octave or unison.",
+      "translated_sentence": "אם הסימון הוא 6/3 והבס הוא *דרגת סולם משתנה* (*mi*/*me*, *la*/*le*, או *ti*/*te*) או צליל מונמך/מועלה כרומטית (chromatically altered pitch), יש להכפיל אחד מהקולות העליונים באוקטבה או ביוניסון (unison)."
+    },
+    {
+      "id": 619,
+      "file": "bassoContinuo.md",
+      "source_sentence": "Generally, do not double a variable scale degree or a chromatically altered pitch.",
+      "translated_sentence": "באופן כללי, אין להכפיל דרגת סולם משתנה (variable scale degree) או צליל שעבר שינוי כרומטי (chromatically altered pitch)."
+    },
+    {
+      "id": 620,
+      "file": "bassoContinuo.md",
+      "source_sentence": "In *basso continuo* style, if the chord is properly voiced (correct pitch classes and correct doublings), two key principles of voice-leading will ensure good counterpoint between the voices most of the time:",
+      "translated_sentence": "בסגנון *באס קונטינואו* (basso continuo), אם האקורד מובל היטב מבחינת קולות (classes גובה צליל נכונים וכפילויות נכונות), שני עקרונות מפתח של הובלת קולות (voice-leading) יבטיחו קונטרפונקט (counterpoint) טוב בין הקולות רוב הזמן:"
+    },
+    {
+      "id": 621,
+      "file": "bassoContinuo.md",
+      "source_sentence": "*The law of the shortest way* (a term coined by composer Arnold Schoenberg): move each voice as little as possible. Prefer repetition to steps, steps to leaps, and one leap at a time to several voices leaping at the same time.",
+      "translated_sentence": "*חוק הדרך הקצרה* (The law of the shortest way) (מונח שטבע המלחין ארנולד שנברג (Arnold Schoenberg)): העבר כל קול מעט ככל האפשר. העדף חזרה על פני צעדים, צעדים על פני קפיצות, וקפיצה אחת בכל פעם על פני מספר קולות המבצעים קפיצות בו-זמנית."
+    },
+    {
+      "id": 622,
+      "file": "bassoContinuo.md",
+      "source_sentence": "*Move the right hand in contrary or oblique motion to the bass.* When the bass leaps by fourth or fifth, though, this rule can be ignored.",
+      "translated_sentence": "*העבר את יד ימין בתנועה מנוגדת (contrary motion) או אלכסונית (oblique motion) לבס.* אולם, כאשר הבס עושה קפיצה של קוורטה (fourth) או קווינטה (fifth), ניתן להתעלם מכלל זה."
+    },
+    {
+      "id": 623,
+      "file": "bassoContinuo.md",
+      "source_sentence": "In some cases, these rules cannot be followed absolutely (such as when a functional dissonance must be resolved, or when a melody makes it impossible—two cases to be considered later). In all cases, observe the following:",
+      "translated_sentence": "במקרים מסוימים, לא ניתן לציית לכללים אלו באופן מוחלט (כגון כאשר יש לפתרון דיסוננס תפקודי [functional dissonance], או כאשר מנגינה הופכת זאת לבלתי אפשרי – שני מקקרים שיובאו בחשבון בהמשך). בכל המקרים, יש להקפיד על הדברים הבאים:"
+    },
+    {
+      "id": 624,
+      "file": "bassoContinuo.md",
+      "source_sentence": "No parallel fifths or octaves between any pair of voices.",
+      "translated_sentence": "אין קווינטות או אוקטבות מקבילות (parallel fifths or octaves) בין שום זוג קולות."
+    },
+    {
+      "id": 625,
+      "file": "bassoContinuo.md",
+      "source_sentence": "No contrary fifths or octaves between outer voices.",
+      "translated_sentence": "אין קווינטות או אוקטבות מקבילות (contrary fifths or octaves) בין הקולות החיצוניים."
+    },
+    {
+      "id": 626,
+      "file": "bassoContinuo.md",
+      "source_sentence": "Do not approach an octave between the outer voices by similar motion unless the melody moves by step. (All other direct/hidden fifths and octaves are permissible.)",
+      "translated_sentence": "אין להתקרב לאוקטבה בין הקולות החיצוניים בתנועה ישירה (similar motion) אלא אם המלודייקה נעה בצעד (step). (כל שאר החמישיות והאוקטבות הישירות/הנסתרות מותרות.)"
+    },
+    {
+      "id": 627,
+      "file": "beams.md",
+      "source_sentence": "Beams ###",
+      "translated_sentence": "# קורות (Beams)"
+    },
+    {
+      "id": 628,
+      "file": "beams.md",
+      "source_sentence": "It's important to remember that notation is intended to be read by performers. You should always strive to make your notation as easy to interpret as possible. Part of this includes grouping the rhythms such that they convey the beat unit and the beat division. *Beams* are used to group any notes at the beat division level or shorter that fall within the same beat.",
+      "translated_sentence": "חשוב לזכור שתווים נועדו להיקרא על ידי מבצעים. עליך לשאוף תמיד להפוך את הרישום התווים שלך לקל ככל האפשר לפענוח. חלק מכך כולל קיבוץ של המקצבים באופן שיעביר את יחידת הפעימה ואת חלוקת הפעימה. *מקפים* (Beams) משמשים לקיבוץ כל תו ברמת חלוקת הפעימה או קצר יותר הנופלים בתוך אותה פעימה."
+    },
+    {
+      "id": 629,
+      "file": "beams.md",
+      "source_sentence": "In this example, the eighth notes are not grouped with beams, making it difficult to interpret the triple meter.",
+      "translated_sentence": "דוגמה זו, תווי השמינית (eighth notes) אינם מקובצים באמצעות קורות (beams), מה שמקשה על פרשנות המשקל המשולש (triple meter)."
+    },
+    {
+      "id": 630,
+      "file": "beams.md",
+      "source_sentence": "<a href=\"Graphics/noBeams.png\"><img src=\"Graphics/noBeams.png\" width=\"50%\"></a>",
+      "translated_sentence": "<a href=\"Graphics/noBeams.png\"><img src=\"Graphics/noBeams.png\" width=\"50%\"></a>"
+    },
+    {
+      "id": 631,
+      "file": "beams.md",
+      "source_sentence": "If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read.",
+      "translated_sentence": "אם נרשום מחדש את הדוגמה לעיל כך שהתווים הנופלים באותה פעימה יקובצו יחד עם קורה (beam), הדבר יהפוך את המוזיקה להרבה יותר קלה לקריאה."
+    },
+    {
+      "id": 632,
+      "file": "beams.md",
+      "source_sentence": "<a href=\"Graphics/beams.png\"><img src=\"Graphics/beams.png\" width=\"50%\"></a>",
+      "translated_sentence": "<a href=\"Graphics/beams.png\"><img src=\"Graphics/beams.png\" width=\"50%\"></a>"
+    },
+    {
+      "id": 633,
+      "file": "beams.md",
+      "source_sentence": "Borrowed divisions ###",
+      "translated_sentence": "חלוקות מובאות (Borrowed divisions) ###"
+    },
+    {
+      "id": 634,
+      "file": "beams.md",
+      "source_sentence": "Typically, a meter is defined by the presence of a consistent beat division: division by two in simple meter, and by three in compound meter. Occasionally, composers will use a triple division of the beat in a simple meter, or a duple division of the beat in a compound meter.",
+      "translated_sentence": "בדרך כלל, משקל (meter) מוגדר על ידי נוכחות של חלוקה עקבית של הפעימה: חלוקה בשתיים במשקל פשוט (simple meter), ובשלוש במשקל מורכב (compound meter). לעיתים קרובות, מלחינים ישתמשו בחלוקה משולשת של הפעימה במשקל פשוט, או בחלוקה כפולה של הפעימה במשקל מורכב."
+    },
+    {
+      "id": 635,
+      "file": "beams.md",
+      "source_sentence": "*Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.",
+      "translated_sentence": "*טריפלט (Triplets)* שואלים ממשקל מורכב (compound meter), ועשויים להופיע הן ברמת חלוקת הפעימה (beat division) והן ברמת תת-החלוקה (subdivision), כפי שניתן לראות להלן."
+    },
+    {
+      "id": 636,
+      "file": "beams.md",
+      "source_sentence": "<a href=\"Graphics/triplets.png\"><img src =\"Graphics/triplets.png\" width=\"50%\"></a>",
+      "translated_sentence": "<a href=\"Graphics/triplets.png\"><img src =\"Graphics/triplets.png\" width=\"50%\"></a>"
+    },
+    {
+      "id": 637,
+      "file": "beams.md",
+      "source_sentence": "Likewise, *duplets* can be imported from simple meter into a compound meter.",
+      "translated_sentence": "באותו האופן, ניתן לייבא *דופלטים* (duplets) ממד פשוט למד מורכב (compound meter)."
+    },
+    {
+      "id": 638,
+      "file": "beams.md",
+      "source_sentence": "<a href=\"Graphics/duplets.png\"><img src=\"Graphics/duplets.png\" width=\"50%\"></a>",
+      "translated_sentence": "<a href=\"Graphics/duplets.png\"><img src=\"Graphics/duplets.png\" width=\"50%\"></a>"
+    },
+    {
+      "id": 639,
+      "file": "cadenceTypes.md",
+      "source_sentence": "A *cadence* is a point of arrival that punctuates the end of a musical unit, such as a phrase, theme, large formal section, or movement. A cadence is at once a harmonic, melodic, rhythmic, and formal event, but cadences tend to be grouped according to different ways in which harmony and melody articulate that point of arrival.",
+      "translated_sentence": "*קאדנס* (Cadence) הוא נקודת הגעה המציינת את סיומה של יחידה מוזיקלית, כגון תיבה, מנגינה, נושא, פרק צורני גדול או פרק. קאדנס הוא בעת ובעונה אחת אירוע הרמוני, מלודי, קצבי וצורני, אך קאדנסים נוטים להיות ממוינים לפי הדרכים השונות שבהן ההרמוניה והמלודיה מarticulate (מבטאות) את נקודת ההגעה הזו."
+    },
+    {
+      "id": 640,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Authentic and half cadences",
+      "translated_sentence": "קדושים אותנטיים וחצي קדושים (Authentic and half cadences)"
+    },
+    {
+      "id": 641,
+      "file": "cadenceTypes.md",
+      "source_sentence": "These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a formal unit ends with the progression **D5–T1** (**V<sup>(7)</sup>–I**, *sol* to *do* in the bass voice). If the melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence*; it the melody ends on *mi* or *me* (or more rarely *sol*), it is called an *imperfect authentic cadence*.",
+      "translated_sentence": "נקודות סיום אלו של יחידות מקובצות תחילה ל*קדנס אותנטי* (authentic cadence) ו*קדנס חלקי* (half cadence). קדנס אותנטי מתרחש כאשר יחידה פורמלית מסתיימת במהלך **D5–T1** (**V<sup>(7)</sup>–I**, *סול* עד *דו* בקול הבס). אם המלודיה המלווה מהלך הרמוני זה מגיעה אל *דו*, הוא נקרא *קדנס אותנטי מושלם* (perfect authentic cadence); אם המלודיה מסתיימת ב-*מי* או ב-*מה* (או לעיתים רחוקות יותר ב-*סול*), הוא נקרא *קדנס אותנטי לא מושלם* (imperfect authentic cadence)."
+    },
+    {
+      "id": 642,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Phrases that end on **V** without progressing to **I** are called *half cadences*. These cadences typically contain *re* in the melody, though *ti* and *sol* are also possible points of melodic arrival. The **V** is almost invariably a triad, rather than a seventh chord, and it is always in root position (**D5**).",
+      "translated_sentence": "ביטויים המסתיימים ב-**V** מבלי להתקדם ל-**I** נקראים *קדנס חצי (half cadences)*. קדנסים אלו מכילים טיפוסיות את הצליל *רה* במלודיה, אף על פי שגם *סי* ו-*סול* הם נקודות הגעה מלודיות אפשריות. האקורד **V** הוא כמעט תמיד שלישייה (triad), ולא אקורד שבע (seventh chord), והוא נמצא תמיד במצב יסוד (root position) (**D5**)."
+    },
+    {
+      "id": 643,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Differentiating between *perfect authentic cadences* (PAC), *imperfect authentic cadences* (IAC), and *half cadences* (HC) by ear and with a score is essential both to formal analysis and model composition.",
+      "translated_sentence": "הבחנה בין *קאדנס אותנטי מושלם* (perfect authentic cadence - PAC), *קאדנס אותנטי פגوم* (imperfect authentic cadence - IAC) ו*קאדנס חצוי* (half cadence - HC) משמיעה ובעזרת תווי נגינה (score) חיונית הן לניתוח צורני והן להלחנה מודלית (model composition)."
+    },
+    {
+      "id": 644,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Simple, compound, and double cadences",
+      "translated_sentence": "קדנסים פשוטים, מורכבים וכפולים (Simple, compound, and double cadences)"
+    },
+    {
+      "id": 645,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Writers of Italian keyboard treatises like [Furno][Furno] and [Fenaroli][Fenaroli] (and, more recently, American historical theorists like [Robert O. Gjerdingen][Gjerdingen]) differentiate cadences according to the voice-leading found over the dominant harmony. These distinctions do not replace the above PAC/IAC/HC distinctions; rather they add another level of detail that is particularly helpful in model composition. These voice-leading distinctions provide three more cadence categories to complement PAC, IAC, and HC: the *simple cadence*, the *compound cadence*, and the *double cadence*.",
+      "translated_sentence": "כותבים של טרקטים איטלקיים לכלי מקלדת כמו [Furno][Furno] ו-[Fenaroli][Fenaroli] (ולאחר מכן, תיאורטיקנים היסטוריים אמריקאים כמו [Robert O. Gjerdingen][Gjerdingen]) מבחינים בין קדנציות בהתאם להובלת הקולות (voice-leading) המופיעה מעל הרמוניית הדומיננטיות. הבחנות אלו איنا מחליפות את הבחנות ה-PAC/IAC/HC שלעיל; אלא מוסיפות רמת פירוט נוספת המועילה במיוחד בהלחנת מודלים (model composition). הבחנות הובלת קולות (voice-leading) אלו מספקות שלוש קטגוריות קדנציה נוספות המשלימות את PAC, IAC ו-HC: ה*קדנציה הפשוטה* (simple cadence), ה*קדנציה המורכבת* (compound cadence), וה*קדנציה הכפולה* (double cadence)."
+    },
+    {
+      "id": 646,
+      "file": "cadenceTypes.md",
+      "source_sentence": "A *simple cadence* occurs when the dominant harmonic function is articulated by a single chord—either a triad or a seventh chord. The simple cadence can be used in a PAC, IAC, or HC construction, though the seventh-chord version is typically only found in authentic cadences.",
+      "translated_sentence": "*קנדנס פשוט* (simple cadence) מתרחש כאשר התפקוד הרמוני (harmonic function) הדומיננטי מבוטא על ידי אקורד יחיד – إما טריאדה (triad) או אקורד שבע (seventh chord). ניתן להשתמש בקנדנס הפשוט במבנה PAC, ‏ IAC או HC, אם כי גרסת אקורד השבע נמצאת בדרך כלל רק בקנדנס אותנטי (authentic cadence)."
     }
   ]
 }

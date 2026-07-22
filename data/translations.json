@@ -3876,6 +3876,834 @@
       "file": "cadenceTypes.md",
       "source_sentence": "A *simple cadence* occurs when the dominant harmonic function is articulated by a single chord—either a triad or a seventh chord. The simple cadence can be used in a PAC, IAC, or HC construction, though the seventh-chord version is typically only found in authentic cadences.",
       "translated_sentence": "*קנדנס פשוט* (simple cadence) מתרחש כאשר התפקוד הרמוני (harmonic function) הדומיננטי מבוטא על ידי אקורד יחיד – إما טריאדה (triad) או אקורד שבע (seventh chord). ניתן להשתמש בקנדנס הפשוט במבנה PAC, ‏ IAC או HC, אם כי גרסת אקורד השבע נמצאת בדרך כלל רק בקנדנס אותנטי (authentic cadence)."
+    },
+    {
+      "id": 647,
+      "file": "cadenceTypes.md",
+      "source_sentence": "A *compound cadence* occurs when the bass note *sol* of the cadential dominant is repeated, often with the second *sol* an octave lower than the first. The compound cadence comes in three specific forms.",
+      "translated_sentence": "*קדנס מורכב (compound cadence)* מתרחש כאשר צליל הבס *סול* של הדומיננטה הקדנציאלית חוזר על עצמו, לעיתים קרובות כאשר ה-*סול* השני נמצא באוקטבה נמוכה יותר מהראשון. הקדנס המורכב מופיע בשלוש צורות ספציפיות."
+    },
+    {
+      "id": 648,
+      "file": "cadenceTypes.md",
+      "source_sentence": "The first type of compound cadence involves a 4–3 suspension—*do* to *ti*—over the *sol* bass of the dominant harmony. In a four-voice texture, the other two voices sustain a fifth above the bass and an octave above the bass. The *thoroughbass* figure is typically the abbreviated 4–3, which stands for 8/5/4–8/5/3 in four voices. The 4–3 suspension can occur over the cadential dominant of a PAC, IAC, or HC.",
+      "translated_sentence": "הסוג הראשון של קדנצה מורכבת (compound cadence) כולל עיכוב (suspension) של 4–3 — דו (do) לטי (ti) — מעל בס סול (sol) של הרמוניית הדומיננטה. במרקם בן ארבעה קולות, שני הקולות האחרים מחזיקים קווינטה מעל הבס ואוקטבה מעל הבס. סימן הבס הממוספר (thoroughbass) הוא בדרך כלל 4–3 המקוצר, המייצג 8/5/4–8/5/3 בארבעה קולות. עיכוב ה-4–3 יכול להתרחש מעל הדומיננטה הקדנציונלית של קדנצה אותנטית מושלמת (PAC), קדנצה אותנטית לא מושלמת (IAC), או קדנצה חצי-סופית (HC)."
+    },
+    {
+      "id": 649,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![4–3 compound cadence.][Compound4-3]",
+      "translated_sentence": "![4–3 compound cadence.][Compound4-3]"
+    },
+    {
+      "id": 650,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![4–3 compound cadence with full thoroughbass figures.][Compound4-3-full]",
+      "translated_sentence": "![קדוצה מורכבת 4–3 עם מספר בתוספת באס מספרים מלאה (4–3 compound cadence with full thoroughbass figures).][Compound4-3-full]"
+    },
+    {
+      "id": 651,
+      "file": "cadenceTypes.md",
+      "source_sentence": "The second type of compound cadence adds a *mi/me* to *re* voice (6–5) to the above 4–3 suspension. In a four-voice texture, the bass is doubled. The typical thoroughbass figure is 6/4–5/3, leading to the common name for this progression, the *cadential six-four*. The complete figure is 8/6/4–8/5/3.  The cadential six-four can occur over the cadential dominant of a PAC, IAC, or HC.",
+      "translated_sentence": "הסוג השני של קדנצה מורכבת (compound cadence) מוסיף הולכת קול של *mi/me* אל *re* (6–5) לשזירת ה-4–3 לעיל. במרקם בן ארבעה קולות, הבס מוכפל. סימון הבס הממוספר (thoroughbass) הטיפוסי הוא 6/4–5/3, מה שמוביל לשם הנפוץ עבור מהלך זה, *קדנצת שש-ארבע* (cadential six-four). הסימון המלא הוא 8/6/4–8/5/3. קדנצת שש-ארבע (cadential six-four) יכולה להופיע מעל הדומיננטה הקדנצייתית של קדנצה אותנטית מושלמת (PAC), קדנצה אותנטית לא מושלמת (IAC), או קדנצה חצי-סופית (HC)."
+    },
+    {
+      "id": 652,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![Cadential six-four.][Cadential64]",
+      "translated_sentence": "![אקורד קדנציאלי שאר-פאר (Cadential six-four).][Cadential64]"
+    },
+    {
+      "id": 653,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![Cadential six-four with full thoroughbass figures.][Cadential64-full]",
+      "translated_sentence": "![אקורד רביע-שەش קדנציאלי עם סימוני באס ממוספר מלא (full thoroughbass figures).][Cadential64-full]"
+    },
+    {
+      "id": 654,
+      "file": "cadenceTypes.md",
+      "source_sentence": "The last type of compound cadence is a special case of the cadential six-four, where the fourth voice introduces a seventh over the second dominant chord, rather than simply doubling the bass for both chords. This compound cadence type requires four voices and complete thoroughbass figures of 8/6/4–7/5/3. This figure rarely occurs over the dominant of a half cadence and is instead reserved primarily for authentic cadences.",
+      "translated_sentence": "הסוג האחרון של קדנצה מורכבת (compound cadence) הוא מקרה מיוחד של מהלך שש-ארבע קדנציאלי (cadential six-four), שבו הקול הרביעי מציג אקורד שבע מעל אקורד הדומיננטה השני, במקום פשוט להכפיל את הבס עבור שני האקורדים. סוג זה של קדנצה מורכבת (compound cadence) דורש ארבעה קולות ומספור באס ממוספר (thoroughbass) מלא של 8/6/4–7/5/3. סימון זה מופיע לע ندرة (לעיתים רחוקות) מעל הדומיננטה של קדנצה חצי-סופית (half cadence) ובמקום זאת שמור בעיקר עבור קדנצות אותנטיות (authentic cadences)."
+    },
+    {
+      "id": 655,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![Cadential six-four with seventh.][Cadential64-seventh]",
+      "translated_sentence": "![קיידנציאלי שש-ארבע עם שבע (Cadential six-four with seventh).][Cadential64-seventh]"
+    },
+    {
+      "id": 656,
+      "file": "cadenceTypes.md",
+      "source_sentence": "A *double cadence* is a four-stage pattern over the cadential dominant used almost exclusively in perfect authentic cadences. Though it had expired from common use by the time of Mozart and Haydn, it was a staple for earlier *galant* composers and *Classical* treatises on composition and accompaniment. The four-stage pattern over the dominant is 5/3–6/4–5/4–5/3. In four voices, the bass is also doubled, or a seventh can be applied to any *chord of the fifth* (i.e., not the 6/4).",
+      "translated_sentence": "קלדנס כפול (double cadence) הוא מהלך בן ארבעה שלבים מעל הדומיננטה הקדנציאלית, המשמש כמעט אך ורק בקדנצות אותנטיות מושלמות (perfect authentic cadences). אף על פי שיצא משימוש נפוץ עוד בימיהם של מוצרט ופיידן, הוא היווה מרכיב מרכזי עבור מלחיני סגנון הגלנט (galant) המוקדמים ועבור ספרי לימוד קלאסיים (Classical) בנושא הנגינה והליווי. תבנית ארבעת השלבים מעל הדומיננטה היא 5/3–6/4–5/4–5/3. בארבעה קולות, הבס גם מוכפל, או שניתן להוסיף ספצמה (seventh) לכל אקורד של קווינטה (chord of the fifth), כלומר, לא לאקורד ה-6/4."
+    },
+    {
+      "id": 657,
+      "file": "cadenceTypes.md",
+      "source_sentence": "![Double cadence.][Double]",
+      "translated_sentence": "![קדוש כפול (Double cadence).][Double]"
+    },
+    {
+      "id": 658,
+      "file": "cadenceTypes.md",
+      "source_sentence": "Voice-leading in strict keyboard style",
+      "translated_sentence": "הובלת קולות בסגנון מקלדת קפדני (Voice-leading in strict keyboard style)"
+    },
+    {
+      "id": 659,
+      "file": "cadenceTypes.md",
+      "source_sentence": "In strict melodic keyboard style, always end an idealized phrase with a perfect authentic cadence (PAC). Approach the melody's final *do* by step whenever possible, from *re* or *ti*, preferably from *re*. When using compound or double cadences, use the orientation of upper voices shown in the above figures (transposed to the appropriate key, of course).",
+      "translated_sentence": "בסגנון מקלדת מלודי קפדני (strict melodic keyboard style), סימו תמיד אידיאליזציה של תיבה (phrase) עם קדנצה אותנטית מושלמת (PAC - perfect authentic cadence). גשו אל ה-*דו* (do) הסופי של המנגינה במהלך פסיעה (by step) בכל הזדמנות אפשרית, מ-*רה* (re) או מ-*טי* (ti), עדיף מ-*רה* (re). בעת שימוש בקדנצות מורכבות (compound cadences) או כפולות (double cadences), השתמשו בכיוון הקולות העליונים המוצג באיורים לעיל (מועבר לסולם המתאים, כמובן)."
+    },
+    {
+      "id": 660,
+      "file": "cadenceTypes.md",
+      "source_sentence": "In *basso continuo* style, the top voice can end with any member of the tonic triad. As much as possible, use the voices provided in the figures above, but invert them (move the tenor line to the top, making the melody and alto the alto and tenor, for example). Simply make sure that if *ti* occurs in the top voice before the final tonic chord, it resolves its tendency up to *do*.",
+      "translated_sentence": "בסגנון *בס קונטינוו* (basso continuo), הקול העליון יכול להסתיים בכל אחד מחברי אשליית הטוניקה (tonic triad). ככל האפשר, השתמשו בקולות הניתנים באיורים שלעיל, אך הפכו אותם (העבירו את קול הטנור למעלה, כך שהמנגודיה והאלט יהפכו לאלט ולטנור, לדוגמה). פשוט ודאו שאם *טי* (ti) מופיע בקול העליון לפני אקורד הטוניקה הסופי, הוא פותר את נטייתו כלפי מעלה אל *דו* (do)."
+    },
+    {
+      "id": 661,
+      "file": "cadenceTypes.md",
+      "source_sentence": "In either case, pay special attention to the cadential six-four version of the compound cadence. Despite forming a consonant triad with the bass, both the sixth and the fourth of the first chord act like suspensions, and therefore *must resolve down by step* and be prepared smoothly (by common tones or steps). This is true no matter which part is in the melody, alto, or tenor.",
+      "translated_sentence": "בכל מקרה, יש להקדיש תשומת לב מיוחדת לגרסאות הקדנציות של שש-ארבע (six-four) בקדנצה המורכبة (compound cadence). על אף שהן יוצרות שלישייה קונסוננטית (consonant triad) עם הבס, הן הצליל השישי והן הצליל הרביעי של האקורד הראשון מתנהגים כמו השעיות (suspensions), ולכן *חייבים להיפתר כלפי מטה בצעד* (resolve down by step) ולהיות מוכנים באופן חלק (על ידי צלילים משותפים או צעדים). הדבר נכון ללא קשר לאיזה תפקיד נמצא במלודיה, באלט או בטנור."
+    },
+    {
+      "id": 662,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Furno]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm",
+      "translated_sentence": "[Furno]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm"
+    },
+    {
+      "id": 663,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Fenaroli]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm",
+      "translated_sentence": "[Fenaroli]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm"
+    },
+    {
+      "id": 664,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Gjerdingen]: http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm",
+      "translated_sentence": "[Gjerdingen]: http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm"
+    },
+    {
+      "id": 665,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Compound4-3]: Graphics/cadences/Compound43.png",
+      "translated_sentence": "[Compound4-3]: Graphics/cadences/Compound43.png"
+    },
+    {
+      "id": 666,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Compound4-3-full]: Graphics/cadences/Compound43-full.png",
+      "translated_sentence": "[Compound4-3-full]: Graphics/cadences/Compound43-full.png"
+    },
+    {
+      "id": 667,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Cadential64]: Graphics/cadences/Cadential64.png",
+      "translated_sentence": "[Cadential64]: Graphics/cadences/Cadential64.png"
+    },
+    {
+      "id": 668,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Cadential64-full]: Graphics/cadences/Cadential64-full.png",
+      "translated_sentence": "[Cadential64-full]: Graphics/cadences/Cadential64-full.png"
+    },
+    {
+      "id": 669,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Cadential64-seventh]: Graphics/cadences/Cadential64-7th.png",
+      "translated_sentence": "[Cadential64-seventh]: Graphics/cadences/Cadential64-7th.png"
+    },
+    {
+      "id": 670,
+      "file": "cadenceTypes.md",
+      "source_sentence": "[Double]: Graphics/cadences/Double.png",
+      "translated_sentence": "[Double]: Graphics/cadences/Double.png"
+    },
+    {
+      "id": 671,
+      "file": "cantusFirmus.md",
+      "source_sentence": "Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). *Cantus firmus* composition gives us the opportunity to engage the following fundamental musical traits:",
+      "translated_sentence": "תרגילים בהובלת קולות קפדנית (strict voice-leading), או קונטרפונקט לפי מינים (species counterpoint), מתחילים בקו מוזיקלי יחיד ומבנהו תקין הנקרא *קנטוס פירמוס* (cantus firmus) (קול קבוע, או מנגינה קבוע; ברבים *cantus firmi*). הלחנת *קנטוס פירמוס* (cantus firmus) מעניקה לנו את ההזדמנות לעסוק במאפיינים המוזיקליים הבסיסיים הבאים:"
+    },
+    {
+      "id": 672,
+      "file": "cantusFirmus.md",
+      "source_sentence": "smoothness",
+      "translated_sentence": "חלקות (smoothness)"
+    },
+    {
+      "id": 673,
+      "file": "cantusFirmus.md",
+      "source_sentence": "independence and integrity or melodic lines",
+      "translated_sentence": "עצמאות ושלמות (integrity) של קווים מלודיים"
+    },
+    {
+      "id": 674,
+      "file": "cantusFirmus.md",
+      "source_sentence": "variety",
+      "translated_sentence": "מגוון"
+    },
+    {
+      "id": 675,
+      "file": "cantusFirmus.md",
+      "source_sentence": "motion (towards a goal)",
+      "translated_sentence": "תנועה (motion) לקראת מטרה (towards a goal)"
+    },
+    {
+      "id": 676,
+      "file": "cantusFirmus.md",
+      "source_sentence": "Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*. The first step is to perform and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Heinrich Schenker.",
+      "translated_sentence": "התרגילים הראשונים שלנו בהובלת קולות קפדנית (strict voice-leading) יהיו לחבר *cantus firmi* טובים ומעוצבים היטב. השצעד הראשון הוא לבצע ולנתח *cantus firmi* לדוגמה, כמו ה-*cantus firmus* הבא ב-C מייג'ור, שהולחן על ידי היינריך שנק (Heinrich Schenker)."
+    },
+    {
+      "id": 677,
+      "file": "cantusFirmus.md",
+      "source_sentence": "<iframe src=\"https://trinket.io/embed/music/da93d4d902\" width=\"100%\" height=\"200\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" allowfullscreen></iframe><br/>",
+      "translated_sentence": "<iframe src=\"https://trinket.io/embed/music/da93d4d902\" width=\"100%\" height=\"200\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" allowfullscreen></iframe><br/>"
+    },
+    {
+      "id": 678,
+      "file": "cantusFirmus.md",
+      "source_sentence": "A number of others are provided [here][CFs]. Performing these is a helpful practice to develop an internal sense of the sound and feel of a well formed *cantus*, and many of the characteristics of well formed *cantus firmi* carry over into other musical styles. (These model *cantus firmi* can also be used as the starting points for our two-voice exercises.)",
+      "translated_sentence": "מספר נוספים מסופקים [כאן][CFs]. ביצוע שלהם הוא תרגול מועיל לפיתוח תחושה פנימית של הצליל והתחושה של *קאנטוס* (*cantus*) בנוי היטב, ורבים מאפייניו של *קאנטוס פירמוס* (*cantus firmus*) בנוי היטב עוברים גם לסגנונות מוזיקליים אחרים. (ניתן להשתמש ב-*קאנטוס פירמי* (*cantus firmi*) לדוגמה אלו גם כנקודות מוצא עבור תרגילי שני הקולות שלנו)."
+    },
+    {
+      "id": 679,
+      "file": "cantusFirmus.md",
+      "source_sentence": "From these *cantus*, notice how the general musical characteristics of smoothness, melodic integrity, variety, and motion towards a goal are worked out in specific characteristics. The following characteristics are typical of all well formed *cantus firmi*:",
+      "translated_sentence": "מתוך ה-*cantus* האלה, שימו לב כיצד המאפיינים המוזיקליים הכלליים של זרימה, שלמות מלודית, מגוון ותנועה לעבר מטרה באים לידי ביטוי במאפיינים ספציפיים. המאפיינים הבאים טיפוסיים לכל *cantus firmus* בנוי היטב:"
+    },
+    {
+      "id": 680,
+      "file": "cantusFirmus.md",
+      "source_sentence": "length of about 8–16 notes",
+      "translated_sentence": "אורך של כ-8–16 תווים"
+    },
+    {
+      "id": 681,
+      "file": "cantusFirmus.md",
+      "source_sentence": "arhythmic (all whole notes; no long or short notes)",
+      "translated_sentence": "חסר קצב (arhythmic; כל הצלילים באורך שלם; ללא צלילים ארוכים או קצרים)"
+    },
+    {
+      "id": 682,
+      "file": "cantusFirmus.md",
+      "source_sentence": "begin and end on *do*",
+      "translated_sentence": "מתחיל ונגמר על *דו*"
+    },
+    {
+      "id": 683,
+      "file": "cantusFirmus.md",
+      "source_sentence": "approach final tonic by step (usually *re*–*do*, sometimes *ti*–*do*)",
+      "translated_sentence": "התאמת הטוניקה הסופית (final tonic) באמצעות צעד (step) (בדרך כלל *רה*–*דו*, לפעמים *טי*–*דו* (ti–do)*)"
+    },
+    {
+      "id": 684,
+      "file": "cantusFirmus.md",
+      "source_sentence": "all note-to-note progressions are melodic consonances",
+      "translated_sentence": "כל ההתקדמות מתו-לתו היא קונסוננסים מלודיים (melodic consonances)"
+    },
+    {
+      "id": 685,
+      "file": "cantusFirmus.md",
+      "source_sentence": "range (interval between lowest and highest notes) of no more than a tenth, usually less than an octave",
+      "translated_sentence": "משרع (range) של לא יותר מעשירית, בדרך כלל פחות מאוקטבה"
+    },
+    {
+      "id": 686,
+      "file": "cantusFirmus.md",
+      "source_sentence": "a single climax (high point) that appears only once in the melody",
+      "translated_sentence": "שיא יחיד (high point) שמופיע פעם אחת בלבד במנגינה"
+    },
+    {
+      "id": 687,
+      "file": "cantusFirmus.md",
+      "source_sentence": "clear logical connection and smooth shape from beginning to climax to ending",
+      "translated_sentence": "קשר לוגי ברור וצורה חלקה מההתחלה ועד לשיא ולסיום"
+    },
+    {
+      "id": 688,
+      "file": "cantusFirmus.md",
+      "source_sentence": "mostly stepwise motion, but with some leaps (mostly small leaps)",
+      "translated_sentence": "לרוב מהלך מדורג (stepwise motion), אך עם מספר קפיצות (לרוב קפיצות קטנות)"
+    },
+    {
+      "id": 689,
+      "file": "cantusFirmus.md",
+      "source_sentence": "no repetition of \"motives\" or \"licks\"",
+      "translated_sentence": "אין חזרה על \"מוטיבים\" (motives) או \"ליקים\" (licks)"
+    },
+    {
+      "id": 690,
+      "file": "cantusFirmus.md",
+      "source_sentence": "any large leaps (fourth or larger) are followed by step in opposite direction",
+      "translated_sentence": "כל קפיצה גדולה (קוורטה או יותר) מלווה בצעד בכיוון ההפוך"
+    },
+    {
+      "id": 691,
+      "file": "cantusFirmus.md",
+      "source_sentence": "no more than two leaps in a row; no consecutive leaps in the same direction (Fux's F-major *cantus* is an exception, where the back-to-back descending leaps outline a consonant triad.)",
+      "translated_sentence": "לא יותר משני קפיצות ברציפות (leaps); אין קפיצות עוקבות באותו הכיוון (ה*קנטוס* ב-F מייג'ור של פוקס הוא יוצא מן הכלל, שבו הקפיצות היורדות הגב אל גב מתוות משולש קונסוננטי (consonant triad))."
+    },
+    {
+      "id": 692,
+      "file": "cantusFirmus.md",
+      "source_sentence": "the leading tone progresses to the tonic",
+      "translated_sentence": "צליל המוביל (leading tone) מתקדם לטוניקה (tonic)"
+    },
+    {
+      "id": 693,
+      "file": "cantusFirmus.md",
+      "source_sentence": "in minor, the leading tone only appears in the penultimate bar; the raised submediant is only used when progressing to that leading tone",
+      "translated_sentence": "בסולם מינור, הצליל המוביל (leading tone) מופיע אך ורק בתיבה הלפני אחרונה; הסובמדיאנטה המוגבהת (raised submediant) משמשת אך ורק במעבר אל אותו צליל מוביל (leading tone)"
+    },
+    {
+      "id": 694,
+      "file": "cantusFirmus.md",
+      "source_sentence": "Melodic tendencies",
+      "translated_sentence": "נטייה מלודית (Melodic tendencies)"
+    },
+    {
+      "id": 695,
+      "file": "cantusFirmus.md",
+      "source_sentence": "The characteristics listed above are fairly detailed, and some of them are specific to strict species counterpoint. However, taken together, they express in detail some general tendencies of melodies in a variety of styles.",
+      "translated_sentence": "המאפיינים המפורטים לעיל הם מפורטים למדי, וחלקם ספציפיים לקונטרפונקט מיני (strict species counterpoint) הקפדני. עם זאת, נלקחים יחד, הם מבטאים בפירוט כמה נטיות כלליות של מלודיות במגוון סגנונות."
+    },
+    {
+      "id": 696,
+      "file": "cantusFirmus.md",
+      "source_sentence": "[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) identifies five general properties of melodies in Western music that connect to the basic principles of perception and cognition listed above, but play out in slightly different specific ways in musical styles. They are:",
+      "translated_sentence": "[דייוויד הורון (David Huron)](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) מזהה חמישה מאפיינים כלליים של מנגינות במוזיקה מערבית, המתקשרים לעקרונות הבסיסיים של תפיסה (perception) וקוגניציה (cognition) המפורטים לעיל, אך באים לידי ביטוי באופנים ספציפיים שונים במקצת בסגנונות מוזיקליים שונים. הם:"
+    },
+    {
+      "id": 697,
+      "file": "cantusFirmus.md",
+      "source_sentence": "**pitch proximity** – the tendency for melodies to progress by steps more than leaps and by small leaps more than large leaps. An expression of smoothness and melodic integrity.",
+      "translated_sentence": "**קרבה גובה-ליניארית (pitch proximity)** – הנטייה של מלודיות להתקדם בצעדים (steps) יותר מאשר בקפיצות, ובקפיצות קטנות יותר מאשר בקפיצות גדולות. ביטוי לחלקה (smoothness) ושלמות מלודית."
+    },
+    {
+      "id": 698,
+      "file": "cantusFirmus.md",
+      "source_sentence": "**step declination** – the tendency for melodies to move by *descending* step more than ascending. Possibly an expression of goal-oriented motion, as we tend to perceive a move down as a decrease in energy (movement towards a state of rest).",
+      "translated_sentence": "**ירידת צעדים (step declination)** – הנטייה של מנגלודיות לנוע בצעדים *יורדים* יותר מאשר עולים. ייתכן שזהו ביטוי לתנועה מכוונת-מטרה, שכן אנו נוטים לתפוס תנועה כלפי מטה כירידה באנרגיה (תנועה לקראת מצב של מנוחה)."
+    },
+    {
+      "id": 699,
+      "file": "cantusFirmus.md",
+      "source_sentence": "**step inertia** – the tendency for melodies to change direction less frequently than they continue in the same direction. (I.e., the majority of melodic progressions are in the same direction as the previous one.) An expression of smoothness and, at times, goal-oriented motion.",
+      "translated_sentence": "**התמדה צעדית (step inertia)** – הנטייה של מלודיות לשנות כיוון בתדירות נמוכה יותר מאשר להמשיך באותו הכיוון. (כלומר, רוב המהלכים המלודיים הם באותו הכיוון כמו הקודם.) ביטוי לזרימה חלקה ולעיתים קרובות גם לתנועה מכוונת-מטרה (goal-oriented motion)."
+    },
+    {
+      "id": 700,
+      "file": "cantusFirmus.md",
+      "source_sentence": "**melodic regression** – the tendency for melodic notes in extreme registers to progress back towards the middle. An expression of motion towards a position of rest (with non-extreme notes representing \"rest\"). Also an expression simply of the statistical distribution of notes in a melody: the higher a note is, the more notes there are below it for a composer to choose from, and the less notes there are above it.",
+      "translated_sentence": "**רגרסיה מלודית (melodic regression)** – הנטייה של צלילים מלודיים ברגיסטרים קיצוניים לנוע חזרה לכיוון המרכז. ביטוי לתנועה לעבר עמדת מנוחה (כאשר צלילים שאינם קיצוניים מייצגים \"מנוחה\"). כמו כן, זהו ביטוי פשוט להתפלגות סטטיסטית של צלילים במלודיה: ככל שצלילים גבוהים יותר, כך יש יותר צלילים מתחתיהם עבור המלחין לבחור מתוכם, ופחות צלילים מעליהם."
+    },
+    {
+      "id": 701,
+      "file": "cantusFirmus.md",
+      "source_sentence": "**melodic arch** – the tendency for melodies to ascend in the first half of a phrase, reach a climax, and descend in the second half. An expression of goal-orientation and the rest–motion–rest pattern. Also, a combination of the above rules in the context of a musical phrase.",
+      "translated_sentence": "**קשת מלודית (melodic arch)** – הנטייה של מלודיות לטפס במחצית הראשונה של משפט, להגיע לשיא, ולרדת במחצית השנייה. ביטוי לתכליתית (goal-orientation) ולתבנית של מנוחה–תנועה–מנוחה. כמו כן, שילוב של הכללים לעיל בהקשר של משפט מוזיקלי."
+    },
+    {
+      "id": 702,
+      "file": "cantusFirmus.md",
+      "source_sentence": "Practice exercise",
+      "translated_sentence": "תרגיל תרגול (Practice exercise)"
+    },
+    {
+      "id": 703,
+      "file": "cantusFirmus.md",
+      "source_sentence": "Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species *cantus firmi* and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.",
+      "translated_sentence": "לפני הלחנת *קאנטוס פירמוס* (*cantus firmus*) מאפס, נסו לבנות *קאנטוס* (*cantus*) מבנה היטב סביב השלד הבא. האורך, גובה הצליל ההתחלתי, גובה הצליל הלפני-אחרון, גובה הצליל הסופי ונקודת השיא (climax) סופקו. צרו קו מלודי חלק וקונוננטי המדגים את המאפיינים המפורטים לעיל — הן המאפיינים הספציפיים של *קאנטוס פירמוס* (*cantus firmi*) בספְּצִיּוֹת קפדניות (strict species) והן המאפיינים הכלליים של מלודיות טונאליות (tonal melodies). לחצו על החמשה כדי לשמוע את המלודיה. הקפידו להאזין בכל פעם שאתם מבצעים שינוי."
+    },
+    {
+      "id": 704,
+      "file": "cantusFirmus.md",
+      "source_sentence": "<iframe class=\"trinket\" src=\"https://trinket.io/embed/music/2df65adf8b\" width=\"100%\" height=\"240\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" allowfullscreen></iframe><br/>",
+      "translated_sentence": "<iframe class=\"trinket\" src=\"https://trinket.io/embed/music/2df65adf8b\" width=\"100%\" height=\"240\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" allowfullscreen></iframe><br/>"
+    },
+    {
+      "id": 705,
+      "file": "cantusFirmus.md",
+      "source_sentence": "[CFs]: Graphics/counterpoint/cantusFirmi.pdf",
+      "translated_sentence": "[CFs]: Graphics/counterpoint/cantusFirmi.pdf"
+    },
+    {
+      "id": 706,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Chromatically raised pitches #",
+      "translated_sentence": "גובהי צליל מוגבהים כרומטית (Chromatically raised pitches) #"
+    },
+    {
+      "id": 707,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "In a major key, *mi* and *ti* form a semitone with the pitches above them in the scale. As a result, they are not usually chromatically raised. The other scale degrees—*d*, *re*, *fa*, *sol*, and *la*—can all be raised by semitone without reproducing another tone in the scale. In each case, the vowel of the solfège syllable is changed to \"i\" to reflect the higher pitch. *Do* becomes *di*, *re* becomes *ri*, and so on.",
+      "translated_sentence": "בסולם מייג'ור, *מי* (*mi*) ו-*טי* (*ti*) יוצרים חצי טון עם הצלילים שמעליהם בסולם. כתוצאה מכך, הם בדרך כלל אינם עוברים הגבהה כרומטית. שאר דרגות הסולם — *דו* (*do*), *רה* (*re*), *פה* (*fa*), *סול* (*sol*) ו-*לה* (*la*) — כולן ניתנות להגבהה בחצי טון מבלי לשכפל צליל אחר בסולם. בכל מקרה, התנועה של הברה הסולפֶז' (solfège syllable) משתנה ל-\"i\" כדי לשקף את הגובה הגבוה יותר. *דו* (*Do*) הופך ל-*די* (*di*), *רה* (*re*) הופך ל-*רי* (*ri*), וכן הלאה."
+    },
+    {
+      "id": 708,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Following is an ascending chromatic scale, using these raised syllables for chromatically altered tones. Diatonic scale steps are in bold.",
+      "translated_sentence": "להלן סולם כרומטי עולה, תוך שימוש בהברות מוגבהות אלו עבור צלילים מותמרים כרומטית. צעדי הסולם הדיאטוני (Diatonic scale steps) נמצאים בכתב מודגש."
+    },
+    {
+      "id": 709,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**do** di **re** ri **mi** **fa** fi **sol** si **la** li **ti** **do**",
+      "translated_sentence": "**דו** די **רה** רי **מי** **פה** פי **סול** סי **לה** לי **טי** **דו**"
+    },
+    {
+      "id": 710,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "In a minor key, start with the natural-minor syllables for diatonic pitches. Use the major-key syllables for raised scale degrees that belong to the major scale. For anything left, use the raised pitches for major. Thus, an ascending chromatic scale built within a minor-key context would look and sound like the following:",
+      "translated_sentence": "בסולם מינורי, יש להתחיל עם הברות המינור הטבעי (natural-minor) עבור גבהי הצליל הדיאטוניים. יש להשתמש בהברות של סולם מז'ור עבור דרגות סולם מוגבהות השייכות לסולם המז'ור. עבור כל השאר, יש להשתמש בצלילים המוגבהים עבור מז'ור. לפיכך, סולם כרומטי עולה הנבנה בתוך הקשר של סולם מינורי ייראה וישמע כך:"
+    },
+    {
+      "id": 711,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**do** di **re** **me** mi **fa** fi **sol** **le** la **te** ti **do**",
+      "translated_sentence": "**דו** דיאז דו **re** **me** מי **fa** דיאז **sol** **le** לה **te** טי **דו**"
+    },
+    {
+      "id": 712,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "(Note the use of *me* not *ri*, *le* not *si*, and *te* not *li* in a minor-key context.)",
+      "translated_sentence": "(שימו לב לשימוש ב-*me* במקום *ri*, ב-*le* במקום *si*, וב-*te* במקום *li* בהקשר של סולם מינורי.)"
+    },
+    {
+      "id": 713,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Chromatically lowered pitches #",
+      "translated_sentence": "גבהים מונמכים כרומטית (Chromatically lowered pitches) #"
+    },
+    {
+      "id": 714,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "All scale steps besides *do* and *fa* can be lowered chromatically, and these lowered tones replace the vowel of their solfège syllable with \"e\" or \"a.\" (Lower pitches take more open mouth formations—ah, eh—while higher pitches take smaller, more closed mouth formations—i.)",
+      "translated_sentence": "כל דרגות הסולם מלבד *דו* (*do*) ו-*פה* (*fa*) ניתנות להמכה כרומטית, וצלילים מונמכים אלו מחליפים את התנועה בהברה של סולפג' (Solfège) שלהם ב-\"e\" או ב-\"a\". (צלילים נמוכים דורשים מבני פה פתוחים יותר — ah, eh — בעוד שצלילים גבוהים דורשים מבני פה קטנים וסגורים יותר — i)."
+    },
+    {
+      "id": 715,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Following is a descending chromatic scale, using the lowered syllables for chromatically altered tones. Note that for scale-degrees 3, 6, and 7, these are simply the natural-minor-scale syllables.",
+      "translated_sentence": "להלן סולם כרומטי יורד, המשתמש בהברות המונמכות עבור צלילים משוננים כרומטית. שימו לב שעבור דרגות הסולם 3, 6 ו-7, אלו פשוט הברות סולם המינור הטבעי (natural-minor-scale)."
+    },
+    {
+      "id": 716,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**do** **ti** te **la** le **sol** se **fa** **mi** me **re** ra **do**",
+      "translated_sentence": "**דו** **טי** טה **לה** לה-נמוך (le) **סול** סול-נמוך (se) **פה** **מי** מה **רה** רה-נמוך (ra) **דו**"
+    },
+    {
+      "id": 717,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "(Note that, while lowered-scale-degree 5 is technically *se*, functionally that pitch is usually a secondary leading-tone of V. Thus, we almost always sing *fi* in melodies, even when descending.)",
+      "translated_sentence": "(Note that, while lowered-scale-degree 5 is technically *se*, functionally that pitch is usually a secondary leading-tone of V. Thus, we almost always sing *fi* in melodies, even when descending.)"
+    },
+    {
+      "id": 718,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Because *ti* and *la* belong to minor, and because *fa* is rarely ever chromatically lowered in a tonal context, the descending chromatic syllables in minor are the same as in major.",
+      "translated_sentence": "מכיוון ש-*ti* ו-*la* שייכים לסולם המינורי, ומכיוון ש-*fa* מונמך באופן כרומטי לע ندرة (או: לעיתים נדירות ביותר) בהקשר טונאלי, הברות הכרומטיות היורדות בסולם מינורי זהות לאלו שבסולם מייג'ור."
+    },
+    {
+      "id": 719,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Exercises to build fluency #",
+      "translated_sentence": "תרגילים לפיתוח שוטפות (fluency) #"
+    },
+    {
+      "id": 720,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Like the [melodic sequentials](melodicSequentials.html) for diatonic solfège syllables, some basic exercises can help build fluidity with chromatic syllables.",
+      "translated_sentence": "כמו [הרצפים המלודיים](melodicSequentials.html) עבור הברות סולפֶּג' (Solfège) דיאטוניות, תרגילים בסיסייים אחדים יכולים לסייע בפיתוח זורמות (fluidity) עם הברות כרומטיות."
+    },
+    {
+      "id": 721,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Complete lower neighbors ##",
+      "translated_sentence": "Complete lower neighbors ##"
+    },
+    {
+      "id": 722,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Sing a chromatic complete-lower-neighbor figure on each step of an ascending and then descending scale.",
+      "translated_sentence": "שיר הד أו תבנית שכנה-נמוכה כרומטית מלאה (complete-lower-neighbor figure) על כל דרגה של סולם עולה ולאחר מכן יורד."
+    },
+    {
+      "id": 723,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending major:**",
+      "translated_sentence": "**מייג'ור עולה (ascending major):**"
+    },
+    {
+      "id": 724,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | re di re | mi ri mi | . . . | ti li ti | do",
+      "translated_sentence": "דו טי דו | רה די רה | מי רי מי | . . . | טי לי טי | דו"
+    },
+    {
+      "id": 725,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending major:**",
+      "translated_sentence": "**מייג'ור יורד (descending major):**"
+    },
+    {
+      "id": 726,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | ti li ti | la si la | . . . | re di re | do",
+      "translated_sentence": "דו טי דו | טי לי טי | לה סי לה | . . . | רה די רה | דו"
+    },
+    {
+      "id": 727,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending (natural) minor:**",
+      "translated_sentence": "**מינור עולה (טבעי) (ascending (natural) minor):**"
+    },
+    {
+      "id": 728,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | re di re | me re me | . . . | te la te | do",
+      "translated_sentence": "דו טי דו | רה די רה | מע רה מע | . . . | טה לה טה | דו"
+    },
+    {
+      "id": 729,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending (natural) minor:**",
+      "translated_sentence": "**מינור יורד (טבעי) (descending (natural) minor):**"
+    },
+    {
+      "id": 730,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | te la te | le so le | . . . | re di re | do",
+      "translated_sentence": "דו טי דו | טה לה טה | לה סול לה | . . . | רה די רה | דו"
+    },
+    {
+      "id": 731,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Complete upper neighbors ##",
+      "translated_sentence": "שכנים עליונים שלמים (Complete upper neighbors) ##"
+    },
+    {
+      "id": 732,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Sing a chromatic complete-upper-neighbor figure on each step of an ascending and then descending scale.",
+      "translated_sentence": "שיר תבנית צליל עזר עליון כרומטית מלאה (chromatic complete-upper-neighbor figure) על כל דרגה של סולם עולה ולאחר מכן יורד."
+    },
+    {
+      "id": 733,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending major:**",
+      "translated_sentence": "**מייג'ור עולה (ascending major):**"
+    },
+    {
+      "id": 734,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | re me re | mi fa mi | . . . | ti do ti | do",
+      "translated_sentence": "דו רה דו | רה מי במול רה | מי פה מי | . . . | טי דו טי | דו"
+    },
+    {
+      "id": 735,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending major:**",
+      "translated_sentence": "**מייג'ור יורד (descending major):**"
+    },
+    {
+      "id": 736,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | ti do ti | la te la | . . . | re me re | do",
+      "translated_sentence": "דו רה דו | טי דו טי | לה תֵה לה | . . . | רה מֵה רה | דו"
+    },
+    {
+      "id": 737,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending (natural) minor:**",
+      "translated_sentence": "**מינור עולה (טבעי) (ascending (natural) minor):**"
+    },
+    {
+      "id": 738,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | re me re | me mi me | . . . | te ti te | do",
+      "translated_sentence": "דו רה דו | רה מי ב במול רה | מי מ ב במול מי | . . . | טי ת טי | דו"
+    },
+    {
+      "id": 739,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending (natural) minor:**",
+      "translated_sentence": "**מינור יורד (טבעי) (descending (natural) minor):**"
+    },
+    {
+      "id": 740,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | te ti te | le la le | . . . | re me re | do",
+      "translated_sentence": "דו רא דו | טה טי טה | לה לא לה | . . . | רה מה רה | דו"
+    },
+    {
+      "id": 741,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Incomplete lower neighbors ##",
+      "translated_sentence": "שכנים תחתונים שלמים (Incomplete lower neighbors) ##"
+    },
+    {
+      "id": 742,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)",
+      "translated_sentence": "עבור כל דרגת סולם (scale degree), שיר את הטוניקה (tonic) ולאחר מכן את השכן התחתון (lower neighbor) לדרגת הסולם, ובסוף את ההחלטה (resolution) שלה כלפי מעלה בחצי טון (semitone). התאמן גם עם הטוניקה הנמוכה בתחילת כל תיבה (bar) וגם עם הטוניקה הגבוהה בתחילת כל תיבה (bar). (לאתגר מוגבר, ואף שטף (fluency) רב יותר, נסה זאת עם דרגות סולם (scale degrees) שאינן דו (*do*) בתחילת כל תיבה (bar).)"
+    },
+    {
+      "id": 743,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending major:**",
+      "translated_sentence": "**מייג'ור עולה (ascending major):**"
+    },
+    {
+      "id": 744,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | do di re | do ri mi | do mi fa | do fi sol | do si la | do li ti | do ti do |",
+      "translated_sentence": "דו טי דו | דו די רה | דו רי מי | דו מי פה | דו פי סול | דו סי לה | דו לי טי | דו טי דו |"
+    },
+    {
+      "id": 745,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending major:**",
+      "translated_sentence": "**מייג'ור יורד (descending major):**"
+    },
+    {
+      "id": 746,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | do li ti | do si la | do fi sol | do mi fa | do ri mi | do di re | do ti do |",
+      "translated_sentence": "do ti do | do li ti | do si la | do fi sol | do mi fa | do ri mi | do di re | do ti do |"
+    },
+    {
+      "id": 747,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending minor:**",
+      "translated_sentence": "**מינור עולה (ascending minor):**"
+    },
+    {
+      "id": 748,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | do di re | do re me | do mi fa | do fi sol | do sol le | do la te | do ti do |",
+      "translated_sentence": "דו טי דו | דו די רה | דו רה מיי | דו מי פה | דו פי סול | דו סול לה | דו לה טה | דו טי דו |"
+    },
+    {
+      "id": 749,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending minor:**",
+      "translated_sentence": "**מינור יורד (descending minor):**"
+    },
+    {
+      "id": 750,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | do ti do |",
+      "translated_sentence": "דו טי דו | דו לה טה | דו סול לה (Le) | דו פי סול | דו מי פה | דו רה מה (Me) | דו די רה (Di) | דו טי דו |"
+    },
+    {
+      "id": 751,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "Incomplete upper neighbors ##",
+      "translated_sentence": "שכנים עליונים חסרי מ-Incomplete upper neighbors ##"
+    },
+    {
+      "id": 752,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)",
+      "translated_sentence": "עבור כל דרגת סולם, שיר את הטוניקה ואז את השכן העליון (upper neighbor) לדרגת הסולם, ולאחר מכן את ההחלטה (resolution) שלו כל מטה בחצי טון (semitone). התאמן הן עם הטוניקה הנמוכה בתחילת כל תיבה והן עם הטוניקה הגבוהה בתחילת כל תיבה. (לאתגר מוגבר, ואפילו שטף רב יותר, נסה זאת עם דרגות סולם שונות מ-*דו* (do) בתחילת כל תיבה)."
+    },
+    {
+      "id": 753,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending major:**",
+      "translated_sentence": "**מייג'ור עולה (ascending major):**"
+    },
+    {
+      "id": 754,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | do me re | do fa mi | do fi fa | do le sol | do te la | do do ti | do ra do |",
+      "translated_sentence": "דו רה דו | דו מי במול רה | דו פה מי | דו פה דיאז פה | דו לה במול סול | דו סי במול לה | דו דו סי | דו רה דו |"
+    },
+    {
+      "id": 755,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending major:**",
+      "translated_sentence": "**מייג'ור יורד (descending major):**"
+    },
+    {
+      "id": 756,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | do do ti | do te la | do le sol | do fi fa | do fa mi | do me re | do ra do |",
+      "translated_sentence": "do ra do | do do ti | do te la | do le sol | do fi fa | do fa mi | do me re | do ra do |"
+    },
+    {
+      "id": 757,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**ascending major:**",
+      "translated_sentence": "**מייג'ור עולה (ascending major):**"
+    },
+    {
+      "id": 758,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | do me re | do mi me | do fi fa | do le sol | do la le | do ti te | do ra do |",
+      "translated_sentence": "do ra do | do me re | do mi me | do fi fa | do le sol | do la le | do ti te | do ra do |"
+    },
+    {
+      "id": 759,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "**descending major:**",
+      "translated_sentence": "**מייג'ור יורד (descending major):**"
+    },
+    {
+      "id": 760,
+      "file": "chromaticSolfege.md",
+      "source_sentence": "do ra do | do ti te | do la le | do le sol | do fi fa | do mi me | do me re | do ra do |",
+      "translated_sentence": "do ra do | do ti te | do la le | do le sol | do fi fa | do mi me | do me re | do ra do |"
+    },
+    {
+      "id": 761,
+      "file": "classicalThemes.md",
+      "source_sentence": "The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s *Classical Form*. Follow the links below for further explanation and examples.",
+      "translated_sentence": "התרשימים הבאים מתארים בקווים כלליים את מאפייני המבנה הפנימי המרכזיים ואת התפקיד התפקודי של טיפוסי הנושאים השונים המוצגים בספרו של ויליאם קפלין *צורה קלאסית* (*Classical Form*). עקבו אחר הקישורים שלהלן להסברים נוספים ולדוגמאות."
+    },
+    {
+      "id": 762,
+      "file": "classicalThemes.md",
+      "source_sentence": "See also [Classical theme functions](themeFunctions.html).",
+      "translated_sentence": "ראו גם [פונקציות תמה קלאסיות (Classical theme functions)](themeFunctions.html)."
+    },
+    {
+      "id": 763,
+      "file": "classicalThemes.md",
+      "source_sentence": "Sentence",
+      "translated_sentence": "משפט"
+    },
+    {
+      "id": 764,
+      "file": "classicalThemes.md",
+      "source_sentence": "For details, click [here](sentence.html).",
+      "translated_sentence": "לפרטים, לחצו [כאן](sentence.html)."
+    },
+    {
+      "id": 765,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][sentence]",
+      "translated_sentence": "![][sentence]"
+    },
+    {
+      "id": 766,
+      "file": "classicalThemes.md",
+      "source_sentence": "Period",
+      "translated_sentence": "תקופה (Period)"
+    },
+    {
+      "id": 767,
+      "file": "classicalThemes.md",
+      "source_sentence": "For details, click [here](period.html).",
+      "translated_sentence": "לפרטים, לחצו [כאן](period.html)."
+    },
+    {
+      "id": 768,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][period]",
+      "translated_sentence": "![][period]"
+    },
+    {
+      "id": 769,
+      "file": "classicalThemes.md",
+      "source_sentence": "Hybrid themes",
+      "translated_sentence": "ערכות נושא היברידיות (Hybrid themes)"
+    },
+    {
+      "id": 770,
+      "file": "classicalThemes.md",
+      "source_sentence": "For further details, click [here](hybridThemes.html).",
+      "translated_sentence": "לפרטים נוספים, לחצו [כאן](hybridThemes.html)."
+    },
+    {
+      "id": 771,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][hybrid1]",
+      "translated_sentence": "![][hybrid1]"
+    },
+    {
+      "id": 772,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][hybrid2]",
+      "translated_sentence": "![][hybrid2]"
+    },
+    {
+      "id": 773,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][hybrid3]",
+      "translated_sentence": "![][hybrid3]"
+    },
+    {
+      "id": 774,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][hybrid4]",
+      "translated_sentence": "![][hybrid4]"
+    },
+    {
+      "id": 775,
+      "file": "classicalThemes.md",
+      "source_sentence": "Compound themes",
+      "translated_sentence": "נושאים מורכבים (Compound themes)"
+    },
+    {
+      "id": 776,
+      "file": "classicalThemes.md",
+      "source_sentence": "For further details, click [here](compoundThemes.html).",
+      "translated_sentence": "לפרטים נוספים, לחצו [כאן](compoundThemes.html)."
+    },
+    {
+      "id": 777,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][16period-sent]",
+      "translated_sentence": "![][16period-sent]"
+    },
+    {
+      "id": 778,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][16period-hybrid1]",
+      "translated_sentence": "![][16period-hybrid1]"
+    },
+    {
+      "id": 779,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][16period-hybrid3]",
+      "translated_sentence": "![][16period-hybrid3]"
+    },
+    {
+      "id": 780,
+      "file": "classicalThemes.md",
+      "source_sentence": "![][16sent]",
+      "translated_sentence": "![][16sent]"
+    },
+    {
+      "id": 781,
+      "file": "classicalThemes.md",
+      "source_sentence": "[sentence]: Graphics/ClassicalThemes/sentence.png",
+      "translated_sentence": "[sentence]: Graphics/ClassicalThemes/sentence.png"
+    },
+    {
+      "id": 782,
+      "file": "classicalThemes.md",
+      "source_sentence": "[period]: Graphics/ClassicalThemes/period.png",
+      "translated_sentence": "[period]: Graphics/ClassicalThemes/period.png"
+    },
+    {
+      "id": 783,
+      "file": "classicalThemes.md",
+      "source_sentence": "[hybrid1]: Graphics/ClassicalThemes/hybrid1.png",
+      "translated_sentence": "[hybrid1]: Graphics/ClassicalThemes/hybrid1.png"
+    },
+    {
+      "id": 784,
+      "file": "classicalThemes.md",
+      "source_sentence": "[hybrid2]: Graphics/ClassicalThemes/hybrid2.png",
+      "translated_sentence": "[hybrid2]: Graphics/ClassicalThemes/hybrid2.png"
     }
   ]
 }

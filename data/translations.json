@@ -9360,6 +9360,24 @@
       "file": "minuet.md",
       "source_sentence": "The definitive characteristics of a minuet's *recapitulation* function are (1) the *return of the basic idea* from the A section at its beginning, (2) the *return of the home key* at its beginning, and (3) a final PAC in the home key.",
       "translated_sentence": "המאפיינים המובהקים של פונקציית *הרפריז (recapitulation)* במינואט הם (1) *חזרת הרעיון הבסיסי (return of the basic idea)* מחלק A בתחילתו, (2) *חזרת סולם האם (return of the home key)* בתחילתו, ו-(3) קדנצה אותנטית מושלמת (PAC) סופית בסולם האם."
+    },
+    {
+      "id": 1561,
+      "file": "minuet.md",
+      "source_sentence": "A recapitulation typically copies the thematic and phrase-structural features of the exposition, but altering the secondary theme so as to end in tonic. Commonly, the recapitulation [*expands* the exposition's closing phrase](internalExpansions.html).",
+      "translated_sentence": "רפריז (recapitulation) בדרך כלל מעתיק את מאפייני התמה ומבנה התיבות (phrase-structural) של האקספוזיציה (exposition), אך משנה את התמה המשנית כך שתסתיים בטוניקה (tonic). נפוץ כי הרפריז [מרחיב את התיבה המסיימת של האקספוזיציה (exposition's closing phrase)](internalExpansions.html)."
+    },
+    {
+      "id": 1562,
+      "file": "minuet.md",
+      "source_sentence": "Trio",
+      "translated_sentence": "Trio"
+    },
+    {
+      "id": 1563,
+      "file": "minuet.md",
+      "source_sentence": "Like the minuet, a trio is typically a rounded or simple binary form. It's primary job is to establish melodic and harmonic contrast. While contrasting tonally with the *main minuet* is a central feature of the Trio, Trio's often simply projection modal contrast. When the tonic stays the same, a major-key *main minuet* might be contrasted with a Trio marked *minore.* (The corresponding situation for a minor-key *main minuet* is a *maggiore* Trio.)",
+      "translated_sentence": "כמו המינואט, הטריו הוא בדרך כלל מבנה בינاري מעוגל (rounded binary form) או פשוט (simple binary form). תפקידו העיקרי הוא לייצר ניגודיות מלודית והרמונית. בעוד שניגודיות טונאלית ביחס ל*מינואט הראשי* (*main minuet*) היא מאפיין מרכזי של הטריו, טריואים לעיתים קרובות פשוט משקפים ניגודיות מודאלית (modal contrast). כאשר הטוניקה נשארת בעינה, *מינואט ראשי* במפתח מאג'ור עשוי להיות מנוגד לטריו המסומן כ-*minore* (המצב המקביל עבור *מינואט ראשי* במפתח מינור הוא טריו מסוג *maggiore*)."
     }
   ]
 }

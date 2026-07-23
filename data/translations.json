@@ -9378,6 +9378,30 @@
       "file": "minuet.md",
       "source_sentence": "Like the minuet, a trio is typically a rounded or simple binary form. It's primary job is to establish melodic and harmonic contrast. While contrasting tonally with the *main minuet* is a central feature of the Trio, Trio's often simply projection modal contrast. When the tonic stays the same, a major-key *main minuet* might be contrasted with a Trio marked *minore.* (The corresponding situation for a minor-key *main minuet* is a *maggiore* Trio.)",
       "translated_sentence": "כמו המינואט, הטריו הוא בדרך כלל מבנה בינاري מעוגל (rounded binary form) או פשוט (simple binary form). תפקידו העיקרי הוא לייצר ניגודיות מלודית והרמונית. בעוד שניגודיות טונאלית ביחס ל*מינואט הראשי* (*main minuet*) היא מאפיין מרכזי של הטריו, טריואים לעיתים קרובות פשוט משקפים ניגודיות מודאלית (modal contrast). כאשר הטוניקה נשארת בעינה, *מינואט ראשי* במפתח מאג'ור עשוי להיות מנוגד לטריו המסומן כ-*minore* (המצב המקביל עבור *מינואט ראשי* במפתח מינור הוא טריו מסוג *maggiore*)."
+    },
+    {
+      "id": 1564,
+      "file": "mod12.md",
+      "source_sentence": "Once we assume octave and enharmonic equivalence, our pitch-class environment becomes very small: only twelve unique pitch class. In this universe, modular arithmetic is a very useful way to imagine getting around.",
+      "translated_sentence": "ברגע שאנו מניחים שקילות אוקטבה ושקילות אנהרמונית (enharmonic equivalence), סביבת מחלקות הגבהים (pitch-class environment) שלנו הופכת לקטנה מאוד: רק שתים עשרה מחלקות גבהים ייחודיות. ביקום זה, חשבון מודולרי (modular arithmetic) הוא דרך שימושית מאוד לדמיין התניידות."
+    },
+    {
+      "id": 1565,
+      "file": "mod12.md",
+      "source_sentence": "Modular arithmetic is like regular arithmetic, except that the numbers “wrap around” or restart when they reach a certain value—the *modulus*. Counting in a *mod 12* universe works just as in basic math [\"1, 2, 3, ...\"], but after 11, we “begin again” at 0. Conversely, when counting down [\"10, 9, 8, ...\"], we 0 leads to 11.",
+      "translated_sentence": "אריתמטיקה מודולרית (Modular arithmetic) היא כמו אריתמטיקה רגילה, אלא שהמספרים \"מתעטפים סביב\" או מתחילים מחדש כשהם מגיעים ערך מסוים — ה*מודולוס* (*modulus*). ספירה בעולם *מודול 12* (*mod 12*) פועלת בדיוק כמו במתמטיקה בסיסית [\"1, 2, 3, ...\"], אך לאחר 11, אנו “מתחילים מחדש” ב-0. באופן הפוך, כאשר ספירה לאחור [\"10, 9, 8, ...\"], ה-0 מוביל ל-11."
+    },
+    {
+      "id": 1566,
+      "file": "mod12.md",
+      "source_sentence": "While we are used to thinking of numbers on an infinite line, modular thinking wraps them into a finite number, generally represented by a circle. On this circle, all values are a number from 0 to 11.",
+      "translated_sentence": "בעוד אנו רגילים לחשוב על מספרים על גבי ישר אינסופי, חשיבה מודולרית (modular thinking) עוטפת אותם לתוך מספר סופי, המיוצג בדרך כלל על ידי מעגל. על גבי מעגל זה, כל הערכים הם מספר מ-0 ועד 11."
+    },
+    {
+      "id": 1567,
+      "file": "mod12.md",
+      "source_sentence": "**Pitch-Class Space**",
+      "translated_sentence": "**מרחב מחלקות הגובה (Pitch-Class Space)**"
     }
   ]
 }

@@ -9210,6 +9210,78 @@
       "file": "meter.md",
       "source_sentence": "simple quadruple: 4",
       "translated_sentence": "מרובע פשוט (simple quadruple): 4"
+    },
+    {
+      "id": 1536,
+      "file": "meter.md",
+      "source_sentence": "compound duple: 6",
+      "translated_sentence": "משקל מורכב זוגי (compound duple): 6"
+    },
+    {
+      "id": 1537,
+      "file": "meter.md",
+      "source_sentence": "compound triple: 9",
+      "translated_sentence": "משולש מורכב (compound triple): 9"
+    },
+    {
+      "id": 1538,
+      "file": "meter.md",
+      "source_sentence": "compound quadruple: 12",
+      "translated_sentence": "מרובע מורכב (compound quadruple): 12"
+    },
+    {
+      "id": 1539,
+      "file": "meter.md",
+      "source_sentence": "In *simple meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single beat*. If a simple meter is notated such that each quarter note corresponds to a beat, the bottom number of the time signature is 4. If a simple meter is notated such that each half note corresponds to a beat, the bottom number of the time signature is 2. If a simple meter is notated such that each eighth note corresponds to a beat, the bottom number of the time signature is 8. And so on.",
+      "translated_sentence": "ב*משקלים פשוטים* (simple meters), המספר התחתון בציון המשקל (time signature) תואם לסוג התו התואם ל*פעימה בודדת* (a single beat). אם משקלים פשוטים (simple meters) רשומים באופן שבו כל תו רבע (quarter note) תואם לפעימה, המספר התחתון בציון המשקל (time signature) הוא 4. אם משקל פשוט (simple meter) רשום באופן שבו כל תו לבן (half note) תואם לפעימה, המספר התחתון בציון המשקל (time signature) הוא 2. אם משקל פשוט (simple meter) רשום באופן שבו כל תו שמינית (eighth note) תואם לפעימה, המספר התחתון בציון המשקל (time signature) הוא 8. וכן הלאה."
+    },
+    {
+      "id": 1540,
+      "file": "meter.md",
+      "source_sentence": "In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because the beat is divided into three in a compound meter, the beat is always three times as long as the division note, and *the beat is always dotted*.",
+      "translated_sentence": "ב*משקלים מורכבים (compound meters)*, המספר התחתון בציון המשקל (time signature) תואם לסוג התווים התואם ל*חלוקה בודדת של הפעימה (a single division of the beat)*. אם משקל מורכב רשום כך שכל תו רבע מנוקד (dotted-quarter note) תואם לפעימה, תו השמינית הוא החלוקה של הפעימה, ולכן המספר התחתון בציון המשקל הוא 8. אם משקל מורכב רשום כך שכל תו לבן מנוקד (dotted-half note) תואם לפעימה, תו הרבע הוא החלוקה של הפעימה, ולכן המספר התחתון בציון המשקל הוא 4. שימו לב כי מכיוון שהפעימה מחולקת לשלושה במשקל מורכב, הפעימה ארוכה פי שלושה תמיד מתו החלוקה, ו*הפעימה היא תמיד מנוקדת (dotted)*."
+    },
+    {
+      "id": 1541,
+      "file": "minuet.md",
+      "source_sentence": "A classical minuet movement typically contains a _main minuet_, followed by a _trio, _followed by a _da capo_ repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: _minuet–trio–minuet da capo_.",
+      "translated_sentence": "פרק מינואט קלאסי כולל בדרך כלל _מינואט עיקרי_ (_main minuet_), שאחריו מופיע _טריו_ (_trio_), ולאחר מכן חזרה בסגנון _דה קאפו_ (_da capo_) אל המינואט העיקרי (המבוצע בדרך כלל ללא החזרות). לפיכך, לפרק יש מבנה רחב-היקף של ABA': _מינואט–טריו–מינואט דה קאפו_ (_minuet–trio–minuet da capo_)."
+    },
+    {
+      "id": 1542,
+      "file": "minuet.md",
+      "source_sentence": "Both the main minuet and the trio tend to be *small ternary* structures. Like the minuet/trio movement itself, the small ternary form follows an ABA' structure. However, the small ternary structure found in the typical *main minuet* is of the *rounded binary* type. That is, while there are three distinct modules—A, B, and A'—they are grouped into two larger sections, each of which is repeated.",
+      "translated_sentence": "גם המינואט הראשי וגם הטריו נוטים להיות מבנים של *טרנארי קטן* (small ternary). בדומה לפרק המינואט/טריו עצמו, מבנה הטרנארי הקטן עוקב אחר מבנה ABA'. עם זאת, מבנה הטרנארי הקטן הנמצא ב*מינואט הראשי* (main minuet) הטיפוסי הוא מסוג *בינארי מעוגל* (rounded binary). כלומר, בעוד שישנם שלושה מודולים נפרדים — A, B ו-A' — הם מקובצים לשני חלקים גדולים יותר, שכל אחד מהם חוזר על עצמו."
+    },
+    {
+      "id": 1543,
+      "file": "minuet.md",
+      "source_sentence": "The first part in the two-part structure is the *first reprise*, and the second part is the *second reprise*, so called because they each repeat. The first reprise contains the A module of the minuet; the second contains the B and the A' modules.",
+      "translated_sentence": "החלק הראשון במבנה הדו-חלקִי הוא ה*רפריזה הראשונה* (*first reprise*), והחלק השני הוא ה*רפריזה השנייה* (*second reprise*), המכונים כך משום שכל אחד מהם חוזר על עצמו. הרפריזה הראשונה מכילה את מודול ה-A של המינואט; השנייה מכילה את מודול ה-B ואת מודול ה-A'."
+    },
+    {
+      "id": 1544,
+      "file": "minuet.md",
+      "source_sentence": "Each section of the minuet's (or the trio's) small ternary form has its own formal function attached to it. The formal function exhibited in the A section is called *exposition* function; the B section *contrasting middle* function ; and the A' section *recapitulation* function.",
+      "translated_sentence": "כל חלק בצורה המשולשת הקטנה (small ternary form) של המנואט (או הטריו) נושא פונקציה צורנית (formal function) משלו. הפונקציה הצורנית המוצגת בחלק A נקראת פונקציית *הצגה* (exposition); חלק B נקרא פונקציית *אמצע ניגודי* (contrasting middle); וחלק A' נקרא פונקציית *רפריזה* (recapitulation function)."
+    },
+    {
+      "id": 1545,
+      "file": "minuet.md",
+      "source_sentence": "Exposition",
+      "translated_sentence": "אקספוזיציה (Exposition)"
+    },
+    {
+      "id": 1546,
+      "file": "minuet.md",
+      "source_sentence": "At the least, the exposition module of the minuet typically contains a primary theme: tight-knit  (period, sentence, or hybrid), ending with a PAC, or occasionally a HC. It is common, however, for an exposition to have more complex structure, projecting not just primary theme, but secondary thematic function, transition, and closing. Not all of these functions are necessarily present.",
+      "translated_sentence": "לכל הפחות, מודול האקפוזיציה של המינוואט מכיל טיפוסיות תמה ראשונית (primary theme): הדוקה (tight-knit) (תקופה [period], משפט [sentence], או היבריד [hybrid]), המסתיימת ב-PAC, או לעיתים קרובות ב-HC. עם זאת, שכיח שלתצוגה (exposition) יש מבנה מורכב יותר, המקרין לא רק תמה ראשונית (primary theme), אלא גם תפקוד תמטי משני (secondary thematic function), מעבר (transition), וסיום (closing). לא כל התפקודים הללו בהכרח נוכחים."
+    },
+    {
+      "id": 1547,
+      "file": "minuet.md",
+      "source_sentence": "**Primary Theme**",
+      "translated_sentence": "**נושא ראשי (Primary Theme)**"
     }
   ]
 }

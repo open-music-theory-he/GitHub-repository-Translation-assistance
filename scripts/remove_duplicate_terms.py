@@ -41,6 +41,14 @@ equivalent (Do -> דו, Sol -> סול, etc.), but ONLY when:
       (e.g. "Do (דו)"), it is left alone rather than duplicated.
 This is also logged per file.
 
+Also: two Hebrew spelling normalizations, whole word only (no adjacency
+check needed here, since this is Hebrew-to-Hebrew, not a stray English
+word next to its own gloss):
+    - "סו" (short/incomplete spelling of Sol) -> "סול"
+    - "טי" (literal Hebrew transliteration of Ti) -> "סי" (unifying with Si)
+    - "דו" is intentionally left untouched.
+This is also logged per file.
+
 Output (this script never modifies the input file or the source repo):
     - data/translations_deduped.json : a full COPY of the input data, with
       the above deletions applied to translated_sentence values.
@@ -63,6 +71,18 @@ URL_CONTENT_RE = re.compile(r"^\s*(https?://|www\.)", re.IGNORECASE)
 # people (and LLMs) use: straight apostrophe ', Hebrew geresh ׳, curly ’.
 MAJOR_TERM_RE = re.compile(r"מייג['\u05F3\u2019]ור")
 MAJOR_TERM_REPLACEMENT = "מז'ור"
+
+# Hebrew-spelling normalization (whole word only): סו -> סול, טי -> סי.
+# דו is intentionally NOT included here - it stays as-is.
+HEBREW_SOLFEGE_FIX_MAP = {
+    "סו": "סול",
+    "טי": "סי",
+}
+HEBREW_SOLFEGE_FIX_RE = re.compile(
+    r"(?<![A-Za-z\u0590-\u05FF])(?:"
+    + "|".join(re.escape(k) for k in HEBREW_SOLFEGE_FIX_MAP)
+    + r")(?![A-Za-z\u0590-\u05FF])"
+)
 
 # Solfège syllables: exact capitalization as used in the translation prompt's
 # own examples (Do -> דו, Sol -> סול). Matched as a whole word only (lookarounds
@@ -142,6 +162,15 @@ def convert_solfege_terms(text: str):
     return "".join(result_parts), count
 
 
+def fix_hebrew_solfege_spelling(text: str):
+    """Whole-word-only normalization: סו -> סול, טי -> סי. No adjacency
+    check needed (this is Hebrew-to-Hebrew, not a stray foreign word next
+    to its own gloss)."""
+    if not text:
+        return text, 0
+    return HEBREW_SOLFEGE_FIX_RE.subn(lambda m: HEBREW_SOLFEGE_FIX_MAP[m.group(0)], text)
+
+
 def compute_file_counts(units: list) -> dict:
     """First pass: count, per exact parenthetical expression (full text
     including the parentheses), how many eligible occurrences exist in
@@ -210,12 +239,15 @@ def process(data: dict):
         # parenthesis de-duplication below, and safe to run first).
         major_term_count = 0
         solfege_count = 0
+        hebrew_fix_count = 0
         for unit in units:
             text = unit.get("translated_sentence") or ""
             text, n = MAJOR_TERM_RE.subn(MAJOR_TERM_REPLACEMENT, text)
             major_term_count += n
             text, n = convert_solfege_terms(text)
             solfege_count += n
+            text, n = fix_hebrew_solfege_spelling(text)
+            hebrew_fix_count += n
             unit["translated_sentence"] = text
 
         qualifying_exprs = compute_file_counts(units)
@@ -244,6 +276,10 @@ def process(data: dict):
         if solfege_count:
             log_lines.append(
                 f" Converted {solfege_count} solfège term(s) (Do/Re/Mi/Fa/Sol/So/La/Si/Ti) to Hebrew in this file"
+            )
+        if hebrew_fix_count:
+            log_lines.append(
+                f' Normalized {hebrew_fix_count} Hebrew solfège spelling(s) ("סו"->"סול", "טי"->"סי") in this file'
             )
 
     return data, log_lines

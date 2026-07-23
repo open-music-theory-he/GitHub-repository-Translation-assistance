@@ -9312,6 +9312,24 @@
       "file": "minuet.md",
       "source_sentence": "If a phrase contains a [pivot chord modulation][modulation.html] linking the main key to the subordinate key, that phrase is understood to express *transition* function. (If a new phrase begins immediately in the subordinate key through [direct modulation][modulation.html], there is no transition function.)",
       "translated_sentence": "אם תיבה מכילה [מודולציית אקורד ציר (pivot chord modulation)][modulation.html] המקשרת בין הסולם הראשי לסולם המשני, תיבה זו מובנת כמביעה פונקציית *מעבר* (*transition* function). (אם תיבה חדשה מתחילה מיד בסולם המשני באמצעות [מודולציית ישירה (direct modulation)][modulation.html], אין פונקציית מעבר.)"
+    },
+    {
+      "id": 1553,
+      "file": "minuet.md",
+      "source_sentence": "Very, very often the transition and the secondary theme are \"fused\" together (TR==>S) in a single phrase.",
+      "translated_sentence": "לעיתים קרובות מאוד, המעבר (Transition) והנושא המשני (Secondary Theme) \"מאוחדים\" יחד (TR==>S) במסגרת משפט יחיד."
+    },
+    {
+      "id": 1554,
+      "file": "minuet.md",
+      "source_sentence": "**Closing Section**",
+      "translated_sentence": "**סעיף סיום (Closing Section)**"
+    },
+    {
+      "id": 1555,
+      "file": "minuet.md",
+      "source_sentence": "Sometimes the secondary theme closes with a PAC and is followed by a [closing section](externalExpansions.html).",
+      "translated_sentence": "לפעמים הנושא המשני (secondary theme) מסתיים בקדנצה אותנטית מושלמת PAC (Perfect Authentic Cadence) ומובא לאחריו [קטע סיום](externalExpansions.html)."
     }
   ]
 }

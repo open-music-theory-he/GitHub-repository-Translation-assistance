@@ -9282,6 +9282,36 @@
       "file": "minuet.md",
       "source_sentence": "**Primary Theme**",
       "translated_sentence": "**נושא ראשי (Primary Theme)**"
+    },
+    {
+      "id": 1548,
+      "file": "minuet.md",
+      "source_sentence": "Expositions always have a *primary themes*. A prototypical *primary theme* is (1) tight-knit and (2) ends with a PAC or HC in the tonic key. When an exposition does not modulate, it is understood to exclusively express *primary theme* function.",
+      "translated_sentence": "אקספוזיציות כוללות תמיד *נושא ראשי* (*primary theme*). *נושא ראשי* טיפוסי הוא (1) מהודק (*tight-knit*) ו-(2) מסתיים ב-PAC או ב-HC בסולם הטוניקה. כאשר אקספוזיציה אינה מודולת, מובן שהיא מבтриעה באופן בלעדי פונקציה של *נושא ראשי* (*primary theme*)."
+    },
+    {
+      "id": 1549,
+      "file": "minuet.md",
+      "source_sentence": "**Secondary Theme**",
+      "translated_sentence": "**נושא משני (Secondary Theme)**"
+    },
+    {
+      "id": 1550,
+      "file": "minuet.md",
+      "source_sentence": "But if the exposition modulates, the functions of *transition*, and *secondary theme* may appear as well. At minimum a *secondary theme* will close with cadential confirmation (usually a PAC) of the subordinate key. Often, it is looser than the main theme—perhaps [expanded or contracted](internalExpansions.html).",
+      "translated_sentence": "אך אם האקספוזיציה מבצעת מודולציה, התפקידים של *מעבר* (*transition*) ו*תמה משנית* (*secondary theme*) עשויים להופיע גם כן. לכל הפחות, *תמה משנית* תסתיים באישור קדנציאלי (בדרך כלל קדנציאות אותנטית מושלמת - PAC) של הסולם המשני. לעיתים קרובות, היא משוחררת יותר מהתמה הראשית — אולי [מורחבת או מצומצמת](internalExpansions.html)."
+    },
+    {
+      "id": 1551,
+      "file": "minuet.md",
+      "source_sentence": "**Transition**",
+      "translated_sentence": "**מעבר (Transition)**"
+    },
+    {
+      "id": 1552,
+      "file": "minuet.md",
+      "source_sentence": "If a phrase contains a [pivot chord modulation][modulation.html] linking the main key to the subordinate key, that phrase is understood to express *transition* function. (If a new phrase begins immediately in the subordinate key through [direct modulation][modulation.html], there is no transition function.)",
+      "translated_sentence": "אם תיבה מכילה [מודולציית אקורד ציר (pivot chord modulation)][modulation.html] המקשרת בין הסולם הראשי לסולם המשני, תיבה זו מובנת כמביעה פונקציית *מעבר* (*transition* function). (אם תיבה חדשה מתחילה מיד בסולם המשני באמצעות [מודולציית ישירה (direct modulation)][modulation.html], אין פונקציית מעבר.)"
     }
   ]
 }

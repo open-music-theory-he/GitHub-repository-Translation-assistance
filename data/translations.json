@@ -6276,6 +6276,18 @@
       "file": "contents.md",
       "source_sentence": "[Internal Expansions.](internalExpansions.html)",
       "translated_sentence": "[הרחבות פנימיות (Internal Expansions).](internalExpansions.html)"
+    },
+    {
+      "id": 1047,
+      "file": "contents.md",
+      "source_sentence": "[**Minuet form**.](minuet.html)",
+      "translated_sentence": "[**מבנה מינוエット (Minuet form)**.](minuet.html)"
+    },
+    {
+      "id": 1048,
+      "file": "contents.md",
+      "source_sentence": "**Sonata Form**",
+      "translated_sentence": "**צורת סונָטה (Sonata Form)**"
     }
   ]
 }

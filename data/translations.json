@@ -6288,6 +6288,18 @@
       "file": "contents.md",
       "source_sentence": "**Sonata Form**",
       "translated_sentence": "**צורת סונָטה (Sonata Form)**"
+    },
+    {
+      "id": 1049,
+      "file": "contents.md",
+      "source_sentence": "[Introduction to Sonata Theory.][SonataIntro]",
+      "translated_sentence": "[מבוא לתאוריית סונָטה (Introduction to Sonata Theory).][SonataIntro]"
+    },
+    {
+      "id": 1050,
+      "file": "contents.md",
+      "source_sentence": "[Sonata form: exposition types.][SonataExpo]",
+      "translated_sentence": "[צורת סונָטה: סוגי אקספוזיציה (Sonata form: exposition types).][SonataExpo]"
     }
   ]
 }

@@ -9420,6 +9420,18 @@
       "file": "mod12.md",
       "source_sentence": "To add or subtract in mod 12, perform the calculation in the usual manner (7 + 15 = 22) and then add or subtract 12′s until you get a number from 0 to 11 (22 - 12 = 10).",
       "translated_sentence": "כדי לבצע חיבור או חיסור بمודולו 12 (mod 12), יש לבצע את החישוב בדרך הרגילה (7 + 15 = 22) ולאחר מכן להוסיף או להחסיר 12 עד לקבלת מספר מ-0 עד 11 (22 - 12 = 10)."
+    },
+    {
+      "id": 1571,
+      "file": "mod12.md",
+      "source_sentence": "Adding and subtracting can represent many musical ideas: moving seven half steps above D takes you to A (2 + 7 = 9); combining 2 half steps and 11 half steps produces 1 half step (2 + 11 = 1).",
+      "translated_sentence": "חיבור וחיסור יכולים לייצג רעיונות מוזיקליים רבים: מעבר של שבעה חצאי טונים מעל D מביא אתכם אל A (2 + 7 = 9); שילוב של 2 חצאי טונים ו-11 חצאי טונים מניב חצי טון אחד (2 + 11 = 1)."
+    },
+    {
+      "id": 1572,
+      "file": "mod12.md",
+      "source_sentence": "Modular arithmetic is a quick way to calculate various intervals between pitches or pitch classers. Some examples:",
+      "translated_sentence": "חשבון מודולוארי (Modular arithmetic) הוא דרך מהירה לחשב מרווחים (intervals) שונים בין צלילים (pitches) או מחלקות צלילים (pitch classes). כמה דוגמאות:"
     }
   ]
 }

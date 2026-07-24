@@ -9402,6 +9402,24 @@
       "file": "mod12.md",
       "source_sentence": "**Pitch-Class Space**",
       "translated_sentence": "**מרחב מחלקות הגובה (Pitch-Class Space)**"
+    },
+    {
+      "id": 1568,
+      "file": "mod12.md",
+      "source_sentence": "[![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)",
+      "translated_sentence": "[![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)"
+    },
+    {
+      "id": 1569,
+      "file": "mod12.md",
+      "source_sentence": "##Addition and Subtraction##",
+      "translated_sentence": "##חיבור וחיסור (Addition and Subtraction)##"
+    },
+    {
+      "id": 1570,
+      "file": "mod12.md",
+      "source_sentence": "To add or subtract in mod 12, perform the calculation in the usual manner (7 + 15 = 22) and then add or subtract 12′s until you get a number from 0 to 11 (22 - 12 = 10).",
+      "translated_sentence": "כדי לבצע חיבור או חיסור بمודולו 12 (mod 12), יש לבצע את החישוב בדרך הרגילה (7 + 15 = 22) ולאחר מכן להוסיף או להחסיר 12 עד לקבלת מספר מ-0 עד 11 (22 - 12 = 10)."
     }
   ]
 }
